@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.02 % en Calvin Klein Ck One Shock Him Eau de Toi'
-date: 2020-12-13 07:37:45
+date: 2020-12-14 08:01:35
 image: 'https://m.media-amazon.com/images/I/31EmAzVf0-L._SL200_.jpg'
 comments: true
 category: ofertas
