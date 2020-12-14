@@ -1,5 +1,5 @@
 baseURL = "https://regalos.tole.es"
-title = "Últimas ofertas"
+title = "Últimos preciazos para regalos"
 theme = "portfolio"
 languageCode = "es-es"
 # Enable comments by entering your Disqus shortname
@@ -15,7 +15,7 @@ disqusShortname = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
-  description = "Nuestras últimas ofertas"
+  description = "Regalos con descuento"
   copyright = ""
   sidebarAbout = []
   # Enable Google Analytics by entering your tracking code
