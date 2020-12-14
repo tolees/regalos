@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'Onforu 4x 20W RGB LED Foco de Colores  P al 60.63 % de descuento'
+date: 
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QmKRWP4pL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07HBSMGHC-es'
+actualPrice: 62.99 EUR
+currency: EUR
+price: 62.99
+comparePrice: 159.99 EUR
+prodname: 'Onforu 4x 20W RGB LED Foco de Colores  Proyector IP66 Impermeable  Control Remoto Inalámbrico de 24 Teclas con 16 Colores y 4 Modos  Luz Interior y Exterior con Función de Memoria para Navidad Fiesta'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07HBSMGHC/?tag=tolees-21'
+descuento: '60.63'
+---
+
+Está [Onforu 4x 20W RGB LED Foco de Colores  Proyector IP66 Impermeable  Control Remoto Inalámbrico de 24 Teclas con 16 Colores y 4 Modos  Luz Interior y Exterior con Función de Memoria para Navidad Fiesta](https://www.amazon.es/dp/B07HBSMGHC/?tag=tolees-21) con 60.63 de descuento por 62.99 EUR (original: 159.99 EUR) en el siguiente enlace!
+
+[![Onforu 4x 20W RGB LED Foco de Colores  P](https://images-eu.ssl-images-amazon.com/images/I/51QmKRWP4pL._SL200_.jpg)](https://www.amazon.es/dp/B07HBSMGHC/?tag=tolees-21)
+
+ℹ️:
+
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07HBSMGHC/?tag=tolees-21)
