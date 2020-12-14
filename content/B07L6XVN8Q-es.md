@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L6XVN8Q/?tag=tolees-21'
 descuento: '45.19'
+average: '17.54'
 ---
 
 Tienes [Musical Alfombra Piano Manta de Juguete  10 Sonidos Veh¨ªculos Regalos & Touch Play Alfombra para Beb¨¦ Ni?o Navidad](https://www.amazon.es/dp/B07L6XVN8Q/?tag=tolees-21) con un 45.19 % de descuento con precio de oferta de 17.54 EUR (original: 32 EUR) en el siguiente enlace!

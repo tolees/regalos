@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016CTPLI8/?tag=tolees-21'
 descuento: '30.02'
+average: '13.99'
 ---
 
 Tienes [Cadena de Luces - Guirnalda Luces 10M 100 LED Cuerda Luces Bombillas Multicolor Decoración Interior  Jardines  Casas  Boda  Fiesta de Navidad  colorido ](https://www.amazon.es/dp/B016CTPLI8/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

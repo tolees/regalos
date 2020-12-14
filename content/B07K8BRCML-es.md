@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K8BRCML/?tag=tolees-21'
 descuento: '28.58'
+average: '19.99'
 ---
 
 Tienes [Luz Nocturna Infantil  Cocoda Proyector Océano Lámpara de Noche 7 Modos de Iluminación con Reproductor de Música Incorporado  LED Lámparas para Niños  Bebés  Dormitorio  Habitación  Navidad  Blanco ](https://www.amazon.es/dp/B07K8BRCML/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 19.99 EUR (original: 27.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JJJB0PM/?tag=tolees-21'
 descuento: '59.71'
+average: '47.95'
 ---
 
 Tienes [Swarovski Stone Bracciale rigido  Bianco  placcatura rodio](https://www.amazon.es/dp/B00JJJB0PM/?tag=tolees-21) con un 59.71 % de descuento con precio de oferta de 47.95 EUR (original: 119 EUR) en el siguiente enlace!

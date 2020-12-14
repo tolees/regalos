@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008SBIITI/?tag=tolees-21'
 descuento: '50.39'
+average: '41.1'
 ---
 
 Ahora mismo tienes [Trussardi My Land Eau de Toilette Vaporizador 100 ml](https://www.amazon.es/dp/B008SBIITI/?tag=tolees-21) a 41.1 EUR (original: 82.85 EUR) (50.39 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072VTZYD6/?tag=tolees-21'
 descuento: '26.17'
+average: '50.94'
 ---
 
 Tienes [Swarovski Pendientes Circle  medianos  blanco  baño de rodio](https://www.amazon.es/dp/B072VTZYD6/?tag=tolees-21) con un 26.17 % de descuento con precio de oferta de 50.94 EUR (original: 69 EUR) en el siguiente enlace!

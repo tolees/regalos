@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0016ZMOT8/?tag=tolees-21'
 descuento: '51.25'
+average: '34.99'
 ---
 
 Tienes [Azzaro 7300 - Agua de colonia  100 ml](https://www.amazon.es/dp/B0016ZMOT8/?tag=tolees-21) con un 51.25 % de descuento con precio de oferta de 34.99 EUR (original: 71.78 EUR) en el siguiente enlace!

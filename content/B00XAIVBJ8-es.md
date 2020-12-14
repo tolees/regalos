@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XAIVBJ8/?tag=tolees-21'
 descuento: '27.58'
+average: '11.95'
 ---
 
 Ahora mismo tienes [Springfield Agua de Colonia con Vaporizador 200 ml](https://www.amazon.es/dp/B00XAIVBJ8/?tag=tolees-21) a 11.95 EUR (original: 16.5 EUR) (27.58 %  de descuento) en el siguiente enlace!

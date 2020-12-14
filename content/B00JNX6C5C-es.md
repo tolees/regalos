@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JNX6C5C/?tag=tolees-21'
 descuento: '41.15'
+average: '22.95'
 ---
 
 Ahora mismo tienes [Cacharel Anais Anais Premier Delice Eau De Toilette 50Ml Vapo.](https://www.amazon.es/dp/B00JNX6C5C/?tag=tolees-21) a 22.95 EUR (original: 39 EUR) (41.15 %  de descuento) en el siguiente enlace!

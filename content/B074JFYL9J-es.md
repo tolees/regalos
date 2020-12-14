@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074JFYL9J/?tag=tolees-21'
 descuento: '50.00'
+average: '34.5'
 ---
 
 Ahora mismo tienes [Swarovski Clover Remix Collection  Verde  Mezcla de baños](https://www.amazon.es/dp/B074JFYL9J/?tag=tolees-21) a 34.5 EUR (original: 69 EUR) (50.00 %  de descuento) en el siguiente enlace!

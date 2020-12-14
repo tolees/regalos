@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002A3HS5K/?tag=tolees-21'
 descuento: '54.31'
+average: '65.8'
 ---
 
 Está [Loewe 32910 - Eau de toilette para hombre  150 ml](https://www.amazon.es/dp/B002A3HS5K/?tag=tolees-21) con 54.31 de descuento por 65.8 EUR (original: 144 EUR) en el siguiente enlace!

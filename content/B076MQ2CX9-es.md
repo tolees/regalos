@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076MQ2CX9/?tag=tolees-21'
 descuento: '43.35'
+average: '16.99'
 ---
 
 Tienes [Calcetines Mujer Termicos Algodón Dibujos Animados Calcetines Para Invierno Otoño Gruesa y Cálido Estilo festival de navidad 4/5 pares  tallas EU35-41](https://www.amazon.es/dp/B076MQ2CX9/?tag=tolees-21) con un 43.35 % de descuento con precio de oferta de 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

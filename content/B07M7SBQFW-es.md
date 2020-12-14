@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M7SBQFW/?tag=tolees-21'
 descuento: '49.37'
+average: '15.19'
 ---
 
 Ahora mismo tienes [ELINKUME 5M Luces LED de 20 años Luces de hadas Luces de bola impermeables blancas cálidas para banquete de bodas Jardín Vitrina Navidad  Diámetro de la bombilla: 4CM ](https://www.amazon.es/dp/B07M7SBQFW/?tag=tolees-21) a 15.19 EUR (original: 30 EUR) (49.37 %  de descuento) en el siguiente enlace!

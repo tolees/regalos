@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00M9F1SWS/?tag=tolees-21'
 descuento: '35.09'
+average: '37'
 ---
 
 Está [Issey Miyake Nuit D Issey Eau de Toilette Vaporizador 75 ml](https://www.amazon.es/dp/B00M9F1SWS/?tag=tolees-21) con 35.09 de descuento por 37 EUR (original: 57 EUR) en el siguiente enlace!

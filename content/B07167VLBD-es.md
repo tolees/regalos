@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21'
 descuento: '46.43'
+average: '30'
 ---
 
 Tienes [Prada Candy Gloss Agua de Colonia - 30 ml](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21) con un 46.43 % de descuento con precio de oferta de 30 EUR (original: 56 EUR) en el siguiente enlace!

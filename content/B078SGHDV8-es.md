@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SGHDV8/?tag=tolees-21'
 descuento: '50.00'
+average: '59.5'
 ---
 
 Ahora mismo tienes [Swarovski Pendientes de aro Lifelong  blanco  baño de rodio](https://www.amazon.es/dp/B078SGHDV8/?tag=tolees-21) a 59.5 EUR (original: 119 EUR) (50.00 %  de descuento) en el siguiente enlace!

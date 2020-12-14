@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002XQ1QMU/?tag=tolees-21'
 descuento: '34.97'
+average: '40.85'
 ---
 
 Tienes [Hugo Boss Orange Eau de Toilette Vaporizador - 75 ml](https://www.amazon.es/dp/B002XQ1QMU/?tag=tolees-21) con un 34.97 % de descuento con precio de oferta de 40.85 EUR (original: 62.82 EUR) en el siguiente enlace!

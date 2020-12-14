@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFPH36R/?tag=tolees-21'
 descuento: '77.90'
+average: '4.97'
 ---
 
 Está [Simply Be Novelty Sequin Flamingo Xmas Tshirt Camiseta  Gris  Grey Marl   52  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B07HFPH36R/?tag=tolees-21) con 77.90 de descuento por 4.97 EUR (original: 22.49 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M4ISV1N/?tag=tolees-21'
 descuento: '40.30'
+average: '12.06'
 ---
 
 Tienes [Tablero Magnético de Dibujo de Madera de Doble Cara Tablero Magnético Puzzle Juegos de Rompecabezas Magnéticos de Madera Juguetes Educativos Regalos Cumpleaños Navidad para Niños 3 4 5 6](https://www.amazon.es/dp/B01M4ISV1N/?tag=tolees-21) con un 40.30 % de descuento con precio de oferta de 12.06 EUR (original: 20.2 EUR) en el siguiente enlace!

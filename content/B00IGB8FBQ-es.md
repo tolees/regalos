@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IGB8FBQ/?tag=tolees-21'
 descuento: '57.44'
+average: '16.6'
 ---
 
 Ahora mismo tienes [Karl Lagerfeld 42738 - Eau de toilette para hombre](https://www.amazon.es/dp/B00IGB8FBQ/?tag=tolees-21) a 16.6 EUR (original: 39 EUR) (57.44 %  de descuento) en el siguiente enlace!

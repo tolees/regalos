@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CJG5VRY/?tag=tolees-21'
 descuento: '32.90'
+average: '8.79'
 ---
 
 Tienes [Aire de Sevilla Set de Belleza Edición Experience - Crema Hidratante Corporal  Eau de Toilette  Gel Exfoliante](https://www.amazon.es/dp/B01CJG5VRY/?tag=tolees-21) con un 32.90 % de descuento con precio de oferta de 8.79 EUR (original: 13.1 EUR) en el siguiente enlace!

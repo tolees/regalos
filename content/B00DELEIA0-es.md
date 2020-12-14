@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DELEIA0/?tag=tolees-21'
 descuento: '38.85'
+average: '7.95'
 ---
 
 Tienes [Nenuco Pack Agua de Colonia Infantil Bebé Mickey con Muñeco - 175 ml](https://www.amazon.es/dp/B00DELEIA0/?tag=tolees-21) con un 38.85 % de descuento con precio de oferta de 7.95 EUR (original: 13 EUR) en el siguiente enlace!

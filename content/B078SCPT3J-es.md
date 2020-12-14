@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SCPT3J/?tag=tolees-21'
 descuento: '50.72'
+average: '34'
 ---
 
 Tienes [Swarovski Collar Luckily Evil Eye  Blanco  baño de rodio](https://www.amazon.es/dp/B078SCPT3J/?tag=tolees-21) con un 50.72 % de descuento con precio de oferta de 34 EUR (original: 69 EUR) en el siguiente enlace!

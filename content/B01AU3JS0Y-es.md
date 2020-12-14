@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AU3JS0Y/?tag=tolees-21'
 descuento: '63.65'
+average: '14.96'
 ---
 
 Está [Calvin Klein Ck2 Vaporizador Agua de Colonia - 30 ml](https://www.amazon.es/dp/B01AU3JS0Y/?tag=tolees-21) con 63.65 de descuento por 14.96 EUR (original: 41.15 EUR) en el siguiente enlace!

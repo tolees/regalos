@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017DCDIAG/?tag=tolees-21'
 descuento: '55.66'
+average: '22'
 ---
 
 Ahora mismo tienes [Dunhill  Agua de colonia para hombres - 100 gr.](https://www.amazon.es/dp/B017DCDIAG/?tag=tolees-21) a 22 EUR (original: 49.62 EUR) (55.66 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0080FXVJO/?tag=tolees-21'
 descuento: '52.45'
+average: '23.3'
 ---
 
 Ahora mismo tienes [Boss - In Motion - Eau de Toilette para hombres - 40 ml](https://www.amazon.es/dp/B0080FXVJO/?tag=tolees-21) a 23.3 EUR (original: 49 EUR) (52.45 %  de descuento) en el siguiente enlace!

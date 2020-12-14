@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0002KQGUG/?tag=tolees-21'
 descuento: '33.02'
+average: '27.51'
 ---
 
 Ahora mismo tienes [Moschino Cheap & Chic Agua de Colonia - 30 ml](https://www.amazon.es/dp/B0002KQGUG/?tag=tolees-21) a 27.51 EUR (original: 41.07 EUR) (33.02 %  de descuento) en el siguiente enlace!

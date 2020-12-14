@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000P20TAY/?tag=tolees-21'
 descuento: '59.47'
+average: '42.15'
 ---
 
 Ahora mismo tienes [Azzaro Pour Homme Eau de Toilette - 200 ml](https://www.amazon.es/dp/B000P20TAY/?tag=tolees-21) a 42.15 EUR (original: 104 EUR) (59.47 %  de descuento) en el siguiente enlace!

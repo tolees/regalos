@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001BSIZ16/?tag=tolees-21'
 descuento: '31.83'
+average: '54.4'
 ---
 
 Ahora mismo tienes [Guerlain 19116 - Agua de colonia](https://www.amazon.es/dp/B001BSIZ16/?tag=tolees-21) a 54.4 EUR (original: 79.8 EUR) (31.83 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005LOKVZY/?tag=tolees-21'
 descuento: '48.39'
+average: '18'
 ---
 
 Ahora mismo tienes [Jil Sander Eve - Eau de Toilette para mujer - 30 ml](https://www.amazon.es/dp/B005LOKVZY/?tag=tolees-21) a 18 EUR (original: 34.88 EUR) (48.39 %  de descuento) en el siguiente enlace!

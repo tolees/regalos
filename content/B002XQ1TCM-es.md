@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002XQ1TCM/?tag=tolees-21'
 descuento: '36.65'
+average: '44.98'
 ---
 
 Tienes [Hugo Boss 32148 - Eau de toilette para hombre  90 ml](https://www.amazon.es/dp/B002XQ1TCM/?tag=tolees-21) con un 36.65 % de descuento con precio de oferta de 44.98 EUR (original: 71 EUR) en el siguiente enlace!

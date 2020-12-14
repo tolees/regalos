@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GR55NLR/?tag=tolees-21'
 descuento: '50.00'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Luces de Cortina  SOLMORE LED Luces de Cortina Carámbano de Blanco con 8 Modos de Luz Perfecto para Decoración de Navidad  Festival Fiestas  Casa  Jardín  Boda](https://www.amazon.es/dp/B07GR55NLR/?tag=tolees-21) a 9.99 EUR (original: 19.98 EUR) (50.00 %  de descuento) en el siguiente enlace!

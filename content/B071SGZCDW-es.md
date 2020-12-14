@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071SGZCDW/?tag=tolees-21'
 descuento: '54.56'
+average: '34.95'
 ---
 
 Ahora mismo tienes [Giorgio Armani Stronger With You Homme Eau de Toilette - 30 ml](https://www.amazon.es/dp/B071SGZCDW/?tag=tolees-21) a 34.95 EUR (original: 76.91 EUR) (54.56 %  de descuento) en el siguiente enlace!

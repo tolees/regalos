@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Q04IY4O/?tag=tolees-21'
 descuento: '38.36'
+average: '33.9'
 ---
 
 Ahora mismo tienes [Escada  Agua de colonia para hombres - 50 ml.](https://www.amazon.es/dp/B00Q04IY4O/?tag=tolees-21) a 33.9 EUR (original: 55 EUR) (38.36 %  de descuento) en el siguiente enlace!

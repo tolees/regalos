@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9OGWRP/?tag=tolees-21'
 descuento: '60.05'
+average: '8.63'
 ---
 
 Está [Robotime Rompecabezas de madera 3D House de Montar Tienda de Ropa Británica Woodcraft Kit de Bricolaje Casa Estilo Mundial Navidad Regalo de Cumpleaños](https://www.amazon.es/dp/B01N9OGWRP/?tag=tolees-21) con 60.05 de descuento por 8.63 EUR (original: 21.6 EUR) en el siguiente enlace!

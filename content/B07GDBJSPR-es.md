@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDBJSPR/?tag=tolees-21'
 descuento: '27.38'
+average: '13.79'
 ---
 
 Está [EKKONG Explosion Box Scrapbook Creative DIY Photo Album de Accesorios para cumpleaños Aniversario Boda San Valentín Día de la Madre Navidad  Negro ](https://www.amazon.es/dp/B07GDBJSPR/?tag=tolees-21) con 27.38 de descuento por 13.79 EUR (original: 18.99 EUR) en el siguiente enlace!

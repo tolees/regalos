@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHZ9DHY/?tag=tolees-21'
 descuento: '51.53'
+average: '15.99'
 ---
 
 Está [Caja de Luz LED A4 con 250 Letras Símbolos Emojis  2 Marcadores Borrables y 20 Tarjetas Extras  Cable USB | Letras Ñ Ç Ä Ö Ü ß | Cinema Light Box Decoración Vintage | Casa  Navidad  Boda  Fiesta](https://www.amazon.es/dp/B07JHZ9DHY/?tag=tolees-21) con 51.53 de descuento por 15.99 EUR (original: 32.99 EUR) en el siguiente enlace!

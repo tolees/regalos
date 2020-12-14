@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSXYJZP/?tag=tolees-21'
 descuento: '72.74'
+average: '26.99'
 ---
 
 Está [Ainol-Cámara Digital para Niños de Vídeo y Fotos  Regalo Infantíl Ideal para Navidad Cumpleaños y Fiestal   Azul ](https://www.amazon.es/dp/B07KSXYJZP/?tag=tolees-21) con 72.74 de descuento por 26.99 EUR (original: 99 EUR) en el siguiente enlace!

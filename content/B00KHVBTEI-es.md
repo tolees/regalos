@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KHVBTEI/?tag=tolees-21'
 descuento: '46.44'
+average: '38.56'
 ---
 
 Tienes [Tous Rosa Eau Légère Agua de Colonia - 90 ml](https://www.amazon.es/dp/B00KHVBTEI/?tag=tolees-21) con un 46.44 % de descuento con precio de oferta de 38.56 EUR (original: 72 EUR) en el siguiente enlace!

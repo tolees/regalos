@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075C9LGM6/?tag=tolees-21'
 descuento: '41.84'
+average: '29.95'
 ---
 
 Tienes [Jean Paul Gaultier  Agua de colonia para hombres - 40 ml.](https://www.amazon.es/dp/B075C9LGM6/?tag=tolees-21) con un 41.84 % de descuento con precio de oferta de 29.95 EUR (original: 51.5 EUR) en el siguiente enlace!

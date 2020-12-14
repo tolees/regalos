@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XDEML3Y/?tag=tolees-21'
 descuento: '39.03'
+average: '85.36'
 ---
 
 Tienes [Dolce Gabbana Light Blue - Eau de toilette Spray 200 mililitros](https://www.amazon.es/dp/B00XDEML3Y/?tag=tolees-21) con un 39.03 % de descuento con precio de oferta de 85.36 EUR (original: 140 EUR) en el siguiente enlace!

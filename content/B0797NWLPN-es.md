@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0797NWLPN/?tag=tolees-21'
 descuento: '31.47'
+average: '10.93'
 ---
 
 Ahora mismo tienes [Figura Pop Disney Nightmare Before Christmas Barrel](https://www.amazon.es/dp/B0797NWLPN/?tag=tolees-21) a 10.93 EUR (original: 15.95 EUR) (31.47 %  de descuento) en el siguiente enlace!

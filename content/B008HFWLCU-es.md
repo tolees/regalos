@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008HFWLCU/?tag=tolees-21'
 descuento: '57.72'
+average: '34.25'
 ---
 
 Ahora mismo tienes [Paco Rabanne Lady Million Eau de Toilette Vaporizador 80 ml](https://www.amazon.es/dp/B008HFWLCU/?tag=tolees-21) a 34.25 EUR (original: 81 EUR) (57.72 %  de descuento) en el siguiente enlace!

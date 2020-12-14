@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LHWKFJ/?tag=tolees-21'
 descuento: '57.97'
+average: '29'
 ---
 
 Ahora mismo tienes [Valentino Uomo Acqua Vaporizador Agua de Colonia - 75 ml](https://www.amazon.es/dp/B071LHWKFJ/?tag=tolees-21) a 29 EUR (original: 69 EUR) (57.97 %  de descuento) en el siguiente enlace!

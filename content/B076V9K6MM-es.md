@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076V9K6MM/?tag=tolees-21'
 descuento: '100.00'
+average: '21.99'
 ---
 
 Está [Alex Perry collares mujer cadena de plata mujer Collar de cristal swarovski joyas para mujer regalos san valentin mujer pendientes para boda niñas novia regalo para mujer madre e hija profesora](https://www.amazon.es/dp/B076V9K6MM/?tag=tolees-21) con 100.00 de descuento por 21.99 EUR (original: 14090649.6 EUR) en el siguiente enlace!

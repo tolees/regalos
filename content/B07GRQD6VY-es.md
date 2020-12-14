@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GRQD6VY/?tag=tolees-21'
 descuento: '40.02'
+average: '12.59'
 ---
 
 Está [SALOVES Ropa para Mascotas Perros Invierno Chaleco Caliente Abrigo Chaqueta Traje para Mascotas Gato Perro Cachorro Ropa Algodón Suave Aprueba de Agua Navidad Talla 3XL-7XL](https://www.amazon.es/dp/B07GRQD6VY/?tag=tolees-21) con 40.02 de descuento por 12.59 EUR (original: 20.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HT9D64B/?tag=tolees-21'
 descuento: '90.02'
+average: '6.18'
 ---
 
 Ahora mismo tienes [Tiscen - Lámpara de luna 3D  luz de noche lunar LED con base de 3 colores  USB  recargable  brillo regulable para Navidad  Halloween  decoración creativa del hogar](https://www.amazon.es/dp/B07HT9D64B/?tag=tolees-21) a 6.18 EUR (original: 61.94 EUR) (90.02 %  de descuento) en el siguiente enlace!

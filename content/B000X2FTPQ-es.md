@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000X2FTPQ/?tag=tolees-21'
 descuento: '53.59'
+average: '27.9'
 ---
 
 Ahora mismo tienes [Roger & Gallet Jean-Marie Farina agua de colonia Vaporizador 200 ml](https://www.amazon.es/dp/B000X2FTPQ/?tag=tolees-21) a 27.9 EUR (original: 60.12 EUR) (53.59 %  de descuento) en el siguiente enlace!

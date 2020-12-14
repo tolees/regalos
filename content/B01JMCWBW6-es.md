@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JMCWBW6/?tag=tolees-21'
 descuento: '36.10'
+average: '54.95'
 ---
 
 Está [Diesel Bad Eau de toilette 125ml](https://www.amazon.es/dp/B01JMCWBW6/?tag=tolees-21) con 36.10 de descuento por 54.95 EUR (original: 86 EUR) en el siguiente enlace!

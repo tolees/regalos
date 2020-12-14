@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076Z9C9DL/?tag=tolees-21'
 descuento: '40.56'
+average: '46.36'
 ---
 
 Está [Rochas  Agua de colonia para mujeres - 1 set](https://www.amazon.es/dp/B076Z9C9DL/?tag=tolees-21) con 40.56 de descuento por 46.36 EUR (original: 78 EUR) en el siguiente enlace!

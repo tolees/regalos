@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0009OAH5K/?tag=tolees-21'
 descuento: '63.10'
+average: '15.5'
 ---
 
 Ahora mismo tienes [Burberry Weekend Men Eau de Toilette Vaporizador 50 ml](https://www.amazon.es/dp/B0009OAH5K/?tag=tolees-21) a 15.5 EUR (original: 42 EUR) (63.10 %  de descuento) en el siguiente enlace!

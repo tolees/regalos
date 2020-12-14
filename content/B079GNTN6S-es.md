@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079GNTN6S/?tag=tolees-21'
 descuento: '94.56'
+average: '10.87'
 ---
 
 Está [J.Rosée Pendientes  Plata de Ley 925 [La Vida en Rosa]  Regalos Navidad  5A Circón con Caja Hermosa Regalo](https://www.amazon.es/dp/B079GNTN6S/?tag=tolees-21) con 94.56 de descuento por 10.87 EUR (original: 199.87 EUR) en el siguiente enlace!

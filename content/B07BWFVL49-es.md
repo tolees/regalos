@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BWFVL49/?tag=tolees-21'
 descuento: '50.39'
+average: '39.69'
 ---
 
 Ahora mismo tienes [Abercrombie & Fitch  Agua de colonia para mujeres - 100 ml.](https://www.amazon.es/dp/B07BWFVL49/?tag=tolees-21) a 39.69 EUR (original: 80 EUR) (50.39 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21'
 descuento: '25.92'
+average: '20.98'
 ---
 
 Ahora mismo tienes [CK BE Eau De Toilette 50ML](https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21) a 20.98 EUR (original: 28.32 EUR) (25.92 %  de descuento) en el siguiente enlace!

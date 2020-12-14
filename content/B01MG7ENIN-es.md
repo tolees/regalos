@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MG7ENIN/?tag=tolees-21'
 descuento: '44.44'
+average: '7.44'
 ---
 
 Ahora mismo tienes [Pulsera de Reloj Flor de Aleación Diamantes de Imitación para Mujeres Regalos de Navidad](https://www.amazon.es/dp/B01MG7ENIN/?tag=tolees-21) a 7.44 EUR (original: 13.39 EUR) (44.44 %  de descuento) en el siguiente enlace!

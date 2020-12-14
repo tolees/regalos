@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P80GOZM/?tag=tolees-21'
 descuento: '56.48'
+average: '30.9'
 ---
 
 Ahora mismo tienes [Bvlgari man extreme Eau De Toilette vapo 60 ml](https://www.amazon.es/dp/B00P80GOZM/?tag=tolees-21) a 30.9 EUR (original: 71 EUR) (56.48 %  de descuento) en el siguiente enlace!

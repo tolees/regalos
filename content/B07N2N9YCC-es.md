@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N2N9YCC/?tag=tolees-21'
 descuento: '78.47'
+average: '27.99'
 ---
 
 Tienes [SISMIURRA Collar Mujer Plata de Ley 925   Corazón del Océano   Cristales de Swarovski Regalo de San valentin Collar Corazón Colgante Circonita](https://www.amazon.es/dp/B07N2N9YCC/?tag=tolees-21) con un 78.47 % de descuento con precio de oferta de 27.99 EUR (original: 129.99 EUR) en el siguiente enlace!
