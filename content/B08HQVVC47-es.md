@@ -25,8 +25,8 @@ Está [Superzings Neceser Infantil 3 D Squeashy Más Eau De Toilette Supersings 
 
 ℹ️:
 
-- Producto especialmente indicado para niños y con licencia oficial.
 - Acabados de gran calidad, con cierre de cremallera fácil de usar por los más pequeños.
+- Producto especialmente indicado para niños y con licencia oficial.
 - Neceser con asa lateral, medidas 20 x 9 x 6,60 cm, magnífico acabado con la imagen de nuestro héroe favorito en 3D.
 - El neceser es perfecto para que los niños lleven consigo su kit de limpieza allá donde vayan; campamentos, fiestas de pijama o vacaciones, ¡siempre acompañados de su héroe favorito!
 - Eau de Toilette 50 ml en spray, fragancia fresca ,cítrica y suave. Ideal para cualquier momento del día.
