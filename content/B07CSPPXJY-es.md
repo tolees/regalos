@@ -25,10 +25,10 @@ Está [Luces Discoteca OMERIL Bola Discoteca con 4M Cable USB  LED Giratoria Luz
 
 ℹ️:
 
-- 🎵 4M/13ft Cable USB Alimentado - La luz de disco con alimentación DC 5V USB es más segura de usar. El cable de carga USB de 4M / 13 pies es fácil de usar con cargador de pared de 5V, banco de alimentación, PC, computadora portátil y cargador de coche, lo ayuda a llevar a cabo eventos de iluminación de DJ móvil en cualquier lugar.
-- 🎵 Ocasión Conveniente - Mini bola de discoteca, un regalo perfecto para los niños y un excelente fabricante de ambiente para fiestas, es adecuado para la Fiesta de Cumpleaños, Reunión de Amigos / Familiares, Fiesta Disco, Fiesta de Baile, DJ Bar, Show de Bodas, Pistas de hielo,Vacaciones, Navidad, Coche, Halloween, Escenario.
 - 🎵 Fácil de Usar - Plug & Play, un soporte de mandril giratorio de 360° y 5 abrazaderas de cable te ayudan a fijar la luz de disco sobre vidrio, cerámica o cualquier otra superficie lisa, o también puede simplemente ponerlo en la mesa / piso para disfrutar el hermoso patrón de iluminación que atraviesa tu pared y techo.
-- 🎵 7 Colores RGB + 3 Modos de Iluminación - El control remoto le permite elegir 7 colores de iluminación hermosos (Rojo, Verde, Azul, Rojo / Verde, Azul / Verde, Rojo / Azul o todos los colores juntos) + 3 modos de iluminación (Música Activado, Automático y Flash). La velocidad de rotación del color también es libre de cambiar.
 - 👉 Más Música Sensible Activada - Solo 48 dB podrían provocar cambios en la iluminación y la velocidad, la luz discoteca bailará con la música, incluso los niños se reirán, aplaudirán o cantarán, lo que les brindará mucha diversión.
+- 🎵 7 Colores RGB + 3 Modos de Iluminación - El control remoto le permite elegir 7 colores de iluminación hermosos (Rojo, Verde, Azul, Rojo / Verde, Azul / Verde, Rojo / Azul o todos los colores juntos) + 3 modos de iluminación (Música Activado, Automático y Flash). La velocidad de rotación del color también es libre de cambiar.
+- 🎵 Ocasión Conveniente - Mini bola de discoteca, un regalo perfecto para los niños y un excelente fabricante de ambiente para fiestas, es adecuado para la Fiesta de Cumpleaños, Reunión de Amigos / Familiares, Fiesta Disco, Fiesta de Baile, DJ Bar, Show de Bodas, Pistas de hielo,Vacaciones, Navidad, Coche, Halloween, Escenario.
+- 🎵 4M/13ft Cable USB Alimentado - La luz de disco con alimentación DC 5V USB es más segura de usar. El cable de carga USB de 4M / 13 pies es fácil de usar con cargador de pared de 5V, banco de alimentación, PC, computadora portátil y cargador de coche, lo ayuda a llevar a cabo eventos de iluminación de DJ móvil en cualquier lugar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CSPPXJY/?tag=tolees-21)
