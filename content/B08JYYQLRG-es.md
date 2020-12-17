@@ -25,10 +25,10 @@ Ahora mismo tienes [MELLIEX 32 Piezas Mini Adornos de Navidad  Adornos de Resina
 
 🔎:
 
-- Diferentes Estilos - Los Mini Adornos de Resina incluyen Santa Claus, árbol de Navidad, muñeco de nieve, regalos y otros patrones, que son muy adecuados para crear un ambiente navideño animado.
 - Bricolaje Creativo - Estos adornos en miniatura son ideales para el bricolaje, adecuados para la decoración de álbumes de fotos, fundas de teléfonos móviles, álbumes de recortes, regalos y varios mini modelos.
-- Material - Los mini adornos navideños están hechos de resina sintética, son seguros, no tóxicos y duraderos.
-- Varias Escenas - Estos Figuras Navideñas Miniatura son muy adecuados para calendarios de adviento, decoraciones de mesa navideñas, jardines en miniatura, casas de muñecas y decoraciones de plantas. Son los regalos más singulares para familiares y amigos en Navidad.
 - Tamaño - El tamaño de cada Adornos Navideños de Resina es de aproximadamente 2 x 3 cm. * Los niños menores de tres años deben ir acompañados de un adulto.
+- Varias Escenas - Estos Figuras Navideñas Miniatura son muy adecuados para calendarios de adviento, decoraciones de mesa navideñas, jardines en miniatura, casas de muñecas y decoraciones de plantas. Son los regalos más singulares para familiares y amigos en Navidad.
+- Material - Los mini adornos navideños están hechos de resina sintética, son seguros, no tóxicos y duraderos.
+- Diferentes Estilos - Los Mini Adornos de Resina incluyen Santa Claus, árbol de Navidad, muñeco de nieve, regalos y otros patrones, que son muy adecuados para crear un ambiente navideño animado.
 
 [Visítala!!!](https://www.amazon.es/dp/B08JYYQLRG/?tag=tolees-21)
