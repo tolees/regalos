@@ -25,10 +25,10 @@ Tienes [LECLSTAR Cortina de Luces LED USB 3m*3m 300 LED 8 Modos de Luz con Contr
 
 ℹ️:
 
-- 🌟Función de Temporizador：La tecla TEMPORIZADOR puede encenderse continuamente durante 6 horas,despues se apagará durante 18 horas y se reiniciará automáticamente.Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros,ofrecemos 30 días de devolución de dinero y una garantía de por vida.
-- 🌟8 Modos y Control Remoto: Tiene 8 efectos de iluminación, para dar a su decoración toda la variedad que quiera.Puede controlarlo todo con el control remoto.Función de memoria, puede dejar que las hermosas luces de cortina se asienten en su modo favorito, puede abrirla directamente la próxima vez.
 - 🌟Fácil de Usar:Disponen de un adaptador USB para que podamos conectar directamente las luces a nuestro televisor o portátil,puede usarlo en cualquier momento y lugar.los LED de bajo consumo,no se sobrecalienta incluso después de horas de uso y el tacto es seguro.
-- 🌟Perfecta para la Decoración Interior y Exterior:Esta tira de luz 3*3m con un total de 300 leds.A diferencia de otro, tenemos clasificación de impermeabilidad IP67,se puede sumergir completamente en agua,certificado por UL/ CE / ROHS,Perfecto para el jardín, la sala de estar, el comedor, el dormitorio, la Navidad, etc.
 - 🌟 [Más Nuevo] 300 LED Cortina de Luces:Es una nueva cortina de luz con 4 Modos de Control de Música,el sensor de ritmo inteligente incorporado permite que la luz responda a la música, y su estilo cambia según el ritmo de la música, los diferentes sonidos e incluso su voz.Las luces combinan con la música, creando un ambiente dinámico en la fiesta.Nota:El modo de música no reproduce música
+- 🌟8 Modos y Control Remoto: Tiene 8 efectos de iluminación, para dar a su decoración toda la variedad que quiera.Puede controlarlo todo con el control remoto.Función de memoria, puede dejar que las hermosas luces de cortina se asienten en su modo favorito, puede abrirla directamente la próxima vez.
+- 🌟Perfecta para la Decoración Interior y Exterior:Esta tira de luz 3*3m con un total de 300 leds.A diferencia de otro, tenemos clasificación de impermeabilidad IP67,se puede sumergir completamente en agua,certificado por UL/ CE / ROHS,Perfecto para el jardín, la sala de estar, el comedor, el dormitorio, la Navidad, etc.
+- 🌟Función de Temporizador：La tecla TEMPORIZADOR puede encenderse continuamente durante 6 horas,despues se apagará durante 18 horas y se reiniciará automáticamente.Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros,ofrecemos 30 días de devolución de dinero y una garantía de por vida.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YTS5KSL/?tag=tolees-21)
