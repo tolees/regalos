@@ -25,10 +25,10 @@ Tienes [48 adornos y envoltorios para magdalenas de Navidad  muñeco de nieve  P
 
 ℹ️:
 
-- Recibirás: 24 adornos para cupcakes, 24 envoltorios para cupcakes (4 diseños en total, 6 piezas para cada diseño).
 - Tema de Navidad: muchos elementos de Navidad en el envoltorio de cupcakes, como muñeco de nieve, Papá Noel, corona de Navidad, pan de jengibre, etc. El bonito juego de decoración para tartas puede decorar bien tus tartas.
+- Material: estas decoraciones para tartas de Navidad están hechas de papel de buena calidad, se pueden aplicar de forma segura.
 - Suministros de fiesta de Navidad: gran decoración para cupcakes, pasteles, helados, queso y cualquier otro plato de postre. Harán que tu comida de fiesta sea notable y atractiva.
 - Atención: los envoltorios para cupcakes son solo para fines de decoración, no comestibles y no los coloques en el horno.
-- Material: estas decoraciones para tartas de Navidad están hechas de papel de buena calidad, se pueden aplicar de forma segura.
+- Recibirás: 24 adornos para cupcakes, 24 envoltorios para cupcakes (4 diseños en total, 6 piezas para cada diseño).
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08K3FTW7N/?tag=tolees-21)
