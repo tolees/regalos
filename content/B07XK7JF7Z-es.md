@@ -25,10 +25,10 @@ Tienes [Uonlytech Luces LED para habitación de los niños  5 unidades  mini tar
 
 ℹ️:
 
-- Pliega la bombilla hacia arriba para encender la luz y presiona para apagarla.
 - La innovación, la portabilidad y la moda de esta linterna tienen un aspecto conciso y vivo. Buena decoración para fiestas de Navidad, eventos u otras ocasiones.
 - Como una tarjeta de crédito pero ligeramente más gruesa. Fácil de transportar.
-- Diseño compacto y ligero. Sirve como iluminación mediante luces.
 - Un gran regalo para tu familia y amigos. Haz sonreír la tarjeta LED Night Light.
+- Pliega la bombilla hacia arriba para encender la luz y presiona para apagarla.
+- Diseño compacto y ligero. Sirve como iluminación mediante luces.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XK7JF7Z/?tag=tolees-21)
