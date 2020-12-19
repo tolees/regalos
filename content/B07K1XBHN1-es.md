@@ -25,10 +25,10 @@ Tienes [FANCYINN Conjuntos Bebe Niña Navidad Arbol Tutu Vetidos Leggins Mi Prim
 
 ℹ️:
 
-- Algodón y tul, cómodo de llevar, agradable para la piel de tu bebé.
-- Adorable primer traje de niña de Navidad.
 - Lindo árbol de navidad de santa y mi primera navidad y ho ho ho impreso. Cierre seguro de 2 broches para cambiar fácilmente los pañales.
+- Adorable primer traje de niña de Navidad.
 - Perfecto para su bebé la primera Navidad, acción de gracias, primera fiesta de cumpleaños, casual, diario, sesión de fotos u otros regalos para su show de bebé.
+- Algodón y tul, cómodo de llevar, agradable para la piel de tu bebé.
 - Paquete incluido: 1 * vestido de mameluco de manga larga + 1 * diadema + 1 par de calentadores de piernas + 1 par de zapatos.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K1XBHN1/?tag=tolees-21)
