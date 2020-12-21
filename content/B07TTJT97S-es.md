@@ -26,10 +26,10 @@ Ahora mismo tienes [Swarovski Colgante Iconic Swan  multicolor  Baño de Rodio](
 🔎:
 
 - Nuestro motivo Iconic Swan, el símbolo de Swarovski, asume el papel protagonista en este impresionante colgante
-- Bellamente adornado con una gradación de cristales azules engastados con nuestra técnica Pointiage, añadirá color y brillo a cualquier look de día o de noche
-- Combínalo con piezas a juego para obtener un efecto más impactante
 - El colgante incluye una cadena con baño de rodio
-- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional, el metal es enchapado y cada cristal se engarza de forma individual, debido a ello necesitan un cuidado optimo
 - Largo: 38 cm Colgante: 2x1.5 cm
+- Combínalo con piezas a juego para obtener un efecto más impactante
+- Bellamente adornado con una gradación de cristales azules engastados con nuestra técnica Pointiage, añadirá color y brillo a cualquier look de día o de noche
+- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional, el metal es enchapado y cada cristal se engarza de forma individual, debido a ello necesitan un cuidado optimo
 
 [Visítala!!!](https://www.amazon.es/dp/B07TTJT97S/?tag=tolees-21)
