@@ -28,7 +28,7 @@ Tienes [PLAYMOBIL Christmas Belén con Luz y patas plegables  A partir de 4 año
 - Belén de diseño encantador, Sagrada familia y animales de establo, Arco con iluminación integrada y patas plegables para colocar en la ventana
 - Contenido: 1 PLAYMOBIL Christmas Belén con luz, juego de 41 piezas con instrucciones: 1 arco de luz, 1 belén, 2 patas, 4 figuras, 33 accesorios (requiere 2 baterías micro de 1.5 V, no incluidas), Material: plástico, LxPxA: 37x17x23 cm, 9494
 - Diversión en Navidad: PLAYMOBIL Belén con Luz, incluye patas de apoyo con figuras y muchos accesorios para jugar
-- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B41KGLH/?tag=tolees-21)
