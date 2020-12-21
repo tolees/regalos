@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CK BE Eau De Toilette 50ML al 25.92 % de descuento'
+title: 'CK BE Eau De Toilette 50ML al 25.92 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410a9lhXGVL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.92'
 average: '20.98'
 ---
 
-Ahora mismo tienes [CK BE Eau De Toilette 50ML](https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21) a 20.98 EUR (original: 28.32 EUR) (25.92 %  de descuento) en el siguiente enlace!
+Tienes [CK BE Eau De Toilette 50ML](https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21) con precio final de  20.98 EUR (original: 28.32 EUR) (25.92 %  de rebaja) aqui!
 
 [![CK BE Eau De Toilette 50ML](https://images-eu.ssl-images-amazon.com/images/I/410a9lhXGVL._SL200_.jpg)](https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21)

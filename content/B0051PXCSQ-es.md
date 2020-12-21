@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 31.92 % en Atkinsons English Lavander Eau de Toilet'
+title: 'Atkinsons English Lavander Eau de Toilet al 31.92 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31826lwefDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.92'
 average: '16.34'
 ---
 
-Tienes [Atkinsons English Lavander Eau de Toilette Vaporizador 75 ml](https://www.amazon.es/dp/B0051PXCSQ/?tag=tolees-21) con un 31.92 % de descuento con precio de oferta de 16.34 EUR (original: 24 EUR) en el siguiente enlace!
+Está [Atkinsons English Lavander Eau de Toilette Vaporizador 75 ml](https://www.amazon.es/dp/B0051PXCSQ/?tag=tolees-21) con 31.92 de descuento por 16.34 EUR (original: 24 EUR) en el siguiente enlace!
 
 [![Atkinsons English Lavander Eau de Toilet](https://images-eu.ssl-images-amazon.com/images/I/31826lwefDL._SL200_.jpg)](https://www.amazon.es/dp/B0051PXCSQ/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B0051PXCSQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0051PXCSQ/?tag=tolees-21)

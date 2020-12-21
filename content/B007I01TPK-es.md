@@ -19,11 +19,11 @@ descuento: '51.36'
 average: '26.75'
 ---
 
-Ahora mismo tienes [Issey Miyake L Eau D Issey Homme Sport Eau de Toilette Vaporizador 50 ml](https://www.amazon.es/dp/B007I01TPK/?tag=tolees-21) a 26.75 EUR (original: 55 EUR) (51.36 %  de descuento) en el siguiente enlace!
+Está [Issey Miyake L Eau D Issey Homme Sport Eau de Toilette Vaporizador 50 ml](https://www.amazon.es/dp/B007I01TPK/?tag=tolees-21) con 51.36 de descuento por 26.75 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![Issey Miyake L Eau D Issey Homme Sport E](https://images-eu.ssl-images-amazon.com/images/I/31XA9R3KIvL._SL200_.jpg)](https://www.amazon.es/dp/B007I01TPK/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B007I01TPK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B007I01TPK/?tag=tolees-21)

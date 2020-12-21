@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 46.43 % en Prada Candy Gloss Agua de Colonia - 30 m'
+title: 'Prada Candy Gloss Agua de Colonia - 30 m al 46.43 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51U385hlW%2BL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '46.43'
 average: '30'
 ---
 
-Tienes [Prada Candy Gloss Agua de Colonia - 30 ml](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21) con un 46.43 % de descuento con precio de oferta de 30 EUR (original: 56 EUR) en el siguiente enlace!
+Ahora mismo tienes [Prada Candy Gloss Agua de Colonia - 30 ml](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21) a 30 EUR (original: 56 EUR) (46.43 %  de descuento) en el siguiente enlace!
 
 [![Prada Candy Gloss Agua de Colonia - 30 m](https://images-eu.ssl-images-amazon.com/images/I/51U385hlW%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21)

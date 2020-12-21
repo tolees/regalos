@@ -19,11 +19,11 @@ descuento: '16.10'
 average: '49.5'
 ---
 
-Ahora mismo tienes [Swarovski Pendientes Stone  pequeños  rosa  baño de oro rosa](https://www.amazon.es/dp/B07DQRTBZ1/?tag=tolees-21) a 49.5 EUR (original: 59 EUR) (16.10 %  de descuento) en el siguiente enlace!
+Está [Swarovski Pendientes Stone  pequeños  rosa  baño de oro rosa](https://www.amazon.es/dp/B07DQRTBZ1/?tag=tolees-21) con 16.10 de descuento por 49.5 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![Swarovski Pendientes Stone  pequeños  ro](https://images-eu.ssl-images-amazon.com/images/I/21KzVtHS77L._SL200_.jpg)](https://www.amazon.es/dp/B07DQRTBZ1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DQRTBZ1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DQRTBZ1/?tag=tolees-21)
