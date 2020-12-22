@@ -25,10 +25,10 @@ Ahora mismo tienes [Luces Navidad  Cortina de Luces Led 6mx3m 600 Led Luz Cadena
 
 🔎:
 
-- Seguro y ahorro de energía, El certificado de seguridad CE , voltaje estándar de 31V, se corta automáticamente cuando el voltaje supera el valor estándar, previene completamente el fuego y la explosión.
 - Función de memoria luces navidad, La cadena de luces se mantendrá en el último modo que elija antes de apagarla, liberándole de problemas para volver a elegir el mismo modo de nuevo.
-- 8 modos, luces led decorativas 8 modos, Puede usar los botones del adaptador de energía para ajustar los modos.
-- Detalles, Cadena de luces 6mx3m 600 Leds, bajo voltaje 31v, cable de extensión 3m, 8 tipos de modo de destello, blanco cálido.
 - Diseño impermeable, La cadena de luces y la fuente de alimentación son de material impermeable, pudiéndose utilizar incluso en días lluviosos y nevosos.
+- Detalles, Cadena de luces 6mx3m 600 Leds, bajo voltaje 31v, cable de extensión 3m, 8 tipos de modo de destello, blanco cálido.
+- 8 modos, luces led decorativas 8 modos, Puede usar los botones del adaptador de energía para ajustar los modos.
+- Seguro y ahorro de energía, El certificado de seguridad CE , voltaje estándar de 31V, se corta automáticamente cuando el voltaje supera el valor estándar, previene completamente el fuego y la explosión.
 
 [Visítala!!!](https://www.amazon.es/dp/B089K7QBHH/?tag=tolees-21)
