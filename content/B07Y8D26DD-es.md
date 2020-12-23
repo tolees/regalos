@@ -25,10 +25,10 @@ Está [YOSICIL Niñas Cosplay Vestido de Princesa Elsa con Capa Vestido de Froze
 
 ℹ️:
 
-- AMIGABLE CON LA PIEL: Algodón + 65% Poliéster.Muy suave y no picazón.Cómodo de llevar.
+- SERVICIO POSTVENTA:Si hay alguna insatisfacción, envíenos un correo electrónico antes de dejar cualquier calificación negativa,podemos darte una solucion satisfactoria.
 - INSTRUCCIONES DE CUIDADO: Para un mantenimiento más prolongado, recomendamos lavarse las manos, lavar a temperatura fría, planchar suavemente y no usar secadora.
 - Conjunto de Vestido de Princesa con capa,REGALO con 1*Corona +1*Anillo + 1*Varita Mágica en Forma de Corazón +1*Collar +1*Pendientes
 - NOTA:El tamaño de este vestido es pequeño, elija un tamaño más grande si es necesario.Por favor verifique cuidadosamente la TABLA DE TAMAÑOS antes de comprar.
-- SERVICIO POSTVENTA:Si hay alguna insatisfacción, envíenos un correo electrónico antes de dejar cualquier calificación negativa,podemos darte una solucion satisfactoria.
+- AMIGABLE CON LA PIEL: Algodón + 65% Poliéster.Muy suave y no picazón.Cómodo de llevar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Y8D26DD/?tag=tolees-21)
