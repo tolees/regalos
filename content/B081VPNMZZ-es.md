@@ -25,10 +25,10 @@ Está [LolaPix Saco Reyes Magos Personalizado con Nombre/Texto. Regalos Navidad 
 
 ℹ️:
 
-- Saco Reyes Magos con tejido retardante al fuego.
 - Saco Reyes Magos resistente al pilling (bolitas tras el lavado).
+- Saco Reyes Magos con resistencia al frote y el lavado. Tejido del saco 100% poliéster, de tacto suave y agradable.
 - Saco Reyes Magos dos medidas a elegir: 50x70cm/70x100cm. Incluye cordón de 6mm de grosor para cerrar el Saco de Navidad Personalizado.
 - Sello ‘Confidence in Textiles’ en el Saco Reyes Magos. Prendas libres de elementos dañinos para la salud.
-- Saco Reyes Magos con resistencia al frote y el lavado. Tejido del saco 100% poliéster, de tacto suave y agradable.
+- Saco Reyes Magos con tejido retardante al fuego.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081VPNMZZ/?tag=tolees-21)
