@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop Advent Calendar: Dragon Ball Z al 40.80 % de descuento'
-date: 2020-12-26 02:35:09
+date: 2020-12-27 03:06:58
 image: 'https://m.media-amazon.com/images/I/51Qhcb0R8xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B084R1RPQM/?tag=tolees-21'
 descuento: '40.80'
-average: '50.61662500000002'
+average: '50.45329268292685'
 ---
 
 Está [Funko Pop Advent Calendar: Dragon Ball Z  Multicolor  49660 ](https://www.amazon.es/dp/B084R1RPQM/?tag=tolees-21) con 40.80 de descuento por 43.92 EUR (original: 74.19 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Funko Pop Advent Calendar: Dragon Ball Z  Multicolor  49660 ](https://www
 
 ℹ️:
 
-- Calendario de adviento funko pocket podragon ball z
-- Funko pop. Es el juguete elegido por el pueblo 2018 del año
 - Los coleccionas todos
 - 24 sorpresas todos los días hasta el día de navidad
+- Funko pop. Es el juguete elegido por el pueblo 2018 del año
+- Calendario de adviento funko pocket podragon ball z
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084R1RPQM/?tag=tolees-21)
