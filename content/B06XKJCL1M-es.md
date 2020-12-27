@@ -25,7 +25,7 @@ Está [Lacoste EAU DE LACOSTE L 12 12 POUR ELLE SPARKLING eau de toilette 90 ml]
 
 ℹ️:
 
-- Para el cabello: normal
 - Tipo de piel: normal
+- Para el cabello: normal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XKJCL1M/?tag=tolees-21)
