@@ -25,10 +25,10 @@ Está [TOPERSUN Luz de Noche Bebé Lámpara Multicolor Remoto Recargable Luz Noc
 
 ℹ️:
 
-- Tiempo:La función de tiempo, hay 3 tipos de funciones de tiempo en el control remoto: 15 minutos, 30 minutos y 60 minutos. Puede elegir la hora que desee y alcanzar el tiempo establecido. Después de eso, se cerrará automáticamente
-- Oso suave:Lindo oso hecho de silicona muy suave,la superficie blanda no hace daño a los niños,conveniente para el tacto, como un globo suave
+- Nueve colores:Hay 9 tipos de colores claros en la luz del oso. Puede cambiar el color del tubo de luz presionando el botón del interruptor, o cambiar el color usando el control remoto.
 - Un relago para niño:Diseño ùnica, hermosos colores, una bonita decoración para la habitación de su niñas. Es un regalo perfecto para los niños
 - Control remoto:Es conveniente usar el control remoto para controlar el color que desee, puede ajustar el brillo de la luz.
-- Nueve colores:Hay 9 tipos de colores claros en la luz del oso. Puede cambiar el color del tubo de luz presionando el botón del interruptor, o cambiar el color usando el control remoto.
+- Tiempo:La función de tiempo, hay 3 tipos de funciones de tiempo en el control remoto: 15 minutos, 30 minutos y 60 minutos. Puede elegir la hora que desee y alcanzar el tiempo establecido. Después de eso, se cerrará automáticamente
+- Oso suave:Lindo oso hecho de silicona muy suave,la superficie blanda no hace daño a los niños,conveniente para el tacto, como un globo suave
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GRL8HY1/?tag=tolees-21)
