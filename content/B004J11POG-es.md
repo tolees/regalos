@@ -25,10 +25,10 @@ Está [Álvarez Gómez - Agua de Colonia en Spray - 150 ml](https://www.amazon.e
 
 ℹ️:
 
-- Contiene aceites esenciales de plantas, frutas y flores del mediterráneo como Limón, Romero, Geranios, Lavanda y Bergamota.
 - Propiedades tonificantes y refrescantes
 - Frasco de cristal para mantener un olor duradero y refrescante
-- Dermatológicamente testado
 - Agua de Colonia Concentrada apta para hombres y mujeres de todas las edades
+- Contiene aceites esenciales de plantas, frutas y flores del mediterráneo como Limón, Romero, Geranios, Lavanda y Bergamota.
+- Dermatológicamente testado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004J11POG/?tag=tolees-21)
