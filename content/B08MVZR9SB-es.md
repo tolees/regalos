@@ -25,10 +25,10 @@ Tienes [Yizhet Luces de Cadena de Cortina  3x3m 300 LED Cortina Luces Luz de Cor
 
 🔎:
 
-- ✨【8 Modos de Luz】Los modos son Combinación, ondas, secuencia, Slo-glo,persecución/parpadeo,cambio gradual,luz intermitente/parpadeo y luz fija.
+- ✨【3x3m Cortina Luces】 3M × 3M, 300 luces LED, alta calidad, resistente al agua, bajo calor, alto brillo, larga vida útil.
 - ✨【Fácil de Usar】Fuente de alimentación USB, solo conecte el dispositivo de interfaz USB, como el cargador USB, la energía móvil, la interfaz de la computadora, etc, puede usarlo en cualquier momento y lugar.
+- ✨【8 Modos de Luz】Los modos son Combinación, ondas, secuencia, Slo-glo,persecución/parpadeo,cambio gradual,luz intermitente/parpadeo y luz fija.
 - ✨【Decoración Perfecta】 Perfecto para decoraciones interiores y exteriores. Navidad, fiesta, día de San Valentín, boda, hogar, ventana, baño, festival, feriados, espectáculos, restaurante, hotel, edificio comercial, centro comercial, etc.
 - ✨【Viene con un Control Remoto】Puede cambiar los modos de iluminación y, con la función de temporización, bajo consumo de energía, fácil y conveniente de usar.
-- ✨【3x3m Cortina Luces】 3M × 3M, 300 luces LED, alta calidad, resistente al agua, bajo calor, alto brillo, larga vida útil.
 
 [Comprar!!!](https://www.amazon.es/dp/B08MVZR9SB/?tag=tolees-21)
