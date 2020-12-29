@@ -25,10 +25,10 @@ Tienes [Figura de Jack Skellington de Pesadilla Antes de Navidad  Disney Showcas
 
 ℹ️:
 
-- Dimensiones: 17,5 cm de largo x 8 cm de ancho x 18,5 cm de alto.
 - Hecho a mano: de material de resina de piedra de alta calidad.
+- Dimensiones: 17,5 cm de largo x 8 cm de ancho x 18,5 cm de alto.
 - FIGURINA ENESCO: de la colección Disney Showcase Couture de Force
-- Diseño: combina Jack Skellington de Disney "The Nightmare Before Christmas" con elementos de moda elevados y sofisticados.
 - Pintado a mano: los detalles se aplican intrincadamente
+- Diseño: combina Jack Skellington de Disney "The Nightmare Before Christmas" con elementos de moda elevados y sofisticados.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085DNQCHZ/?tag=tolees-21)
