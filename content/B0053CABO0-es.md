@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.63 % en Pesadilla Antes De Navidad - Edición Col'
-date: 2020-12-28 09:23:06
+date: 2020-12-29 09:33:04
 image: 'https://m.media-amazon.com/images/I/61uCyamsiVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053CABO0/?tag=tolees-21'
 descuento: '55.63'
-average: '8.946699029126208'
+average: '8.918952380952375'
 ---
 
 Tienes [Pesadilla Antes De Navidad - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B0053CABO0/?tag=tolees-21) con un 55.63 % de descuento con precio de oferta de 7.49 EUR (original: 16.88 EUR) en el siguiente enlace!

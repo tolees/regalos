@@ -26,8 +26,8 @@ Ahora mismo tienes [Ferrari Scuderia Ferrari Black Eau de Toilette Vaporizador 1
 🔎:
 
 - De la marca Ferrari.
-- Contiene 125 ml.
 - Las notas olfativas principales de este producto son fresco acuático, cítrico y oriental.
 - Este producto está indicado para hSombras.
+- Contiene 125 ml.
 
 [Visítala!!!](https://www.amazon.es/dp/B00COFP8Y2/?tag=tolees-21)
