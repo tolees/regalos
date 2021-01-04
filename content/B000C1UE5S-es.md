@@ -26,7 +26,7 @@ Tienes [Minnie 973 - Eau de toilette  100 ml](https://www.amazon.es/dp/B000C1UE5
 ℹ️:
 
 - Fragancia fresca y dulce
-- Producto no testado en animales
 - Fórmula testada dermatológicamente
+- Producto no testado en animales
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000C1UE5S/?tag=tolees-21)
