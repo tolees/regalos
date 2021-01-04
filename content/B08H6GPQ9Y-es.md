@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Glenfiddich Edición Limitada Navidad Gle al 16.85 % de rebaja'
-date: 2020-12-29 12:44:21
+date: 2021-01-04 14:35:57
 image: 'https://m.media-amazon.com/images/I/41BMCS6tukL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [Glenfiddich Edición Limitada Navidad Glenffidich 12-700 ml](https://www
 
 🔎:
 
+- Glenfiddich Whisky de malta de 12 años tiene un dulce y afrutado sabor, con notas de pera, caramelo, crema y roble. Acompañado de un acabado largo, delicado y suave.
+- Reconocido por numerosos premios que lo avalan. Glenfiddich viene presentado en una botella de cristal de 70 cl y a su vez en un estuche de tubo
 - Lleno de historia, la destilería de Glenfiddich se creó en 1887 y ha producido excelente whisky desde entonces.
 - Galardonado como “Master” (máxima condecoración) en la Global Spirits Masters Awards 2017 y en la Scotch Whisky Masters 2019 es el Single Malt más premiado del mundo.
-- Glenfiddich Whisky de malta de 12 años tiene un dulce y afrutado sabor, con notas de pera, caramelo, crema y roble. Acompañado de un acabado largo, delicado y suave.
 - Madurado en barricas de Sherry Oloroso y Bourbon de 12 años, este whisky especial es el ejemplo perfecto del estilo único de Speyside.
-- Reconocido por numerosos premios que lo avalan. Glenfiddich viene presentado en una botella de cristal de 70 cl y a su vez en un estuche de tubo
 
 [Comprar!!!](https://www.amazon.es/dp/B08H6GPQ9Y/?tag=tolees-21)
