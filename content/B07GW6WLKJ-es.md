@@ -25,10 +25,10 @@ Está [HOMVAN Guirnalda de Luces  Luces Estrellas de Hadas a Pilas 7 5 metros 50
 
 ℹ️:
 
-- Alta calidad – el material del cual están hechas las luces de estrellas tiene una mejor transmisión de luz, el cual las hace más brillantes y hermosas. El compartimento para las pilas es a prueba de agua y fabricada para durar, se puede usar tanto en exteriores como en interiores. La calidad de nuestras luces es mejor que la de otras similares, notarás la diferencia cuando las recibas
-- Función con dos modalidades – Luces Fijas e Intermitentes que cumplen con los diferentes requisitos
 - Efectos de luz romántica - 50 estrellas LED blancas y cálidas que producen una excelente iluminación y una atmósfera cálida, añadiendo un ambiente romántico. Ideal para jardines, salas, comedores, dormitorios, bodas, fiestas, día de San Valentín, Halloween, Navidad, etc.
+- Alta calidad – el material del cual están hechas las luces de estrellas tiene una mejor transmisión de luz, el cual las hace más brillantes y hermosas. El compartimento para las pilas es a prueba de agua y fabricada para durar, se puede usar tanto en exteriores como en interiores. La calidad de nuestras luces es mejor que la de otras similares, notarás la diferencia cuando las recibas
 - Ahorro de energía y ecológica - la luz es saludable, no contiene luz UV ni infrarroja, sin radiación ni contaminación, protege la vista
+- Función con dos modalidades – Luces Fijas e Intermitentes que cumplen con los diferentes requisitos
 - Cadena decorativa con luces con forma de estrellas - La cadena de luces de estrellas de hada tiene 7,5 m de largo (contiene 50 estrellas), funciona con 3 pilas AA (no incluidas)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GW6WLKJ/?tag=tolees-21)
