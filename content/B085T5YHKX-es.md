@@ -25,10 +25,10 @@ Tienes [Swarovski Colgante Tropical Flower  Rosa  Baño en Oro](https://www.amaz
 
 ℹ️:
 
-- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional. El metal es enchapado y cada cristal se engarza de forma individual. Debido a ello necesitan un cuidado especial.
-- Largo: 38 cm. Colgante: 2x1.2 cm.
 - La flor de color coral está adornada con cristales, para lograr un look lleno de glamour
 - Ideal para iluminar cualquier atuendo informal, será un magnífico regalo para amantes de las flores
+- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional. El metal es enchapado y cada cristal se engarza de forma individual. Debido a ello necesitan un cuidado especial.
 - El colgante incluye una cadena
+- Largo: 38 cm. Colgante: 2x1.2 cm.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085T5YHKX/?tag=tolees-21)
