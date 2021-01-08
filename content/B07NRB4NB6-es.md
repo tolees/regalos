@@ -26,7 +26,7 @@ Está [Lancôme La Vie Est Belle Agua de Perfume Mujer 30 ml](https://www.amazon
 ℹ️:
 
 - Marca: Lancôme
-- Agua de perfume para mujeres
 - Volumen del producto: 30 ml
+- Agua de perfume para mujeres
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NRB4NB6/?tag=tolees-21)
