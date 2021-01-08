@@ -25,10 +25,10 @@ Tienes [Guirnalda Luces Pilas  OMERIL Luces Navidad Colores 12M 120LED [2 Pack] 
 
 ℹ️:
 
-- 🎄【Seguro e Impermeable】- Guirnaldas luces exterior pilas aunque tantas horas utilizadas no se sobrecalentará que es más seguro. Su cable plateado Impermeable de IP65 no solo les permite hacer decoración habitación, pared, piso, escalera también decoración jardín, terrazas, puerta etc. (3 pilas AAA no incluidas)
-- 🎄【2 Pack 240LED Luces Navidad Colores】- Cada guirnalda led tiene 12m 120 LED, total son 24M 240 LED que se puede colocarlas en distinto lugares para darle un brillo multicolor e imaginario como decoración Navidad, decoración Halloween, decoración Años Nuevos.
 - 🎄【Alimentado por Batería】- Como cadena de luces son de batería que les permite colocarlas en cualquier lugar sin preocuparse si hay lugar para cargarlas. Utilizan fácilmente y convenientemente en el interior y exterior.
 - 🎄【DIY Su Gusta】- Debido el material plateado, estas Luces led pilas moldear fácilmente formas que necesitan, pueden DIY su propia guirnalda luces pilas o disfruta el tiempo DIY con sus hijos mientras ejercita la capacidad práctica de los niños.
 - 🎄【Aplicación Amplia】- Luces LED multicolor crea un ambiente multicolor y divertido que es ideal hacer luces navidad, luces Halloween, luces árbol, luces Años Nuevas, luces fiesta, luces cumpleaños, luces jardín, luces botellas.
+- 🎄【Seguro e Impermeable】- Guirnaldas luces exterior pilas aunque tantas horas utilizadas no se sobrecalentará que es más seguro. Su cable plateado Impermeable de IP65 no solo les permite hacer decoración habitación, pared, piso, escalera también decoración jardín, terrazas, puerta etc. (3 pilas AAA no incluidas)
+- 🎄【2 Pack 240LED Luces Navidad Colores】- Cada guirnalda led tiene 12m 120 LED, total son 24M 240 LED que se puede colocarlas en distinto lugares para darle un brillo multicolor e imaginario como decoración Navidad, decoración Halloween, decoración Años Nuevos.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08CH7VSX5/?tag=tolees-21)
