@@ -25,8 +25,8 @@ Está [Atkinsons English Lavander Eau de Toilette Vaporizador 75 ml](https://www
 
 ℹ️:
 
-- English lavender edt vapo 75 ml
 - Los mejores productos de higiene para tu día a día.
 - Cuidarse y sentirse bien nunca había sido tan fácil.
+- English lavender edt vapo 75 ml
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0051PXCSQ/?tag=tolees-21)
