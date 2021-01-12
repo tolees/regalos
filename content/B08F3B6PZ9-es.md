@@ -26,9 +26,9 @@ Tienes [NYX Professional Makeup Calendario de Adviento de Maquillaje Diamonds an
 🔎:
 
 - 6x sombras de ojos en tonos metálicos festivos con tonos plateados, dorados y bronce, Colecciona nuestros productos más PRO a lo largo del mes e intégralos en tu rutina de maquillaje
-- 2x productos #THISEVERYTHING para el cuidado de los labios, 11x diferentes productos para los labios incluyendo acabados mate y brillantes en tamaños normales y mini
-- 1x Pore Filler Mini y 1x HD Eye Primer Mini, 2x Iluminadores mini Born to Glow para un brillo juvenil y radiante, 1x High Definition Finishing Powder Mini para un acabado mate y sedoso
 - Contiene: 1x NYX Professional Makeup Calendario de adviento Diamonds and Ice, Please, 24 Productos, Dimensiones: 26.6x 6.5x 37.2 cm, Peso: 459.5 g
 - Set de maquillaje con 24 productos para el calendario de Adviento, Con productos para ojos, labios y rostro, Primers y polvos fijadores
+- 2x productos #THISEVERYTHING para el cuidado de los labios, 11x diferentes productos para los labios incluyendo acabados mate y brillantes en tamaños normales y mini
+- 1x Pore Filler Mini y 1x HD Eye Primer Mini, 2x Iluminadores mini Born to Glow para un brillo juvenil y radiante, 1x High Definition Finishing Powder Mini para un acabado mate y sedoso
 
 [Comprar!!!](https://www.amazon.es/dp/B08F3B6PZ9/?tag=tolees-21)
