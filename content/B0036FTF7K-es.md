@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Shiseido 19650 - Agua de colonia  100 ml al 49.09 % de descuento'
+date: 2020-08-15 19:30:37
+image: 'https://m.media-amazon.com/images/I/41ZkxEXZLkL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B0036FTF7K-es'
+actualPrice: 56.0 EUR
+currency: EUR
+price: 56.0
+comparePrice: 110.0 EUR
+prodname: 'Shiseido 19650 - Agua de colonia  100 ml'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B0036FTF7K/?tag=tolees-21'
+descuento: '49.09'
+average: '58.266666666666666'
+---
+
+Ahora mismo tienes [Shiseido 19650 - Agua de colonia  100 ml](https://www.amazon.es/dp/B0036FTF7K/?tag=tolees-21) a 56.0 EUR (original: 110.0 EUR) (49.09 %  de descuento) en el siguiente enlace!
+
+[![Shiseido 19650 - Agua de colonia  100 ml](https://m.media-amazon.com/images/I/41ZkxEXZLkL._SL200_.jpg)](https://www.amazon.es/dp/B0036FTF7K/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B0036FTF7K/?tag=tolees-21)

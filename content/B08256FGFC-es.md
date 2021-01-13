@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'OBEEII 6PCS Disfraz de Princesa Elsa Niñ al 51.36 % de descuento'
+date: 2020-01-28 11:19:56
+image: 'https://m.media-amazon.com/images/I/41sZAXVvr+L._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B08256FGFC-es'
+actualPrice: 19.45 EUR
+currency: EUR
+price: 19.45
+comparePrice: 39.99 EUR
+prodname: 'OBEEII 6PCS Disfraz de Princesa Elsa Niñas Carnaval Traje de Frozen Belle Vestido y Accesorios Cosplay Costume para Halloween Navidad Fiesta Ceremonia Aniversario Snow Queen Fancy Dress Azul 5-6 Años'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B08256FGFC/?tag=tolees-21'
+descuento: '51.36'
+average: '19.45'
+---
+
+Está [OBEEII 6PCS Disfraz de Princesa Elsa Niñas Carnaval Traje de Frozen Belle Vestido y Accesorios Cosplay Costume para Halloween Navidad Fiesta Ceremonia Aniversario Snow Queen Fancy Dress Azul 5-6 Años](https://www.amazon.es/dp/B08256FGFC/?tag=tolees-21) con 51.36 de descuento por 19.45 EUR (original: 39.99 EUR) en el siguiente enlace!
+
+[![OBEEII 6PCS Disfraz de Princesa Elsa Niñ](https://m.media-amazon.com/images/I/41sZAXVvr+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B08256FGFC/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B08256FGFC/?tag=tolees-21)
