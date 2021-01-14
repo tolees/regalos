@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pesadilla Antes De Navidad - Edición Col al 38.63 % de descuento'
-date: 2021-01-11 18:13:47
+date: 2021-01-13 23:33:40
 image: 'https://m.media-amazon.com/images/I/51U2DNS6XcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003Z7SIJU/?tag=tolees-21'
 descuento: '38.63'
-average: '6.919117647058823'
+average: '6.949714285714285'
 ---
 
 Ahora mismo tienes [Pesadilla Antes De Navidad - Edición Coleccionista [DVD]](https://www.amazon.es/dp/B003Z7SIJU/?tag=tolees-21) a 7.99 EUR (original: 13.02 EUR) (38.63 %  de descuento) en el siguiente enlace!
@@ -27,4 +27,4 @@ Ahora mismo tienes [Pesadilla Antes De Navidad - Edición Coleccionista [DVD]](h
 
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 6.95€
 
-[Visítala!!!](https://www.amazon.es/dp/B003Z7SIJU/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B003Z7SIJU/?tag=tolees-21)
