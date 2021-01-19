@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JXMB1S-es Camara Fotos Infantil Cámara de Fotos para Niños con HD...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

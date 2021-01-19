@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VTFFRXX-es Salvatore Ferragamo Signorina In Fiore Agua de Tocador...'
-tags: [ 'tole.es','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 32.55 EUR
 currency: EUR
 price: 32.55

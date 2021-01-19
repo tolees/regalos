@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDTZYZN-es Proyector Navidad LED FOCHEA Luces de Proyector Interior y...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

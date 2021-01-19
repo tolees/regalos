@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DAUYQX4-es Paco Rabanne Invictus Eau de Toilette Vaporizador 100 ml'
-tags: [ 'tole.es','eau','de','toilette', ]
+tags: [ 'eau','de','toilette', ]
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

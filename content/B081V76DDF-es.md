@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081V76DDF-es FKANT Monederos Mujer Billetera Piel Bloqueo RFID Monedero...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

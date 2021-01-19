@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVYB9XH-es Zorara Cortina de Luces LED Navidad 3m x 3m Cortina Luces...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

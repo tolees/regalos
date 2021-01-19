@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0051PSF5G-es Atkinsons English Lavender Agua de Tocador - 620 ml...'
-tags: [ 'tole.es','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

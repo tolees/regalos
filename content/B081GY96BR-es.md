@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GY96BR-es Susan Y regalo del día de la madre arete mujer joyería...'
-tags: [ 'tole.es','swarovski','navidad', ]
+tags: [ 'swarovski','navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

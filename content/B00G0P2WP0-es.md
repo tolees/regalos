@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G0P2WP0-es Maison F. Kurkdjian Aqua Vitae Edt – Agua de tocador 200 ml'
-tags: [ 'tole.es','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 137.64 EUR
 currency: EUR
 price: 137.64

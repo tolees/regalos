@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAIR71E-es Aire de Sevilla Set de Belleza Edición Azul Fresh - Crema...'
-tags: [ 'tole.es','eau','de','toilette', ]
+tags: [ 'eau','de','toilette', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

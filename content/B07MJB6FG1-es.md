@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJB6FG1-es Nenuco Agua de Colonia recomendado para bebés fragancia...'
-tags: [ 'tole.es','agua','de','colonia', ]
+tags: [ 'agua','de','colonia', ]
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

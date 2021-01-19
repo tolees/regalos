@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772DGS9Z-es Amaza 100pcs Etiquetas de Papel Kraft Árbol de Navidad...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

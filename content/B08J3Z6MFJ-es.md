@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J3Z6MFJ-es Decdeal Adornos Árbol Navidad Colgantes Muñeco de Nieve...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

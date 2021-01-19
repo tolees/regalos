@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWSH4LC-es PROACC Juego de 8 Coches Dinosaurios plástico Tire hacia...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

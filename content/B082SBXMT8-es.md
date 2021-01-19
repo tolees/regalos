@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SBXMT8-es OBEEII Disfraz Elsa Anna Traje Frozen Niñas Princesa Ana...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

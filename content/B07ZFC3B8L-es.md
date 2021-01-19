@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFC3B8L-es Luz Nocturna Infantil Tekemai Luz de Noche Bebé Lámpara de...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

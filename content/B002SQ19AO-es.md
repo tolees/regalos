@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SQ19AO-es Issey Miyake A Scent by Issey Miyake - Agua de tocador...'
-tags: [ 'tole.es','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

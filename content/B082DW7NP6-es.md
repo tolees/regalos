@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DW7NP6-es OBEEII Anna Frozen Disfraz Princesa Ana Elsa Cosplay...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

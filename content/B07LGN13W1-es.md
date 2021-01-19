@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGN13W1-es Vicloon Disfraz de Princesa Belle Vestido y Accesorios...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073YQ5F5G-es Regalo De Navidad Abalorio Pulsera Mujer Plateado De Plata...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

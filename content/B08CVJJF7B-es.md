@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVJJF7B-es 10 Hojas Papel de Regalo CHALA Papel de Regalo Diseño de...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

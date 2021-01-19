@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GHVIGM-es KENZO L EAU eau de toilette Mujeres 100 ml - Eau de...'
-tags: [ 'tole.es','eau','de','toilette', ]
+tags: [ 'eau','de','toilette', ]
 actualPrice: 42.56 EUR
 currency: EUR
 price: 42.56

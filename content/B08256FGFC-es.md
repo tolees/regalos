@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08256FGFC-es OBEEII 6PCS Disfraz de Princesa Elsa Niñas Carnaval Traje...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

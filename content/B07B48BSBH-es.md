@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B48BSBH-es Juego de herramientas para parrillas para barbacoa kit de...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7TBBXG-es 5M Luces de neón el Alambre con Controlador Box Alambre...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0E9KXD-es Halloween Jesus Del Pozo Halloween Kiss Sexy Agua De...'
-tags: [ 'tole.es','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

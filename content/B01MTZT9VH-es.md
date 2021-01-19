@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTZT9VH-es Guirnalda Cadena de Luces de LED Alambre de Cobre...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5WTN1J-es Adolfo Dominguez Agua Fresca Vetiver Eau de Toilette - 230 ml'
-tags: [ 'tole.es','eau','de','toilette', ]
+tags: [ 'eau','de','toilette', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

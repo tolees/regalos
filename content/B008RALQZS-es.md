@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008RALQZS-es Ted Lapidus Black Extreme Eau de Toilette Vaporizador 100 ml'
-tags: [ 'tole.es','eau','de','toilette', ]
+tags: [ 'eau','de','toilette', ]
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

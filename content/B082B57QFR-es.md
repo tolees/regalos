@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082B57QFR-es OBEEII Blancanieves Disfraz con Capa 9 Piezas Carnaval...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

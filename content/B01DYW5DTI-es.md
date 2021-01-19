@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DYW5DTI-es Vera Wang Embrace Rosebuds & Vanilla Eau de Toilette para...'
-tags: [ 'tole.es','eau','de','toilette', ]
+tags: [ 'eau','de','toilette', ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

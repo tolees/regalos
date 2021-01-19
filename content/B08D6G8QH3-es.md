@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D6G8QH3-es UBERMing 20 Piezas Regalos de Ángel de Guarda + Bolsa de...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

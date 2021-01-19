@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0018NVMKA-es DKNY men - Eau de Toilette Energizing 100 ml'
-tags: [ 'tole.es','eau','de','toilette', ]
+tags: [ 'eau','de','toilette', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

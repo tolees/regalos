@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWCJZWV-es Vicloon 8 Piezas Conjunto con Accesorios de Princesa del...'
-tags: [ 'tole.es','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

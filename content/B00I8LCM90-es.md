@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I8LCM90-es Adidas Get Ready Eau de Toilette para Mujer - 50 ml'
-tags: [ 'tole.es','eau','de','toilette', ]
+tags: [ 'eau','de','toilette', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

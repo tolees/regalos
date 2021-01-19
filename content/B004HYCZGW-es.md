@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004HYCZGW-es Villeroy & Boch Royal Juego de mesa para 6 personas 12...'
-tags: [ 'tole.es','villeroy','&','boch', ]
+tags: [ 'villeroy','&','boch', ]
 actualPrice: 222.89 EUR
 currency: EUR
 price: 222.89

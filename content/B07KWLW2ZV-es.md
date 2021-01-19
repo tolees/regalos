@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWLW2ZV-es Swarovski Anillo One Heart para Mujer Rojo Baño de Rodio'
-tags: [ 'tole.es','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 34.4 EUR
 currency: EUR
 price: 34.4
