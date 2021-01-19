@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514lZ+Z5hvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJB6FG1-es'
+slug: 'B07MJB6FG1-es Nenuco Agua de Colonia recomendado para bebés  fragancia original - Paquete de 6 unidades x 600 ml'
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

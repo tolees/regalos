@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eeWx9yKKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLKY3HK-es'
+slug: 'B07SLKY3HK-es Swarovski Pendientes de botón Attract  de Mujer  rojo  Baño de Rodio'
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

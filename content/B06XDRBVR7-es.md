@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h-tIUmO3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDRBVR7-es'
+slug: 'B06XDRBVR7-es Prada Luna Rossa Carbon Vaporizador Agua de Colonia - 50 ml'
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

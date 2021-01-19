@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YiqlP9RkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XEAZ9Y-es'
+slug: 'B000XEAZ9Y-es Issey Miyake - LEAU DISSEY HOMME Eau De Toilette vapo 200 ml'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

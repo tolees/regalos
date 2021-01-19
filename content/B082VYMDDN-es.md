@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513k7pFwOzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VYMDDN-es'
+slug: 'B082VYMDDN-es OwlFay Disfraz de Princesa Carnival para Niñas Vestidos de Fiesta Navidad Halloween Cosplay Costume Outfit Rosa 4-5 Años'
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

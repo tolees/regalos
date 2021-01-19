@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mNsRF5IiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCB4DP6-es'
+slug: 'B07XCB4DP6-es GHONLZIN Máscaras LED  Máscara de Halloween LED Glow Scary Light Up Máscaras para Fiesta Fiesta Carnaval Disfraz Navidad  Blue '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

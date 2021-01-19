@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515l5tOr6tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H2DANCW-es'
+slug: 'B01H2DANCW-es Yves Saint Laurent Mon Paris Agua de Perfume - 50 ml'
 actualPrice: 52.95 EUR
 currency: EUR
 price: 52.95

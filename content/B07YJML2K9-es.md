@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dy4AxkTXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJML2K9-es'
+slug: 'B07YJML2K9-es Cortina de Baño de Navidad  Cortina de Ducha Blanca Tema Fiesta con Dibujo Animado de Muñeco de Nieve  Tela Poliéster  Lavable a Máquina  180x180cm con 12 Anillas  Diseño de Dobladillo Ponderado'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

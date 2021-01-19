@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31CO8o2a9ZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000IOSJ42-es'
+slug: 'B000IOSJ42-es Calvin Klein Contradiction - Agua de perfume  para mujeres  vaporizador  100 ml'
 actualPrice: 26.62 EUR
 currency: EUR
 price: 26.62

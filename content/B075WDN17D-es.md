@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u8leUc9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WDN17D-es'
+slug: 'B075WDN17D-es Carolina Herrera 212 Men Agua de Tocador Vaporizador - 50 ml'
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

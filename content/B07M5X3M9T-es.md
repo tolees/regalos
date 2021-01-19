@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r+kopcpFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5X3M9T-es'
+slug: 'B07M5X3M9T-es The Nightmare Before Christmas Nightmare Before Christmas: 20oz Oogie  Jack & Zero Mug  Ceramic  Multicolor  One Size'
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

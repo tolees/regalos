@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Q66Om%2BRfL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2THWJB-es'
+slug: 'B07G2THWJB-es Calvin Klein  Agua de perfume para mujeres - 30 ml.'
 actualPrice: 32.42 EUR
 currency: EUR
 price: 32.42

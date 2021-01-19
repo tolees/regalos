@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PolANVVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NWXRSM-es'
+slug: 'B087NWXRSM-es Grandma Shark Bambú Tabla de Quesos  Bandeja de Queso y Galletas con Cubiertos  Navidad & San-Valentín Mejores Regalos  Redondo '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

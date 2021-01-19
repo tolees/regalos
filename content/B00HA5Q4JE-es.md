@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S+Vg44rpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HA5Q4JE-es'
+slug: 'B00HA5Q4JE-es 30 Multicolor LED Solares Guirnaldas Luminosas forma de Libélula - Iluminación de energía solar al aire libre a prueba de agua - Lámparas de jardín solar / linterna externa con sensor nocturno incorporado  cuerdas y picos de tierra – Accionado por Energía Solar Luces de Hada / luz de hada alimentadas por energía solar para Navidad  al aire libre  cerca  Patio  Exterior  Valla  Terraza  Yarda  Pasarela  Barrera  Entrada  Garaje  Cobertizo  Adornos  Afuera  Pasillo  Borde  Senda y Frontera'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

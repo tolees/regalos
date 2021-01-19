@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hZ6Ftsy7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XDZ5FY-es'
+slug: 'B000XDZ5FY-es Grès Cabochard Women Eau De Toilette 100 Ml'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

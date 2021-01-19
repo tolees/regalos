@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VIFz465IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Y6NCVN-es'
+slug: 'B082Y6NCVN-es Oihxse Case Compatible con Realme 3 Pro Funda Transparente Silicona Suave Carcasa Protectora Navidad Santa Deer Diseño de patrón Creativo Ultra Slim Flexible Cover'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

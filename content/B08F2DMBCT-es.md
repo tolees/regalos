@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hOznyXhXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F2DMBCT-es'
+slug: 'B08F2DMBCT-es Bolsas Papel Kraft Regalo Bolsas bolsas para chuches para cumpleaños de niños Navidad Halloween Dulces Regalos Chocolates Galletas Recuerdo Golosinas 24pcs '
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

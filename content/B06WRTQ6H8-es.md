@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XAfWiR76L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRTQ6H8-es'
+slug: 'B06WRTQ6H8-es Pack Disney The Nightmare Before Christmas - Chapas Characters'
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

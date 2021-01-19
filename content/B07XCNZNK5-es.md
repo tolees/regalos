@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510Xv3c+N3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCNZNK5-es'
+slug: 'B07XCNZNK5-es Pintura Corporal y Facial  Kit de Pintura Facial  Face Body Painting  Adecuada para Niños y Adultos  Maquillaje de Fiesta  Cumpleaños  Halloween  Navidad 2 Plantillas 15 Colores Lavables 4 Pinceles'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

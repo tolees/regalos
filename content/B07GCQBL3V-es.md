@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zDeVPKvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCQBL3V-es'
+slug: 'B07GCQBL3V-es TEDD - Pijama de dinosaurio de algodón para niños  ropa de dormir  para invierno  manga larga  para Navidad  2 piezas  regalo de Navidad Verde 03 Verde 11-12 Años'
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

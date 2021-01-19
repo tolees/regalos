@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SPwF0qnhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BAG38G-es'
+slug: 'B001BAG38G-es Jean Paul Gaultier Le Male  Eau De Toilette Spray  125 ml'
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Mcu03ezcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009OAGTM-es'
+slug: 'B0009OAGTM-es Calvin Klein Escape  Agua de perfume para mujeres - 100 ml.'
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

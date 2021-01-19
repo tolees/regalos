@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VaA8Cl5WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0040PMUV8-es'
+slug: 'B0040PMUV8-es MONT BLANC Presence - Agua de Tocador para Hombre con Vaporizador  75 ml'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

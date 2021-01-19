@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312TfUPeRlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JJZL34-es'
+slug: 'B075JJZL34-es Shiseido Ever Bloom Agua de Perfume - 50 ml'
 actualPrice: 30.14 EUR
 currency: EUR
 price: 30.14

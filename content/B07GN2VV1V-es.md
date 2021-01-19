@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fGWz-J6UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GN2VV1V-es'
+slug: 'B07GN2VV1V-es EKKONG Explosion Box Scrapbook Creative DIY Photo Album de Accesorios para cumpleaños Aniversario Boda San Valentín Día de la Madre Navidad La Caja de Regalo con 6 Caras  Negro '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

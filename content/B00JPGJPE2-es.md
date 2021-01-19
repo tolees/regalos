@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-gdq20l6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JPGJPE2-es'
+slug: 'B00JPGJPE2-es Villeroy & Boch Artesano Original Estantería  4 piezas  Porcelana Premium/pizarra natural/Madera  Blanco'
 actualPrice: 137.55 EUR
 currency: EUR
 price: 137.55

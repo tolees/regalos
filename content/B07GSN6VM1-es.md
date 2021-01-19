@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OP7GjcJKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSN6VM1-es'
+slug: 'B07GSN6VM1-es LOFTer Guirnalda Luces  Cadena de Luces 120 LED 15M  Tira LED Exterior IP44 Impeermeable Decoracion Interior Blanco Bombillas Luminosas para Jardin  Terraza  Fiesta  Navidad  Boda  Patio - 8 Modo'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MtKolTMgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NLEOABC-es'
+slug: 'B00NLEOABC-es NYK1 Designer Swarovski Crystal & Glass Nail File Handmade makes a perfect Gift'
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VH1ckxOYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F48Z4YL-es'
+slug: 'B08F48Z4YL-es Rosa 24 K Rosa de la Galaxia  Flores Artificiales de Rose con Soporte de Exhibición en Caja de Regalo  día de San Valentín  día de la Madre  Aniversario  Cumpleaños  Boda  Navidad'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

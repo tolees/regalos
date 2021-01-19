@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F5LoYG2pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPSK985-es'
+slug: 'B07QPSK985-es Velas LED velas sin llama 4"5"6"Set de 3 de cera real Dripless marfil incluyen baile realista llevó las llamas y 10teclas de Control Remoto con Función de temporizador de 24h regalo de Navidad'
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411kvH4NGBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GCK1FYZ-es'
+slug: 'B08GCK1FYZ-es TOPESEL Pendrive 32GB Memoria USB Llave USB 2.0 Flash Drive en Forma de Corazón Metal USB Regalo para Cumpleaños  Navidad  Boda  Azul'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AOttqZGNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H5U8Y2O-es'
+slug: 'B00H5U8Y2O-es Jean Patou Joy Forever Agua de Perfume - 75 ml'
 actualPrice: 76.98 EUR
 currency: EUR
 price: 76.98

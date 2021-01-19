@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SYmTR+QIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0018NVMKA-es'
+slug: 'B0018NVMKA-es DKNY men - Eau de Toilette Energizing 100 ml'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

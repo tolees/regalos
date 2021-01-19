@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nVFBDFoUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008RALQZS-es'
+slug: 'B008RALQZS-es Ted Lapidus Black Extreme Eau de Toilette Vaporizador 100 ml'
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

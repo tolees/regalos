@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UU6tQdEOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4RKH6P-es'
+slug: 'B07Z4RKH6P-es OwlFay Rapunzel Disfraz Carnaval Traje de Princesa para Halloween Navidad Fiesta Cosplay Costume para Niñas Chicas Morado A 6-7 Años'
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

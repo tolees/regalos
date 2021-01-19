@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f08AwAsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X8YRLC-es'
+slug: 'B076X8YRLC-es Cacharel  Agua de perfume para mujeres - 30 ml.'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

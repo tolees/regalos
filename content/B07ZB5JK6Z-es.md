@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Tf3Uh4PML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZB5JK6Z-es'
+slug: 'B07ZB5JK6Z-es Ramo Flores Rosa Chapada en Oro  Ramo Rosa Artificiales de Papel Oro con Caja de Regalo  Regalo Ideal para el día de San Valentín  día de la Madre  Aniversario  cumpleaños  Navidad  decoración  Rojo '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

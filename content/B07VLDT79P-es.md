@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Japa-zt1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLDT79P-es'
+slug: 'B07VLDT79P-es Felly Juguetes Bebes  Puzzles de Madera Educativos para Bebé  Juguetes niños 1 año 2 3 4 5 6 años  Dibujo de Animal Colorido con Placa  Regalo de cumpleaños  Navidad'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

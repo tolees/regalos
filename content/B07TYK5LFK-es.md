@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5184S8PBWXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYK5LFK-es'
+slug: 'B07TYK5LFK-es Qings Aros Pendientes Plata de Ley 925 Mujer Pendientes con Brillante Circonita y Estrellas Joyería de Moda para Mujeres Niñas Regalo de Cumpleaños Navidad San Valentín'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

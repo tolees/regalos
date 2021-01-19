@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oWHPmFC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00USO2CGS-es'
+slug: 'B00USO2CGS-es Hermes Le Jardin De Monsieur Li Eau de Toilette Vaporizador - 100 ml'
 actualPrice: 76.5 EUR
 currency: EUR
 price: 76.5

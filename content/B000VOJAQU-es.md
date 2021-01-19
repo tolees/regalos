@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gDfJ6aTJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VOJAQU-es'
+slug: 'B000VOJAQU-es Guerlain Insolence Eau de Toilette Vaporizador 50 ml'
 actualPrice: 40.98 EUR
 currency: EUR
 price: 40.98

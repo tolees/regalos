@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lroYcI%2BzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNQ8K8N-es'
+slug: 'B07VNQ8K8N-es Traje de la Casa de Papel con Mascara Mono Cosplay Trajes de Adultos Niños Careta Disfraz Carnaval Navidad Halloween Halloween'
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

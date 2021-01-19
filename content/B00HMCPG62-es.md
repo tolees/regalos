@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lZMRN2CJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HMCPG62-es'
+slug: 'B00HMCPG62-es Boucheron 54030 - Agua de perfume'
 actualPrice: 43.98 EUR
 currency: EUR
 price: 43.98

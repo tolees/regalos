@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Lk-JhZLeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYLSF3J-es'
+slug: 'B07KYLSF3J-es Kami Idea Regalos dia de la Madre Mujer Pendientes de Botón Gatito afortunado Cristales de Swarovski Aguamarina Regalos de Madres Joyeria para Aniversario Cumpleaños Ella Mamá Chicas Dama Abuela Novia'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

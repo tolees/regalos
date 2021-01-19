@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JZ+rRiPJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6VDX6N-es'
+slug: 'B07H6VDX6N-es mysunny Album de Fotos Libro de Recuerdos de Cuero página Negra reemplazable Libro de Memoria Utilizado para Boda del Aniversario  Cumpleaños  Navidad  Dia de San Valentin  etc. Bicicleta 28cmX21cm '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

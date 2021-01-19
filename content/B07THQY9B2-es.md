@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GLP5sZO-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THQY9B2-es'
+slug: 'B07THQY9B2-es Cadena de Luz Demum G40 de 25FT E12 Base Guirnalda Luces con 25 Bombillas G40 para Jardín Patio Trasero Fiesta Adornos de Navidad  3 Bulbos de Repuesto  [Clase de eficiencia energética E]  Hot White '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

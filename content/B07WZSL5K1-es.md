@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515v93-XoqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZSL5K1-es'
+slug: 'B07WZSL5K1-es BONNYCO Pizarra Mágica con Luz A3 y A5  6 Plantillas  2 Bolis Espía Juguetes para Niñas y Niños 3 4 5 6 7 8 9 10 11 Años | Pizarra Luminosa  Regalos para Niños Originales Cumpleaños y Navidad'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

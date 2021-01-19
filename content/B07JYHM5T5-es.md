@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310glS08cgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYHM5T5-es'
+slug: 'B07JYHM5T5-es D.Perlla Pendientes Perla Mujer Circonita Joyas Diamante Conjunto   Te quiero hasta el cielo   arracada con para Navidad regalos originales'
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

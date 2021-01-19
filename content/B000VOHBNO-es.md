@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zNfX4-ZnL._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VOHBNO-es'
+slug: 'B000VOHBNO-es Lancome - Hypnose Homme - Eau de Toilette - 50 ml'
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DFR8KBvuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814Z1TTX-es'
+slug: 'B0814Z1TTX-es Swarovski Colgante Symbol de Mujer  Oro Amarillo  Cristal  Multicolor'
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

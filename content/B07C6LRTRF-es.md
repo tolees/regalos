@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PSA1vzugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C6LRTRF-es'
+slug: 'B07C6LRTRF-es Perfume para hombres marca Jaguar fragancia Eau de Toilette 60 ml oferta ideal para regalo colonia duradera'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

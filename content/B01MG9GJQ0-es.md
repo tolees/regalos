@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AhtXNJywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG9GJQ0-es'
+slug: 'B01MG9GJQ0-es SOUFEEL Abalorio Charm Pulsera de Foto Personalizado Plata de Ley Navidad Cumpleaño y Aniversario para Madre Mujer Niña'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

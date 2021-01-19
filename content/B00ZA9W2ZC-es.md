@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QNZRtIhUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZA9W2ZC-es'
+slug: 'B00ZA9W2ZC-es Lancôme La Vie Est Belle Intense Agua de Perfume - 30 ml'
 actualPrice: 32.75 EUR
 currency: EUR
 price: 32.75

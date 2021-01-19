@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iOdkoK85L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KKCWGZ-es'
+slug: 'B078KKCWGZ-es Dinosaurio Luz de la noche 3D LED lámpara Ilusión óptica 3D Deco 7 colores cambian con control remoto  Mesa Lámparas de escritorio Touch Switch Great Gifts  regalo de Navidad'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

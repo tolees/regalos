@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sts4x+smL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT3VHYK-es'
+slug: 'B07PT3VHYK-es Herefun 50 Piezas Globos de LED Colores Luces para Decoración de Boda Habitación Fiesta Partido Comunión Cumpleaños Navidad Reunión Ceremonia'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

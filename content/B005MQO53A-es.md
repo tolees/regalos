@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EDBH-5-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005MQO53A-es'
+slug: 'B005MQO53A-es Trussardi Uomo Eau de Toilette Vaporizador 100 ml'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

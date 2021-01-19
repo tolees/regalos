@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jAdkbSPmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C1ZA0C-es'
+slug: 'B000C1ZA0C-es Oscar by Oscar De La Renta  Eau de Toilette para Mujer - 100 ml'
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

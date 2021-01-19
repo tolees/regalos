@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IzwkAVGAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772DGS9Z-es'
+slug: 'B0772DGS9Z-es Amaza 100pcs Etiquetas de Papel Kraft Árbol de Navidad Gift Tags con Cerda de Yute Navidad Decoracion Arbol  5 Patrones '
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

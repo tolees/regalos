@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I6bExFaZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C1Z5AW-es'
+slug: 'B000C1Z5AW-es Estée Lauder  Agua de perfume para mujeres - 100 ml.'
 actualPrice: 50.24 EUR
 currency: EUR
 price: 50.24

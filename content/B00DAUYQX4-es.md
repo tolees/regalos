@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313xxyts2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DAUYQX4-es'
+slug: 'B00DAUYQX4-es Paco Rabanne Invictus Eau de Toilette Vaporizador 100 ml'
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

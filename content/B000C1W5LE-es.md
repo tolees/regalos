@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wi668XvWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C1W5LE-es'
+slug: 'B000C1W5LE-es Thierry Mugler 16863 - Agua de colonia  30 ml'
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bvJP6uOsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H5OQPF2-es'
+slug: 'B01H5OQPF2-es Angel Schlesser Bergamota Agua de Colonia Vaporizador - 100 ml'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

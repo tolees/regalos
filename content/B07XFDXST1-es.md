@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZU8MudsQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFDXST1-es'
+slug: 'B07XFDXST1-es AvoSeedo Kit Jardineria para Aguacate - Gadget Decoracion Casa con Maceta Y Decoracion Habitacion/Uso Interior o Exterior / Regalos Originales para Mujer e Ideas Regalos para Hombre En Navidad'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

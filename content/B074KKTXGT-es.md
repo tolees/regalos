@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vir-gb2DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KKTXGT-es'
+slug: 'B074KKTXGT-es Swarovski Remix Collection  Strand Infinity  baño en Tono Oro Rosa  Cristal Negro  para Mujer'
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

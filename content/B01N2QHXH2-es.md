@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JoNXZHEwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2QHXH2-es'
+slug: 'B01N2QHXH2-es Jesús Del Pozo Halloween Shot Man Agua de Tocador - 125 ml'
 actualPrice: 22.27 EUR
 currency: EUR
 price: 22.27

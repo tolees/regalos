@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I1EigjzAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM8SNFL-es'
+slug: 'B07PM8SNFL-es Harry Potter Muñeca Hermione Granger Baile de navidad de Harry Potter con accesorios  Mattel GFG14    color/modelo surtido'
 actualPrice: 18.26 EUR
 currency: EUR
 price: 18.26

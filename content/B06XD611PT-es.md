@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+HKbTHydL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD611PT-es'
+slug: 'B06XD611PT-es Abercrombie & Fitch Agua de perfume para mujeres - 30 ml'
 actualPrice: 37.47 EUR
 currency: EUR
 price: 37.47

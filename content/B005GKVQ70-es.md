@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-GphC4ToL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005GKVQ70-es'
+slug: 'B005GKVQ70-es PLAYBOY LONDON agua de tocador vaporizador 100 ml'
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jFiicXtHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074C3THZN-es'
+slug: 'B074C3THZN-es Jean Paul Gaultier Classique Agua de Perfume - 100 ml'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

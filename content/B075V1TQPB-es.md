@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EPhssKW8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075V1TQPB-es'
+slug: 'B075V1TQPB-es Cadena de Luces  YWTESCH Luz Solar de Cadena 12 LEDs Multicolor Guirnarldas de Luz Cálida LED Luces del Efecto Estrellado para Navidad  Fiestas  Bodas  Patio  Festivales etc  5.3M '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

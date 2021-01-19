@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zeK5n4EqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WR7KB8-es'
+slug: 'B000WR7KB8-es Villeroy & Boch Piemont Cubertería  Para hasta 6 personas  30 piezas  acero inoxidable'
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

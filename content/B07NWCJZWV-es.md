@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K00pT5tgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWCJZWV-es'
+slug: 'B07NWCJZWV-es Vicloon 8 Piezas Conjunto con Accesorios de Princesa del Hielo Elsa  Contiene Guantes  Varita  Corona  Anillo  Pendientes y Trenza  para Halloween  Navidad  Fiestas  cumpleaños  Niña  2-9 Años - Azul'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

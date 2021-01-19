@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41URGMKgCZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZVCN1S-es'
+slug: 'B077ZVCN1S-es Pulsera con Collar para Parejas 2 Pcs Acero Inoxidable Cerradura de Corazón Llaves Brazalete Enamorado Joyería de Moda Regalo Navidad San Valentin de Amor  Plata'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

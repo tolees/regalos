@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gu0dicdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNHVRDM-es'
+slug: 'B07PNHVRDM-es Villeroy & Boch Cuencos de cereales  0.6 litros  Porcelana Premium  Flow Couture'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l04bdXeJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018XDB8II-es'
+slug: 'B018XDB8II-es Victorio & Lucchino Nº2 Agua de Colonia - 150 ml'
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

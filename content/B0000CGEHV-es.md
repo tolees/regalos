@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nJ2t8aDYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000CGEHV-es'
+slug: 'B0000CGEHV-es Villeroy & Boch Petite Fleur Ensaladera  25 cm  Porcelana Premium  Blanco/Colorido'
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

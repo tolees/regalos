@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uooNMfahL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WTY84R-es'
+slug: 'B082WTY84R-es OwlFay Disfraz de Princesa Carnaval Vestido Reino de Hielo Vestidos de Fiesta Halloween Cosplay Navidad Costume Azul 4-5 Años'
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-A+Q6MMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P43JSQ-es'
+slug: 'B000P43JSQ-es Mandarina Duck Agua de Tocador Vaporizador - 100 ml'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

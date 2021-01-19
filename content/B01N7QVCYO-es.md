@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EGYbUeGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7QVCYO-es'
+slug: 'B01N7QVCYO-es Grsta Muñequera Magnetica Con 15 Potentes Imanes  Cinturon De Herramientas De Bricolaje Que Sostienen Tornillo Clavos Perno Broca  Herramientas coche pladur  Regalo Navidad Para  Regalos Para Hombres'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

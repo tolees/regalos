@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uIF8VcVVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006MPZKCA-es'
+slug: 'B006MPZKCA-es Roberto Cavalli Agua de Perfume - 75 ml'
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

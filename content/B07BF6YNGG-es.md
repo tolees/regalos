@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XqRIxsVSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BF6YNGG-es'
+slug: 'B07BF6YNGG-es Guerlain  Agua de colonia para mujeres - 125 ml.'
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

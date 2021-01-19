@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VBQNY1o3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSDO6LW-es'
+slug: 'B01MSDO6LW-es Jimmy Choo  Agua de perfume para mujeres - 90 gr.'
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

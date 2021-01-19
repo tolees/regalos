@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G9p-JJhcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCZS4LR-es'
+slug: 'B07XCZS4LR-es Guirnalda de Luces Solares  50 LED 8 Modos Bola de Cristal a Prueba de Agua Luces LED Decorativas de Hadas para Jardín  Bodas  Eésped  Patio  árbol de Navidad  Blanco Cálido '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

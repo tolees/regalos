@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tIJ2hbT8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBYXTTD-es'
+slug: 'B07WBYXTTD-es HI SUYI - Cojín con forma de árbol de Navidad  polipropileno  relleno de algodón   diseño de árbol de Navidad Rojo  grande   con relleno .'
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

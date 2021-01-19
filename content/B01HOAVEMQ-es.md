@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518e5N-jeaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HOAVEMQ-es'
+slug: 'B01HOAVEMQ-es Cadena solar de luces LED Salcar de 5 metros  20 mariposa de decoración  Solar Luz Cadena luminaria para navidad  fiestas  celebraciones  luz cálida '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

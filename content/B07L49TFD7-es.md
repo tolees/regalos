@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S1DroxjHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L49TFD7-es'
+slug: 'B07L49TFD7-es Carpa De Ensueño  Carpa Para Cama，Carpa Cojin Molon，Carpa Niños，Carpa Infantil，Carpa Para Niños，Carpa Para Niños Plegable Mágica De Invierno， Navidad Y Regalos De Cumpleaños  Parque de dinosaurios '
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

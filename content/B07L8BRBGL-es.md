@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jcl92-0EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8BRBGL-es'
+slug: 'B07L8BRBGL-es OBEEII Cenicienta Disfraz Cinderella Carnaval Traje de Princesa Cuentos Infantiles para Halloween Navidad Fiesta Ceremonia Aniversario Cosplay Costume para Niñas Chicas 5-6 Años'
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

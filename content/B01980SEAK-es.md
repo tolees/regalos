@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hxWz+zb4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01980SEAK-es'
+slug: 'B01980SEAK-es MENFORSAN  Agua de Colonia Fresa para Gatos - 125 ml'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

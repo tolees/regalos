@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317UjoHQIfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AZJ30G6-es'
+slug: 'B01AZJ30G6-es Swarovski Colgante Creativity Circle de Mujer  Chapado en Tono Oro Rosa  Cristal  Plata'
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

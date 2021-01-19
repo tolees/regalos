@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c8-AxA+bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD75KMB-es'
+slug: 'B07VD75KMB-es AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas de Navidad Fiesta para Boda Ceremonia Bautizo Frozen Baile Cumpleaños Halloween'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

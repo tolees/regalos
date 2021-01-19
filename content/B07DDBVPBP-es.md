@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f1-Jgmt0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDBVPBP-es'
+slug: 'B07DDBVPBP-es TABAC ORIGINAL Agua De Colonia Para Hombres 1 Unidad 100 ml'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

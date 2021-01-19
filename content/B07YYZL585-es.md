@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KxRGOM5sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYZL585-es'
+slug: 'B07YYZL585-es Rotuladores Acrílicos de 12 Colores Rotuladores Acrílicos Para Piedras Rotuladores Acrílicos Permanentes Para Tela  Madera  Vidrio  Huevo de Pascua  Regalo de Navidad'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

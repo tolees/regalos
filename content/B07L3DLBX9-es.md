@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pVcSZIjqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3DLBX9-es'
+slug: 'B07L3DLBX9-es Susan Y Regalos día de la Madre Collar Mujer Bucci Bear-be Optimistic Collar Mujer Swarovski Cristales Joyas para niñas Madre Aniversario Ella día de San valentín'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

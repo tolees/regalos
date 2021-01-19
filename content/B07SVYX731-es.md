@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FvilGri2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVYX731-es'
+slug: 'B07SVYX731-es Swarovski Collar Further  de Mujer  Blanco  Baño de Rodio'
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

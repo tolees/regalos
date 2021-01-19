@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NBF7vLl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDD7ZQW-es'
+slug: 'B07DDD7ZQW-es Lámpara Infantiles Proyector Estrella+Proyector LED+Timer Aut-Apagado+8 Modos Color+360 Grado Rotación+USB/Pilas Energizado Luz de Cabecera Niños O Adulto Regalo para Halloween Acción Gracias Navidad'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

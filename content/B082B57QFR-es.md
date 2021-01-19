@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BJXwLfRsL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B082B57QFR-es'
+slug: 'B082B57QFR-es OBEEII Blancanieves Disfraz con Capa 9 Piezas Carnaval Capa Corona Varita Mágica Guante Accesorios Traje de Princesa para Halloween Navidad Fiesta Cosplay Costume para Niñas Chicas 3-4 años'
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IW-pCyixL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F13D9WG-es'
+slug: 'B07F13D9WG-es ThxMadam Scrapbook Álbum de Fotos Libro de Visitas de Boda con 50 Páginas Negras Presentes para Regalo de Valentín Día de Aniversario Navidad Cumpleaños para Esposa Hija Madre  Director B'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

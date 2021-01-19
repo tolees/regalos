@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wdMv3NCIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PTSL2Y-es'
+slug: 'B086PTSL2Y-es Bombas de Baño  Aofmee Bomba de Baño Set de Regalo  Sales de Baño Relajantes y Espuma  Bolas Baño Efervescentes  Regalo Cumpleaños Valentin dia de la Madre Navidad para Mujer Amigas Niños Esposas'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UMAg7BJ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JWMZ1OQ-es'
+slug: 'B01JWMZ1OQ-es Prada L Homme Agua de Tocador - 50 ml'
 actualPrice: 51.19 EUR
 currency: EUR
 price: 51.19

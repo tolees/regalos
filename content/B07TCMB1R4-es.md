@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z073U-kHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCMB1R4-es'
+slug: 'B07TCMB1R4-es Alex Perry Regalo Día de la Madre pendientes mujer swarovski joyas para mujer pendientes adelgazar regalos san valentin mujer pendientes para boda niñas novia regalo para mujer madre e hija'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

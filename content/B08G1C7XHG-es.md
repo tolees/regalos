@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K5k1MWUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1C7XHG-es'
+slug: 'B08G1C7XHG-es Satkago Set Peluqueria Juguete Niña Belleza con Secador de Pelo Juego de rol  Halloween / Navidad Regalos'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

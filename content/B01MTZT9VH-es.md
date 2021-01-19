@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gY57ZjIdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTZT9VH-es'
+slug: 'B01MTZT9VH-es Guirnalda Cadena de Luces de LED Alambre de Cobre Iluminacion Dorada 3 Metros 30 LED con 3 Modos de Caja de Bateria Decoracion para Navidad Bodas Fiestas de Enuotek'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

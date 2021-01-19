@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XIMKD+TQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CMOG91G-es'
+slug: 'B00CMOG91G-es Bvlgari Aqua Eau de Toilette Para Hombre con Vaporizador  150 ml'
 actualPrice: 71.43 EUR
 currency: EUR
 price: 71.43

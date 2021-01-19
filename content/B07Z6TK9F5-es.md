@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RBajgC5ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6TK9F5-es'
+slug: 'B07Z6TK9F5-es Álvarez Gómez Flores Mediterráneas Jazmín de Noche  Agua de Colonia Frasco de 150 ml'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

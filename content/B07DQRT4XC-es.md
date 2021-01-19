@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qY+39Y98L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQRT4XC-es'
+slug: 'B07DQRT4XC-es Swarovski Pendientes Magic  blanco  baño de rodio'
 actualPrice: 61.49 EUR
 currency: EUR
 price: 61.49

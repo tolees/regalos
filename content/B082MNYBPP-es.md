@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vHtkEad5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MNYBPP-es'
+slug: 'B082MNYBPP-es DREAMWIN Capa de Superhéroe  5 Capa y Máscaras y Pulseras para Niños  Cosplay de Superhéroe  Ideas Kit de Fiesta de Cumpleaños de Navidad  Suministros de Fiesta de Superhéroes'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

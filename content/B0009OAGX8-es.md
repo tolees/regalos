@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z9hNm7tqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009OAGX8-es'
+slug: 'B0009OAGX8-es Ralph Lauren 2706 - Agua de colonia'
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

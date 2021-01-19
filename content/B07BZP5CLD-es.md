@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BwghFIToL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZP5CLD-es'
+slug: 'B07BZP5CLD-es J.Rosée Collares Mujer Colgante Plata de Ley 925 La Libertad de Volar Brillante Circonita Regalos Originales Cadena 45cm+5cm  Regalos Navidad'
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

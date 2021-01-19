@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AZqYnkBXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAPXNE2-es'
+slug: 'B00XAPXNE2-es POLIL colgador antipolillas aroma agua de colonia paquete 2 uds'
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

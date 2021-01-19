@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517Dkfr1NGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SQJX4R-es'
+slug: 'B082SQJX4R-es MOCOCITO Calcetines de Mujer  6 Pares Calcetines Algodón divertidos de Gato Cartoon Gruesos Térmicos Transpirables para invierno.Ideal para usos diarios  regalo de Navidad  cumpleaños etc'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

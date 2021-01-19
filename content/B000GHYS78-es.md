@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31kZBsrLkzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GHYS78-es'
+slug: 'B000GHYS78-es Issey Miyake Pleats Please Agua de perfume Vaporizador 30 ml'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

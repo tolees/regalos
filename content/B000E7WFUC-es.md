@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E7WFUC-es'
+slug: 'B000E7WFUC-es ESTÉE LAUDER WHITE LINEN agua de perfume vaporizador 60 ml'
 actualPrice: 33 EUR
 currency: EUR
 price: 33

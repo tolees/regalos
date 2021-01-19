@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pi8lLKC3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0731Q7VDQ-es'
+slug: 'B0731Q7VDQ-es Adidas Uefa Champions Edition Eau de Toilette para Hombre -  100 ml.'
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

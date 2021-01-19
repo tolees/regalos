@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KRGhCFOFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009OAI8Q-es'
+slug: 'B0009OAI8Q-es Elizabeth Taylor White Diamond Eau De Toilette 100 ml'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

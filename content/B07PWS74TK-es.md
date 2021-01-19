@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a6SoepkIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWS74TK-es'
+slug: 'B07PWS74TK-es Axcer LED Zapatos Verano Ligero Transpirable Bajo 7 Colores USB Carga Luminosas Flash Deporte de Zapatillas con Luces Los Mejores Regalos para Niños Niñas Cumpleaños de Navidad Reyes Mango'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UtBsn263L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FJRVYAI-es'
+slug: 'B01FJRVYAI-es Cadena solar de luces LED Salcar de 5 metros  20 gotas de agua de decoración  Solar Luz Cadena luminaria para navidad  fiestas  celebraciones  blanco cálido '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

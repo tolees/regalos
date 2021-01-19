@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w+VgdUZdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NI4ZLE-es'
+slug: 'B000NI4ZLE-es Adidas Fruity Rhythm Eau De Toilette Woda toaletowa dla kobiet 30ml'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

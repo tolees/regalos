@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31HpTJhRiiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VOHQA2-es'
+slug: 'B000VOHQA2-es Vanderbilt Eau De Toilette Con Vaporizador 100 ml'
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

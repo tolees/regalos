@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312-NAGiBjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004NXLIJM-es'
+slug: 'B004NXLIJM-es Donna Karan DKNY  Agua de tocador para mujeres - 100 ml.'
 actualPrice: 43.72 EUR
 currency: EUR
 price: 43.72

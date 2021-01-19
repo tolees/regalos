@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MXAhVc6yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9C9NN1-es'
+slug: 'B07Y9C9NN1-es Fontee® Perrito Navidad Rojo Capa Terciopelo Saco de Disfraces para Perro y Gorro Navideño para Mascota'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

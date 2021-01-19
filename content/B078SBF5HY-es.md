@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kZDXsdXbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SBF5HY-es'
+slug: 'B078SBF5HY-es Swarovski Colgante Anillo Stone Round Ring  baño de rodio  Cristal Blanco  para Mujer'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61bbPcf4F1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4JXYYZ-es'
+slug: 'B07Z4JXYYZ-es WisFox Explosion Box  Creativo DIY Hecho a Mano Sorpresa Explosión Caja de Regalo Amor Memoria  Álbum de Fotos de Scrapbooking Caja para Cumpleaños Día de San Valentín Aniversario Navidad 3 Pluma '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

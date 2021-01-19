@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51zPBteKRdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6RZX8X-es'
+slug: 'B07J6RZX8X-es UTTORA Kit de Exploración para Niños 17 en 1  Juego de Explorador para Niños para Niños Prismáticos/Binoculares  Silbato  Brújula  Lupa  6 Arañas Plasticas  Regalo para Navidad  los Reyes'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

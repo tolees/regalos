@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61PPzCa76eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q6PEUI6-es'
+slug: 'B00Q6PEUI6-es Cesta con American Candy | Caja de caramelos y Chucherias Americanas | Surtido de 18 artículos incluido Reeses  Baby Ruth  Nerds  Hersheys| Golosinas para Navidad Reyes o para regalo'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

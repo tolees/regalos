@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61IB2BRIoIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3ZMY6Q-es'
+slug: 'B07B3ZMY6Q-es PLAYMOBIL Calendario de Adviento Navidad en el Bosque  A partir de 1.5 años  9391 '
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lJSBrVC-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3TALAM-es'
+slug: 'B00A3TALAM-es Thierry Mugler Angel Agua de perfume Vaporizador Refillable 25 ml'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O-931WDzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JA990NY-es'
+slug: 'B01JA990NY-es Prada La Femme Prada Agua de Perfume Vaporizador - 50 ml'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412LmHB2c-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P20RPQ-es'
+slug: 'B000P20RPQ-es Bulgari  Agua de tocador para hombres  Soir  - 100 ml.'
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

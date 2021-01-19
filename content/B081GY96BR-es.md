@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JC0zn3FTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081GY96BR-es'
+slug: 'B081GY96BR-es Susan Y regalo del día de la madre arete mujer joyería mujer regalo swarovski mamá joyería mujer regalo original mujer navidad idea regalos mujer regalo abuela regalo niña adolescente'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uDy6j3h3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXPWT41-es'
+slug: 'B07KXPWT41-es Luces de cadena LED  copo de nieve Iluminación LED decorativa IP65 Luces exteriores impermeables para el interior de Navidad  fiesta  cumpleaños  dormitorio  clubes  decoración de jardines y jardines'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hXgAJ27+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MEGKQB1-es'
+slug: 'B01MEGKQB1-es Guerlain Homme Agua de Perfume para Hombres - 100 gr'
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51jXgmefDeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKWFDDZ-es'
+slug: 'B07GKWFDDZ-es NUÜR Luz de Neón  Estrella Lunar LED Señales Luminosas Neón  USB Luces de Noche Decoración de Pared Luces de Neón Lámparas para La Sala de Estar de la Boda de Navidad de la Oficina'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

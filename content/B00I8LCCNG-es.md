@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5109ZaGdlTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I8LCCNG-es'
+slug: 'B00I8LCCNG-es Adidas Get Ready Eau De Toilette para Hombre - 50 ml'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TQoV8hZxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYPT8Z4-es'
+slug: 'B07GYPT8Z4-es 60 LED 10M Cadena Solar de Luces  IP65 Impermeable 8 Modos Luces Decorativas  Guirnalda Luces Exterior Luminosas para Exterior Interior  Jardines  Casas  Boda  Fiesta de Navidad  multicolor '
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

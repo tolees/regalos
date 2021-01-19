@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JnMZ3EToL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073YQ5F5G-es'
+slug: 'B073YQ5F5G-es Regalo De Navidad Abalorio Pulsera Mujer Plateado De Plata Con Flores Corazón Charms'
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

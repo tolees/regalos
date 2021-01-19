@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t-OhHd9mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJRD36T-es'
+slug: 'B07YJRD36T-es AUOPLUS 30M 300 LED Guirnalda Luz Exterior Solar Cadena de Luces Blanco Cálido 8 Modos Decoración para Navidad Fiestas Bodas Patio Dormitorio Jardines  Festivales[Clase de eficiencia energética A+++]'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

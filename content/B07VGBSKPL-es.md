@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UzjBvIp9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGBSKPL-es'
+slug: 'B07VGBSKPL-es OBEEII Disfraz Rapunzel Niña Carnaval Vestido de Princesa para Navidad Fiesta Halloween Cosplay Costume Rapunzel para Niña 4-5 Años'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

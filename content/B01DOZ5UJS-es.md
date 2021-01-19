@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DOZ5UJS-es'
+slug: 'B01DOZ5UJS-es Burberry  Agua de colonia para hombres - 150 gr.'
 actualPrice: 55.04 EUR
 currency: EUR
 price: 55.04

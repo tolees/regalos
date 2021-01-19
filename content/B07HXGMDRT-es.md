@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31q5j6Fux3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HXGMDRT-es'
+slug: 'B07HXGMDRT-es vivo Villeroy & Boch Group New Fresh Basic Cubertería  18/10 Acero Inoxidable  Plata'
 actualPrice: 50.33 EUR
 currency: EUR
 price: 50.33

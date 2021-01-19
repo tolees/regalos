@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P9d5EpBXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002KD0WGC-es'
+slug: 'B002KD0WGC-es Paco Rabanne Ultraviolet Agua de perfume Vaporizador 50 ml'
 actualPrice: 43.97 EUR
 currency: EUR
 price: 43.97

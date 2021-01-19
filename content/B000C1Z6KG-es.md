@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wPg2cu5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C1Z6KG-es'
+slug: 'B000C1Z6KG-es Jennifer Lopez Glow - Eau de toilette  100 ml'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

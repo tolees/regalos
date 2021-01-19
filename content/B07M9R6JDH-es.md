@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6iO%2BwmtL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9R6JDH-es'
+slug: 'B07M9R6JDH-es Angelady Collar de Pendientes Juego de Joyas de para Mujer Cristal de Swarovski  Pendientes de Oreja sin Agujero de Plata de Ley 925 Regalo para la Novia'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

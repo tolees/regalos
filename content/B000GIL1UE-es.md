@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41frpRM6lvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GIL1UE-es'
+slug: 'B000GIL1UE-es Versace Crystal Noir Agua de Tocador Vaporizador - 90 ml'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PQaZ5aAFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZC494Z-es'
+slug: 'B08BZC494Z-es 3d led night 3d illusion light Ciclismo Night Light para bebé Dormitorio Decoración Gift Christmas Bedroom Party Decoration （Interruptor tactil  - Estilo 1581'
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

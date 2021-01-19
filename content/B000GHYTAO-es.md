@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M1-mHZNaL._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GHYTAO-es'
+slug: 'B000GHYTAO-es Lancome Hypnôse Agua de perfume Vaporizador 30 ml'
 actualPrice: 29.55 EUR
 currency: EUR
 price: 29.55

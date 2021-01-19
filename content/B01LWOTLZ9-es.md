@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ENigebboL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWOTLZ9-es'
+slug: 'B01LWOTLZ9-es Carolina Herrera 212 Vip Rosé Agua de Perfume Vaporizador - 125 ml'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

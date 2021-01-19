@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e3T7NuVwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012RYDWG-es'
+slug: 'B0012RYDWG-es Yves Saint Laurent Ysl L Homme Eau de Toilette Vaporizador 100 ml'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

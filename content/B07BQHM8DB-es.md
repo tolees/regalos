@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OS8sFev1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQHM8DB-es'
+slug: 'B07BQHM8DB-es Luz de decoración con forma de letrero de neón LED  decoración de pared para Navidad  fiesta de cumpleaños  sala de niños  sala de estar  decoración de fiesta de bodas  azul '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

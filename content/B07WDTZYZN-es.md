@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61sLG8nVjjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDTZYZN-es'
+slug: 'B07WDTZYZN-es Proyector Navidad LED  FOCHEA Luces de Proyector Interior y Exterior con 16 Diapositivas Reemplazables y Control Remoto RF para Halloween  Navidad  Valentín  Fiesta  Cumpleaños'
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mwbW54EGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814YM7JD-es'
+slug: 'B0814YM7JD-es Swarovski Collar Swan de Mujer con Rodio Plateado  Cristal  Blanco'
 actualPrice: 89.1 EUR
 currency: EUR
 price: 89.1

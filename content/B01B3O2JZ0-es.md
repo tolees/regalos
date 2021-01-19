@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OwJKirM9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B3O2JZ0-es'
+slug: 'B01B3O2JZ0-es Victoria Secret Temptation  Agua de perfume para mujeres  250 ml  1 Pieza'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

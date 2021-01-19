@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517ICvx4RUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3QZNFK-es'
+slug: 'B07H3QZNFK-es Mopoin 24 Pcs Mini Juegos Rompecabezas Set  Juego De Ompecabezas  Juego De Rompecabezas De Cumpleaños para Niños  Regalo para Navidad  Aliviar El Estrés'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

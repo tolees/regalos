@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61ynVQ24dHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG1Q4SH-es'
+slug: 'B07WG1Q4SH-es Yasolote 22M Guirnalda de Luces Solares 8 Modos 200 LED Luces de Navidad de Exterior Impermeables para Decorar Patio  Jardín  Terraza  Boda  Fiesta  Navidad  Blanco cálido '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

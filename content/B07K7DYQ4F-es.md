@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61VuTe4TFpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7DYQ4F-es'
+slug: 'B07K7DYQ4F-es Guirnalda Luces Exterior  10 Tubo 30cm 300 LEDs IP65 Impermeable luz Navidad  Impermeable Iluminacion Jardin Decorativas Fiestas  30cm Blanco '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

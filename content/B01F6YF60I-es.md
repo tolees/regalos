@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517-SxPDLfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F6YF60I-es'
+slug: 'B01F6YF60I-es Old Spice Whitewater Vaporizador Agua de Colonia - 100 ml'
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

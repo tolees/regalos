@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-BCKmYpWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KXKFPQ-es'
+slug: 'B071KXKFPQ-es Pendientes Mariposa Brillante Blancos de Regalo de Navidad'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QZV14XgnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0051PSF5G-es'
+slug: 'B0051PSF5G-es Atkinsons English Lavender Agua de Tocador - 620 ml  8000600023296 '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

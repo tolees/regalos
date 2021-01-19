@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411%2BjJl%2BJIL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GRFW84I-es'
+slug: 'B00GRFW84I-es Adolfo Dominguez - Agua de Bambú  agua de tocador vaporizador  para hombre  120 ml'
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

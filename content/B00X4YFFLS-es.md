@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EpnghbiOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X4YFFLS-es'
+slug: 'B00X4YFFLS-es Guerlain L Homme Ideal agua de colonia Vaporizador 100 ml'
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

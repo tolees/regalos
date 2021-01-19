@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kXZWVIHML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NVB7OZO-es'
+slug: 'B00NVB7OZO-es XMASKING Estrella Cometa de 95 cm en Tubo Luminoso  108 LED Blanco cálido  Estrellas Luminosas  decoración navideña  Luces de Navidad'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

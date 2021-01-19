@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515svT8Rj0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MNQSZF-es'
+slug: 'B086MNQSZF-es YO-HAPPY Kids Photo Use Medias  Navidad Cosplay Party Use  Suave'
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

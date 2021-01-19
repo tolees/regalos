@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tEZ2lt8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FY57E3G-es'
+slug: 'B01FY57E3G-es Mont Blanc Legend  Eau de Toilette para hombres - 200 ml.'
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419nbFE+1wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001IB4E4I-es'
+slug: 'B001IB4E4I-es Bvlgari BLV POUR HOMME 47028 - Eau de toilette para hombre 100 ml'
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

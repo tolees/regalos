@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514tC3byv9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WTQGNTA-es'
+slug: 'B00WTQGNTA-es Flongo Brazalete Pulsera Pareja Novios  Pulsera Acero Inoxidable El Amor Infinito  Regalo Día de los Enamorados Navidad  Elegantes Modelos Varios'
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

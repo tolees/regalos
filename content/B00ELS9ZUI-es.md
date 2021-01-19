@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31swLAmhAEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ELS9ZUI-es'
+slug: 'B00ELS9ZUI-es Estee Lauder 56889 - Agua de perfume'
 actualPrice: 65.73 EUR
 currency: EUR
 price: 65.73

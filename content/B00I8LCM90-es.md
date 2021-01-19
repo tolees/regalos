@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4146dEvbwRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I8LCM90-es'
+slug: 'B00I8LCM90-es Adidas Get Ready Eau de Toilette para Mujer -  50 ml'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

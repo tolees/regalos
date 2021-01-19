@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BJX81KdIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829DQWP3-es'
+slug: 'B0829DQWP3-es Bolsa de agua caliente de Navidad  tapa extraíble de punto suave  botella de goma de calidad superior más gruesa + diseño de unicornio  regalo de Navidad práctico y bonito  2 L '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

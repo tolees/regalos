@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n2s4wY-lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792QCT3J-es'
+slug: 'B0792QCT3J-es LEGO Friends - Calendario De Adviento para Amigos  41353 '
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t4VUs32zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3S6DW6-es'
+slug: 'B07W3S6DW6-es LitBud Niños Sudaderas con Capucha para niños Niño pequeño Dinosaurio de Dibujos Animados Cocodrilo Navidad Acción de Gracias Cremallera Capa Otoño Azul Tamaño 6-7 años 7T'
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

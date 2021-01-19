@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/617irzy2ENL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HBGMOEK-es'
+slug: 'B01HBGMOEK-es BUYERTIME 5M/16.4Ft 50 LEDs Cadena de Luces Impermeable Flexible de Alambre de Plata con Caja de Batería AA Batería No Incluye  para Iluminación DIY  Navidad  Fiesta  Decoración - Blanco Cálido'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

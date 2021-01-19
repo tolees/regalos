@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61cQldXSBxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVV8BPW-es'
+slug: 'B07CVV8BPW-es 48 PCS 3D Nail Art Decoration Glitter Powder Sequins Set Festival Chunky Glitter Face Body Hair Decoration Party DIY Craft Slime Making Kit  Lentejuelas Nail Salon Equipos para Navidad Halloween'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

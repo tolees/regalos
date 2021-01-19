@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EBQ8A4+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCNQ2SD-es'
+slug: 'B07HCNQ2SD-es Square Enix Bring Arts - Kingdom Hearts II Sora Christmas Town Version Figura de acción  15cm   color/modelo surtido'
 actualPrice: 64.87 EUR
 currency: EUR
 price: 64.87

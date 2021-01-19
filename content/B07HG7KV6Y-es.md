@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61etGFda0ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG7KV6Y-es'
+slug: 'B07HG7KV6Y-es WOSTOO Guirnalda Luces Luces LED Pilas USB 2 en 1 Blanco Cálido Luces de Hadas 138 Luces LED con 2 Modos Parpadeantes para Navidad Jardín Fiesta Boda Dormitorio[Clase de Eficiencia Energética A]'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L1g5YfkjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GZ2XHNT-es'
+slug: 'B08GZ2XHNT-es YUCCH 24pcs Bolsas de regalo de Navidad de Papel Incluye 24 número pegatinas+24 etiquetas colgantes de Navidad para Navidad  cumpleaños  fiesta de té  bodas ycelebraciones de fiestas'
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

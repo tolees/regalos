@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51llfsy0BnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009OAGS8-es'
+slug: 'B0009OAGS8-es Paco Rabanne Paco Rabanne Homme Eau de Toilette Vaporizador 100 ml'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

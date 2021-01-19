@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rwRBzu6fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPVDQVF-es'
+slug: 'B07RPVDQVF-es Pintura Cara Lenbest  Pintura Facial  Pintura Facial y Corporal para Halloween Navidad Carnavales y Fiesta - con 12 Colores 24 Plantillas 2 Cepillos 2 Esponjas 2 Barras de Ojos 1Brillos'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

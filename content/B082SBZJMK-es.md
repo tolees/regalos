@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515reKLLeFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SBZJMK-es'
+slug: 'B082SBZJMK-es WEMEK Niñas Disfraz de Princesa Elsa con Capa Frozen Anna Vestido Reino de Hielo Ice Queen Cosplay Traje de Carnaval Halloween Navidad Fiesta Outfits de cumpleaños 02 7-8 años'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

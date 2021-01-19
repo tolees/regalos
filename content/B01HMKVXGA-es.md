@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31baTKZ-xkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HMKVXGA-es'
+slug: 'B01HMKVXGA-es Calvin Klein Deep Euphoria Agua de Perfume - 50 ml'
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

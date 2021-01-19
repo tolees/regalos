@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GFy1ZlYPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000YRLU76-es'
+slug: 'B000YRLU76-es Adolfo Dominguez - Agua Fresca Agua De Tocador Vaporizador  120 ml'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

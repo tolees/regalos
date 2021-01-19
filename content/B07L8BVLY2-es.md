@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vcSPPZBWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8BVLY2-es'
+slug: 'B07L8BVLY2-es OBEEII Blancanieves Disfraz con Capa Snow White Carnaval Traje de Princesa Cuentos Infantiles para Halloween Navidad Fiesta Ceremonia Aniversario Cosplay Costume para Niñas Chicas 4-5 Años'
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

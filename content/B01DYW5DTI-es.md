@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xTL6rbR+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DYW5DTI-es'
+slug: 'B01DYW5DTI-es Vera Wang Embrace Rosebuds & Vanilla Eau de Toilette para Mujer - 30 ml.'
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

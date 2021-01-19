@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31j6JQmOV3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007YA6MOC-es'
+slug: 'B007YA6MOC-es Shiseido 70518 - Agua de colonia'
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

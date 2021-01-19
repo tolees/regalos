@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tWmlI4M3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NM7QB6-es'
+slug: 'B082NM7QB6-es IWEMEK Disfraz de Princesa Anna Vestido Frozen Niñas Reina de Hielo Cosplay Tutu Tul Maxi Vestido Carnaval Traje Halloween Navidad Ceremonia Cumpleaños Fiesta Theme Fancy Dress Costume Verde 7-8 Años'
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

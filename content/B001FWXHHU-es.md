@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418xlnZVRBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FWXHHU-es'
+slug: 'B001FWXHHU-es Issey Miyake L Eau D Issey pour Homme Intense - Agua De Tocador Vaporizador  125 ml'
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

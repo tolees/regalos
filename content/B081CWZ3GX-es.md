@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D8acJ799L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CWZ3GX-es'
+slug: 'B081CWZ3GX-es Kami Idea Regalos Dia de la Madre Originales Collares Mujer Joven Tous Mujer Joyeria Swarovski Cristal Oro Rosa Anillos Colgante Regalos para Mujer Mama Regalo Cumpleaños Mujer'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

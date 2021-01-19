@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UnpmVOBtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZBRK9M-es'
+slug: 'B08BZBRK9M-es 3d night light led illusion night Tigre Night Light para bebé Dormitorio Decoración Gift Christmas Bedroom Party Decoration （Interruptor tactil  - Estilo 1641'
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

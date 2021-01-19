@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51h45t6rifL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPV1PRT-es'
+slug: 'B07KPV1PRT-es Yvsoo Calendario Adviento Juguetes Set 3Pcs Rompecabezas Metal + 3Pcs Rompecabezas Madera Puzzle 3D Juegos de Habilidad para Niños y Adultos'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

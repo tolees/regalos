@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WnszsPGsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDFW23T-es'
+slug: 'B06XDFW23T-es Mont Blanc  Agua de tocador para mujeres - 200 ml.'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

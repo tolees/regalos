@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oJM8UcXLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004HIHMTS-es'
+slug: 'B004HIHMTS-es Boucheron  Agua de colonia para mujeres - 30 gr.'
 actualPrice: 10.33 EUR
 currency: EUR
 price: 10.33

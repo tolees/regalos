@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zfIC8ALkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SQ19AO-es'
+slug: 'B002SQ19AO-es Issey Miyake A Scent by Issey Miyake - Agua de tocador vaporizador  100 ml 3.3 FL. OZ'
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

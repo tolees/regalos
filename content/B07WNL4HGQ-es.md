@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s0og4tjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNL4HGQ-es'
+slug: 'B07WNL4HGQ-es Cortina de Luces  Luz Cadena  Luz de Cortina  LED Guirnaldas luminosas  Cadena De Luces  8 Modos de Luz Perfecto para Decoración de Navidad  Festival Fiestas  Casa Jardín Boda  3*3m Blanco Cálido'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

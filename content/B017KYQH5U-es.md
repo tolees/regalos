@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bMSgYVKRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017KYQH5U-es'
+slug: 'B017KYQH5U-es Heno De Pravia Original Agua de Colonia - 650 ml'
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

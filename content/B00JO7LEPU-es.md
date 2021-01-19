@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ErB67mh2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JO7LEPU-es'
+slug: 'B00JO7LEPU-es Montblanc Emblem Agua de Tocador - 100 ml'
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

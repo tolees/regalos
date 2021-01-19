@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51vS%2BxVeYXL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK34NG9-es'
+slug: 'B07BK34NG9-es AmzBarley Princesa Vestido Disfraz Traje Reina de Nieve Dress Costume Niña Infantil Capa Manga Larga por Cumpleaños Cosplay Halloween Baile Navidad Fiesta Boda Bautizo Ceremonia Carnaval 2-3 Años'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

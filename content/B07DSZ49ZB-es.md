@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZZLYzsE9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSZ49ZB-es'
+slug: 'B07DSZ49ZB-es Swarovski Pendientes Symbolic Evil Eye de Mujer  chapados en tono Oro Rosa  Cristal  Multicolor'
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

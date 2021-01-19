@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518qFC9Rp7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QCMP8W-es'
+slug: 'B083QCMP8W-es Aerb Guirnalda Luz Exterior Solar  2 Pack Cadena de Luces 15M 150 LED  Panel Solar de 85X85mm  Impermeable Iluminación Decoración para Árbol en Jardín  Navidad  Fiesta  Patio  Celebración  Casa'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21xKTCH8hhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYD2V7A-es'
+slug: 'B01MYD2V7A-es Calvin Klein CK All Agua de Tocador - 200 ml'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

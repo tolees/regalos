@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z9n9JK0zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBXC56J-es'
+slug: 'B07MBXC56J-es OxyLED Guirnaldas luminosas de exterior [LED Versión]G40 7 62Metros 12 bombillas Luces de la secuencia del jardín al aire libre Decorative String Luces de patio Garden Luces de patio de Navidad'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

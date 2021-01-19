@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W8pfgwHFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FFM8TSL-es'
+slug: 'B08FFM8TSL-es CINMOK 2pcs Cinta Regalo Color Metálica  Cinta Brillante rollo  Decoración Rojo de Manualidades en Navidad para Árboles de Navidad  Embalaje Regalo.'
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

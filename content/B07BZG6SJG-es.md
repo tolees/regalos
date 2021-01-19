@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511KjcO91UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZG6SJG-es'
+slug: 'B07BZG6SJG-es J.Rosée Pendientes Mujer Plata de Ley 925 [Buena Suerte] Brillante Circonita Regalos Originales  Regalos Navidad'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

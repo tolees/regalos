@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E1DAten0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JZ1ZQ5-es'
+slug: 'B081JZ1ZQ5-es Camara Fotos Infantil Cámara de Fotos para Niños con HD 1080P Cámara Recargable para Niños Cumpleaños Festival de Navidad'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

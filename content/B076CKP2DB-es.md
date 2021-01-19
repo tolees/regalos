@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XH-tbDiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CKP2DB-es'
+slug: 'B076CKP2DB-es WAWJ - Collar con colgante difusor de acetites esenciales de aromaterapia de acero inoxidable en forma de árbol de la vida  ideal como regalo de Navidad  con cadena de 60 96 cm y 12 discos de fieltro'
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

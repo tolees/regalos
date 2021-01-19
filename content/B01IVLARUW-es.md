@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ThTkdFqgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVLARUW-es'
+slug: 'B01IVLARUW-es Paco Rabanne 1 Million Privé Agua de Perfume Spray - 50 ml'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

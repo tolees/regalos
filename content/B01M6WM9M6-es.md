@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41--jeWoc+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6WM9M6-es'
+slug: 'B01M6WM9M6-es Nenuco Agua de Colonia recomendado para bebés  fragancia original - formato de cristal 200 ml'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

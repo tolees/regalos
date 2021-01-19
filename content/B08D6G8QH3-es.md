@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WBgh7tuuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6G8QH3-es'
+slug: 'B08D6G8QH3-es UBERMing 20 Piezas Regalos de Ángel de Guarda + Bolsa de Organza + Etiqueta Papel de Estraza Ángel de la Guarda con Llavero para Navidad Boda Fiesta Comunión Confirmación Regalo para Invitados'
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

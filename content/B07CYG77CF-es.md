@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311tt1TxiZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYG77CF-es'
+slug: 'B07CYG77CF-es Elizabeth Arden  Agua de perfume para mujeres - 30 ml.'
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

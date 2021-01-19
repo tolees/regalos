@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ubiazysuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C3BRQZG-es'
+slug: 'B00C3BRQZG-es Biotherm Homme Aquafitness Eau de Toilette Vaporizador 100 ml'
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

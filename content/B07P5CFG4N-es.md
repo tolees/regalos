@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wJlXutQkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5CFG4N-es'
+slug: 'B07P5CFG4N-es ALLOMN Rosa  Flores Artificiales  24K Chapado en Oro Rosa con Caja de Regalo día de San Valentín Día de la Madre Cumpleaños de Navidad  Rojo '
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

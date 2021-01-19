@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61tQkqAPMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089WC8ZV4-es'
+slug: 'B089WC8ZV4-es feihao Velas Perfumadas Velas Aromaticas Cera de Soja Natural Aromaterapia Decoración para Relajación Fiesta Boda Baño Yoga Cumpleaños Navidad Día de San Valentín Regalos 8 Piezas '
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

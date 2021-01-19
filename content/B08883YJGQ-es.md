@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h4snpeBUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08883YJGQ-es'
+slug: 'B08883YJGQ-es Crystals & Stones BAP39 - Pendientes de plata de ley 925 bañados en oro de 24 quilates con cristales de Swarovski'
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AGstjR6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVDS1XB-es'
+slug: 'B07PVDS1XB-es 7 Bolsas de Regalo Marrón y Papel de Seda de Purple Ladybug Novelty| Bolsitas Kraft Originales 19x24x12 cm para Personalizar y Envolver Regalos| Envoltorio para Fiestas de Cumpleaños  Navidad y más'
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

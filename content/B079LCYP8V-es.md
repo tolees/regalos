@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-lqpkY-qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LCYP8V-es'
+slug: 'B079LCYP8V-es Narciso Rodriguez  Agua de perfume para hombres - 50 ml.'
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

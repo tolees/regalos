@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kOIFKQwEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAIR71E-es'
+slug: 'B00XAIR71E-es Aire de Sevilla Set de Belleza Edición Azul Fresh - Crema Hidratante Corporal  Eau de Toilette  Gel Exfoliante'
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ukKDj2AeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZM4LSQR-es'
+slug: 'B07ZM4LSQR-es Botella calefactora de microondas Bolsa de agua caliente transparente de silicona ambiental con cubierta de punto  terapias frías y calientes - Regalo para cumpleaños  Navidad  320ml  rosado '
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

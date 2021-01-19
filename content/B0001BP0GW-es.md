@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sBviPilNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001BP0GW-es'
+slug: 'B0001BP0GW-es Guerlain - Eau de Toilette Mitsouko'
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

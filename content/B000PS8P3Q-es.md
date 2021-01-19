@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tNqzQdbAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000PS8P3Q-es'
+slug: 'B000PS8P3Q-es Hugo Boss  Agua de tocador para hombres - 75 ml.'
 actualPrice: 30.94 EUR
 currency: EUR
 price: 30.94

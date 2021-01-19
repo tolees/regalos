@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-AmXorAnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPD1ZXJ-es'
+slug: 'B07ZPD1ZXJ-es Westend - Zapatillas de Navidad para Hombre  patrón nórdico'
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

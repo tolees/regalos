@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nBJd06E6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJZMX74-es'
+slug: 'B07BJZMX74-es Yasolote Luz Solar 22M 200 LED Guirnalda de Luces 8 Modos de Luces de Alambre de Cobre Impermeable para Decoración de Fiestas  Bodas  Navidad  Exterior e Interior  Colores '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

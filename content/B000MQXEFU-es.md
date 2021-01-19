@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BVkKDOrwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MQXEFU-es'
+slug: 'B000MQXEFU-es Jaguar Agua de colonia para mujeres 1 unidad 130 g'
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

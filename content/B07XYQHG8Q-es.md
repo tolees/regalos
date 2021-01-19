@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ozx5dgVtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYQHG8Q-es'
+slug: 'B07XYQHG8Q-es TAZEMAT 30 Hojas Papel de Rascar Pulseras para Rascar Manualidades para Niños Scratch Art Creativo y Mágico Colores Arco Iris Rascables con Lápices de Bambú Regalo para Fiestas Cumpleaños Navidad'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

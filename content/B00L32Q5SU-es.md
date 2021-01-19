@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51EAC%2Br1BkL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L32Q5SU-es'
+slug: 'B00L32Q5SU-es Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette Vaporizador 100 ml'
 actualPrice: 31.89 EUR
 currency: EUR
 price: 31.89

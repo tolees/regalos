@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iR8j8W-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R6CX3F-es'
+slug: 'B075R6CX3F-es Nos sentido decantador de vino aireador para Navidad y vacaciones regalo Magic Decanter 2'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

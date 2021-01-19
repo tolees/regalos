@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41R-H58k%2BjL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSHHMSW-es'
+slug: 'B07VSHHMSW-es Amilril Collar  Colgante Luna y Gato  Plata de Ley 925 Moda Joyería  Navidad Joyas Regalos Originales'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

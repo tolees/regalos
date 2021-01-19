@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RP1V4IL5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B618VKR-es'
+slug: 'B07B618VKR-es VIPMOON 2x5m/32.8ft 2pcs 6803 IC Dream Magic Tira de LED impermeable colorida DC 12V SMD 5050 RGB Tira de luz LED con 133 cambios RF Remoto - Adecuado para el uso en el jardín de vacaciones en Navidad'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

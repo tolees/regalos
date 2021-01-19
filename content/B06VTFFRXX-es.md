@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-rfEPPoBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VTFFRXX-es'
+slug: 'B06VTFFRXX-es Salvatore Ferragamo Signorina In Fiore Agua de Tocador Vaporizador - 50 ml'
 actualPrice: 32.55 EUR
 currency: EUR
 price: 32.55

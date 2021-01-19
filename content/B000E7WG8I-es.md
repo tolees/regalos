@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j7dEEtQVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E7WG8I-es'
+slug: 'B000E7WG8I-es Cartier 19201 - Agua de colonia  100 ml'
 actualPrice: 45.2 EUR
 currency: EUR
 price: 45.2

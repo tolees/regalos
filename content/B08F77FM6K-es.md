@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51a5fxkyq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F77FM6K-es'
+slug: 'B08F77FM6K-es 10M Luces de Tiras LED WiFi，Amouhom Tira de Luz se Puede Usar con Alexa  Google Home  APP  Ajuste de Control de Voz  Adecuada para Dormitorio  Salón Fiesta  Navidad  Decoración de Halloween'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

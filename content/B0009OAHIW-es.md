@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nX1oIAjfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009OAHIW-es'
+slug: 'B0009OAHIW-es Dolce & Gabbana Light Blue Eau de Toilette Vaporizador 50 ml'
 actualPrice: 28.55 EUR
 currency: EUR
 price: 28.55

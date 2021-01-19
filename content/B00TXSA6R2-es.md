@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414afV1clkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TXSA6R2-es'
+slug: 'B00TXSA6R2-es Boucheron Quatre Agua de Perfume - 100 ml'
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

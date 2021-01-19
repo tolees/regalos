@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TxXVejDOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4T5TXW-es'
+slug: 'B07Z4T5TXW-es OwlFay Disfraz Sofia Traje de Princesa Rapunzel Disfraz Carnaval para Ninas Halloween Navidad Cumpleaños Cosplay Costume Morado 7-8 Años'
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

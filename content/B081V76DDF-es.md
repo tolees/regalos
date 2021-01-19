@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nx64FRtOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081V76DDF-es'
+slug: 'B081V76DDF-es FKANT Monederos Mujer  Billetera Piel Bloqueo RFID Monedero Cremallera de Bolsillo Carteras Durable Cuero 20 Ranuras Gran Capacidad Cartera Mujer Concaja de Regalo para Navidad San Valentín  Negro '
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

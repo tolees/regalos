@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3156xigjETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002Z7FTA2-es'
+slug: 'B002Z7FTA2-es Issey Miyake - L Eau D Issey Agua de Perfume  Recambio  75 ml'
 actualPrice: 55.12 EUR
 currency: EUR
 price: 55.12

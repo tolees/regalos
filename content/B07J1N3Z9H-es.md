@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fmqx8jwyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1N3Z9H-es'
+slug: 'B07J1N3Z9H-es Landove Pijama Unicornio Niña Niño Mono Franela Kigurumi Animales Entero Unisex Sleepsuit Romper Homewear Onesie Cosplay Traje de Disfraz para Festival Carnaval Halloween Navidad Regalos …'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

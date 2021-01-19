@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ntVyz9HmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IYC71Q6-es'
+slug: 'B01IYC71Q6-es Prada 17294 - Agua de Colonia L Homme  100 ml'
 actualPrice: 52.85 EUR
 currency: EUR
 price: 52.85

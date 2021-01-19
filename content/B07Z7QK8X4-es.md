@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61naD2Q9EYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7QK8X4-es'
+slug: 'B07Z7QK8X4-es Finether Luz de Proyector LED Océano Decoración Interiores y Exteriores Lámpara de Proyección Impermeable con 16 Modos  Control Remoto  para Navidad Fiesta Festival'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

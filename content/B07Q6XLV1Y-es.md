@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6XLV1Y-es'
+slug: 'B07Q6XLV1Y-es Amilril Collar  Collar Colgante de Corazón Mujer  Plata de Ley 925  Navidad Joyas Regalos Originales'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

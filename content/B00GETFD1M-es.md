@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KThokPHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GETFD1M-es'
+slug: 'B00GETFD1M-es American Crew Nine Agua De Perfume  Hombre  - 75 ml.'
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

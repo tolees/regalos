@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21udi0jhXTL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C1VWCM-es'
+slug: 'B000C1VWCM-es Escada Magnetism Agua de perfume Vaporizador 75 ml'
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

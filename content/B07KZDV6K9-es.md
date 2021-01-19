@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413CC-M-U2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZDV6K9-es'
+slug: 'B07KZDV6K9-es Alex Perry Regalo Día de la Madre pendientes mujer pendientes plata pendientes fiesta pendientes swarovski pendientes baratos mujer joyas para mujer bisuteria mujer joyeria mujer'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

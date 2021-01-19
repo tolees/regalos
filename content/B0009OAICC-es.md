@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Vtw+xOWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009OAICC-es'
+slug: 'B0009OAICC-es Estee Lauder 2617 - Agua de perfume'
 actualPrice: 49.75 EUR
 currency: EUR
 price: 49.75

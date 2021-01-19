@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pjNnOk0WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C1Z6DS-es'
+slug: 'B000C1Z6DS-es Hugo Boss 14294 - Agua de perfume'
 actualPrice: 22.85 EUR
 currency: EUR
 price: 22.85

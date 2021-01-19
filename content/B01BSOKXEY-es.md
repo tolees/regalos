@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DLg+YHk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSOKXEY-es'
+slug: 'B01BSOKXEY-es Swarovski Reloj Crystalline Oval 5181008'
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

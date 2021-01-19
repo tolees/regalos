@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GFd3kb4SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IJXT58I-es'
+slug: 'B00IJXT58I-es Calvin Klein Endless Euphoria Agua de perfume Vaporizador 125 ml'
 actualPrice: 66.19 EUR
 currency: EUR
 price: 66.19

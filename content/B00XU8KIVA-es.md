@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eLTDNA3oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XU8KIVA-es'
+slug: 'B00XU8KIVA-es Burberry My Burberry Eau De Toilette 50Ml Vapo.'
 actualPrice: 31.51 EUR
 currency: EUR
 price: 31.51

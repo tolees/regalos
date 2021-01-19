@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418bQLrOrsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DY5N8CT-es'
+slug: 'B07DY5N8CT-es Swarovski Reloj Crystal Lake  brazalete de metal  cristal gris oscuro  acero inoxidable  para mujer'
 actualPrice: 164.5 EUR
 currency: EUR
 price: 164.5

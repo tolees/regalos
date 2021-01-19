@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411jE8VdgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CT09TU-es'
+slug: 'B001CT09TU-es Bvlgari Petits et Mamans  Eau de Toilette - 100 ml'
 actualPrice: 28.6 EUR
 currency: EUR
 price: 28.6

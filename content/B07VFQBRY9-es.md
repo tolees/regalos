@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BI3CD9zOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFQBRY9-es'
+slug: 'B07VFQBRY9-es 6x Fresadora de Madera de Fresa de Carburo  Pirograbado de Madera  Escultura Grabado Ideal de regalo de navidad'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

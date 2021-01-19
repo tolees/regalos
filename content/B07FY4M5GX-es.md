@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HGQTOzKRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY4M5GX-es'
+slug: 'B07FY4M5GX-es Swarovski Collar Louison  de Mujer  Blanco  Baño de Rodio'
 actualPrice: 149.5 EUR
 currency: EUR
 price: 149.5

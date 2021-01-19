@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TeJg1CkYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076S8PZRM-es'
+slug: 'B076S8PZRM-es 24 Velas LED Sin Fuego - Glamouric Velas Electrónicas con Baterías Incorporadas Perfectas para San Valentín  Cumpleaños  Fiestas  Halloween  Navidad  Festivales  Decoración  Luz Blanca Cálida '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

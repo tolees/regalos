@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KKQG-0g3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E7SSCQ-es'
+slug: 'B000E7SSCQ-es Moschino Cheap & Chic  Agua de tocador para hombres - 100 ml.'
 actualPrice: 32 EUR
 currency: EUR
 price: 32
