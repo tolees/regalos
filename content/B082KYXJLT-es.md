@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KYXJLT-es IWEMEK Disfraz Anna Frozen Niña Vestido de Princesa Ana...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3DLBX9-es Susan Y Regalos día de la Madre Collar Mujer Bucci Bear-be...'
-tags: swarovski
+tags: tole.es, swarovski
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

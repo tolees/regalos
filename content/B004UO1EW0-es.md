@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004UO1EW0-es Tous Touch Eau de Toilette Vaporizador 30 ml'
-tags: eau, de, toilette
+tags: tole.es, eau, de, toilette
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002XQ1RJW-es Diesel Only The Brave - Agua de tocador vaporizador 125 ml'
-tags: agua, de, tocador
+tags: tole.es, agua, de, tocador
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

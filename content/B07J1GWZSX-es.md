@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1GWZSX-es Landove Pijama Unicornio Niña Niño Mono Franela Kigurumi...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

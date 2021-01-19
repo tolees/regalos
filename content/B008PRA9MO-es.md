@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008PRA9MO-es Hugo Boss 38882 - Agua de perfume'
-tags: agua, de, perfume
+tags: tole.es, agua, de, perfume
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

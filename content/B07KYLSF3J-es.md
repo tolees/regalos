@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYLSF3J-es Kami Idea Regalos dia de la Madre Mujer Pendientes de...'
-tags: swarovski
+tags: tole.es, swarovski
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

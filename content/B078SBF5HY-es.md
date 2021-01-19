@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SBF5HY-es Swarovski Colgante Anillo Stone Round Ring baño de rodio...'
-tags: swarovski
+tags: tole.es, swarovski
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

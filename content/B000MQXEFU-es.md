@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MQXEFU-es Jaguar Agua de colonia para mujeres 1 unidad 130 g'
-tags: agua, de, colonia
+tags: tole.es, agua, de, colonia
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

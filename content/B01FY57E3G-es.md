@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FY57E3G-es Mont Blanc Legend Eau de Toilette para hombres - 200 ml.'
-tags: eau, de, toilette
+tags: tole.es, eau, de, toilette
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

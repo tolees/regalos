@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPPTJBK-es FunPa Fieltro Árbol de Navidad Arbol Navidad Fieltro Pared...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYTH159-es Adolfo Dominguez Agua Fresca Azahar Agua de Tocador...'
-tags: agua, de, tocador
+tags: tole.es, agua, de, tocador
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

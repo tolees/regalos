@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MG9GJQ0-es SOUFEEL Abalorio Charm Pulsera de Foto Personalizado Plata...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

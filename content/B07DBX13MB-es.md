@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBX13MB-es Amaza 36 Pcs Globos Led Decoracion Cumpleaños Boda Fiesta...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

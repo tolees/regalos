@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NWXRSM-es Grandma Shark Bambú Tabla de Quesos Bandeja de Queso y...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

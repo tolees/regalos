@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QD4JYX-es Pendientes de Bisutería color Oro Brillante de Regalo...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

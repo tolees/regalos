@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVV8BPW-es 48 PCS 3D Nail Art Decoration Glitter Powder Sequins Set...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

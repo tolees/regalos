@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGCPR9F-es OBEEII Disfraz Princesa para Niñas Costume Princesa Reino...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

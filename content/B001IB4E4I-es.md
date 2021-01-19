@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IB4E4I-es Bvlgari BLV POUR HOMME 47028 - Eau de toilette para hombre...'
-tags: eau, de, toilette
+tags: tole.es, eau, de, toilette
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

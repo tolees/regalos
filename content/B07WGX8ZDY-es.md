@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGX8ZDY-es 14 Pack luz de Botella Kolpop luz Corcho 20PCS Baterías...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

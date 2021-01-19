@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074C3THZN-es Jean Paul Gaultier Classique Agua de Perfume - 100 ml'
-tags: agua, de, perfume
+tags: tole.es, agua, de, perfume
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCNQ2SD-es Square Enix Bring Arts - Kingdom Hearts II Sora Christmas...'
-tags: christmas
+tags: tole.es, christmas
 actualPrice: 64.87 EUR
 currency: EUR
 price: 64.87

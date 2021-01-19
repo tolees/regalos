@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCQBL3V-es TEDD - Pijama de dinosaurio de algodón para niños ropa de...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

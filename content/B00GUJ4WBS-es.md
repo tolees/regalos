@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GUJ4WBS-es Michael Kors 55703 - Agua de perfume 100 ml'
-tags: agua, de, perfume
+tags: tole.es, agua, de, perfume
 actualPrice: 51.43 EUR
 currency: EUR
 price: 51.43

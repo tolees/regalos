@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009OAGX8-es Ralph Lauren 2706 - Agua de colonia'
-tags: agua, de, colonia
+tags: tole.es, agua, de, colonia
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GRFW84I-es Adolfo Dominguez - Agua de Bambú agua de tocador...'
-tags: agua, de, tocador
+tags: tole.es, agua, de, tocador
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

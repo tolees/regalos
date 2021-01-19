@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PY1RDA-es First American Brands Love Is just The Two Of Us Eau De...'
-tags: eau, de, toilette
+tags: tole.es, eau, de, toilette
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

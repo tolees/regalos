@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVKM1N4-es Sony Pack Navidad 2019 BD - 20 discos [Blu-ray]'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6TK9F5-es Álvarez Gómez Flores Mediterráneas Jazmín de Noche Agua de...'
-tags: agua, de, colonia
+tags: tole.es, agua, de, colonia
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THQY9B2-es Cadena de Luz Demum G40 de 25FT E12 Base Guirnalda Luces...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

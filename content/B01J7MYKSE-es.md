@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J7MYKSE-es Ankway Guirnalda luz Solar 8 Modos 5M 30 LED Guirnalda...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

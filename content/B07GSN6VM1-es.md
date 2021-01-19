@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSN6VM1-es LOFTer Guirnalda Luces Cadena de Luces 120 LED 15M Tira...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

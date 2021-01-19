@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNHVRDM-es Villeroy & Boch Cuencos de cereales 0.6 litros Porcelana...'
-tags: villeroy, &, boch
+tags: tole.es, villeroy, &, boch
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

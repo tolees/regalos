@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JPGJPE2-es Villeroy & Boch Artesano Original Estantería 4 piezas...'
-tags: villeroy, &, boch
+tags: tole.es, villeroy, &, boch
 actualPrice: 137.55 EUR
 currency: EUR
 price: 137.55

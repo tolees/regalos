@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H55X6IQ-es CLGarden LEDKB200 Cerezo de LED en 180 cm de altura con...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

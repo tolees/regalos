@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MNYBPP-es DREAMWIN Capa de Superhéroe 5 Capa y Máscaras y Pulseras...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

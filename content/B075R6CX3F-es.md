@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R6CX3F-es Nos sentido decantador de vino aireador para Navidad y...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2R8XNH-es URAQT Disfraces de Carnaval Lady Bug Disfraz de Cat Noir...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

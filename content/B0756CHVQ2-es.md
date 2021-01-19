@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0756CHVQ2-es Buluri 12 colores Set de tiza para el cabello Tinte para...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

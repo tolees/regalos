@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GN2VV1V-es EKKONG Explosion Box Scrapbook Creative DIY Photo Album de...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

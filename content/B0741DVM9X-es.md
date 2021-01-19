@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741DVM9X-es Swarovski Timeless Remix Collection Azul baño de rodio'
-tags: swarovski
+tags: tole.es, swarovski
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

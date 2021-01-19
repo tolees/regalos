@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P37VKT9-es ANGEL NINA Regalos Navidad Mujer pendientes mujer plata...'
-tags: swarovski, navidad
+tags: tole.es, swarovski, navidad
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F13D9WG-es ThxMadam Scrapbook Álbum de Fotos Libro de Visitas de Boda...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

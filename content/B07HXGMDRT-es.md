@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HXGMDRT-es vivo Villeroy & Boch Group New Fresh Basic Cubertería...'
-tags: villeroy, &, boch
+tags: tole.es, villeroy, &, boch
 actualPrice: 50.33 EUR
 currency: EUR
 price: 50.33

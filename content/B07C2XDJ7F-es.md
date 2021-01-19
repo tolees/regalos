@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2XDJ7F-es SGILE 1:14 Coche Teledirigido 2.4 GHz 4WD RC Camión...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 28.43 EUR
 currency: EUR
 price: 28.43

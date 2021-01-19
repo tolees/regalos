@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYVYXLG-es 60 LED 10M Cadena Solar de Luces IP65 Impermeable 8 Modos...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

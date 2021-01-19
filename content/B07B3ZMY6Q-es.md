@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3ZMY6Q-es PLAYMOBIL Calendario de Adviento Navidad en el Bosque A...'
-tags: adviento, navidad
+tags: tole.es, adviento, navidad
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

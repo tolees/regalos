@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QAIYM6O-es Roberto Cavalli Paradiso Agua de Perfume - 75 ml'
-tags: agua, de, perfume
+tags: tole.es, agua, de, perfume
 actualPrice: 34.89 EUR
 currency: EUR
 price: 34.89

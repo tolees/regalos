@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KKCWGZ-es Dinosaurio Luz de la noche 3D LED lámpara Ilusión óptica...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

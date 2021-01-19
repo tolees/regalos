@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZKSNM7-es Gorros suaves gruesos y cálidos Sombreros de invierno...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

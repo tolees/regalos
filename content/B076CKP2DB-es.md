@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CKP2DB-es WAWJ - Collar con colgante difusor de acetites esenciales...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

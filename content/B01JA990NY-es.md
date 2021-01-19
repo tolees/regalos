@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JA990NY-es Prada La Femme Prada Agua de Perfume Vaporizador - 50 ml'
-tags: agua, de, perfume
+tags: tole.es, agua, de, perfume
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

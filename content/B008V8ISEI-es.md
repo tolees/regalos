@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008V8ISEI-es Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio...'
-tags: villeroy, &, boch
+tags: tole.es, villeroy, &, boch
 actualPrice: 52.75 EUR
 currency: EUR
 price: 52.75

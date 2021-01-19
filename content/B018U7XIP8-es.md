@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018U7XIP8-es LE Cortina de Luces LED con Enchufe 3x3m 306 LED Luz...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

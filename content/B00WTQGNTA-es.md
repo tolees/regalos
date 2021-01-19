@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WTQGNTA-es Flongo Brazalete Pulsera Pareja Novios Pulsera Acero...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

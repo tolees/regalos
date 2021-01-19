@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYYFQ8M-es Feketeuki Colorido árbol de Navidad de Navidad Luz LED...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 0.71 EUR
 currency: EUR
 price: 0.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H5OQPF2-es Angel Schlesser Bergamota Agua de Colonia Vaporizador -...'
-tags: agua, de, colonia
+tags: tole.es, agua, de, colonia
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

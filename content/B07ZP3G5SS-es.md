@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP3G5SS-es LuckyGirls Calcetines de algodón Estampados de Dibujos...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

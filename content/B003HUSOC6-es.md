@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HUSOC6-es Carolina Herrera 212 Men NYC Agua de Tocador Vaporizador -...'
-tags: agua, de, tocador
+tags: tole.es, agua, de, tocador
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPDP15H-es OBEEII Disfraz Sofia Princesa Vestido de Fiesta Disfraz...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

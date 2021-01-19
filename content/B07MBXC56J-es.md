@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBXC56J-es OxyLED Guirnaldas luminosas de exterior [LED Versión]G40 7...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

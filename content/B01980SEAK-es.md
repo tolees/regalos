@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01980SEAK-es MENFORSAN Agua de Colonia Fresa para Gatos - 125 ml'
-tags: agua, de, colonia
+tags: tole.es, agua, de, colonia
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

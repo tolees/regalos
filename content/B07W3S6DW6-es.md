@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3S6DW6-es LitBud Niños Sudaderas con Capucha para niños Niño pequeño...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

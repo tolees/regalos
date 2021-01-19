@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGGRFBY-es Gorro Bluetooth Gorro Bluetooth Inalámbrico Gorro de...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

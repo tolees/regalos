@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GHWST8-es Calvin Klein Euphoria Eau de Toilette Vaporizador 50 ml'
-tags: eau, de, toilette
+tags: tole.es, eau, de, toilette
 actualPrice: 35.36 EUR
 currency: EUR
 price: 35.36

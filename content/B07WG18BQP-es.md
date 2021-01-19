@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WG18BQP-es 5pcs 5D DIY Diamond Painting Christmas Keychain/Collar...'
-tags: christmas
+tags: tole.es, christmas
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NI4ZLE-es Adidas Fruity Rhythm Eau De Toilette Woda toaletowa dla...'
-tags: eau, de, toilette
+tags: tole.es, eau, de, toilette
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

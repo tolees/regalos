@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MHPDCQ-es Swarovski Conjunto de Collares Symbolic Moon Multicolor...'
-tags: swarovski
+tags: tole.es, swarovski
 actualPrice: 90.95 EUR
 currency: EUR
 price: 90.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZBRK9M-es 3d night light led illusion night Tigre Night Light para...'
-tags: christmas
+tags: tole.es, christmas
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

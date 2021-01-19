@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XEATY0-es Dolce & Gabbana Light Blue Agua de tocador para mujeres -...'
-tags: agua, de, tocador
+tags: tole.es, agua, de, tocador
 actualPrice: 39.93 EUR
 currency: EUR
 price: 39.93

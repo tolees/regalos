@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X8YRLC-es Cacharel Agua de perfume para mujeres - 30 ml.'
-tags: agua, de, perfume
+tags: tole.es, agua, de, perfume
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

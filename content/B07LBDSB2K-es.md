@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBDSB2K-es URAQT Disfraz de Princesa Frozen Elsa Traje del Vestido...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

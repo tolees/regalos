@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VYMDDN-es OwlFay Disfraz de Princesa Carnival para Niñas Vestidos de...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

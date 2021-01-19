@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GH6FYXV-es The Nightmare Before Christmas - Notebook Premium...'
-tags: christmas
+tags: tole.es, christmas
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

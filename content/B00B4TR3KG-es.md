@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B4TR3KG-es Versace Eros Eau de Toilette Vaporizador 100 ml'
-tags: eau, de, toilette
+tags: tole.es, eau, de, toilette
 actualPrice: 48.39 EUR
 currency: EUR
 price: 48.39

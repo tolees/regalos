@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792QCT3J-es LEGO Friends - Calendario De Adviento para Amigos 41353'
-tags: adviento
+tags: tole.es, adviento
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

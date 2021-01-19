@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005QUUKFY-es Alvarez Gomez - Agua de Colonia Concentrada - 750 ml.'
-tags: agua, de, colonia
+tags: tole.es, agua, de, colonia
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

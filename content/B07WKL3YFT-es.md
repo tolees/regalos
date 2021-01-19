@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKL3YFT-es Marvelights Botella de Vino de Corcho Luz de Cadena...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

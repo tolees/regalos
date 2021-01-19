@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KXKFPQ-es Pendientes Mariposa Brillante Blancos de Regalo de Navidad'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

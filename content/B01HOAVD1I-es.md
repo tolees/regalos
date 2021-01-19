@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HOAVD1I-es Cadena solar de luces LED Salcar de 5 metros 20 mariposa...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

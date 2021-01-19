@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823YVJC5-es Disfraz de Princesa Elsa Frozen Vestido Largo Niñas...'
-tags: navidad
+tags: tole.es, navidad
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61
