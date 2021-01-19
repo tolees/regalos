@@ -26,9 +26,9 @@ Ahora mismo tienes [Mafiti Guirnalda de luces exterior solar guirnalda luminosa 
 🔎:
 
 - 4 modos de brillos y 12 horas brillando: Tienes 4 opciones de ajustar el modo de brillos a gusto, y cualquier modo genera una atmósfera de alegría, o tal vez, romántica. La batería de la guirnalda de luces puede garantizar 12 horas de brillantez, tras 12 horas de carga bajo el sol.
-- Flexibilidad y diversidad: La cuerda de luces es muy fina y mide 12 metros, puedes enrollarla en el balcón de tu piso, colgarla en un árbol o mueble, o simplemente colocarla en formas diversas en el suelo o a la pared. La guirnalda te puede ofrecer varias formas de embellecer tu casa o jardín.
 - Respetuosa del medio ambiente: La guirnalda de luces se carga a través del panel solar, sin batería extra. Simplemente cargarla por el día bajo el sol para usarla por la noche.
 - Uso amplio: Esta guirnalda de luces exterior se puede colocar en varios sitios - en el jardín o patio de tu casa, el balcón de tu piso, en la fachada de restaurantes, bares, hoteles o en arboles de Navidad. Es una decoración que ilumina la noche y enciende la atmósfera durante el periodo de las fiestas y de eventos de celebración.
+- Flexibilidad y diversidad: La cuerda de luces es muy fina y mide 12 metros, puedes enrollarla en el balcón de tu piso, colgarla en un árbol o mueble, o simplemente colocarla en formas diversas en el suelo o a la pared. La guirnalda te puede ofrecer varias formas de embellecer tu casa o jardín.
 - Bajo cualquier circunstancia del tiempo: No hace falta preocuparse por si llueve, porque las 120 LEDs y el panel solar son impermeables.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GLVRR7P/?tag=tolees-21)
