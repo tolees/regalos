@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61SepV3CopL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018U7XIP8-es LE Cortina de Luces LED con Enchufe 3x3m 306 LED  Luz Decorativa Blanco Cálido  Impermeable para a Interior y Exterior  8 Modos Luz  Cadena Luces para Fiestas  Bodas  Jardin  Navidad  Aniversario  etc'
+slug: 'B018U7XIP8-es LE Cortina de Luces LED con Enchufe 3x3m 306 LED Luz...'
+tags: navidad
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61rKmfOnz8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784XFYFC-es Regalo de navidad para hombre amigo cervezas del mundo  6x0.33l  Navidad en todo el mundo Regalo de Santa Regalo de Santa Idea de regalo de Navidad'
+slug: 'B0784XFYFC-es Regalo de navidad para hombre amigo cervezas del mundo...'
+tags: navidad
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

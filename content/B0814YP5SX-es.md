@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ipheMt8DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814YP5SX-es Swarovski Pendientes Angelic Square de Mujer  con platino  Cristal  Rosa'
+slug: 'B0814YP5SX-es Swarovski Pendientes Angelic Square de Mujer con platino...'
+tags: swarovski
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

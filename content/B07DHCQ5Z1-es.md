@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ZhxjqjGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHCQ5Z1-es 3D Lámpara de Escritorio Win-Y LED 7 del tacto del color de la lámpara del dormitorio del hogar decoración de la oficina para los niños y regalo de Navidad de cumpleaños  G '
+slug: 'B07DHCQ5Z1-es 3D Lámpara de Escritorio Win-Y LED 7 del tacto del color...'
+tags: navidad
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

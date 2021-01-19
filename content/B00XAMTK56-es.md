@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uWf7jkZIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAMTK56-es Gotas de Mayfer 62628 - Agua de colonia  1000 ml'
+slug: 'B00XAMTK56-es Gotas de Mayfer 62628 - Agua de colonia 1000 ml'
+tags: agua, de, colonia
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

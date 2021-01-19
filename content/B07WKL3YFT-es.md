@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PLp8NnLNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKL3YFT-es Marvelights Botella de Vino de Corcho Luz de Cadena Paquete de 8M 2M 20 Leds Cable de Cobre con Batería Mini Luz de Corcho Blanca CáLida para Bricolaje Fiesta Decoración Navidad  Blanco cálido '
+slug: 'B07WKL3YFT-es Marvelights Botella de Vino de Corcho Luz de Cadena...'
+tags: navidad
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

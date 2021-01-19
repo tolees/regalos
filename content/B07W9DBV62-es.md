@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xOPSE3z-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W9DBV62-es IREGRO Luces de Proyector Navidad Copos de Nieve Luz de nevadas Navidad Impermeable LED Exterior Decoración Luz de Proyector con Control Remoto Patrón para Fiesta  Navidad  Festivos Valentín'
+slug: 'B07W9DBV62-es IREGRO Luces de Proyector Navidad Copos de Nieve Luz de...'
+tags: navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

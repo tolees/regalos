@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417ezSmPTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RZPCLIC-es Swarovski Pendientes Solitaire de Mujer  chapado en tono Oro Rosa  Vidrio  Transparente/Oro Rosa'
+slug: 'B00RZPCLIC-es Swarovski Pendientes Solitaire de Mujer chapado en tono...'
+tags: swarovski
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

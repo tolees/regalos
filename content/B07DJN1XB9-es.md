@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nBA1mv2IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJN1XB9-es Polvo Acrilico para Uñas Purpurina Cara Glitter para Uñas - Set de Purpurina De 10 Cajas - Body Cosmetic Glitter Hair Nail Art Decorativo para Fiesta de Limo Christmas Arts Crafts'
+slug: 'B07DJN1XB9-es Polvo Acrilico para Uñas Purpurina Cara Glitter para Uñas...'
+tags: christmas
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

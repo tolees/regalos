@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lI8V601LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YSB6J2-es qingqingR Christmas Deer 5D DIY Full Diamond Painting Bordado Cross Crafts Stitch Kit Home Decoración de Pared'
+slug: 'B083YSB6J2-es qingqingR Christmas Deer 5D DIY Full Diamond Painting...'
+tags: christmas
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

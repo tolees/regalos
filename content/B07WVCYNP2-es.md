@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tYuSLn6KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVCYNP2-es 2 Piezas Coches Juguete Flyfun  Coches para Niños  Tire Hacia Atrás del Coche de Juguete  los Mejores Chicos y Chicas para Navidad  3 Años o Más Jugar'
+slug: 'B07WVCYNP2-es 2 Piezas Coches Juguete Flyfun Coches para Niños Tire...'
+tags: navidad
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

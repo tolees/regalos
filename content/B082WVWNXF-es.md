@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41w9doqNS7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WVWNXF-es OwlFay Disfraz Niñas Princesa Vestidos de Carnaval Fiesta Halloween Cosplay Navidad Costume Verde 4-5 Años'
+slug: 'B082WVWNXF-es OwlFay Disfraz Niñas Princesa Vestidos de Carnaval Fiesta...'
+tags: navidad
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

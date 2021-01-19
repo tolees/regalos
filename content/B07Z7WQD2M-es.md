@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f+7zil8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7WQD2M-es Álvarez Gómez - Flores Mediterráneas Verbena y Azahar  Agua de Colonia - Frasco de 150 ml'
+slug: 'B07Z7WQD2M-es Álvarez Gómez - Flores Mediterráneas Verbena y Azahar Agua...'
+tags: agua, de, colonia
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

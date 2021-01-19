@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yq8GVYx1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHQ37G3-es 12 rollos de cinta adhesiva con purpurina y 1 rollo de 10 m de cinta adhesiva de doble cara  colorida cinta adhesiva decorativa para manualidades de papel  álbumes de recortes y regalos de Navidad'
+slug: 'B07XHQ37G3-es 12 rollos de cinta adhesiva con purpurina y 1 rollo de 10...'
+tags: navidad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/613xvId9voL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVJJF7B-es 10 Hojas Papel de Regalo  CHALA Papel de Regalo Diseño de Navidad/Alce Monigote de Nieve/Árbol de Navidad para Cumpleaños  Despedidas de Soltera  Baby shower  Navidad y Más  10 Diseño 50mm*70mm '
+slug: 'B08CVJJF7B-es 10 Hojas Papel de Regalo CHALA Papel de Regalo Diseño de...'
+tags: navidad
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xxqZkoG7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B48BSBH-es Juego de herramientas para parrillas para barbacoa  kit de herramientas para parrillas MFEI Kit de accesorios para exteriores en estuche de almacenamiento - Regalo perfecto para Navidad'
+slug: 'B07B48BSBH-es Juego de herramientas para parrillas para barbacoa kit de...'
+tags: navidad
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

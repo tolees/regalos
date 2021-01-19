@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mSx28Yl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAIT190-es Instituto Español Gotas Frescas agua de colonia Vaporizador 250 ml'
+slug: 'B00XAIT190-es Instituto Español Gotas Frescas agua de colonia...'
+tags: agua, de, colonia
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DR5aP5w0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7GYGJJ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 [Alas de Ángel Brillante] Circonita Regalos Cadena 45cm+5cm  Regalos Navidad'
+slug: 'B07B7GYGJJ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 [Alas de...'
+tags: navidad
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

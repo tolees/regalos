@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pnLQG9+0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFC3B8L-es Luz Nocturna Infantil Tekemai  Luz de Noche Bebé  Lámpara de Mesa  lámpara de cabecera 9 colores cambiando/USB recargable/control remoto y táctil regulable  Navidad y regalos de cumpleaños - Elefante'
+slug: 'B07ZFC3B8L-es Luz Nocturna Infantil Tekemai Luz de Noche Bebé Lámpara de...'
+tags: navidad
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

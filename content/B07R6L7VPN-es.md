@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qq77S9lmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6L7VPN-es URAQT Disfraz de Princesa  Traje del Vestido Traje de Princesa de la Nieve Vestido Infantil Disfraz de Princesa de Niñas para Frozen Themed Fiesta Cumpleaños Navidad Halloween Arcoiris 130 cm'
+slug: 'B07R6L7VPN-es URAQT Disfraz de Princesa Traje del Vestido Traje de...'
+tags: navidad
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

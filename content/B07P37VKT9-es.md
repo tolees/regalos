@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GUCbtVYiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P37VKT9-es ANGEL NINA Regalos Navidad Mujer pendientes mujer plata pendientes niña Púrpura Cristal de Swarovski pendientes pequeños tous mujer joyeria regalos originales para mama profesores regalos cumpleaños'
+slug: 'B07P37VKT9-es ANGEL NINA Regalos Navidad Mujer pendientes mujer plata...'
+tags: swarovski, navidad
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LC0G4FM-es Hugo Boss 58396 - Agua de perfume'
+tags: agua, de, perfume
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5
@@ -25,8 +26,8 @@ Tienes [Hugo Boss 58396 - Agua de perfume](https://www.amazon.es/dp/B00LC0G4FM/?
 
 🔎:
 
-- Marca: Hugo Boss-boss
-- Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de perfume
+- Productos de belleza y el cuidado personal
+- Marca: Hugo Boss-boss
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LC0G4FM/?tag=tolees-21)

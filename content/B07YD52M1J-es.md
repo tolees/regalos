@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/519%2B2UmyeEL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD52M1J-es Luces de Navidad para Decoración Diseño de Muñeco de Nieve  Colgante de Decoración de Árbol de Navidad la Luz de Noche para la Habitación de los Niños'
+slug: 'B07YD52M1J-es Luces de Navidad para Decoración Diseño de Muñeco de Nieve...'
+tags: navidad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413I91WmAYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AMEZFO-es Narciso Rodriguez 140435 - Agua de tocador vaporizador para mujeres  50 ml'
+slug: 'B000AMEZFO-es Narciso Rodriguez 140435 - Agua de tocador vaporizador...'
+tags: agua, de, tocador
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51iVqlL23sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXVDJ79-es Tuokay 10M 100 LED Luces de Navidad Cadena de Luces Guirnalda de Luces con Adaptador 8 Modos Luces Decorativa Iluminación de Navidad para Arbol de Navidad  Fiesta Boda'
+slug: 'B07VXVDJ79-es Tuokay 10M 100 LED Luces de Navidad Cadena de Luces...'
+tags: navidad
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

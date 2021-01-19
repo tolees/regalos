@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JIQCyS2lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A2KCIKS-es DOLCE & GABBANA POUR FEMME - Agua de perfume vaporizador  50 ml'
+slug: 'B00A2KCIKS-es DOLCE & GABBANA POUR FEMME - Agua de perfume vaporizador...'
+tags: agua, de, perfume
 actualPrice: 32.24 EUR
 currency: EUR
 price: 32.24

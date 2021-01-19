@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Npl5Ir4TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VVSF63-es BVLGARI Omnia Pink Sapphire eau de toilette Mujeres 40 ml - Eau de toilette  Mujeres  Verano  40 ml  Cítricos  Pimienta rosa  Frangipani  Flor de tiaré  Almizcle blanco '
+slug: 'B079VVSF63-es BVLGARI Omnia Pink Sapphire eau de toilette Mujeres 40 ml...'
+tags: eau, de, toilette
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

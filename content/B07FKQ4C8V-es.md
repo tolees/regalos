@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IaDaSi5mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKQ4C8V-es Hermès  Agua de perfume para hombres - 50 ml.'
+slug: 'B07FKQ4C8V-es Hermès Agua de perfume para hombres - 50 ml.'
+tags: agua, de, perfume
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

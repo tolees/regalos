@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y6qPLHGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D62PKC-es Original Perfume Para Mujer  10ml Lady Natural Light Fragrance Flower Perfume Mujer Roller Perfume  Eau De Toilette'
+slug: 'B082D62PKC-es Original Perfume Para Mujer 10ml Lady Natural Light...'
+tags: eau, de, toilette
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P9vKX0B-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TXRZQK0-es Boucheron  Agua de colonia para hombres - 100 gr.'
+slug: 'B00TXRZQK0-es Boucheron Agua de colonia para hombres - 100 gr.'
+tags: agua, de, colonia
 actualPrice: 27.1 EUR
 currency: EUR
 price: 27.1

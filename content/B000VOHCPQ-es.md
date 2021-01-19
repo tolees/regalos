@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316wV+foF9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VOHCPQ-es Hermes Un Jardin Sur Le Nil Eau de Toilette Vaporizador 100 ml'
+slug: 'B000VOHCPQ-es Hermes Un Jardin Sur Le Nil Eau de Toilette Vaporizador...'
+tags: eau, de, toilette
 actualPrice: 77.35 EUR
 currency: EUR
 price: 77.35

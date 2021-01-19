@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nEthdT0pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPPTJBK-es FunPa Fieltro Árbol de Navidad  Arbol Navidad Fieltro Pared DIY Decoración del Árbol de Navidad Decoración Colgante para Niños 30PCS Ornamento de Adorno LED Luces de Navidad'
+slug: 'B07GPPTJBK-es FunPa Fieltro Árbol de Navidad Arbol Navidad Fieltro Pared...'
+tags: navidad
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

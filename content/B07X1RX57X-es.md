@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yX4kBwF2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1RX57X-es Luces Discoteca 15Colores Hosome Bola de Discoteca DJ Activada por Sonido 4M Cable USB 8 Niveles de Brillo  Control Remoto para Escenario  Cumpleaño de Niños  Navidad  Fiesta en el Hogar y Decoración'
+slug: 'B07X1RX57X-es Luces Discoteca 15Colores Hosome Bola de Discoteca DJ...'
+tags: navidad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

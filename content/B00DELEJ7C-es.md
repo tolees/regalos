@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p7d1VMXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DELEJ7C-es Nenuco Pack Agua de Colonia Infantil Bebé Minnie con Muñeco - 175 ml'
+slug: 'B00DELEJ7C-es Nenuco Pack Agua de Colonia Infantil Bebé Minnie con...'
+tags: agua, de, colonia
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

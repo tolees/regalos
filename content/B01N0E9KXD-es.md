@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hGitJx1YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0E9KXD-es Halloween Jesus Del Pozo Halloween Kiss Sexy Agua De Tocador - 100 Ml 1 Unidad 100 g'
+slug: 'B01N0E9KXD-es Halloween Jesus Del Pozo Halloween Kiss Sexy Agua De...'
+tags: agua, de, tocador
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

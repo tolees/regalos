@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GJBPGFfhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082W1G7LQ-es Guirnalda Luces Exterior Solare  BrizLabs 13.8M 60 LED Guirnalda Luces Solar Impermeable 8 Modos Interior y Exterior Cadena de Luces Solar para Jardín Terraza  Patio  Navidad  Fiesta  Blanco Calido'
+slug: 'B082W1G7LQ-es Guirnalda Luces Exterior Solare BrizLabs 13.8M 60 LED...'
+tags: navidad
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

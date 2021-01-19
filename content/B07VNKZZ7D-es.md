@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61l9nRuL01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNKZZ7D-es Aitsite Bolas de Navidad 6 cm Bolas de árbol de Navidad Adorno de Pared Colgante de Pared Adornos Decoraciones Árbol Bolas Decorativas Boda de Fiesta Suministro Hogar Decoraciones para Festivales'
+slug: 'B07VNKZZ7D-es Aitsite Bolas de Navidad 6 cm Bolas de árbol de Navidad...'
+tags: navidad
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

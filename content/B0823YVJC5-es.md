@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BYG4pGulL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823YVJC5-es Disfraz de Princesa Elsa Frozen Vestido Largo Niñas Carnaval Traje Ice Queen Snowflake Halloween Navidad Carnaval Themed Manga Larga Infantil Nieve Hielo Fiesta Azul 3-4 Años'
+slug: 'B0823YVJC5-es Disfraz de Princesa Elsa Frozen Vestido Largo Niñas...'
+tags: navidad
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

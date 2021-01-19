@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CDZaKzW-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AV68JXC-es Montblanc  Agua de perfume para mujeres - 50 gr.'
+slug: 'B01AV68JXC-es Montblanc Agua de perfume para mujeres - 50 gr.'
+tags: agua, de, perfume
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

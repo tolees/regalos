@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t3dC81zEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JKK6L6-es Bom Bom Bebe Navidad Pelele para Dormir Monos Bodies Manga Larga verde 9-12m '
+slug: 'B075JKK6L6-es Bom Bom Bebe Navidad Pelele para Dormir Monos Bodies Manga...'
+tags: navidad
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

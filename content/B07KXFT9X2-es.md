@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qI0n-PVFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXFT9X2-es dPois Disfraz Princesa para Niña Bebé Vestido Princesa Tutú Diadema Lunares Falda Lentejuelas Traje Infantil de Cumpleaños Fiesta Navidad Cosplay Rosa 2-3 Años'
+slug: 'B07KXFT9X2-es dPois Disfraz Princesa para Niña Bebé Vestido Princesa...'
+tags: navidad
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

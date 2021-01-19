@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YihYBbDuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004HYCZGW-es Villeroy & Boch Royal Juego de mesa para 6 personas  12 piezas  Porcelana Premium Bone  Blanco'
+slug: 'B004HYCZGW-es Villeroy & Boch Royal Juego de mesa para 6 personas 12...'
+tags: villeroy, &, boch
 actualPrice: 222.89 EUR
 currency: EUR
 price: 222.89

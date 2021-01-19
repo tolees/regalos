@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P-hOr8HOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FW3T8GD-es Swarovski Conjunto Vintage  Rosa  Baño en Tono Oro Rosa'
+slug: 'B07FW3T8GD-es Swarovski Conjunto Vintage Rosa Baño en Tono Oro Rosa'
+tags: swarovski
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

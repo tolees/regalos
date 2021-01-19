@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5105pzluCTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYYN373-es Funda mapa mundi ideal para agendas 2020 Regalo Original Regalo de Navidad Regalo para ella para el. Diario  block de notas  cuaderno de viaje planificador anual Regalo original y único.'
+slug: 'B07JYYN373-es Funda mapa mundi ideal para agendas 2020 Regalo Original...'
+tags: navidad
 actualPrice: 6 EUR
 currency: EUR
 price: 6

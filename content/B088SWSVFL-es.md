@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fsiK5MyyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088SWSVFL-es fgdjfhsdfgsdfh 29 * 19Cm Fun Kids Baby Añadir Agua Escribir Dibujar Pintura Agua Dibujo Lienzo Magic Doodle Mat con Magic Pen Brushes Regalo Navidad'
+slug: 'B088SWSVFL-es fgdjfhsdfgsdfh 29 * 19Cm Fun Kids Baby Añadir Agua...'
+tags: navidad
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

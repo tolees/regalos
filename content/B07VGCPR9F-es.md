@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p-xmnYnxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGCPR9F-es OBEEII Disfraz Princesa para Niñas Costume Princesa Reino Frozen para Carnaval Navidad Cumpleaños Partido Prom Azul 11-12 Años'
+slug: 'B07VGCPR9F-es OBEEII Disfraz Princesa para Niñas Costume Princesa Reino...'
+tags: navidad
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

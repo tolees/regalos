@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bHlKvm+LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0066TGLSY-es Boucheron  Agua de perfume para hombres - 100 gr.'
+slug: 'B0066TGLSY-es Boucheron Agua de perfume para hombres - 100 gr.'
+tags: agua, de, perfume
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sJWphuwQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCCRFQP-es AmzBarley Disfraz Princesa Vestido de Traje Niñas de Navidad Fiesta Ceremonia Boda Bautizo Frozen Baile Manga Corta Falda Niña Costume para Cumpleaños Halloween Jessie Cosplay Carnaval 3-4 Años 110'
+slug: 'B07GCCRFQP-es AmzBarley Disfraz Princesa Vestido de Traje Niñas de...'
+tags: navidad
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

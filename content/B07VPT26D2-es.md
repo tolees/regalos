@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61yeZaT4dML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPT26D2-es GoMaihe Hiedra Artificial Guirnalda Planta 24pcs  Plantas Artificiales Decoracion  Plantas Artificiales Exterior y Interior  Decoración de Navidad Fondo Boda Decoración de Jardín de Pared  Verde'
+slug: 'B07VPT26D2-es GoMaihe Hiedra Artificial Guirnalda Planta 24pcs Plantas...'
+tags: navidad
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

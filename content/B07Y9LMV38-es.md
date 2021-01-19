@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61THXFqFsSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9LMV38-es Linterna Solar Exterior GolWof LED Luz Solar Colgando Jardín Farolillo Solare Farol Solar Exterior Jardin Luce Solare Luz Solar Linterna Jardín para Interiore/ Exteriore Césped Patio Festival Navidad'
+slug: 'B07Y9LMV38-es Linterna Solar Exterior GolWof LED Luz Solar Colgando...'
+tags: navidad
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

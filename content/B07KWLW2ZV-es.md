@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RDpqxw07L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWLW2ZV-es Swarovski Anillo One Heart  para Mujer  Rojo  Baño de Rodio'
+slug: 'B07KWLW2ZV-es Swarovski Anillo One Heart para Mujer Rojo Baño de Rodio'
+tags: swarovski
 actualPrice: 34.4 EUR
 currency: EUR
 price: 34.4

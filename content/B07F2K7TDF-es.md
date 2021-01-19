@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jZn5AP-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2K7TDF-es Adolfo Dominguez  Agua de colonia para hombres - 60 ml.'
+slug: 'B07F2K7TDF-es Adolfo Dominguez Agua de colonia para hombres - 60 ml.'
+tags: agua, de, colonia
 actualPrice: 15.05 EUR
 currency: EUR
 price: 15.05

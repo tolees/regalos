@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51okmhG%2B5DL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Z3ZF1Y-es Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna Cosplay Costume Snow Ice Queen Disfraces Bordado Traje Parte Las Niñas Vestido Fiesta Ceremonia Navidad Carnaval Fancy Dress Verde 3-4 Años'
+slug: 'B082Z3ZF1Y-es Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna...'
+tags: navidad
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

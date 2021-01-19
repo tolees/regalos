@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009OAHKK-es Carolina Herrera 212 Men Agua de Tocador - 50 ml'
+tags: agua, de, tocador
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

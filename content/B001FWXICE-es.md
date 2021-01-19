@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FMr8hv9yL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FWXICE-es Bvlgari 21236 - Agua de colonia  50 ml'
+slug: 'B001FWXICE-es Bvlgari 21236 - Agua de colonia 50 ml'
+tags: agua, de, colonia
 actualPrice: 40.59 EUR
 currency: EUR
 price: 40.59

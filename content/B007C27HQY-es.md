@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418LIGtYnaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007C27HQY-es Bvlgari 36349 - Agua de colonia  25 ml'
+slug: 'B007C27HQY-es Bvlgari 36349 - Agua de colonia 25 ml'
+tags: agua, de, colonia
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

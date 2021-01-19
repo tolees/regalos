@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316tQZKEnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4DP6G9-es Antonio Banderas - Agua de tocador Power of Seduction  100 ml'
+slug: 'B07G4DP6G9-es Antonio Banderas - Agua de tocador Power of Seduction 100 ml'
+tags: agua, de, tocador
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

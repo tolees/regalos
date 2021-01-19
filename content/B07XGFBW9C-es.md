@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pNEIlJAqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGFBW9C-es Cortina de Luces LED USB  Zorara 3x3 m 300 LEDs 8 Modos Cortinas de Luz Impermeable Cadena Luz de Cortina Blanca Cálida para Bodas  Casa  Jardín  Decoración Navidad [Clase de eficiencia energética A]'
+slug: 'B07XGFBW9C-es Cortina de Luces LED USB Zorara 3x3 m 300 LEDs 8 Modos...'
+tags: navidad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

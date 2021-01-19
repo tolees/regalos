@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KYXJLT-es IWEMEK Disfraz Anna Frozen Niña Vestido de Princesa Ana con Capa Manga Larga Traje Carnaval Halloween Navidad Fiesta Theme Fancy Dress Costume Regalos de cumpleaños Cosplay Outfits Azul 5-6 años'
+slug: 'B082KYXJLT-es IWEMEK Disfraz Anna Frozen Niña Vestido de Princesa Ana...'
+tags: navidad
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

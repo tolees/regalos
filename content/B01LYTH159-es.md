@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+KTxWThqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYTH159-es Adolfo Dominguez Agua Fresca Azahar Agua de Tocador Vaporizador - 60 ml'
+slug: 'B01LYTH159-es Adolfo Dominguez Agua Fresca Azahar Agua de Tocador...'
+tags: agua, de, tocador
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

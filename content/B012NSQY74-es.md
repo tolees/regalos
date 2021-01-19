@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pXKOFgwpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012NSQY74-es Lacoste  Agua de colonia para mujeres - 50 ml.'
+slug: 'B012NSQY74-es Lacoste Agua de colonia para mujeres - 50 ml.'
+tags: agua, de, colonia
 actualPrice: 19.86 EUR
 currency: EUR
 price: 19.86

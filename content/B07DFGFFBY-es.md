@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rMQLpln2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFGFFBY-es Funko- Mystery Mini Blind Box: Disney: NBX: PDQ  CDU 12  The Nightmare Before Christmas Figura Coleccionable  Multicolor  Estándar  32850 '
+slug: 'B07DFGFFBY-es Funko- Mystery Mini Blind Box: Disney: NBX: PDQ CDU 12 The...'
+tags: christmas
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

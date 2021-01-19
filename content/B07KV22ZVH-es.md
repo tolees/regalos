@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Bxxmn8NmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KV22ZVH-es Neon Moon-Nursery Night Lamp Gift-Wall Decor Lights para Navidad  fiesta de cumpleaños  habitación infantil  sala de estar  blanco cálido '
+slug: 'B07KV22ZVH-es Neon Moon-Nursery Night Lamp Gift-Wall Decor Lights para...'
+tags: navidad
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

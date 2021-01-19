@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wsHajoA8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRQV9GZ-es Cadena de Luces  Mr.Twinklelight 6.5M 50 LED Flor Solar Luz Decorativa para Jardín  Terraza  Boda  Árbol de Navidad  Fiesta  Patio  Blanco Cálido'
+slug: 'B06XRQV9GZ-es Cadena de Luces Mr.Twinklelight 6.5M 50 LED Flor Solar Luz...'
+tags: navidad
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

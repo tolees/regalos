@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bkLZIvadL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757XZJSB-es Swarovski Pendientes Luckily Evil Eye  de Mujer  multicolor  Baño en tono Oro Rosa'
+slug: 'B0757XZJSB-es Swarovski Pendientes Luckily Evil Eye de Mujer multicolor...'
+tags: swarovski
 actualPrice: 41.55 EUR
 currency: EUR
 price: 41.55

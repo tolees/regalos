@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VcyEhp%2B-L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7ZY3ZS-es Amilril Collar  Plata de Ley 925 Moda Joyería  Navidad Joyas Regalos Originales'
+slug: 'B07Q7ZY3ZS-es Amilril Collar Plata de Ley 925 Moda Joyería Navidad Joyas...'
+tags: navidad
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

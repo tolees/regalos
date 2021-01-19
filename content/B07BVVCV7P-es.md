@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51rB7Gu6OKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVVCV7P-es 3D Lámpara de Escritorio Win-Y LED 7 del tacto del color de la lámpara del dormitorio del hogar decoración de la oficina para los niños y regalo de Navidad de cumpleaños  Dragon Ball A '
+slug: 'B07BVVCV7P-es 3D Lámpara de Escritorio Win-Y LED 7 del tacto del color...'
+tags: navidad
 actualPrice: 6 EUR
 currency: EUR
 price: 6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B5n7Cp3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P9L2NVO-es Swarovski Pulsera Angelic  Blanco  Baño de Rodio'
+slug: 'B00P9L2NVO-es Swarovski Pulsera Angelic Blanco Baño de Rodio'
+tags: swarovski
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OZjYX7UrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JGO1J74-es Tocade Rochas -  Eau de toilette vaporizador para mujer  100 ml'
+slug: 'B00JGO1J74-es Tocade Rochas - Eau de toilette vaporizador para mujer 100 ml'
+tags: eau, de, toilette
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

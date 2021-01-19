@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CFf1Ai2yL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SBXMT8-es OBEEII Disfraz Elsa Anna Traje Frozen Niñas Princesa Ana Vestido + Pantalones Reino de Hielo Vestidos de Carnaval Fiesta Halloween Cosplay Navidad Costume Chica 5-6 Años'
+slug: 'B082SBXMT8-es OBEEII Disfraz Elsa Anna Traje Frozen Niñas Princesa Ana...'
+tags: navidad
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

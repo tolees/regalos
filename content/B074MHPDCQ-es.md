@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F8Dga6GgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MHPDCQ-es Swarovski Conjunto de Collares Symbolic Moon  Multicolor  Combinación de Acabados metálicos'
+slug: 'B074MHPDCQ-es Swarovski Conjunto de Collares Symbolic Moon Multicolor...'
+tags: swarovski
 actualPrice: 90.95 EUR
 currency: EUR
 price: 90.95

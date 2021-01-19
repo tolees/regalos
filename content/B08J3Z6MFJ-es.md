@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418xPwP4SLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J3Z6MFJ-es Decdeal Adornos Árbol Navidad Colgantes Muñeco de Nieve Decoración Colgante de Bricolaje Personalizados para Familiares Amigos Fiesta Adornos Navideños Manualidades'
+slug: 'B08J3Z6MFJ-es Decdeal Adornos Árbol Navidad Colgantes Muñeco de Nieve...'
+tags: navidad
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

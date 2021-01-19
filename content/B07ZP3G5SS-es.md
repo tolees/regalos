@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-sWnDlXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP3G5SS-es LuckyGirls Calcetines de algodón Estampados de Dibujos Animados cálidos de Invierno para Hombre Navidad Transpirable'
+slug: 'B07ZP3G5SS-es LuckyGirls Calcetines de algodón Estampados de Dibujos...'
+tags: navidad
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

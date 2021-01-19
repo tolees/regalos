@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yjkefNIgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8TL45J-es TekHome Mini LED Proyector Bebe Estrellas Portátil Azul  Juguetes Bebes 3 6 9 Meses 1 Año  Luz Noche Nocturna Infantil  2019 Regalos Cumpleaños Navidad para Niños 2 3 4 5 6 Años  48 Efectos.'
+slug: 'B07Q8TL45J-es TekHome Mini LED Proyector Bebe Estrellas Portátil Azul...'
+tags: navidad
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

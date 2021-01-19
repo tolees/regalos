@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k93sRROVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DZPHAZA-es Calvin Klein Euphoria Men - Agua de tocador vaporizador para hombre  50 ml'
+slug: 'B00DZPHAZA-es Calvin Klein Euphoria Men - Agua de tocador vaporizador...'
+tags: agua, de, tocador
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

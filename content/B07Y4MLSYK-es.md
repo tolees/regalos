@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y6hkc9GLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4MLSYK-es Luces de Proyector de Navidad  Luz de Proyección 2 in 1 Ondas de agua Patrones móviles Lámpara decorativa giratoria con control remoto IP65 a prueba de agua'
+slug: 'B07Y4MLSYK-es Luces de Proyector de Navidad Luz de Proyección 2 in 1...'
+tags: navidad
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

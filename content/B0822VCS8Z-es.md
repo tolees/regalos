@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ENct9E9rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822VCS8Z-es OwlFay Disfraz de Princesa Frozen Elsa Vestido Ana Reino de Hielo Vestidos de Carnaval Fiesta Halloween Cosplay Navidad Costume Amarillo 5-6 Años'
+slug: 'B0822VCS8Z-es OwlFay Disfraz de Princesa Frozen Elsa Vestido Ana Reino...'
+tags: navidad
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

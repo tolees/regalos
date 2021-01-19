@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414m2oK59NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZKSNM7-es Gorros suaves gruesos y cálidos Sombreros de invierno unisex Sombreros de Navidad livianos Regalo de Navidad para niños Accesorios de ropa cómodos - Rojo'
+slug: 'B084ZKSNM7-es Gorros suaves gruesos y cálidos Sombreros de invierno...'
+tags: navidad
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

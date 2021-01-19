@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EWI9zFPIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWSLCWM-es OxyLED Guirnalda Luces Exterior Solar 10 Metros 100 LED Blanco Cálido Guirnalda de luces solares 8 Modos Luz Decoración para Navidad  Fiestas  Bodas  Patio  Dormitorio Jardines  Festivales'
+slug: 'B07KWSLCWM-es OxyLED Guirnalda Luces Exterior Solar 10 Metros 100 LED...'
+tags: navidad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yHq4u5qQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7TBBXG-es 5M Luces de neón el Alambre con Controlador Box  Alambre Electroluminiscente con luces estroboscópica para uso en el interior de su coche  Decoración de navidad  Halloween  Cosplay Rosado '
+slug: 'B07K7TBBXG-es 5M Luces de neón el Alambre con Controlador Box Alambre...'
+tags: navidad
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

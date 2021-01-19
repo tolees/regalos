@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510K0FKSrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGN13W1-es Vicloon Disfraz de Princesa Belle Vestido y Accesorios para Niñas  Corona Anillo Sceptre Collar Pendientes Guantes  para Fiesta Cosplay Navidad Fiesta de cumpleaños Halloween'
+slug: 'B07LGN13W1-es Vicloon Disfraz de Princesa Belle Vestido y Accesorios...'
+tags: navidad
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

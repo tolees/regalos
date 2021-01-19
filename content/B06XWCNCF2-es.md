@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gqjv8VKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWCNCF2-es ThxMadam Album de Fotos DIY Álbum de Fotos Libros de Firmas para Boda Scrapbooking Album Cuaderno Diario de Viaje Vintage Regalo Original para Aniversario Navidad Boda Cumpleaños'
+slug: 'B06XWCNCF2-es ThxMadam Album de Fotos DIY Álbum de Fotos Libros de...'
+tags: navidad
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

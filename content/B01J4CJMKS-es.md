@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TtHPSBNUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J4CJMKS-es Pherofly Roll on Atrayente de las mujeres - Feromona extra fuerte y naturalmente atrayente Eau de Toilette para él 14 ml'
+slug: 'B01J4CJMKS-es Pherofly Roll on Atrayente de las mujeres - Feromona extra...'
+tags: eau, de, toilette
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

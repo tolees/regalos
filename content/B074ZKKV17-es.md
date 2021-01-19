@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZOMTTw3-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZKKV17-es Carolina Herrera 212 Vip Black Agua de Perfume Vaporizador - 50 ml'
+slug: 'B074ZKKV17-es Carolina Herrera 212 Vip Black Agua de Perfume Vaporizador...'
+tags: agua, de, perfume
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

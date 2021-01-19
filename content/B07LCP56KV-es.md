@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WAx7WEolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCP56KV-es amzdeal Pintura Facial con 14 Colores Pintura Cara para la Fiesta Navidad Kit de Pintura Maquillaje como Regalos de los niños con Polvo Brillo*2  Pigmento*14 y Pincel*2'
+slug: 'B07LCP56KV-es amzdeal Pintura Facial con 14 Colores Pintura Cara para la...'
+tags: navidad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

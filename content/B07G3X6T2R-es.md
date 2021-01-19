@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410pKkV2TDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3X6T2R-es Raya Jerséis Mujer 2019 Invierno Blanco Tumblr Moda Casual Punto Navidad Jersey Sueter Pullover Ropa  Beige  Small '
+slug: 'B07G3X6T2R-es Raya Jerséis Mujer 2019 Invierno Blanco Tumblr Moda Casual...'
+tags: navidad
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

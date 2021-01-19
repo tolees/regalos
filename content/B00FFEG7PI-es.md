@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EalEQ0n1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FFEG7PI-es Calvin Klein  Agua de colonia para hombres - 150 ml.'
+slug: 'B00FFEG7PI-es Calvin Klein Agua de colonia para hombres - 150 ml.'
+tags: agua, de, colonia
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95
@@ -25,8 +26,8 @@ Ahora mismo tienes [Calvin Klein  Agua de colonia para hombres - 150 ml.](https:
 
 🔎:
 
-- Agua de colonia Perfumería Hombre
 - C.K; in 2 UEDT M150; referencia 88300196944
 - Agua de colonia Calvin Klein
+- Agua de colonia Perfumería Hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FFEG7PI/?tag=tolees-21)

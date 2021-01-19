@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tpq17LobL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WR7CZ8Y-es Cable electroluminiscente El Wire Podazz de 10 pies de alambre de neón con luz estroboscópica de alambre de alambre con alambre de forma fácil para Halloween  Navidad  interior de automóviles'
+slug: 'B07WR7CZ8Y-es Cable electroluminiscente El Wire Podazz de 10 pies de...'
+tags: navidad
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

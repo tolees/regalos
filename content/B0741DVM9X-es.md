@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YjIraoW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0741DVM9X-es Swarovski Timeless Remix Collection  Azul  baño de rodio'
+slug: 'B0741DVM9X-es Swarovski Timeless Remix Collection Azul baño de rodio'
+tags: swarovski
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KgKsYGxFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXV94SS-es Tuokay 20M 200 LED Luces de Navidad Cadena de Luces Guirnalda de Luces con Adaptador 8 Modos Luces Decorativa Iluminación de Navidad para Arbol de Navidad  Fiesta Boda  Blanco Calido '
+slug: 'B07VXV94SS-es Tuokay 20M 200 LED Luces de Navidad Cadena de Luces...'
+tags: navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

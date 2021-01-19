@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pGxstpldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HS1DFP0-es Instituto Español Poseidon Hombre Edición Indómito - Eau de Toilette 150 ml'
+slug: 'B01HS1DFP0-es Instituto Español Poseidon Hombre Edición Indómito - Eau...'
+tags: eau, de, toilette
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

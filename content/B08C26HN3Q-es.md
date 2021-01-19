@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+DB+vH1tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C26HN3Q-es Ramo Flores Rosa Chapada en Oro  6 Piezas Ramo Rosa Artificiales de Papel Oro con Caja de Regalo  Regalo Ideal para el día de San Valentín  día de la Madre  Aniversario  cumpleaños  Navidad  Rojo '
+slug: 'B08C26HN3Q-es Ramo Flores Rosa Chapada en Oro 6 Piezas Ramo Rosa...'
+tags: navidad
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

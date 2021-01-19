@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RlT-xPQoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LF2WY6-es Narciso Rodriguez  Agua de Perfume para Hombre - 100 ml'
+slug: 'B079LF2WY6-es Narciso Rodriguez Agua de Perfume para Hombre - 100 ml'
+tags: agua, de, perfume
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95
@@ -25,8 +26,8 @@ Está [Narciso Rodriguez  Agua de Perfume para Hombre - 100 ml](https://www.amaz
 
 ℹ️:
 
-- NARCISO RODRIGUEZ FOR HIM BLEU NOIR Eau de Parfum 100ML [NARCISO RODRIGUEZ]
-- Narciso Rodriguez
 - Fragancias Premium
+- Narciso Rodriguez
+- NARCISO RODRIGUEZ FOR HIM BLEU NOIR Eau de Parfum 100ML [NARCISO RODRIGUEZ]
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079LF2WY6/?tag=tolees-21)

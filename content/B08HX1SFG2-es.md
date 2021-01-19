@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zlx-6uaRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HX1SFG2-es Tiras LED Alexa WiFi 5M  Tira LED RGB Inteligente con Control APP  Sync con Música y 7 Modo Escenas  Luces LED Funciona con Alexa  Google Home para la Habitación  Navidad y Fiestas  12V'
+slug: 'B08HX1SFG2-es Tiras LED Alexa WiFi 5M Tira LED RGB Inteligente con...'
+tags: navidad
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

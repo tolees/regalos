@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-MEkMAZrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HR8PYDR-es Dolamen Niños Unisexo Onesies Kigurumi Pijamas  Niña Traje Disfraz Animal Pyjamas  Ropa de Dormir Halloween Cosplay Navidad Animales de Vestuario  90-100CM  35"-39"   Dragon '
+slug: 'B07HR8PYDR-es Dolamen Niños Unisexo Onesies Kigurumi Pijamas Niña Traje...'
+tags: navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

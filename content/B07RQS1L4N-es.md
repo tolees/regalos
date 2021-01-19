@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61FB9fIwOfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQS1L4N-es LEADSTAR Explosion Box  Álbum de Fotos Creative Scrapbook DIY de Bricolaje Libro Recuerdos Caja de Explosiones con 6 Caras para Cumpleaños Aniversario Boda San Valentín Día de la Madre Navidad  Negro'
+slug: 'B07RQS1L4N-es LEADSTAR Explosion Box Álbum de Fotos Creative Scrapbook...'
+tags: navidad
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

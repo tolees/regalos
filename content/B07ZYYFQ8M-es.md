@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31N4SvP5EbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYYFQ8M-es Feketeuki Colorido árbol de Navidad de Navidad Luz LED Brillo Árbol de Navidad Lámpara de luz Nocturna Año Nuevo Regalo romántico Decoración de Fiesta en el hogar - Blanco'
+slug: 'B07ZYYFQ8M-es Feketeuki Colorido árbol de Navidad de Navidad Luz LED...'
+tags: navidad
 actualPrice: 0.71 EUR
 currency: EUR
 price: 0.71

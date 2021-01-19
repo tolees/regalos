@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pz+WBMoDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Y6KXVY-es Oihxse Case Compatible con Realme 5 Pro Funda Transparente Silicona Suave Carcasa Protectora Navidad Santa Deer Diseño de patrón Creativo Ultra Slim Flexible Cover'
+slug: 'B082Y6KXVY-es Oihxse Case Compatible con Realme 5 Pro Funda Transparente...'
+tags: navidad
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

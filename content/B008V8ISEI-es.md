@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zv+UpMk7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008V8ISEI-es Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio de desayuno para 2 personas  6 piezas  Porcelana Premium  Blanco/Rojo'
+slug: 'B008V8ISEI-es Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio...'
+tags: villeroy, &, boch
 actualPrice: 52.75 EUR
 currency: EUR
 price: 52.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A8GfcvV+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1WC58G-es EKKONG Explosion Box  Christmas Explosion Box Creativo DIY Álbum de Fotos Scrapbook Caja Regalo para Cumpleaños Día de San Valentín Aniversario Navidad  Christmas '
+slug: 'B07Y1WC58G-es EKKONG Explosion Box Christmas Explosion Box Creativo DIY...'
+tags: christmas, navidad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fA+U-4ULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DAUYXZA-es Paco Rabanne Invictus  Agua de tocador para hombres - 50 ml.'
+slug: 'B00DAUYXZA-es Paco Rabanne Invictus Agua de tocador para hombres - 50 ml.'
+tags: agua, de, tocador
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

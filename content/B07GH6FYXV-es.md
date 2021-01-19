@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wjnQOFnBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GH6FYXV-es The Nightmare Before Christmas - Notebook Premium Moonlight Madness'
+slug: 'B07GH6FYXV-es The Nightmare Before Christmas - Notebook Premium...'
+tags: christmas
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

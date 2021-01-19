@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51eyJogupxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YN893BS-es Dekora Calendario de Adviento para Niños de Chocolate de Spiderman  color azul  225071 '
+slug: 'B07YN893BS-es Dekora Calendario de Adviento para Niños de Chocolate de...'
+tags: adviento
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

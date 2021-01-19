@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514It6HNgNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X57JPR1-es Rotuladores Acrílicos de Pintura Piedras Rotuladores de Pintura Acrílica 28 Colores Rotuladores Acrílicos Permanentes Para Tela  Madera  Vidrio  Huevo de Pascua  Regalo de Navidad'
+slug: 'B07X57JPR1-es Rotuladores Acrílicos de Pintura Piedras Rotuladores de...'
+tags: navidad
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

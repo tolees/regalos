@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d8UxKxUML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9QZW2A-es Swarovski Colgante Iconic Swan  Baño de Rodio'
+slug: 'B01K9QZW2A-es Swarovski Colgante Iconic Swan Baño de Rodio'
+tags: swarovski
 actualPrice: 56.33 EUR
 currency: EUR
 price: 56.33

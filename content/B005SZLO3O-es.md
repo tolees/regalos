@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ky++lJSNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005SZLO3O-es Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador 75 ml'
+slug: 'B005SZLO3O-es Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador...'
+tags: eau, de, toilette
 actualPrice: 22.28 EUR
 currency: EUR
 price: 22.28

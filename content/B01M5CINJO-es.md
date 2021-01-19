@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511VC2vI0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5CINJO-es Lámpara de Tira Bola Hada Noche Cadenas de Luz Ligera Algodón 10 Liderada Decoración Navidad'
+slug: 'B01M5CINJO-es Lámpara de Tira Bola Hada Noche Cadenas de Luz Ligera...'
+tags: navidad
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

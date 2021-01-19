@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fCP9DGVIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4JR3MC-es FTVOGUE Navidad de Madera Merry-Go-Round Caballo decoración Vintage Mini Colgante carrusel Caballo Colgante para cumpleaños Navidad'
+slug: 'B07H4JR3MC-es FTVOGUE Navidad de Madera Merry-Go-Round Caballo...'
+tags: navidad
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

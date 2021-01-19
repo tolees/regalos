@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KSNO6ur7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFVVZJV-es Hielo  anal plug Christmas Tree  silicona  tierna Gradualmente einführbar'
+slug: 'B07BFVVZJV-es Hielo anal plug Christmas Tree silicona tierna...'
+tags: christmas
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

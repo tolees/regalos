@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MLkYi1h7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2GY63K-es Unigoods 24 Piezas Bolas de Navidad 6 cm Bolas de árbol de Navidad Adorno para Colgar en la Pared Adornos para Colgar Decoraciones Red '
+slug: 'B07X2GY63K-es Unigoods 24 Piezas Bolas de Navidad 6 cm Bolas de árbol de...'
+tags: navidad
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

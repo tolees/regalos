@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CuXbQzBBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVBR7L2-es Lictin 5 Pares Pendientes en Oro Largos  Pendientes Mujer para Fiesta  Boda  Cumpleaños  Regalo de Navidad'
+slug: 'B07RVBR7L2-es Lictin 5 Pares Pendientes en Oro Largos Pendientes Mujer...'
+tags: navidad
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

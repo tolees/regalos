@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LykXMFGgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG18BQP-es 5pcs 5D DIY Diamond Painting Christmas Keychain/Collar Kits de pegatinas DIY Art Craft Kits para niños y adultos'
+slug: 'B07WG18BQP-es 5pcs 5D DIY Diamond Painting Christmas Keychain/Collar...'
+tags: christmas
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

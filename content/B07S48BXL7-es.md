@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Nt-QxYY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S48BXL7-es BelleStyle Caja de Regalo Creativo de Bricolaje Libro de Recuerdos Caja de Explosiones DIY Scrapbooking Album Memory Álbum para cumpleaños Aniversario Boda San Valentín Día de la Madre Navidad'
+slug: 'B07S48BXL7-es BelleStyle Caja de Regalo Creativo de Bricolaje Libro de...'
+tags: navidad
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

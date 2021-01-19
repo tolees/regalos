@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GQE9FQI-es Star Wars Eau de Toilette en Estuche - 30 ml'
+tags: eau, de, toilette
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81
