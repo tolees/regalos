@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAITIFW-es Poseidon Sport Eau de Toilette para Hombre - 150 ML'
-tags: tole.es, eau, de, toilette
+tags: [ 'tole.es','eau','de','toilette', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

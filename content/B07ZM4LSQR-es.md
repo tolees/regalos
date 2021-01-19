@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZM4LSQR-es Botella calefactora de microondas Bolsa de agua caliente...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

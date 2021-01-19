@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C1ZA0C-es Oscar by Oscar De La Renta Eau de Toilette para Mujer -...'
-tags: tole.es, eau, de, toilette
+tags: [ 'tole.es','eau','de','toilette', ]
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

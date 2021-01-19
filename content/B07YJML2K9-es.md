@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJML2K9-es Cortina de Baño de Navidad Cortina de Ducha Blanca Tema...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

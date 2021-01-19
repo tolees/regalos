@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XDZ5FY-es Grès Cabochard Women Eau De Toilette 100 Ml'
-tags: tole.es, eau, de, toilette
+tags: [ 'tole.es','eau','de','toilette', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

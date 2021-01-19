@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0086EKVPQ-es Alyssa Ashley green Tea Essence Eau de Toilette...'
-tags: tole.es, eau, de, toilette
+tags: [ 'tole.es','eau','de','toilette', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

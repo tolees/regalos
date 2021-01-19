@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E7WG8I-es Cartier 19201 - Agua de colonia 100 ml'
-tags: tole.es, agua, de, colonia
+tags: [ 'tole.es','agua','de','colonia', ]
 actualPrice: 45.2 EUR
 currency: EUR
 price: 45.2

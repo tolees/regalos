@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X4YFFLS-es Guerlain L Homme Ideal agua de colonia Vaporizador 100 ml'
-tags: tole.es, agua, de, colonia
+tags: [ 'tole.es','agua','de','colonia', ]
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

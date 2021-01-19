@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C26HN3Q-es Ramo Flores Rosa Chapada en Oro 6 Piezas Ramo Rosa...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

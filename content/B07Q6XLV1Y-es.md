@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6XLV1Y-es Amilril Collar Collar Colgante de Corazón Mujer Plata de...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

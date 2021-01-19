@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPSK985-es Velas LED velas sin llama 4"5"6"Set de 3 de cera real...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

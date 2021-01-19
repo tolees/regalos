@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZ7DKZ9-es Navidad Moños y Cintas 12 PCS Christmas Gift Pull Bows...'
-tags: tole.es, christmas, navidad
+tags: [ 'tole.es','christmas','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

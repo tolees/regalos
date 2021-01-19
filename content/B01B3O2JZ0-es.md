@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B3O2JZ0-es Victoria Secret Temptation Agua de perfume para mujeres...'
-tags: tole.es, agua, de, perfume
+tags: [ 'tole.es','agua','de','perfume', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

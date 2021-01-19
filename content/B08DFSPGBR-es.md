@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFSPGBR-es DazSpirit 24 Calendario De Adviento Navidad Bolsa De...'
-tags: tole.es, adviento, navidad
+tags: [ 'tole.es','adviento','navidad', ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

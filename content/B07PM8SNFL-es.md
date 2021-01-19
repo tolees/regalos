@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM8SNFL-es Harry Potter Muñeca Hermione Granger Baile de navidad de...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 18.26 EUR
 currency: EUR
 price: 18.26

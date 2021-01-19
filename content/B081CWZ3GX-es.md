@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CWZ3GX-es Kami Idea Regalos Dia de la Madre Originales Collares...'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

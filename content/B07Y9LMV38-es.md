@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9LMV38-es Linterna Solar Exterior GolWof LED Luz Solar Colgando...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

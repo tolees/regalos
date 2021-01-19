@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Z3ZF1Y-es Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AMEZFO-es Narciso Rodriguez 140435 - Agua de tocador vaporizador...'
-tags: tole.es, agua, de, tocador
+tags: [ 'tole.es','agua','de','tocador', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

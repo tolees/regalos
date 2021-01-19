@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWSLCWM-es OxyLED Guirnalda Luces Exterior Solar 10 Metros 100 LED...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

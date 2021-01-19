@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7DYQ4F-es Guirnalda Luces Exterior 10 Tubo 30cm 300 LEDs IP65...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

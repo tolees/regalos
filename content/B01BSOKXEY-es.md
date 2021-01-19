@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSOKXEY-es Swarovski Reloj Crystalline Oval 5181008'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

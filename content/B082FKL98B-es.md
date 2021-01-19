@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FKL98B-es IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa con...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 11.15 EUR
 currency: EUR
 price: 11.15

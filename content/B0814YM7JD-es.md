@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814YM7JD-es Swarovski Collar Swan de Mujer con Rodio Plateado Cristal...'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 89.1 EUR
 currency: EUR
 price: 89.1

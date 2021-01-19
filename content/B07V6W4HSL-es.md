@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6W4HSL-es Guirnalda Luces Exterior Blanco Cálido Guirnalda de Luces...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

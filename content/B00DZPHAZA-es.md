@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DZPHAZA-es Calvin Klein Euphoria Men - Agua de tocador vaporizador...'
-tags: tole.es, agua, de, tocador
+tags: [ 'tole.es','agua','de','tocador', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

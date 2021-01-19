@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6VDX6N-es mysunny Album de Fotos Libro de Recuerdos de Cuero página...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

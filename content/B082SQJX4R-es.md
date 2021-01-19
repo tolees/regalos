@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SQJX4R-es MOCOCITO Calcetines de Mujer 6 Pares Calcetines Algodón...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

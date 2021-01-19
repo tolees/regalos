@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLDT79P-es Felly Juguetes Bebes Puzzles de Madera Educativos para...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

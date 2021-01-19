@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6RZX8X-es UTTORA Kit de Exploración para Niños 17 en 1 Juego de...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

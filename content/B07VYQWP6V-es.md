@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYQWP6V-es BACKTURE Luces Discoteca Iluminación de Escenarios...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

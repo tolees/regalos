@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GHYTAO-es Lancome Hypnôse Agua de perfume Vaporizador 30 ml'
-tags: tole.es, agua, de, perfume
+tags: [ 'tole.es','agua','de','perfume', ]
 actualPrice: 29.55 EUR
 currency: EUR
 price: 29.55

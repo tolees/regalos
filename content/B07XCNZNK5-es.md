@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCNZNK5-es Pintura Corporal y Facial Kit de Pintura Facial Face Body...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

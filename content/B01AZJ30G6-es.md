@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AZJ30G6-es Swarovski Colgante Creativity Circle de Mujer Chapado en...'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

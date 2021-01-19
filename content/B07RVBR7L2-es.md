@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVBR7L2-es Lictin 5 Pares Pendientes en Oro Largos Pendientes Mujer...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

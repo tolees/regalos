@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002HO3A1S-es Thierry Mugler Angel Agua de perfume Vaporizador...'
-tags: tole.es, agua, de, perfume
+tags: [ 'tole.es','agua','de','perfume', ]
 actualPrice: 68.95 EUR
 currency: EUR
 price: 68.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAMTK56-es Gotas de Mayfer 62628 - Agua de colonia 1000 ml'
-tags: tole.es, agua, de, colonia
+tags: [ 'tole.es','agua','de','colonia', ]
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

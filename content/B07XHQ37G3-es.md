@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHQ37G3-es 12 rollos de cinta adhesiva con purpurina y 1 rollo de 10...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

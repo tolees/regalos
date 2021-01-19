@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Y6KXVY-es Oihxse Case Compatible con Realme 5 Pro Funda Transparente...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

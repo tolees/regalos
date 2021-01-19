@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DY5N8CT-es Swarovski Reloj Crystal Lake brazalete de metal cristal...'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 164.5 EUR
 currency: EUR
 price: 164.5

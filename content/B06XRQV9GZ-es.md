@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRQV9GZ-es Cadena de Luces Mr.Twinklelight 6.5M 50 LED Flor Solar Luz...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

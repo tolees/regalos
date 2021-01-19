@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7ZY3ZS-es Amilril Collar Plata de Ley 925 Moda Joyería Navidad Joyas...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

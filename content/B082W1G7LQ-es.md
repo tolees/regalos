@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082W1G7LQ-es Guirnalda Luces Exterior Solare BrizLabs 13.8M 60 LED...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

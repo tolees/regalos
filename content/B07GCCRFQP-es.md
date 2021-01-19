@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCCRFQP-es AmzBarley Disfraz Princesa Vestido de Traje Niñas de...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

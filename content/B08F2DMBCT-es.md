@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F2DMBCT-es Bolsas Papel Kraft Regalo Bolsas bolsas para chuches para...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

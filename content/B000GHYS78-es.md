@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GHYS78-es Issey Miyake Pleats Please Agua de perfume Vaporizador 30 ml'
-tags: tole.es, agua, de, perfume
+tags: [ 'tole.es','agua','de','perfume', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

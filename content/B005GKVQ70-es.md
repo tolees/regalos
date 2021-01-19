@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005GKVQ70-es PLAYBOY LONDON agua de tocador vaporizador 100 ml'
-tags: tole.es, agua, de, tocador
+tags: [ 'tole.es','agua','de','tocador', ]
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C1Z6KG-es Jennifer Lopez Glow - Eau de toilette 100 ml'
-tags: tole.es, eau, de, toilette
+tags: [ 'tole.es','eau','de','toilette', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

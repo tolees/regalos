@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD611PT-es Abercrombie & Fitch Agua de perfume para mujeres - 30 ml'
-tags: tole.es, agua, de, perfume
+tags: [ 'tole.es','agua','de','perfume', ]
 actualPrice: 37.47 EUR
 currency: EUR
 price: 37.47

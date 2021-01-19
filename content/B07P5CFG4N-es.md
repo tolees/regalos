@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5CFG4N-es ALLOMN Rosa Flores Artificiales 24K Chapado en Oro Rosa...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

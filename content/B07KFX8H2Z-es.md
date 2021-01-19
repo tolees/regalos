@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFX8H2Z-es Adidas Get Ready Set para Mujer Contiene: Neceser Adidas +...'
-tags: tole.es, eau, de, toilette
+tags: [ 'tole.es','eau','de','toilette', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

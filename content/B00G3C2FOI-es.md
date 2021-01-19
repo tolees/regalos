@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G3C2FOI-es Armani 53992 - Agua de perfume'
-tags: tole.es, agua, de, perfume
+tags: [ 'tole.es','agua','de','perfume', ]
 actualPrice: 36.3 EUR
 currency: EUR
 price: 36.3

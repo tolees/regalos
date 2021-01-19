@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SBXTND-es Swarovski Anillo Attract Blanco Baño de Rodio'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 54.12 EUR
 currency: EUR
 price: 54.12

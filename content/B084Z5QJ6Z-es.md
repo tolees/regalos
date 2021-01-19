@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z5QJ6Z-es DEESOSPRO® [Tarjeta de Cumpleaños] [Tarjeta de...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

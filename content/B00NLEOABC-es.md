@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NLEOABC-es NYK1 Designer Swarovski Crystal & Glass Nail File Handmade...'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

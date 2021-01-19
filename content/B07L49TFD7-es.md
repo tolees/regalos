@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L49TFD7-es Carpa De Ensueño Carpa Para Cama，Carpa Cojin Molon，Carpa...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

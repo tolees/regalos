@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HA5Q4JE-es 30 Multicolor LED Solares Guirnaldas Luminosas forma de...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

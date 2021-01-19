@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4JR3MC-es FTVOGUE Navidad de Madera Merry-Go-Round Caballo...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

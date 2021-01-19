@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPVDQVF-es Pintura Cara Lenbest Pintura Facial Pintura Facial y...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

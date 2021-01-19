@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBYXTTD-es HI SUYI - Cojín con forma de árbol de Navidad...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

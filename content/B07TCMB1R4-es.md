@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCMB1R4-es Alex Perry Regalo Día de la Madre pendientes mujer...'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFQBRY9-es 6x Fresadora de Madera de Fresa de Carburo Pirograbado de...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

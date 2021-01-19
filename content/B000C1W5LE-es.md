@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C1W5LE-es Thierry Mugler 16863 - Agua de colonia 30 ml'
-tags: tole.es, agua, de, colonia
+tags: [ 'tole.es','agua','de','colonia', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

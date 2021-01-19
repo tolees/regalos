@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009OAICC-es Estee Lauder 2617 - Agua de perfume'
-tags: tole.es, agua, de, perfume
+tags: [ 'tole.es','agua','de','perfume', ]
 actualPrice: 49.75 EUR
 currency: EUR
 price: 49.75

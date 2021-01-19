@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HBGMOEK-es BUYERTIME 5M/16.4Ft 50 LEDs Cadena de Luces Impermeable...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

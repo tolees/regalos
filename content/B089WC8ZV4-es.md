@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089WC8ZV4-es feihao Velas Perfumadas Velas Aromaticas Cera de Soja...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

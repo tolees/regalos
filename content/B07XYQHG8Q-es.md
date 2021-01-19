@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYQHG8Q-es TAZEMAT 30 Hojas Papel de Rascar Pulseras para Rascar...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

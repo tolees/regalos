@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7QVCYO-es Grsta Muñequera Magnetica Con 15 Potentes Imanes Cinturon...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

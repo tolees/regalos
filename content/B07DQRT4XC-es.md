@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQRT4XC-es Swarovski Pendientes Magic blanco baño de rodio'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 61.49 EUR
 currency: EUR
 price: 61.49

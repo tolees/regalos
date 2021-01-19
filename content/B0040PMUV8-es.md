@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0040PMUV8-es MONT BLANC Presence - Agua de Tocador para Hombre con...'
-tags: tole.es, agua, de, tocador
+tags: [ 'tole.es','agua','de','tocador', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

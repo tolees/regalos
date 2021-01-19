@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GZ2XHNT-es YUCCH 24pcs Bolsas de regalo de Navidad de Papel Incluye...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08883YJGQ-es Crystals & Stones BAP39 - Pendientes de plata de ley 925...'
-tags: tole.es, swarovski
+tags: [ 'tole.es','swarovski', ]
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHCQ5Z1-es 3D Lámpara de Escritorio Win-Y LED 7 del tacto del color...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

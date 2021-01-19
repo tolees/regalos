@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LCZEJK-es Jimmy Choo Jimmy Choo Agua de perfume Vaporizador 100 ml'
-tags: tole.es, agua, de, perfume
+tags: [ 'tole.es','agua','de','perfume', ]
 actualPrice: 40.06 EUR
 currency: EUR
 price: 40.06

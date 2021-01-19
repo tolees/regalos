@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR8PYDR-es Dolamen Niños Unisexo Onesies Kigurumi Pijamas Niña Traje...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

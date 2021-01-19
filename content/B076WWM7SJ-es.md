@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076WWM7SJ-es Amaza 150pcs Etiquetas de Papel Kraft 7cm x 2cm Gift Tags...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

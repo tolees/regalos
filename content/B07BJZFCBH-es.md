@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJZFCBH-es Yasolote 7M Cadena de Luz Solar 8 Modos 50 LED Luces de...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

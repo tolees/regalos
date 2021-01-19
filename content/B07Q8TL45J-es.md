@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8TL45J-es TekHome Mini LED Proyector Bebe Estrellas Portátil Azul...'
-tags: tole.es, navidad
+tags: [ 'tole.es','navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
