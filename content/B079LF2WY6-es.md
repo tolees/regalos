@@ -26,8 +26,8 @@ Está [Narciso Rodriguez  Agua de Perfume para Hombre - 100 ml](https://www.amaz
 
 ℹ️:
 
-- Fragancias Premium
-- NARCISO RODRIGUEZ FOR HIM BLEU NOIR Eau de Parfum 100ML [NARCISO RODRIGUEZ]
 - Narciso Rodriguez
+- NARCISO RODRIGUEZ FOR HIM BLEU NOIR Eau de Parfum 100ML [NARCISO RODRIGUEZ]
+- Fragancias Premium
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079LF2WY6/?tag=tolees-21)
