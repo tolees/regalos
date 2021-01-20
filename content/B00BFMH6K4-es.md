@@ -26,9 +26,9 @@ Tienes [Gucci - Guilty Black Pour Homme - Eau de Toilette para hombres - 50 ml](
 
 🔎:
 
-- Las notas de salida son cilantro verde y lavanda
+- Es una fragancia de la familia olfativa aromática fougère para hombres
 - Las notas de fondo son pachulí y cedro
 - Las notas de corazón son flor de azahar del naranjo, neroli y notas verdes
-- Es una fragancia de la familia olfativa aromática fougère para hombres
+- Las notas de salida son cilantro verde y lavanda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BFMH6K4/?tag=tolees-21)
