@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGGRFBY-es Gorro Bluetooth Gorro Bluetooth Inalámbrico Gorro de...'
+sku: 'B07VGGRFBY-es'
 tags: [ 'navidad', ]
 actualPrice: 18.99 EUR
 currency: EUR

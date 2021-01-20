@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000P20RPQ-es Bulgari Agua de tocador para hombres Soir - 100 ml.'
+sku: 'B000P20RPQ-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 51.95 EUR
 currency: EUR

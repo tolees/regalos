@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJRD36T-es AUOPLUS 30M 300 LED Guirnalda Luz Exterior Solar Cadena de...'
+sku: 'B07YJRD36T-es'
 tags: [ 'navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR

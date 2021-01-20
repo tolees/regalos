@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B2QPB4F-es Yasolote 22M Guirnalda de Luces Solares 8 Modos 200 LED...'
+sku: 'B07B2QPB4F-es'
 tags: [ 'navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR

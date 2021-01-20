@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005QUUKFY-es Alvarez Gomez - Agua de Colonia Concentrada - 750 ml.'
+sku: 'B005QUUKFY-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 33.95 EUR
 currency: EUR

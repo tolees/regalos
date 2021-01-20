@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSZ49ZB-es Swarovski Pendientes Symbolic Evil Eye de Mujer chapados...'
+sku: 'B07DSZ49ZB-es'
 tags: [ 'swarovski', ]
 actualPrice: 34.0 EUR
 currency: EUR

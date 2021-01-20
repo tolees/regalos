@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9C9NN1-es Fontee® Perrito Navidad Rojo Capa Terciopelo Saco de...'
+sku: 'B07Y9C9NN1-es'
 tags: [ 'navidad', ]
 actualPrice: 7.99 EUR
 currency: EUR

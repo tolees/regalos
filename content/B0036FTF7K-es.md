@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036FTF7K-es Shiseido 19650 - Agua de colonia 100 ml'
+sku: 'B0036FTF7K-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 56.0 EUR
 currency: EUR

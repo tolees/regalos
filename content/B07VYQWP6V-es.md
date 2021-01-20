@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYQWP6V-es BACKTURE Luces Discoteca Iluminación de Escenarios...'
+sku: 'B07VYQWP6V-es'
 tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLKY3HK-es Swarovski Pendientes de botón Attract de Mujer rojo Baño...'
+sku: 'B07SLKY3HK-es'
 tags: [ 'swarovski', ]
 actualPrice: 24.5 EUR
 currency: EUR

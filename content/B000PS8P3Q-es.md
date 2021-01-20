@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PS8P3Q-es Hugo Boss Agua de tocador para hombres - 75 ml.'
+sku: 'B000PS8P3Q-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 30.94 EUR
 currency: EUR

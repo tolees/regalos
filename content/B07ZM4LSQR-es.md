@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZM4LSQR-es Botella calefactora de microondas Bolsa de agua caliente...'
+sku: 'B07ZM4LSQR-es'
 tags: [ 'navidad', ]
 actualPrice: 10.88 EUR
 currency: EUR

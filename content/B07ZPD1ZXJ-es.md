@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPD1ZXJ-es Westend - Zapatillas de Navidad para Hombre patrón nórdico'
+sku: 'B07ZPD1ZXJ-es'
 tags: [ 'navidad', ]
 actualPrice: 11.62 EUR
 currency: EUR

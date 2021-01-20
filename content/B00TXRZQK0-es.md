@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TXRZQK0-es Boucheron Agua de colonia para hombres - 100 gr.'
+sku: 'B00TXRZQK0-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 27.1 EUR
 currency: EUR

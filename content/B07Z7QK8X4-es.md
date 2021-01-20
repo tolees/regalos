@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7QK8X4-es Finether Luz de Proyector LED Océano Decoración Interiores...'
+sku: 'B07Z7QK8X4-es'
 tags: [ 'navidad', ]
 actualPrice: 32.99 EUR
 currency: EUR

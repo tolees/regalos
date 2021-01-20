@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NXLIJM-es Donna Karan DKNY Agua de tocador para mujeres - 100 ml.'
+sku: 'B004NXLIJM-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 43.72 EUR
 currency: EUR

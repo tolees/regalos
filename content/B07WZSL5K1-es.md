@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZSL5K1-es BONNYCO Pizarra Mágica con Luz A3 y A5 6 Plantillas 2...'
+sku: 'B07WZSL5K1-es'
 tags: [ 'navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NLEOABC-es NYK1 Designer Swarovski Crystal & Glass Nail File Handmade...'
+sku: 'B00NLEOABC-es'
 tags: [ 'swarovski', ]
 actualPrice: 14.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6VDX6N-es mysunny Album de Fotos Libro de Recuerdos de Cuero página...'
+sku: 'B07H6VDX6N-es'
 tags: [ 'navidad', ]
 actualPrice: 8.99 EUR
 currency: EUR

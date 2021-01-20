@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814YP5SX-es Swarovski Pendientes Angelic Square de Mujer con platino...'
+sku: 'B0814YP5SX-es'
 tags: [ 'swarovski', ]
 actualPrice: 34.0 EUR
 currency: EUR

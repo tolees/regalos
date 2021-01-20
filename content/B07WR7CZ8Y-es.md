@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WR7CZ8Y-es Cable electroluminiscente El Wire Podazz de 10 pies de...'
+sku: 'B07WR7CZ8Y-es'
 tags: [ 'navidad', ]
 actualPrice: 9.69 EUR
 currency: EUR

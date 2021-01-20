@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IRBAX42-es Cartier Agua de perfume para mujeres - 30 gr.'
+sku: 'B00IRBAX42-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 40.89 EUR
 currency: EUR

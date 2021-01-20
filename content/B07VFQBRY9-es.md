@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFQBRY9-es 6x Fresadora de Madera de Fresa de Carburo Pirograbado de...'
+sku: 'B07VFQBRY9-es'
 tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR

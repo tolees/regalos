@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCMB1R4-es Alex Perry Regalo Día de la Madre pendientes mujer...'
+sku: 'B07TCMB1R4-es'
 tags: [ 'swarovski', ]
 actualPrice: 25.99 EUR
 currency: EUR

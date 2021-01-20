@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWCNCF2-es ThxMadam Album de Fotos DIY Álbum de Fotos Libros de...'
+sku: 'B06XWCNCF2-es'
 tags: [ 'navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR

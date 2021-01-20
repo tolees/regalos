@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C1Z6CE-es Sisley Eau Du Soir Agua de perfume Vaporizador 100 ml'
+sku: 'B000C1Z6CE-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 130.8 EUR
 currency: EUR

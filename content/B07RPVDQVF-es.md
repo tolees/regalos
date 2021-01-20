@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPVDQVF-es Pintura Cara Lenbest Pintura Facial Pintura Facial y...'
+sku: 'B07RPVDQVF-es'
 tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR

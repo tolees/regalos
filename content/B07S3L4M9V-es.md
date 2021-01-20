@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3L4M9V-es Gomas de Borrar Animal 30PCS Al Azar Juguete Desmontable...'
+sku: 'B07S3L4M9V-es'
 tags: [ 'navidad', ]
 actualPrice: 8.99 EUR
 currency: EUR

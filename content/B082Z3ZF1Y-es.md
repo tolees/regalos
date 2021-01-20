@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Z3ZF1Y-es Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna...'
+sku: 'B082Z3ZF1Y-es'
 tags: [ 'navidad', ]
 actualPrice: 8.39 EUR
 currency: EUR

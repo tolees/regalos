@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012RYDWG-es Yves Saint Laurent Ysl L Homme Eau de Toilette Vaporizador...'
+sku: 'B0012RYDWG-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 39.9 EUR
 currency: EUR

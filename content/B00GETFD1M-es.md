@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GETFD1M-es American Crew Nine Agua De Perfume Hombre - 75 ml.'
+sku: 'B00GETFD1M-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 9.14 EUR
 currency: EUR

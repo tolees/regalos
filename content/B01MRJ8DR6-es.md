@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRJ8DR6-es Bolsa de Almacenamiento de Tela para árbol de Navidad 125...'
+sku: 'B01MRJ8DR6-es'
 tags: [ 'navidad', ]
 actualPrice: 10.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RZPCLIC-es Swarovski Pendientes Solitaire de Mujer chapado en tono...'
+sku: 'B00RZPCLIC-es'
 tags: [ 'swarovski', ]
 actualPrice: 29.0 EUR
 currency: EUR

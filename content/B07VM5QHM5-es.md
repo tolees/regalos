@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM5QHM5-es OBEEII Rapunzel Disfraz Niña Carnaval Vestido de Princesa...'
+sku: 'B07VM5QHM5-es'
 tags: [ 'navidad', ]
 actualPrice: 12.39 EUR
 currency: EUR

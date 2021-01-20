@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJN1XB9-es Polvo Acrilico para Uñas Purpurina Cara Glitter para Uñas...'
+sku: 'B07DJN1XB9-es'
 tags: [ 'christmas', ]
 actualPrice: 8.99 EUR
 currency: EUR

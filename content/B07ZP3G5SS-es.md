@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP3G5SS-es LuckyGirls Calcetines de algodón Estampados de Dibujos...'
+sku: 'B07ZP3G5SS-es'
 tags: [ 'navidad', ]
 actualPrice: 1.06 EUR
 currency: EUR

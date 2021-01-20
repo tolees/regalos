@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CWZ3GX-es Kami Idea Regalos Dia de la Madre Originales Collares...'
+sku: 'B081CWZ3GX-es'
 tags: [ 'swarovski', ]
 actualPrice: 24.99 EUR
 currency: EUR

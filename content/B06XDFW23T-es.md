@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDFW23T-es Mont Blanc Agua de tocador para mujeres - 200 ml.'
+sku: 'B06XDFW23T-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 59.95 EUR
 currency: EUR

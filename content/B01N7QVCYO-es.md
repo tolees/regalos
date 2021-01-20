@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7QVCYO-es Grsta Muñequera Magnetica Con 15 Potentes Imanes Cinturon...'
+sku: 'B01N7QVCYO-es'
 tags: [ 'navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR

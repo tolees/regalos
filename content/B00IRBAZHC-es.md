@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IRBAZHC-es Cartier La Panthere Agua de perfume Vaporizador 75 ml'
+sku: 'B00IRBAZHC-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 59.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073YQ5F5G-es Regalo De Navidad Abalorio Pulsera Mujer Plateado De Plata...'
+sku: 'B073YQ5F5G-es'
 tags: [ 'navidad', ]
 actualPrice: 16.29 EUR
 currency: EUR

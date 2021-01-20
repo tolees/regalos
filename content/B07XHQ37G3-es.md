@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHQ37G3-es 12 rollos de cinta adhesiva con purpurina y 1 rollo de 10...'
+sku: 'B07XHQ37G3-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

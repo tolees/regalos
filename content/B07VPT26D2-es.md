@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPT26D2-es GoMaihe Hiedra Artificial Guirnalda Planta 24pcs Plantas...'
+sku: 'B07VPT26D2-es'
 tags: [ 'navidad', ]
 actualPrice: 15.29 EUR
 currency: EUR

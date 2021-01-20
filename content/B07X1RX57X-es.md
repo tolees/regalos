@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1RX57X-es Luces Discoteca 15Colores Hosome Bola de Discoteca DJ...'
+sku: 'B07X1RX57X-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

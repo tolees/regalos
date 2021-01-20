@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0731Q7VDQ-es Adidas Uefa Champions Edition Eau de Toilette para Hombre...'
+sku: 'B0731Q7VDQ-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 7.9 EUR
 currency: EUR

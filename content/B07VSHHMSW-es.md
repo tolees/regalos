@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSHHMSW-es Amilril Collar Colgante Luna y Gato Plata de Ley 925 Moda...'
+sku: 'B07VSHHMSW-es'
 tags: [ 'navidad', ]
 actualPrice: 18.98 EUR
 currency: EUR

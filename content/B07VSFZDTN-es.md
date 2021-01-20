@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSFZDTN-es OSHINE 50unidades LED Velas Velas CR2032 pilas velas sin...'
+sku: 'B07VSFZDTN-es'
 tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR

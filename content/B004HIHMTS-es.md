@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004HIHMTS-es Boucheron Agua de colonia para mujeres - 30 gr.'
+sku: 'B004HIHMTS-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 10.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HOAVEMQ-es Cadena solar de luces LED Salcar de 5 metros 20 mariposa...'
+sku: 'B01HOAVEMQ-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

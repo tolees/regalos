@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F48Z4YL-es Rosa 24 K Rosa de la Galaxia Flores Artificiales de Rose...'
+sku: 'B08F48Z4YL-es'
 tags: [ 'navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR

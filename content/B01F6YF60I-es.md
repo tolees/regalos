@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F6YF60I-es Old Spice Whitewater Vaporizador Agua de Colonia - 100 ml'
+sku: 'B01F6YF60I-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 9.06 EUR
 currency: EUR

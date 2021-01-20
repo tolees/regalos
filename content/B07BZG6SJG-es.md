@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZG6SJG-es J.Rosée Pendientes Mujer Plata de Ley 925 [Buena Suerte]...'
+sku: 'B07BZG6SJG-es'
 tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR

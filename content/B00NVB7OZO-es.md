@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVB7OZO-es XMASKING Estrella Cometa de 95 cm en Tubo Luminoso 108 LED...'
+sku: 'B00NVB7OZO-es'
 tags: [ 'navidad', ]
 actualPrice: 24.9 EUR
 currency: EUR

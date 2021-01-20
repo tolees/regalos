@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076S8PZRM-es 24 Velas LED Sin Fuego - Glamouric Velas Electrónicas con...'
+sku: 'B076S8PZRM-es'
 tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR

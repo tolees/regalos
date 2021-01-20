@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y14NQL6-es Paco Rabanne 71949 - Agua de colonia 30 ml'
+sku: 'B00Y14NQL6-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 42.65 EUR
 currency: EUR

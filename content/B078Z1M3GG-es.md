@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Z1M3GG-es Swarovski Ear jackets Latisha acabado con combinación de...'
+sku: 'B078Z1M3GG-es'
 tags: [ 'swarovski', ]
 actualPrice: 44.5 EUR
 currency: EUR

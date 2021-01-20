@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002RBS26Y-es Acqua Di Parma Magnolia Nobile Agua de Perfume - 50 ml'
+sku: 'B002RBS26Y-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 54.05 EUR
 currency: EUR

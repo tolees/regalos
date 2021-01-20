@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2Y9MLS-es Disfrace Unicornio Pijama Animal Cosplay Unisex Franella...'
+sku: 'B07X2Y9MLS-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

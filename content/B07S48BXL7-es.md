@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S48BXL7-es BelleStyle Caja de Regalo Creativo de Bricolaje Libro de...'
+sku: 'B07S48BXL7-es'
 tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR

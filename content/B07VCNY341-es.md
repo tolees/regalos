@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCNY341-es Guirnalda de luces solares OxyLED 2 x 30 luces LED para...'
+sku: 'B07VCNY341-es'
 tags: [ 'navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR

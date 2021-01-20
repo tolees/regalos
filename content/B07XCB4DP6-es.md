@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCB4DP6-es GHONLZIN Máscaras LED Máscara de Halloween LED Glow Scary...'
+sku: 'B07XCB4DP6-es'
 tags: [ 'navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR

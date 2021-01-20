@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VOPG0E-es Dolce & Gabbana 18358 - Agua de colonia'
+sku: 'B000VOPG0E-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 38.5 EUR
 currency: EUR

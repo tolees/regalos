@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086T1MK5H-es Musk Fresh Agua de Colonia para Hombre 200ml Avon'
+sku: 'B086T1MK5H-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 4.99 EUR
 currency: EUR

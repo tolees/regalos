@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PTSL2Y-es Bombas de Baño Aofmee Bomba de Baño Set de Regalo Sales de...'
+sku: 'B086PTSL2Y-es'
 tags: [ 'navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR

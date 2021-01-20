@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772DGS9Z-es Amaza 100pcs Etiquetas de Papel Kraft Árbol de Navidad...'
+sku: 'B0772DGS9Z-es'
 tags: [ 'navidad', ]
 actualPrice: 6.88 EUR
 currency: EUR

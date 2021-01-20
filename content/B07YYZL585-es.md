@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYZL585-es Rotuladores Acrílicos de 12 Colores Rotuladores Acrílicos...'
+sku: 'B07YYZL585-es'
 tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR

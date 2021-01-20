@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E7YK5K-es Armani Acqua Di Gio Homme Eau de Toilette Vaporizador 100 ml'
+sku: 'B000E7YK5K-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 51.95 EUR
 currency: EUR

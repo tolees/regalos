@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD38KWL-es Yves Saint Laurent L Homme Agua de Colonia - 200 ml'
+sku: 'B06XD38KWL-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 59.96 EUR
 currency: EUR

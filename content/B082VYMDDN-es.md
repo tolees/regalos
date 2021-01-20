@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VYMDDN-es OwlFay Disfraz de Princesa Carnival para Niñas Vestidos de...'
+sku: 'B082VYMDDN-es'
 tags: [ 'navidad', ]
 actualPrice: 11.25 EUR
 currency: EUR

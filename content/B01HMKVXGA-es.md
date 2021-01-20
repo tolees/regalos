@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMKVXGA-es Calvin Klein Deep Euphoria Agua de Perfume - 50 ml'
+sku: 'B01HMKVXGA-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 34.21 EUR
 currency: EUR

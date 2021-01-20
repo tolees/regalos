@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5CFG4N-es ALLOMN Rosa Flores Artificiales 24K Chapado en Oro Rosa...'
+sku: 'B07P5CFG4N-es'
 tags: [ 'navidad', ]
 actualPrice: 6.89 EUR
 currency: EUR

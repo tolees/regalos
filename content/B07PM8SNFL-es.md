@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM8SNFL-es Harry Potter Muñeca Hermione Granger Baile de navidad de...'
+sku: 'B07PM8SNFL-es'
 tags: [ 'navidad', ]
 actualPrice: 18.26 EUR
 currency: EUR

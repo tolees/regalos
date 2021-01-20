@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRXYYG5-es Traje de la Casa de Papel con Mascara Mono Cosplay Trajes...'
+sku: 'B07VRXYYG5-es'
 tags: [ 'navidad', ]
 actualPrice: 10.89 EUR
 currency: EUR

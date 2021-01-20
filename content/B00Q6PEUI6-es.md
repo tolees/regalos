@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q6PEUI6-es Cesta con American Candy | Caja de caramelos y Chucherias...'
+sku: 'B00Q6PEUI6-es'
 tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR

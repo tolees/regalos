@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYPT8Z4-es 60 LED 10M Cadena Solar de Luces IP65 Impermeable 8 Modos...'
+sku: 'B07GYPT8Z4-es'
 tags: [ 'navidad', ]
 actualPrice: 13.59 EUR
 currency: EUR

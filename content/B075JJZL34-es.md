@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JJZL34-es Shiseido Ever Bloom Agua de Perfume - 50 ml'
+sku: 'B075JJZL34-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 30.14 EUR
 currency: EUR

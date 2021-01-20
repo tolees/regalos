@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JXMB1S-es Camara Fotos Infantil Cámara de Fotos para Niños con HD...'
+sku: 'B081JXMB1S-es'
 tags: [ 'navidad', ]
 actualPrice: 29.99 EUR
 currency: EUR

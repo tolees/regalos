@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVYX731-es Swarovski Collar Further de Mujer Blanco Baño de Rodio'
+sku: 'B07SVYX731-es'
 tags: [ 'swarovski', ]
 actualPrice: 39.5 EUR
 currency: EUR

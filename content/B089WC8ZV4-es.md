@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089WC8ZV4-es feihao Velas Perfumadas Velas Aromaticas Cera de Soja...'
+sku: 'B089WC8ZV4-es'
 tags: [ 'navidad', ]
 actualPrice: 16.88 EUR
 currency: EUR

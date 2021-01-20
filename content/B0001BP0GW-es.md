@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001BP0GW-es Guerlain - Eau de Toilette Mitsouko'
+sku: 'B0001BP0GW-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 37.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7WQD2M-es Álvarez Gómez - Flores Mediterráneas Verbena y Azahar Agua...'
+sku: 'B07Z7WQD2M-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 9.95 EUR
 currency: EUR

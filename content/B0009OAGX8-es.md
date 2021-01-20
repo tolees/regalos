@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009OAGX8-es Ralph Lauren 2706 - Agua de colonia'
+sku: 'B0009OAGX8-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 38.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6TK9F5-es Álvarez Gómez Flores Mediterráneas Jazmín de Noche Agua de...'
+sku: 'B07Z6TK9F5-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 10.95 EUR
 currency: EUR

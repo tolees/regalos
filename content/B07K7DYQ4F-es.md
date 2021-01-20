@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7DYQ4F-es Guirnalda Luces Exterior 10 Tubo 30cm 300 LEDs IP65...'
+sku: 'B07K7DYQ4F-es'
 tags: [ 'navidad', ]
 actualPrice: 20.99 EUR
 currency: EUR

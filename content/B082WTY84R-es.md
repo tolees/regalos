@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WTY84R-es OwlFay Disfraz de Princesa Carnaval Vestido Reino de Hielo...'
+sku: 'B082WTY84R-es'
 tags: [ 'navidad', ]
 actualPrice: 8.55 EUR
 currency: EUR

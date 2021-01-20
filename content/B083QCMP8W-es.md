@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QCMP8W-es Aerb Guirnalda Luz Exterior Solar 2 Pack Cadena de Luces...'
+sku: 'B083QCMP8W-es'
 tags: [ 'navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR

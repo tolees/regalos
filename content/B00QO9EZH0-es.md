@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QO9EZH0-es Guirnaldas Solares Luminosas de 50 LEDs Multicolor en...'
+sku: 'B00QO9EZH0-es'
 tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR

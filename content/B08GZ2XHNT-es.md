@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GZ2XHNT-es YUCCH 24pcs Bolsas de regalo de Navidad de Papel Incluye...'
+sku: 'B08GZ2XHNT-es'
 tags: [ 'navidad', ]
 actualPrice: 13.68 EUR
 currency: EUR

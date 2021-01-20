@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z5QJ6Z-es DEESOSPRO® [Tarjeta de Cumpleaños] [Tarjeta de...'
+sku: 'B084Z5QJ6Z-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

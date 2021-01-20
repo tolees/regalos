@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5X3M9T-es The Nightmare Before Christmas Nightmare Before Christmas:...'
+sku: 'B07M5X3M9T-es'
 tags: [ 'christmas', ]
 actualPrice: 16.16 EUR
 currency: EUR

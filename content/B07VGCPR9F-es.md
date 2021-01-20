@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGCPR9F-es OBEEII Disfraz Princesa para Niñas Costume Princesa Reino...'
+sku: 'B07VGCPR9F-es'
 tags: [ 'navidad', ]
 actualPrice: 13.29 EUR
 currency: EUR

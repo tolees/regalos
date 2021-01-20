@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E2R5P1Q-es Hugo Boss 53968 - Agua de perfume'
+sku: 'B00E2R5P1Q-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 50.1 EUR
 currency: EUR

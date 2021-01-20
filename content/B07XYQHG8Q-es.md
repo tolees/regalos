@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYQHG8Q-es TAZEMAT 30 Hojas Papel de Rascar Pulseras para Rascar...'
+sku: 'B07XYQHG8Q-es'
 tags: [ 'navidad', ]
 actualPrice: 10.95 EUR
 currency: EUR

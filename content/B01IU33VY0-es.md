@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IU33VY0-es Swarovski Pulsera Angelic de Mujer verde Baño de Rodio'
+sku: 'B01IU33VY0-es'
 tags: [ 'swarovski', ]
 actualPrice: 64.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR8PYDR-es Dolamen Niños Unisexo Onesies Kigurumi Pijamas Niña Traje...'
+sku: 'B07HR8PYDR-es'
 tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR

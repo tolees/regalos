@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4JXYYZ-es WisFox Explosion Box Creativo DIY Hecho a Mano Sorpresa...'
+sku: 'B07Z4JXYYZ-es'
 tags: [ 'navidad', ]
 actualPrice: 18.99 EUR
 currency: EUR

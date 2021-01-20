@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRSRXZN-es Pintura Facial Buluri 12 Colores Face Paint Crayons...'
+sku: 'B07BRSRXZN-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

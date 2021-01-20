@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYTH159-es Adolfo Dominguez Agua Fresca Azahar Agua de Tocador...'
+sku: 'B01LYTH159-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 21.69 EUR
 currency: EUR

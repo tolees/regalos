@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCP56KV-es amzdeal Pintura Facial con 14 Colores Pintura Cara para la...'
+sku: 'B07LCP56KV-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

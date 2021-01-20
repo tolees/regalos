@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7GYGJJ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 [Alas de...'
+sku: 'B07B7GYGJJ-es'
 tags: [ 'navidad', ]
 actualPrice: 18.99 EUR
 currency: EUR

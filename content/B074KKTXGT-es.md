@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074KKTXGT-es Swarovski Remix Collection Strand Infinity baño en Tono...'
+sku: 'B074KKTXGT-es'
 tags: [ 'swarovski', ]
 actualPrice: 48.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVCYNP2-es 2 Piezas Coches Juguete Flyfun Coches para Niños Tire...'
+sku: 'B07WVCYNP2-es'
 tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR

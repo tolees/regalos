@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005MQO53A-es Trussardi Uomo Eau de Toilette Vaporizador 100 ml'
+sku: 'B005MQO53A-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 41.99 EUR
 currency: EUR

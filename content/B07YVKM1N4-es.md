@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVKM1N4-es Sony Pack Navidad 2019 BD - 20 discos [Blu-ray]'
+sku: 'B07YVKM1N4-es'
 tags: [ 'navidad', ]
 actualPrice: 39.52 EUR
 currency: EUR

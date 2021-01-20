@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJTLZ2Q-es Cadena de Luces Qomolo G40 Exterior Guirnalda Luces Con 25...'
+sku: 'B07GJTLZ2Q-es'
 tags: [ 'navidad', ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPV1PRT-es Yvsoo Calendario Adviento Juguetes Set 3Pcs Rompecabezas...'
+sku: 'B07KPV1PRT-es'
 tags: [ 'adviento', ]
 actualPrice: 14.99 EUR
 currency: EUR

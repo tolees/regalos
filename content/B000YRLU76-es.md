@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000YRLU76-es Adolfo Dominguez - Agua Fresca Agua De Tocador Vaporizador...'
+sku: 'B000YRLU76-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 19.95 EUR
 currency: EUR

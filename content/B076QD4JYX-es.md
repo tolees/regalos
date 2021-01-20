@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QD4JYX-es Pendientes de Bisutería color Oro Brillante de Regalo...'
+sku: 'B076QD4JYX-es'
 tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR

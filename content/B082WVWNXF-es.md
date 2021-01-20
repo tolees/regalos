@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WVWNXF-es OwlFay Disfraz Niñas Princesa Vestidos de Carnaval Fiesta...'
+sku: 'B082WVWNXF-es'
 tags: [ 'navidad', ]
 actualPrice: 8.55 EUR
 currency: EUR

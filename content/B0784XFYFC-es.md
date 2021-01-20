@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784XFYFC-es Regalo de navidad para hombre amigo cervezas del mundo...'
+sku: 'B0784XFYFC-es'
 tags: [ 'navidad', ]
 actualPrice: 18.9 EUR
 currency: EUR

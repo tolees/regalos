@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HKBBMYO-es Versace Eros Femme Agua de Colonia - 30 ml'
+sku: 'B01HKBBMYO-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 29.95 EUR
 currency: EUR

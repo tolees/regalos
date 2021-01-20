@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9MPSS3-es AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas...'
+sku: 'B07V9MPSS3-es'
 tags: [ 'navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR

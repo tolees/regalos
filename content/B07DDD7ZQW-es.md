@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDD7ZQW-es Lámpara Infantiles Proyector Estrella+Proyector LED+Timer...'
+sku: 'B07DDD7ZQW-es'
 tags: [ 'navidad', ]
 actualPrice: 22.99 EUR
 currency: EUR

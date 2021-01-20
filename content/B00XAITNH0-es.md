@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAITNH0-es Poseidon The Black Eau de Toilette para Hombre - 150 ML'
+sku: 'B00XAITNH0-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 10.95 EUR
 currency: EUR

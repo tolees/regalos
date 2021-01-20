@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVHG8GX-es Náutica Blue Sail Eau de Toilette para Hombre - 100 ml.'
+sku: 'B07GVHG8GX-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 7.95 EUR
 currency: EUR

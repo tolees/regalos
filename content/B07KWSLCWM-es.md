@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWSLCWM-es OxyLED Guirnalda Luces Exterior Solar 10 Metros 100 LED...'
+sku: 'B07KWSLCWM-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

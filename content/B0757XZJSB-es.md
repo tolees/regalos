@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757XZJSB-es Swarovski Pendientes Luckily Evil Eye de Mujer multicolor...'
+sku: 'B0757XZJSB-es'
 tags: [ 'swarovski', ]
 actualPrice: 41.55 EUR
 currency: EUR

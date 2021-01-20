@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD52M1J-es Luces de Navidad para Decoración Diseño de Muñeco de Nieve...'
+sku: 'B07YD52M1J-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SDJDWY-es ETEREAUTY Rosa de Oro 24K Artificial Gold Rose con...'
+sku: 'B083SDJDWY-es'
 tags: [ 'navidad', ]
 actualPrice: 20.99 EUR
 currency: EUR

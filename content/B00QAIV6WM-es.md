@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QAIV6WM-es Versace Eros Pour Femme Agua de Perfume - 50 ml'
+sku: 'B00QAIV6WM-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 45.5 EUR
 currency: EUR

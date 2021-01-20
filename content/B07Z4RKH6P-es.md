@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4RKH6P-es OwlFay Rapunzel Disfraz Carnaval Traje de Princesa para...'
+sku: 'B07Z4RKH6P-es'
 tags: [ 'navidad', ]
 actualPrice: 10.87 EUR
 currency: EUR

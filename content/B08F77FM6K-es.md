@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F77FM6K-es 10M Luces de Tiras LED WiFi，Amouhom Tira de Luz se Puede...'
+sku: 'B08F77FM6K-es'
 tags: [ 'navidad', ]
 actualPrice: 29.99 EUR
 currency: EUR

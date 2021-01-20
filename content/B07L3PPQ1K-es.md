@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3PPQ1K-es luz nocturna infantil Tianhaixing LED Silicona blanda...'
+sku: 'B07L3PPQ1K-es'
 tags: [ 'navidad', ]
 actualPrice: 23.99 EUR
 currency: EUR

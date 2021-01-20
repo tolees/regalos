@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYYFQ8M-es Feketeuki Colorido árbol de Navidad de Navidad Luz LED...'
+sku: 'B07ZYYFQ8M-es'
 tags: [ 'navidad', ]
 actualPrice: 0.71 EUR
 currency: EUR

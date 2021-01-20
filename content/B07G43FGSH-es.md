@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G43FGSH-es Raya Jerséis Mujer 2019 Invierno Blanco Tumblr Moda Casual...'
+sku: 'B07G43FGSH-es'
 tags: [ 'navidad', ]
 actualPrice: 3.99 EUR
 currency: EUR

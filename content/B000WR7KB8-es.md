@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WR7KB8-es Villeroy & Boch Piemont Cubertería Para hasta 6 personas...'
+sku: 'B000WR7KB8-es'
 tags: [ 'villeroy','&','boch', ]
 actualPrice: 145.0 EUR
 currency: EUR

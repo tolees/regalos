@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LCZEJK-es Jimmy Choo Jimmy Choo Agua de perfume Vaporizador 100 ml'
+sku: 'B004LCZEJK-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 40.06 EUR
 currency: EUR

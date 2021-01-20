@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHCQ5Z1-es 3D Lámpara de Escritorio Win-Y LED 7 del tacto del color...'
+sku: 'B07DHCQ5Z1-es'
 tags: [ 'navidad', ]
 actualPrice: 2.99 EUR
 currency: EUR

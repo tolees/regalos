@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AZJ30G6-es Swarovski Colgante Creativity Circle de Mujer Chapado en...'
+sku: 'B01AZJ30G6-es'
 tags: [ 'swarovski', ]
 actualPrice: 33.0 EUR
 currency: EUR

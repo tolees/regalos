@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRTDLM7-es Cadena de Luces Mr.Twinklelight 4.5M 30 LED Solar Bola de...'
+sku: 'B06XRTDLM7-es'
 tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR

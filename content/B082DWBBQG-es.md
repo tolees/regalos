@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DWBBQG-es OBEEII Anna Frozen Disfraz Princesa Ana Elsa Cosplay...'
+sku: 'B082DWBBQG-es'
 tags: [ 'navidad', ]
 actualPrice: 6.76 EUR
 currency: EUR

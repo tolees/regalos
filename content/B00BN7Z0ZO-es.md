@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN7Z0ZO-es COURREGES EAU DE COURRÈGES agua de tocador vaporizador 50 ml'
+sku: 'B00BN7Z0ZO-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 14.51 EUR
 currency: EUR

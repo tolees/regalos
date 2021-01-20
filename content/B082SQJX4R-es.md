@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SQJX4R-es MOCOCITO Calcetines de Mujer 6 Pares Calcetines Algodón...'
+sku: 'B082SQJX4R-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3QZNFK-es Mopoin 24 Pcs Mini Juegos Rompecabezas Set Juego De...'
+sku: 'B07H3QZNFK-es'
 tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR

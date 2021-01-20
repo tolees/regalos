@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B48BSBH-es Juego de herramientas para parrillas para barbacoa kit de...'
+sku: 'B07B48BSBH-es'
 tags: [ 'navidad', ]
 actualPrice: 15.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D62PKC-es Original Perfume Para Mujer 10ml Lady Natural Light...'
+sku: 'B082D62PKC-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 5.89 EUR
 currency: EUR

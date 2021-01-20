@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010SLISYU-es Old Spice Original Eau De Toilette 100 ml'
+sku: 'B010SLISYU-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 8.99 EUR
 currency: EUR

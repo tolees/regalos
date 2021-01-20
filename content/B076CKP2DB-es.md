@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CKP2DB-es WAWJ - Collar con colgante difusor de acetites esenciales...'
+sku: 'B076CKP2DB-es'
 tags: [ 'navidad', ]
 actualPrice: 12.97 EUR
 currency: EUR

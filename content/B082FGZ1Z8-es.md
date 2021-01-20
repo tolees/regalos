@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FGZ1Z8-es IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa Reina de...'
+sku: 'B082FGZ1Z8-es'
 tags: [ 'navidad', ]
 actualPrice: 4.85 EUR
 currency: EUR

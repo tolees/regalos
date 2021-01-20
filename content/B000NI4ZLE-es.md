@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NI4ZLE-es Adidas Fruity Rhythm Eau De Toilette Woda toaletowa dla...'
+sku: 'B000NI4ZLE-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 3.0 EUR
 currency: EUR

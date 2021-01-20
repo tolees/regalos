@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C26HN3Q-es Ramo Flores Rosa Chapada en Oro 6 Piezas Ramo Rosa...'
+sku: 'B08C26HN3Q-es'
 tags: [ 'navidad', ]
 actualPrice: 29.99 EUR
 currency: EUR

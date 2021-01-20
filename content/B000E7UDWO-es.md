@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E7UDWO-es Dior - Hypnotic Poison - Eau de toilette para mujer - 100 ml'
+sku: 'B000E7UDWO-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 85.95 EUR
 currency: EUR

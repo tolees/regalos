@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FJRVYAI-es Cadena solar de luces LED Salcar de 5 metros 20 gotas de...'
+sku: 'B01FJRVYAI-es'
 tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR

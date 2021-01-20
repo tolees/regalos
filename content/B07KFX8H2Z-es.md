@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFX8H2Z-es Adidas Get Ready Set para Mujer Contiene: Neceser Adidas +...'
+sku: 'B07KFX8H2Z-es'
 tags: [ 'eau','de','toilette', ]
 actualPrice: 6.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HA5Q4JE-es 30 Multicolor LED Solares Guirnaldas Luminosas forma de...'
+sku: 'B00HA5Q4JE-es'
 tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR

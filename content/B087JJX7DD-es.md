@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JJX7DD-es DCC FIONNI Collar Mujer Colgante Rosa Eterna Plata de Ley...'
+sku: 'B087JJX7DD-es'
 tags: [ 'swarovski', ]
 actualPrice: 21.99 EUR
 currency: EUR

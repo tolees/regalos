@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P37VKT9-es ANGEL NINA Regalos Navidad Mujer pendientes mujer plata...'
+sku: 'B07P37VKT9-es'
 tags: [ 'swarovski','navidad', ]
 actualPrice: 25.99 EUR
 currency: EUR

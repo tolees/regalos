@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZKSNM7-es Gorros suaves gruesos y cálidos Sombreros de invierno...'
+sku: 'B084ZKSNM7-es'
 tags: [ 'navidad', ]
 actualPrice: 1.64 EUR
 currency: EUR

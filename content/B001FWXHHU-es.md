@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FWXHHU-es Issey Miyake L Eau D Issey pour Homme Intense - Agua De...'
+sku: 'B001FWXHHU-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 38.06 EUR
 currency: EUR

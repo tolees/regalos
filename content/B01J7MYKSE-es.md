@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J7MYKSE-es Ankway Guirnalda luz Solar 8 Modos 5M 30 LED Guirnalda...'
+sku: 'B01J7MYKSE-es'
 tags: [ 'navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR

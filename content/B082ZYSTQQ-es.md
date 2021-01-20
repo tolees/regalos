@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082ZYSTQQ-es Guirnaldas luminosas Solar de Exterior OxyLED G40 10.35M...'
+sku: 'B082ZYSTQQ-es'
 tags: [ 'navidad', ]
 actualPrice: 36.99 EUR
 currency: EUR

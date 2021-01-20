@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NUZVEG6-es Tous Love Moments Agua de Colonia - 30 ml'
+sku: 'B00NUZVEG6-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 13.55 EUR
 currency: EUR

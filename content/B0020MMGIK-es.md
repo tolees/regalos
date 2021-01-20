@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0020MMGIK-es Tous Agua de Colonia - 30 ml'
+sku: 'B0020MMGIK-es'
 tags: [ 'agua','de','colonia', ]
 actualPrice: 19.95 EUR
 currency: EUR

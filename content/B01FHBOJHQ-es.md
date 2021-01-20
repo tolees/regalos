@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FHBOJHQ-es URAQT Disfraz de Princesa Frozen Elsa Traje de Princesa de...'
+sku: 'B01FHBOJHQ-es'
 tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR

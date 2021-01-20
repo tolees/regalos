@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCK1FYZ-es TOPESEL Pendrive 32GB Memoria USB Llave USB 2.0 Flash...'
+sku: 'B08GCK1FYZ-es'
 tags: [ 'navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR

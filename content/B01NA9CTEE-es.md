@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NA9CTEE-es Lychee Solar Powered 3 5m 10 LED Luces de cuerda de hadas...'
+sku: 'B01NA9CTEE-es'
 tags: [ 'navidad', ]
 actualPrice: 14.69 EUR
 currency: EUR

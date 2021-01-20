@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZVCN1S-es Pulsera con Collar para Parejas 2 Pcs Acero Inoxidable...'
+sku: 'B077ZVCN1S-es'
 tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Z2Q4YJ-es Disfraz Elsa Frozen Niñas con Capa Princesa Ana Vestido...'
+sku: 'B081Z2Q4YJ-es'
 tags: [ 'navidad', ]
 actualPrice: 12.5 EUR
 currency: EUR

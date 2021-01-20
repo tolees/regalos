@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W9DBV62-es IREGRO Luces de Proyector Navidad Copos de Nieve Luz de...'
+sku: 'B07W9DBV62-es'
 tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GRFW84I-es Adolfo Dominguez - Agua de Bambú agua de tocador...'
+sku: 'B00GRFW84I-es'
 tags: [ 'agua','de','tocador', ]
 actualPrice: 26.7 EUR
 currency: EUR

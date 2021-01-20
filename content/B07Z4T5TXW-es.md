@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4T5TXW-es OwlFay Disfraz Sofia Traje de Princesa Rapunzel Disfraz...'
+sku: 'B07Z4T5TXW-es'
 tags: [ 'navidad', ]
 actualPrice: 11.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM5MXVS-es OBEEII Vestidos Princesa Niña Traje del Vestido Princesa...'
+sku: 'B07VM5MXVS-es'
 tags: [ 'navidad', ]
 actualPrice: 9.59 EUR
 currency: EUR

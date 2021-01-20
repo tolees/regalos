@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QAIYM6O-es Roberto Cavalli Paradiso Agua de Perfume - 75 ml'
+sku: 'B00QAIYM6O-es'
 tags: [ 'agua','de','perfume', ]
 actualPrice: 34.89 EUR
 currency: EUR

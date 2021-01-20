@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076WWM7SJ-es Amaza 150pcs Etiquetas de Papel Kraft 7cm x 2cm Gift Tags...'
+sku: 'B076WWM7SJ-es'
 tags: [ 'navidad', ]
 actualPrice: 4.48 EUR
 currency: EUR

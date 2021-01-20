@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCCRFQP-es AmzBarley Disfraz Princesa Vestido de Traje Niñas de...'
+sku: 'B07GCCRFQP-es'
 tags: [ 'navidad', ]
 actualPrice: 19.49 EUR
 currency: EUR

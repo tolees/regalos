@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDHGQ3N-es Conjunto camiseta padre hijo gamer personalizado Regalo...'
+sku: 'B07PDHGQ3N-es'
 tags: [ 'navidad', ]
 actualPrice: 22.95 EUR
 currency: EUR

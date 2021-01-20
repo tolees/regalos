@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Y6NCVN-es Oihxse Case Compatible con Realme 3 Pro Funda Transparente...'
+sku: 'B082Y6NCVN-es'
 tags: [ 'navidad', ]
 actualPrice: 7.98 EUR
 currency: EUR
