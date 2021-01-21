@@ -27,8 +27,8 @@ En este momento está [Calvin Klein One Edt Vapo Eau de Toilette  Blanco/Plata  
 
 🔎:
 
-- Productos de belleza e higiene personal para hombres y mujeres de todas las edades
 - Ck One Edt Vapo 100 Ml
 - La belleza más deasada a tu alcanze con los mejores productos del mercado al mejor
+- Productos de belleza e higiene personal para hombres y mujeres de todas las edades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HAOP8UQ/?tag=tolees-21)
