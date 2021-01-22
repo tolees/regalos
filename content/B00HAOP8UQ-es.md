@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein One Edt Vapo Eau de Toilett con un 59.00 % de descuento'
-date: 2021-01-21 16:13:53
+date: 2021-01-22 17:51:23
 image: 'https://m.media-amazon.com/images/I/31TeMvN+HAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HAOP8UQ/?tag=tolees-21'
 descuento: '59.00'
-average: '20.172068965517237'
+average: '19.9867741935484'
 ---
 
 En este momento está [Calvin Klein One Edt Vapo Eau de Toilette  Blanco/Plata  100 ml](https://www.amazon.es/dp/B00HAOP8UQ/?tag=tolees-21) a 17.3 EUR (original: 42.19 EUR) (59.00 %  de descuento) en el siguiente enlace!
