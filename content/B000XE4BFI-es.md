@@ -27,9 +27,9 @@ Tienes [Kenzo 17284 - Agua de perfume  100 ml](https://www.amazon.es/dp/B000XE4B
 
 🔎:
 
-- Contiene 100 ml.
-- La nota olfativa principal de este producto es oriental.
-- De la marca Kenzo.
 - Este producto está indicado para mujeres.
+- La nota olfativa principal de este producto es oriental.
+- Contiene 100 ml.
+- De la marca Kenzo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000XE4BFI/?tag=tolees-21)

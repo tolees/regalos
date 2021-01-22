@@ -27,9 +27,9 @@ Ahora mismo tienes [Maroussia - Agua De Tocador Vaporizador  100 ml](https://www
 
 🔎:
 
-- De la marca Vanderbilt.
-- Este producto está indicado para mujeres.
 - Contiene 100 ml.
+- De la marca Vanderbilt.
 - Las notas olfativas principales de este producto son floral y afrutado.
+- Este producto está indicado para mujeres.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000E7YKGE/?tag=tolees-21)
