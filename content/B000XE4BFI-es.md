@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kenzo 17284 - Agua de perfume  100 ml al 56.21 % de rebaja'
-date: 2021-01-21 23:40:46
+date: 2021-01-23 23:59:08
 image: 'https://m.media-amazon.com/images/I/31vmr1EML7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000XE4BFI/?tag=tolees-21'
 descuento: '56.21'
-average: '51.3245390070922'
+average: '51.3053146853147'
 ---
 
 Tienes [Kenzo 17284 - Agua de perfume  100 ml](https://www.amazon.es/dp/B000XE4BFI/?tag=tolees-21) con precio final de  49.95 EUR (original: 114.08 EUR) (56.21 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Kenzo 17284 - Agua de perfume  100 ml](https://www.amazon.es/dp/B000XE4B
 🔎:
 
 - Este producto está indicado para mujeres.
+- De la marca Kenzo.
 - La nota olfativa principal de este producto es oriental.
 - Contiene 100 ml.
-- De la marca Kenzo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000XE4BFI/?tag=tolees-21)
