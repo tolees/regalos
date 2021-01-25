@@ -27,9 +27,9 @@ Ahora mismo tienes [Vanderbilt - Maroussia - Agua De Tocador Vaporizador  100 ml
 
 🔎:
 
-- Las notas olfativas principales de este producto son floral y afrutado.
 - De la marca Vanderbilt.
-- Este producto está indicado para mujeres.
+- Las notas olfativas principales de este producto son floral y afrutado.
 - Contiene 100 ml.
+- Este producto está indicado para mujeres.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000E7YKGE/?tag=tolees-21)
