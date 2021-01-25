@@ -27,8 +27,8 @@ Tienes [Lacoste 33215 - Agua de colonia  100 ml](https://www.amazon.es/dp/B004ST
 
 ℹ️:
 
-- Peso / Volumen: 100 ml
-- Tipo de producto: Agua de colonia -Genero: Unisex
 - Productos de belleza y cuidado personal
+- Tipo de producto: Agua de colonia -Genero: Unisex
+- Peso / Volumen: 100 ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004STJ0UU/?tag=tolees-21)

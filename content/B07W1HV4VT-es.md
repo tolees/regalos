@@ -28,9 +28,9 @@ Tienes [10M Tiras LED RGB 5050 Tomshine 300 LEDs Tiras LED de Luces Kit con Cont
 🔎:
 
 - 【Longitud de Corte】: Cada corte de 3 LED sin dañar las tiras de descanso según su requisto de instalación.
-- 【Cinta Adhesiva Fuerte】: La cinta autoadhesiva se puede colocar en cualquier superficie seca y plana, flexible para instalar en cualquier lugar que desee.
 - 【Cambio de Color RGB】: Cuenta con 20 colores básicos y 6 colores de bricolaje, le permiten crear diferentes estilos de iluminación según su estado de ánimo.
-- 【300 LEDs Kit de Luz de Tira】:2 rollos de tira de luz LED de 5 m con 150 LED cada uno, total de 10 m con 300 LED, súper brillante pero funcionando con baja temperatura y bajo consumo.
 - 【Múltiples Modos de Iluminación】: 6 modos de iluminación opcionales: automático / flash / salto de 3 o 7 colores / desvanecimiento de 3 o 7 colores, con velocidad del rayo y brillo ajustables.
+- 【300 LEDs Kit de Luz de Tira】:2 rollos de tira de luz LED de 5 m con 150 LED cada uno, total de 10 m con 300 LED, súper brillante pero funcionando con baja temperatura y bajo consumo.
+- 【Cinta Adhesiva Fuerte】: La cinta autoadhesiva se puede colocar en cualquier superficie seca y plana, flexible para instalar en cualquier lugar que desee.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W1HV4VT/?tag=tolees-21)
