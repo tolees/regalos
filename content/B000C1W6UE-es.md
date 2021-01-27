@@ -27,8 +27,8 @@ Está [Versace Red Jeans Agua de Colonia - 75 ml](https://www.amazon.es/dp/B000C
 
 ℹ️:
 
+- Notas de salida: chabacano, fresia, durazno y grosellas negras.
 - Familia olfativa: Floral Frutal.
 - Notas de corazón: violeta, nenúfar, ylang-ylang, lirio de los valles y rosa.
-- Notas de salida: chabacano, fresia, durazno y grosellas negras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1W6UE/?tag=tolees-21)
