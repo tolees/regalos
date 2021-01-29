@@ -28,9 +28,9 @@ Ahora mismo tienes [Lixada Bola Discoteca Luces RGB LED Mini Crystal Magic Bola 
 🔎:
 
 - ◎Grande para el Club, la demostración de DJ, el partido casero, el salón de baile, las vendas, el etc.
-- ◎Profesional 8 canales DMX-512 llevó la luz de la etapa. 4 modos de control: DMX512, esclavo principal, estroboscópico independiente, y automático.
-- ◎Pantalla LED para facilitar la operación. Bajo consumo de energía.
 - ◎Control individual de LEDs rojo, verde y azul. Efectos estroboscópicos, y velocidad de destello ajustable.
+- ◎Pantalla LED para facilitar la operación. Bajo consumo de energía.
 - ◎Ventilador incorporado de enfriamiento para acelerar la emisión de calor. Soportes de montaje duales para colgar en la armadura, instalar en una pared o poner en el suelo.
+- ◎Profesional 8 canales DMX-512 llevó la luz de la etapa. 4 modos de control: DMX512, esclavo principal, estroboscópico independiente, y automático.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0772SSH2C/?tag=tolees-21)
