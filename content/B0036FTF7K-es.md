@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Shiseido 19650 - Agua de colonia  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0036FTF7K/?tag=tolees-21'
 descuento: '49.09'
 average: '58.266666666666666'

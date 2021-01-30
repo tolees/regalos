@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Felly Juguetes Bebes  Puzzles de Madera Educativos para Bebé  Juguetes niños 1 año 2 3 4 5 6 años  Dibujo de Animal Colorido con Placa  Regalo de cumpleaños  Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLDT79P/?tag=tolees-21'
 descuento: '25.01'
 average: '15.143846153846154'

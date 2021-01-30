@@ -16,6 +16,7 @@ comparePrice: 16.83 EUR
 prodname: 'Westend - Zapatillas de Navidad para Hombre  patrón nórdico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPD1ZXJ/?tag=tolees-21'
 descuento: '30.96'
 average: '11.566666666666666'

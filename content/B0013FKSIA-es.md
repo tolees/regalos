@@ -16,6 +16,7 @@ comparePrice: 53.74 EUR
 prodname: 'Boucheron Jaipur Homme Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0013FKSIA/?tag=tolees-21'
 descuento: '53.67'
 average: '26.6'

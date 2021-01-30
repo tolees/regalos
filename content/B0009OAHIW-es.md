@@ -16,6 +16,7 @@ comparePrice: 48.28 EUR
 prodname: 'Dolce & Gabbana Light Blue Eau de Toilette Vaporizador 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAHIW/?tag=tolees-21'
 descuento: '40.87'
 average: '28.55'

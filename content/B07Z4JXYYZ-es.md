@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'WisFox Explosion Box  Creativo DIY Hecho a Mano Sorpresa Explosión Caja de Regalo Amor Memoria  Álbum de Fotos de Scrapbooking Caja para Cumpleaños Día de San Valentín Aniversario Navidad 3 Pluma '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4JXYYZ/?tag=tolees-21'
 descuento: '24.01'
 average: '19.115'

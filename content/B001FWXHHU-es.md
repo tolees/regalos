@@ -16,6 +16,7 @@ comparePrice: 78 EUR
 prodname: 'Issey Miyake L Eau D Issey pour Homme Intense - Agua De Tocador Vaporizador  125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FWXHHU/?tag=tolees-21'
 descuento: '51.21'
 average: '37.46'

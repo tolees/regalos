@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Alex Perry Regalo Día de la Madre pendientes mujer pendientes plata pendientes fiesta pendientes swarovski pendientes baratos mujer joyas para mujer bisuteria mujer joyeria mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZDV6K9/?tag=tolees-21'
 descuento: '78.01'
 average: '21.99'

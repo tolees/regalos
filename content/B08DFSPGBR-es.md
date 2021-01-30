@@ -16,6 +16,7 @@ comparePrice: 20.8 EUR
 prodname: 'DazSpirit 24 Calendario De Adviento Navidad  Bolsa De Regalo Navidad  24 Bolsas De Yute Calendario Adviento para Rellenar  Bricolaje Calendario Adviento  para Decoración Navideñaa De Cuenta Atrás'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFSPGBR/?tag=tolees-21'
 descuento: '48.13'
 average: '10.79'

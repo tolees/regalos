@@ -16,6 +16,7 @@ comparePrice: 56.54 EUR
 prodname: 'KENZO L EAU eau de toilette Mujeres 100 ml - Eau de toilette  Mujeres  100 ml  Loto  Verde pimiento  Menta  Yuzu  Cedar  scent   Almizcle blanco  Aerosol '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GHVIGM/?tag=tolees-21'
 descuento: '24.73'
 average: '42.56'

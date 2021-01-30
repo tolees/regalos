@@ -16,6 +16,7 @@ comparePrice: 98.9 EUR
 prodname: 'Calvin Klein Endless Euphoria Agua de perfume Vaporizador 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IJXT58I/?tag=tolees-21'
 descuento: '33.07'
 average: '57.265'

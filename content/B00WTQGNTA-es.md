@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Flongo Brazalete Pulsera Pareja Novios  Pulsera Acero Inoxidable El Amor Infinito  Regalo Día de los Enamorados Navidad  Elegantes Modelos Varios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WTQGNTA/?tag=tolees-21'
 descuento: '37.12'
 average: '23.89'

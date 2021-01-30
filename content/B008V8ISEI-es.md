@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio de desayuno para 2 personas  6 piezas  Porcelana Premium  Blanco/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008V8ISEI/?tag=tolees-21'
 descuento: '46.72'
 average: '52.75'

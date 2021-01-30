@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Gifts Treat Navidad Botella de Vino Tinto Bolsas de Cubierta Regalo de Vino para Navidad Mesa de la Cena Decoracion Fiesta en Casa Decoracion  Santa Claus Falda Larga '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ9NBQ9/?tag=tolees-21'
 descuento: '45.55'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 4.6 EUR
 prodname: 'Gorros suaves gruesos y cálidos Sombreros de invierno unisex Sombreros de Navidad livianos Regalo de Navidad para niños Accesorios de ropa cómodos - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084ZKSNM7/?tag=tolees-21'
 descuento: '64.35'
 average: '1.64'

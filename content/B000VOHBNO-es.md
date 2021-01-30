@@ -16,6 +16,7 @@ comparePrice: 72.0 EUR
 prodname: 'Lancome - Hypnose Homme - Eau de Toilette - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOHBNO/?tag=tolees-21'
 descuento: '39.82'
 average: '43.33'

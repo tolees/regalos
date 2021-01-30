@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Thierry Mugler Angel Agua de perfume Vaporizador Refillable 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002HO3A1S/?tag=tolees-21'
 descuento: '30.35'
 average: '63.975'

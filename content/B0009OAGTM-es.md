@@ -16,6 +16,7 @@ comparePrice: 91.35 EUR
 prodname: 'Calvin Klein Escape  Agua de perfume para mujeres - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAGTM/?tag=tolees-21'
 descuento: '63.88'
 average: '32.745999999999995'

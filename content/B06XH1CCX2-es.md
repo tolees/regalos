@@ -16,6 +16,7 @@ comparePrice: 20.66 EUR
 prodname: 'FCB Eau de Toilette para Hombre  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XH1CCX2/?tag=tolees-21'
 descuento: '22.60'
 average: '14.469999999999999'

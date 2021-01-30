@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Adidas Get Ready Eau De Toilette para Hombre - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I8LCCNG/?tag=tolees-21'
 descuento: '34.67'
 average: '5.771111111111112'

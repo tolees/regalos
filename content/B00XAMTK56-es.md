@@ -16,6 +16,7 @@ comparePrice: 11.52 EUR
 prodname: 'Gotas de Mayfer 62628 - Agua de colonia  1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAMTK56/?tag=tolees-21'
 descuento: '34.20'
 average: '7.58'

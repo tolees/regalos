@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Friends - Calendario De Adviento para Amigos  41353 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792QCT3J/?tag=tolees-21'
 descuento: '35.35'
 average: '21.04047619047619'

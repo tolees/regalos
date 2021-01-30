@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'mysunny Album de Fotos Libro de Recuerdos de Cuero página Negra reemplazable Libro de Memoria Utilizado para Boda del Aniversario  Cumpleaños  Navidad  Dia de San Valentin  etc. Bicicleta 28cmX21cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6VDX6N/?tag=tolees-21'
 descuento: '59.12'
 average: '12.323333333333332'

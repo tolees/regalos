@@ -16,6 +16,7 @@ comparePrice: 39.7 EUR
 prodname: 'Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005SZLO3O/?tag=tolees-21'
 descuento: '43.88'
 average: '22.294'

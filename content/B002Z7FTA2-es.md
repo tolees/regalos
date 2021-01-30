@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Issey Miyake - L Eau D Issey Agua de Perfume  Recambio  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002Z7FTA2/?tag=tolees-21'
 descuento: '29.33'
 average: '55.724999999999994'

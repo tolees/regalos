@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Villeroy & Boch Cuencos de cereales  0.6 litros  Porcelana Premium  Flow Couture'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNHVRDM/?tag=tolees-21'
 descuento: '21.69'
 average: '19.5'

@@ -16,6 +16,7 @@ comparePrice: 60.75 EUR
 prodname: 'Issey Miyake A Scent by Issey Miyake - Agua de tocador vaporizador  100 ml 3.3 FL. OZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002SQ19AO/?tag=tolees-21'
 descuento: '45.45'
 average: '33.14'

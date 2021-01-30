@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TOPESEL Pendrive 32GB Memoria USB Llave USB 2.0 Flash Drive en Forma de Corazón Metal USB Regalo para Cumpleaños  Navidad  Boda  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GCK1FYZ/?tag=tolees-21'
 descuento: '21.44'
 average: '10.99'

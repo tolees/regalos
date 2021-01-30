@@ -16,6 +16,7 @@ comparePrice: 49.5 EUR
 prodname: 'Adolfo Dominguez - Agua de Bambú  agua de tocador vaporizador  para hombre  120 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GRFW84I/?tag=tolees-21'
 descuento: '46.06'
 average: '26.7'

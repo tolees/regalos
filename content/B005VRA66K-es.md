@@ -16,6 +16,7 @@ comparePrice: 97.84 EUR
 prodname: 'Versace Yellow Diamond Agua de Colonia - 90 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005VRA66K/?tag=tolees-21'
 descuento: '49.00'
 average: '49.864999999999995'

@@ -16,6 +16,7 @@ comparePrice: 22.86 EUR
 prodname: 'OwlFay Disfraz Sofia Traje de Princesa Rapunzel Disfraz Carnaval para Ninas Halloween Navidad Cumpleaños Cosplay Costume Morado 7-8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4T5TXW/?tag=tolees-21'
 descuento: '50.00'
 average: '11.43'

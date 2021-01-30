@@ -16,6 +16,7 @@ comparePrice: 29.45 EUR
 prodname: 'MONT BLANC Presence - Agua de Tocador para Hombre con Vaporizador  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0040PMUV8/?tag=tolees-21'
 descuento: '42.65'
 average: '16.89'

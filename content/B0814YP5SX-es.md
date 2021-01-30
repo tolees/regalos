@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Swarovski Pendientes Angelic Square de Mujer  con platino  Cristal  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814YP5SX/?tag=tolees-21'
 descuento: '30.61'
 average: '34.0'

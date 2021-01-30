@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Pintura Facial Buluri 12 Colores Face Paint Crayons Conjuntos de Pintura Corporal Faciales Seguros y no Tóxicos con 40 Plantillas Perfectos para Carnaval Santa Navidad Cosplay Fiestas 12colors '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRSRXZN/?tag=tolees-21'
 descuento: '37.52'
 average: '9.98'

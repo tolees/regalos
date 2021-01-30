@@ -16,6 +16,7 @@ comparePrice: 198.0 EUR
 prodname: 'Maison F. Kurkdjian Aqua Vitae Edt – Agua de tocador 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G0P2WP0/?tag=tolees-21'
 descuento: '30.48'
 average: '137.64'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Herefun 50 Piezas Globos de LED Colores Luces para Decoración de Boda Habitación Fiesta Partido Comunión Cumpleaños Navidad Reunión Ceremonia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT3VHYK/?tag=tolees-21'
 descuento: '30.45'
 average: '15.99'

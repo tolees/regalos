@@ -16,6 +16,7 @@ comparePrice: 66.3 EUR
 prodname: 'Oscar by Oscar De La Renta  Eau de Toilette para Mujer - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1ZA0C/?tag=tolees-21'
 descuento: '37.36'
 average: '41.53'

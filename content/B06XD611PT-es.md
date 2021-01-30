@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Abercrombie & Fitch Agua de perfume para mujeres - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD611PT/?tag=tolees-21'
 descuento: '16.73'
 average: '37.47'

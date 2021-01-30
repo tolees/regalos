@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'YUCCH 24pcs Bolsas de regalo de Navidad de Papel Incluye 24 número pegatinas+24 etiquetas colgantes de Navidad para Navidad  cumpleaños  fiesta de té  bodas ycelebraciones de fiestas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GZ2XHNT/?tag=tolees-21'
 descuento: '23.96'
 average: '13.68'

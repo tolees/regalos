@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'DCC FIONNI Collar Mujer Colgante Rosa Eterna Plata de Ley 925 Joyeria con Crystal from Swarovski Collares Personalizados con Caja de Regalo Mama Aniversario Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JJX7DD/?tag=tolees-21'
 descuento: '38.90'
 average: '21.99'

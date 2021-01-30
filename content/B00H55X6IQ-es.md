@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'CLGarden LEDKB200 Cerezo de LED en 180 cm de altura con 200 hermosas flores de cerezo frío blanco  árbol la decoración de navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H55X6IQ/?tag=tolees-21'
 descuento: '17.87'
 average: '45.95'

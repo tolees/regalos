@@ -16,6 +16,7 @@ comparePrice: 52.5 EUR
 prodname: 'Paco Rabanne 71949 - Agua de colonia  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y14NQL6/?tag=tolees-21'
 descuento: '18.76'
 average: '42.65'

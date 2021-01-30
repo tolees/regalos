@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'PLAYBOY LONDON agua de tocador vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005GKVQ70/?tag=tolees-21'
 descuento: '66.27'
 average: '3.43'

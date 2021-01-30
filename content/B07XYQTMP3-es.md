@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TAZEMAT 24 Hojas Máscaras de Animales Papel para Rascar Máscara Infantil para Niños Scratch Art con Lápiz de Madera y Banda Elástica Regalo de Cumpleaños para Cosply Navidad Fiestas de Disfraces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYQTMP3/?tag=tolees-21'
 descuento: '51.56'
 average: '12.59'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Elizabeth Arden  Agua de colonia para mujeres - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IMU0RDA/?tag=tolees-21'
 descuento: '51.08'
 average: '10.705'

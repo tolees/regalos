@@ -16,6 +16,7 @@ comparePrice: 29.59 EUR
 prodname: 'Halloween Jesus Del Pozo Halloween Kiss Sexy Agua De Tocador - 100 Ml 1 Unidad 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0E9KXD/?tag=tolees-21'
 descuento: '16.80'
 average: '24.62'

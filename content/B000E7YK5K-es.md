@@ -16,6 +16,7 @@ comparePrice: 89.34 EUR
 prodname: 'Armani Acqua Di Gio Homme Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7YK5K/?tag=tolees-21'
 descuento: '41.85'
 average: '51.95'

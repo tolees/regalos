@@ -16,6 +16,7 @@ comparePrice: 20.44 EUR
 prodname: 'Lychee Solar Powered 3 5m 10 LED Luces de cuerda de hadas impermeables Luces de cadena con energía solar marroquí con 2 modos para decoraciones de Navidad  jardín  bodas  fiestas y vacaciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NA9CTEE/?tag=tolees-21'
 descuento: '28.13'
 average: '14.69'

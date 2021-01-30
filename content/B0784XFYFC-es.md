@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Regalo de navidad para hombre amigo cervezas del mundo  6x0.33l  Navidad en todo el mundo Regalo de Santa Regalo de Santa Idea de regalo de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784XFYFC/?tag=tolees-21'
 descuento: '45.85'
 average: '18.9'

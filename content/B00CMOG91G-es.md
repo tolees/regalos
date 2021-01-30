@@ -16,6 +16,7 @@ comparePrice: 107.0 EUR
 prodname: 'Bvlgari Aqua Eau de Toilette Para Hombre con Vaporizador  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CMOG91G/?tag=tolees-21'
 descuento: '33.24'
 average: '70.36500000000001'

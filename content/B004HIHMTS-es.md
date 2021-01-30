@@ -16,6 +16,7 @@ comparePrice: 24.32 EUR
 prodname: 'Boucheron  Agua de colonia para mujeres - 30 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004HIHMTS/?tag=tolees-21'
 descuento: '57.52'
 average: '10.33'

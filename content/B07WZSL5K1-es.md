@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'BONNYCO Pizarra Mágica con Luz A3 y A5  6 Plantillas  2 Bolis Espía Juguetes para Niñas y Niños 3 4 5 6 7 8 9 10 11 Años | Pizarra Luminosa  Regalos para Niños Originales Cumpleaños y Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZSL5K1/?tag=tolees-21'
 descuento: '33.37'
 average: '17.11307692307692'

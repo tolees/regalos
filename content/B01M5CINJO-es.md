@@ -16,6 +16,7 @@ comparePrice: 4.94 EUR
 prodname: 'Lámpara de Tira Bola Hada Noche Cadenas de Luz Ligera Algodón 10 Liderada Decoración Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5CINJO/?tag=tolees-21'
 descuento: '29.15'
 average: '3.86'

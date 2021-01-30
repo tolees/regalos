@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'OxyLED Guirnaldas luminosas de exterior [LED Versión]G40 7 62Metros 12 bombillas Luces de la secuencia del jardín al aire libre Decorative String Luces de patio Garden Luces de patio de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBXC56J/?tag=tolees-21'
 descuento: '78.01'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 40.28 EUR
 prodname: 'Hugo Boss  Agua de tocador para hombres - 75 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PS8P3Q/?tag=tolees-21'
 descuento: '23.19'
 average: '35.70875'

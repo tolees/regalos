@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa con Abrigo Capa y Accesorios Reina de Las Nieves Traje Carnaval Halloween Navidad Fiesta de Cumpleaños Disfraces para Niñas Trajes Azules 5-6 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082FHSFCQ/?tag=tolees-21'
 descuento: '59.55'
 average: '22.65'

@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'Bvlgari Petits et Mamans  Eau de Toilette - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CT09TU/?tag=tolees-21'
 descuento: '45.00'
 average: '27.666666666666668'

@@ -16,6 +16,7 @@ comparePrice: 88.8 EUR
 prodname: 'Guerlain L Homme Ideal agua de colonia Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X4YFFLS/?tag=tolees-21'
 descuento: '53.49'
 average: '39.95'

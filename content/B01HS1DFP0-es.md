@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Instituto Español Poseidon Hombre Edición Indómito - Eau de Toilette 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HS1DFP0/?tag=tolees-21'
 descuento: '33.64'
 average: '10.95'

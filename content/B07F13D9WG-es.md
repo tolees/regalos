@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'ThxMadam Scrapbook Álbum de Fotos Libro de Visitas de Boda con 50 Páginas Negras Presentes para Regalo de Valentín Día de Aniversario Navidad Cumpleaños para Esposa Hija Madre  Director B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F13D9WG/?tag=tolees-21'
 descuento: '54.56'
 average: '14.99'

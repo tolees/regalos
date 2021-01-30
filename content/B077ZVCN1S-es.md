@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Pulsera con Collar para Parejas 2 Pcs Acero Inoxidable Cerradura de Corazón Llaves Brazalete Enamorado Joyería de Moda Regalo Navidad San Valentin de Amor  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZVCN1S/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

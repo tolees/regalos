@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Antonio Banderas - Agua de tocador Power of Seduction  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4DP6G9/?tag=tolees-21'
 descuento: '26.42'
 average: '11.0'

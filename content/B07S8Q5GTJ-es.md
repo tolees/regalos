@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Guirnalda navidad de luz 300 LED Blanco 30M cálido 8 Modo de funcionamiento IP44 Impermeable  sin incluir transformador  Decoración Casa para fiesta Jardín Patio Fiesta de Navidad [A +++]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8Q5GTJ/?tag=tolees-21'
 descuento: '33.34'
 average: '23.99'

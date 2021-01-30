@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Pack Disney The Nightmare Before Christmas - Chapas Characters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WRTQ6H8/?tag=tolees-21'
 descuento: '31.90'
 average: '2.69'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: '3D Lámpara de Escritorio Win-Y LED 7 del tacto del color de la lámpara del dormitorio del hogar decoración de la oficina para los niños y regalo de Navidad de cumpleaños  G '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHCQ5Z1/?tag=tolees-21'
 descuento: '82.40'
 average: '14.79'

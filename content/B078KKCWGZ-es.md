@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Dinosaurio Luz de la noche 3D LED lámpara Ilusión óptica 3D Deco 7 colores cambian con control remoto  Mesa Lámparas de escritorio Touch Switch Great Gifts  regalo de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KKCWGZ/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

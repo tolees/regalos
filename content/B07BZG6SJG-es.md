@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'J.Rosée Pendientes Mujer Plata de Ley 925 [Buena Suerte] Brillante Circonita Regalos Originales  Regalos Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZG6SJG/?tag=tolees-21'
 descuento: '84.01'
 average: '29.49'

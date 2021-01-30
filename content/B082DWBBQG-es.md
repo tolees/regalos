@@ -16,6 +16,7 @@ comparePrice: 25.39 EUR
 prodname: 'OBEEII Anna Frozen Disfraz Princesa Ana Elsa Cosplay Costume Niñas Disfraces Ice Queen Vestidos Navidad Carnaval Fiesta Outfit Regalos de Cumpleaños Verde 7-8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082DWBBQG/?tag=tolees-21'
 descuento: '73.38'
 average: '6.76'

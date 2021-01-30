@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Guirnalda Luces LED  Tomshine 6.5m/21.33ft Cadena de Luz  G40 Guirnaldas luminosas de Exterior con 12 Blanco Cálido LED Bombillas para Jardín Trasero Fiesta Navidad  1 LED Bombilla de Repuesto '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9ZML4R/?tag=tolees-21'
 descuento: '20.01'
 average: '16.79'

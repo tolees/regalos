@@ -16,6 +16,7 @@ comparePrice: 114.5 EUR
 prodname: 'Cartier La Panthere Agua de perfume Vaporizador 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IRBAZHC/?tag=tolees-21'
 descuento: '47.69'
 average: '60.4625'

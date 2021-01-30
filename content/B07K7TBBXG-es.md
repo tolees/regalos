@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: '5M Luces de neón el Alambre con Controlador Box  Alambre Electroluminiscente con luces estroboscópica para uso en el interior de su coche  Decoración de navidad  Halloween  Cosplay Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7TBBXG/?tag=tolees-21'
 descuento: '46.70'
 average: '7.323333333333333'

@@ -16,6 +16,7 @@ comparePrice: 43.3 EUR
 prodname: 'Biotherm Homme Aquafitness Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C3BRQZG/?tag=tolees-21'
 descuento: '48.04'
 average: '22.5'

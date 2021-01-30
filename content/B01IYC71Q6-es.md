@@ -16,6 +16,7 @@ comparePrice: 84.19 EUR
 prodname: 'Prada 17294 - Agua de Colonia L Homme  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IYC71Q6/?tag=tolees-21'
 descuento: '37.23'
 average: '52.621428571428574'

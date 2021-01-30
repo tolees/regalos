@@ -16,6 +16,7 @@ comparePrice: 18.4 EUR
 prodname: 'Tous Love Moments Agua de Colonia - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NUZVEG6/?tag=tolees-21'
 descuento: '26.36'
 average: '17.005999999999997'

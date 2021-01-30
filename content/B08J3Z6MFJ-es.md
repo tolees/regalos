@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Decdeal Adornos Árbol Navidad Colgantes Muñeco de Nieve Decoración Colgante de Bricolaje Personalizados para Familiares Amigos Fiesta Adornos Navideños Manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J3Z6MFJ/?tag=tolees-21'
 descuento: '78.13'
 average: '3.06'

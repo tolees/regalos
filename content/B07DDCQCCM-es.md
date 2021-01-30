@@ -16,6 +16,7 @@ comparePrice: 82.0 EUR
 prodname: 'Zadig & Voltaire  Agua de perfume para mujeres - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDCQCCM/?tag=tolees-21'
 descuento: '44.15'
 average: '44.894999999999996'

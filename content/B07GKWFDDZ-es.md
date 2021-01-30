@@ -16,6 +16,7 @@ comparePrice: 27.35 EUR
 prodname: 'NUÜR Luz de Neón  Estrella Lunar LED Señales Luminosas Neón  USB Luces de Noche Decoración de Pared Luces de Neón Lámparas para La Sala de Estar de la Boda de Navidad de la Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKWFDDZ/?tag=tolees-21'
 descuento: '48.85'
 average: '13.99'

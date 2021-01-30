@@ -16,6 +16,7 @@ comparePrice: 329 EUR
 prodname: 'Swarovski Reloj Crystal Lake  brazalete de metal  cristal gris oscuro  acero inoxidable  para mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DY5N8CT/?tag=tolees-21'
 descuento: '50.00'
 average: '164.5'

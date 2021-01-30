@@ -16,6 +16,7 @@ comparePrice: 12.89 EUR
 prodname: 'Aire de Sevilla Set de Belleza Edición Azul Fresh - Crema Hidratante Corporal  Eau de Toilette  Gel Exfoliante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAIR71E/?tag=tolees-21'
 descuento: '19.39'
 average: '10.39'

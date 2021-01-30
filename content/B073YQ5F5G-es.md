@@ -16,6 +16,7 @@ comparePrice: 32.26 EUR
 prodname: 'Regalo De Navidad Abalorio Pulsera Mujer Plateado De Plata Con Flores Corazón Charms'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073YQ5F5G/?tag=tolees-21'
 descuento: '49.50'
 average: '15.623333333333333'

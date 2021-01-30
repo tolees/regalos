@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Cadena de Luces  Qomolo G40 Exterior Guirnalda Luces Con 25 Bombillas Y 3 Bombillas de Repuesto  30ft Cable  Decoración Luz Interior y Exterior para Patio  Jardín  Fiesta  Bodas  Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJTLZ2Q/?tag=tolees-21'
 descuento: '38.90'
 average: '21.99'

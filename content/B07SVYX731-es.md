@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Swarovski Collar Further  de Mujer  Blanco  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVYX731/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

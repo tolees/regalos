@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'IWEMEK Disfraz de Princesa Anna Vestido Frozen Niñas Reina de Hielo Cosplay Tutu Tul Maxi Vestido Carnaval Traje Halloween Navidad Ceremonia Cumpleaños Fiesta Theme Fancy Dress Costume Verde 7-8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NM7QB6/?tag=tolees-21'
 descuento: '47.19'
 average: '8.45'

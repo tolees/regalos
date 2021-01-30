@@ -16,6 +16,7 @@ comparePrice: 113.0 EUR
 prodname: 'Mont Blanc  Agua de tocador para mujeres - 200 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDFW23T/?tag=tolees-21'
 descuento: '46.95'
 average: '59.95'

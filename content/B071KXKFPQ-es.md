@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Pendientes Mariposa Brillante Blancos de Regalo de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KXKFPQ/?tag=tolees-21'
 descuento: '23.82'
 average: '17.656666666666666'

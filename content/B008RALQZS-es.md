@@ -16,6 +16,7 @@ comparePrice: 27.09 EUR
 prodname: 'Ted Lapidus Black Extreme Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008RALQZS/?tag=tolees-21'
 descuento: '41.38'
 average: '19.673333333333332'

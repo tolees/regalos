@@ -16,6 +16,7 @@ comparePrice: 23.96 EUR
 prodname: 'Ankway Guirnalda luz Solar 8 Modos  5M 30 LED Guirnalda Luminosa Bolas Colores  Cadena de Luces P65 Impermeable para Exterior/Interior  jardín  Patio  Valla  árbol  Navidad y Decoraciones de Boda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J7MYKSE/?tag=tolees-21'
 descuento: '49.96'
 average: '11.99'

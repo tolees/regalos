@@ -16,6 +16,7 @@ comparePrice: 94.71 EUR
 prodname: 'Prada L Homme Agua de Tocador - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JWMZ1OQ/?tag=tolees-21'
 descuento: '45.95'
 average: '50.48666666666667'

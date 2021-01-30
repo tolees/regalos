@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'IWEMEK Disfraz Anna Frozen Niña Vestido de Princesa Ana con Capa Manga Larga Traje Carnaval Halloween Navidad Fiesta Theme Fancy Dress Costume Regalos de cumpleaños Cosplay Outfits Azul 5-6 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KYXJLT/?tag=tolees-21'
 descuento: '62.35'
 average: '13.55'

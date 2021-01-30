@@ -16,6 +16,7 @@ comparePrice: 14.75 EUR
 prodname: 'TABAC ORIGINAL Agua De Colonia Para Hombres 1 Unidad 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDBVPBP/?tag=tolees-21'
 descuento: '32.27'
 average: '11.16'

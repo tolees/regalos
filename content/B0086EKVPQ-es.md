@@ -16,6 +16,7 @@ comparePrice: 12.46 EUR
 prodname: 'Alyssa Ashley green Tea Essence Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0086EKVPQ/?tag=tolees-21'
 descuento: '25.36'
 average: '10.1'

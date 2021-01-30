@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Hugo Boss 38882 - Agua de perfume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008PRA9MO/?tag=tolees-21'
 descuento: '48.00'
 average: '39.0'

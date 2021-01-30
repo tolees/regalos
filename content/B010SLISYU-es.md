@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Old Spice Original Eau De Toilette 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010SLISYU/?tag=tolees-21'
 descuento: '30.79'
 average: '8.956'

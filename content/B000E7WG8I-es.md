@@ -16,6 +16,7 @@ comparePrice: 92.0 EUR
 prodname: 'Cartier 19201 - Agua de colonia  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7WG8I/?tag=tolees-21'
 descuento: '50.87'
 average: '47.61'

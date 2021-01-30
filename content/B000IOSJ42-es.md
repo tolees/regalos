@@ -16,6 +16,7 @@ comparePrice: 72.5 EUR
 prodname: 'Calvin Klein Contradiction - Agua de perfume  para mujeres  vaporizador  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000IOSJ42/?tag=tolees-21'
 descuento: '63.28'
 average: '26.62'

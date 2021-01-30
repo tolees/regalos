@@ -16,6 +16,7 @@ comparePrice: 28.04 EUR
 prodname: 'Rosa 24 K Rosa de la Galaxia  Flores Artificiales de Rose con Soporte de Exhibición en Caja de Regalo  día de San Valentín  día de la Madre  Aniversario  Cumpleaños  Boda  Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F48Z4YL/?tag=tolees-21'
 descuento: '57.24'
 average: '11.99'

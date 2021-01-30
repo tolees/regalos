@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Adidas Uefa Champions Edition Eau de Toilette para Hombre -  100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0731Q7VDQ/?tag=tolees-21'
 descuento: '36.80'
 average: '7.39375'

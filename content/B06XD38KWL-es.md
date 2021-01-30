@@ -16,6 +16,7 @@ comparePrice: 112.0 EUR
 prodname: 'Yves Saint Laurent L Homme Agua de Colonia - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD38KWL/?tag=tolees-21'
 descuento: '46.46'
 average: '59.96'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'J.Rosée Collar Mujer  Collar Plata de Ley 925 Brillante Circonita con Hermosa Caja  Regalos Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8YSBNM/?tag=tolees-21'
 descuento: '83.67'
 average: '19.87333333333333'

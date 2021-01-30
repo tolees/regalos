@@ -16,6 +16,7 @@ comparePrice: 105 EUR
 prodname: 'Burberry  Agua de colonia para hombres - 150 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DOZ5UJS/?tag=tolees-21'
 descuento: '47.58'
 average: '55.04'

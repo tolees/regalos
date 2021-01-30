@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Amaza 100pcs Etiquetas de Papel Kraft Árbol de Navidad Gift Tags con Cerda de Yute Navidad Decoracion Arbol  5 Patrones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772DGS9Z/?tag=tolees-21'
 descuento: '56.97'
 average: '6.88'

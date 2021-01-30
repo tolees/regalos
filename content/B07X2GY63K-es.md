@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Unigoods 24 Piezas Bolas de Navidad 6 cm Bolas de árbol de Navidad Adorno para Colgar en la Pared Adornos para Colgar Decoraciones Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2GY63K/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

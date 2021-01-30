@@ -16,6 +16,7 @@ comparePrice: 9.24 EUR
 prodname: 'Dekora Calendario de Adviento para Niños de Chocolate de Spiderman  color azul  225071 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YN893BS/?tag=tolees-21'
 descuento: '78.46'
 average: '1.99'

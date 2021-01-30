@@ -16,6 +16,7 @@ comparePrice: 84.6 EUR
 prodname: 'Armani Acqua Di Gio Homme Agua de Colonia  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002JVJ2C/?tag=tolees-21'
 descuento: '30.56'
 average: '58.75'

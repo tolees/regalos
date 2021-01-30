@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Morkka Portátil Máquina de Burbujas  Soplador de Pompas de Jabón Duradero  Divertida Forma de Frog Shape para Niños y Adultos Fácil de Usar para Navidad Fiestas Barbacoa Boda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6NYYLX/?tag=tolees-21'
 descuento: '52.51'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 107.0 EUR
 prodname: 'Hermes Un Jardin Sur Le Nil Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOHCPQ/?tag=tolees-21'
 descuento: '27.71'
 average: '76.95999999999998'

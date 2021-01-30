@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'Estee Lauder 2617 - Agua de perfume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAICC/?tag=tolees-21'
 descuento: '51.70'
 average: '49.7325'

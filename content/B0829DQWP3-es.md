@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bolsa de agua caliente de Navidad  tapa extraíble de punto suave  botella de goma de calidad superior más gruesa + diseño de unicornio  regalo de Navidad práctico y bonito  2 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829DQWP3/?tag=tolees-21'
 descuento: '70.04'
 average: '5.99'

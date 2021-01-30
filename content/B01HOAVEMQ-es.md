@@ -16,6 +16,7 @@ comparePrice: 18.18 EUR
 prodname: 'Cadena solar de luces LED Salcar de 5 metros  20 mariposa de decoración  Solar Luz Cadena luminaria para navidad  fiestas  celebraciones  luz cálida '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HOAVEMQ/?tag=tolees-21'
 descuento: '45.05'
 average: '9.99'

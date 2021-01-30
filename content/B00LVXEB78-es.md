@@ -16,6 +16,7 @@ comparePrice: 160.85 EUR
 prodname: 'Creed Iris Tubereuse Agua de Perfume - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LVXEB78/?tag=tolees-21'
 descuento: '64.02'
 average: '77.235'

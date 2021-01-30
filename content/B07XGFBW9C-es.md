@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Cortina de Luces LED USB  Zorara 3x3 m 300 LEDs 8 Modos Cortinas de Luz Impermeable Cadena Luz de Cortina Blanca Cálida para Bodas  Casa  Jardín  Decoración Navidad [Clase de eficiencia energética A]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGFBW9C/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

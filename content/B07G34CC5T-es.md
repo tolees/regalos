@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Luces de Proyector de Navidad  Proyector de Nieve LED con Control Remoto  Impermeable IP 65 Exterior y Interior  Decoración para Fiesta Navidad Festivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G34CC5T/?tag=tolees-21'
 descuento: '43.37'
 average: '16.99'

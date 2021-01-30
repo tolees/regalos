@@ -16,6 +16,7 @@ comparePrice: 17.96 EUR
 prodname: 'COURREGES EAU DE COURRÈGES agua de tocador vaporizador 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7Z0ZO/?tag=tolees-21'
 descuento: '19.21'
 average: '17.13'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: '7 Bolsas de Regalo Marrón y Papel de Seda de Purple Ladybug Novelty| Bolsitas Kraft Originales 19x24x12 cm para Personalizar y Envolver Regalos| Envoltorio para Fiestas de Cumpleaños  Navidad y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVDS1XB/?tag=tolees-21'
 descuento: '32.37'
 average: '11.49'

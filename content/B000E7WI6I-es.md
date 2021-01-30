@@ -16,6 +16,7 @@ comparePrice: 59.5 EUR
 prodname: 'Jean Paul Gaultier Le Male Eau de Toilette Vaporizador 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7WI6I/?tag=tolees-21'
 descuento: '26.13'
 average: '43.7125'

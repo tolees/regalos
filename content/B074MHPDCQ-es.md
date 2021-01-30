@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Swarovski Conjunto de Collares Symbolic Moon  Multicolor  Combinación de Acabados metálicos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074MHPDCQ/?tag=tolees-21'
 descuento: '23.57'
 average: '88.49666666666667'

@@ -16,6 +16,7 @@ comparePrice: 82.5 EUR
 prodname: 'First American Brands Love Is just The Two Of Us Eau De Toilette 100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PY1RDA/?tag=tolees-21'
 descuento: '83.64'
 average: '13.5'

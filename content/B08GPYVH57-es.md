@@ -16,6 +16,7 @@ comparePrice: 11.06 EUR
 prodname: 'Bolsas Regalo CumpleañOs Bolsa Merienda Infantil Bolsas 100PCS Chuches Bolsitas Regalos Bolsas Galletas Con Orejas Conejo para Navidad Fiesta Chuches CumpleañOs Pascua Chocolate 10 Estilos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GPYVH57/?tag=tolees-21'
 descuento: '27.76'
 average: '7.99'

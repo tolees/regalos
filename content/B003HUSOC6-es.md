@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Carolina Herrera 212 Men NYC Agua de Tocador Vaporizador - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HUSOC6/?tag=tolees-21'
 descuento: '45.00'
 average: '59.95'

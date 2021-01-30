@@ -16,6 +16,7 @@ comparePrice: 76.99 EUR
 prodname: 'Axcer LED Zapatos Verano Ligero Transpirable Bajo 7 Colores USB Carga Luminosas Flash Deporte de Zapatillas con Luces Los Mejores Regalos para Niños Niñas Cumpleaños de Navidad Reyes Mango'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWS74TK/?tag=tolees-21'
 descuento: '67.54'
 average: '24.99'

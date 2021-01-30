@@ -16,6 +16,7 @@ comparePrice: 103.77 EUR
 prodname: 'Guerlain Homme Agua de Perfume para Hombres - 100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MEGKQB1/?tag=tolees-21'
 descuento: '42.60'
 average: '58.263999999999996'

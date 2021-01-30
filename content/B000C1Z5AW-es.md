@@ -16,6 +16,7 @@ comparePrice: 98.0 EUR
 prodname: 'Estée Lauder  Agua de perfume para mujeres - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1Z5AW/?tag=tolees-21'
 descuento: '48.73'
 average: '50.3'

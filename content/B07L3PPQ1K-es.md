@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'luz nocturna infantil  Tianhaixing LED Silicona blanda Zorro luz nocturna con 9 colores cambiando/USB recargable/control remoto y táctil regulable  ideal Navidad y regalos de cumpleaños para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3PPQ1K/?tag=tolees-21'
 descuento: '20.01'
 average: '23.99'

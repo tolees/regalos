@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Finether Luz de Proyector LED Océano Decoración Interiores y Exteriores Lámpara de Proyección Impermeable con 16 Modos  Control Remoto  para Navidad Fiesta Festival'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7QK8X4/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

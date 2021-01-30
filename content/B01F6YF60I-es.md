@@ -16,6 +16,7 @@ comparePrice: 17.8 EUR
 prodname: 'Old Spice Whitewater Vaporizador Agua de Colonia - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F6YF60I/?tag=tolees-21'
 descuento: '49.10'
 average: '8.594166666666666'

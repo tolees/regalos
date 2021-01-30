@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Swarovski Pendientes Luckily Evil Eye  de Mujer  multicolor  Baño en tono Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757XZJSB/?tag=tolees-21'
 descuento: '15.20'
 average: '41.55'

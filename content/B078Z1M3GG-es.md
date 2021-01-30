@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Swarovski Ear jackets Latisha  acabado con combinación de metales  cristal negro  para mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078Z1M3GG/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

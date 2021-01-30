@@ -16,6 +16,7 @@ comparePrice: 71 EUR
 prodname: 'ESTÉE LAUDER WHITE LINEN agua de perfume vaporizador 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7WFUC/?tag=tolees-21'
 descuento: '53.52'
 average: '35.53333333333333'

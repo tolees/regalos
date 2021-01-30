@@ -16,6 +16,7 @@ comparePrice: 85.15 EUR
 prodname: 'Carolina Herrera 212 Vip Rosé Agua de Perfume Vaporizador - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWOTLZ9/?tag=tolees-21'
 descuento: '17.85'
 average: '79.125'

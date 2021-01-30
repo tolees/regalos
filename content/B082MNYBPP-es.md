@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'DREAMWIN Capa de Superhéroe  5 Capa y Máscaras y Pulseras para Niños  Cosplay de Superhéroe  Ideas Kit de Fiesta de Cumpleaños de Navidad  Suministros de Fiesta de Superhéroes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MNYBPP/?tag=tolees-21'
 descuento: '22.97'
 average: '19.99'

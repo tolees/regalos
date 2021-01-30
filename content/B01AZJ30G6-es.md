@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Swarovski Colgante Creativity Circle de Mujer  Chapado en Tono Oro Rosa  Cristal  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AZJ30G6/?tag=tolees-21'
 descuento: '44.07'
 average: '33.0'

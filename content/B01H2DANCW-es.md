@@ -16,6 +16,7 @@ comparePrice: 87.8 EUR
 prodname: 'Yves Saint Laurent Mon Paris Agua de Perfume - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H2DANCW/?tag=tolees-21'
 descuento: '39.69'
 average: '53.95'

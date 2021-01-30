@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'amzdeal Pintura Facial con 14 Colores Pintura Cara para la Fiesta Navidad Kit de Pintura Maquillaje como Regalos de los niños con Polvo Brillo*2  Pigmento*14 y Pincel*2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCP56KV/?tag=tolees-21'
 descuento: '50.03'
 average: '10.921999999999999'

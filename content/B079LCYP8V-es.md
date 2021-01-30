@@ -16,6 +16,7 @@ comparePrice: 62.0 EUR
 prodname: 'Narciso Rodriguez  Agua de perfume para hombres - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LCYP8V/?tag=tolees-21'
 descuento: '39.69'
 average: '37.458'

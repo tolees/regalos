@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Bvlgari BLV POUR HOMME 47028 - Eau de toilette para hombre 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001IB4E4I/?tag=tolees-21'
 descuento: '37.12'
 average: '52.3'

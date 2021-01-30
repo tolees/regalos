@@ -16,6 +16,7 @@ comparePrice: 45.47 EUR
 prodname: 'Montblanc Emblem Agua de Tocador - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JO7LEPU/?tag=tolees-21'
 descuento: '25.45'
 average: '33.80333333333333'

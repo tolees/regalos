@@ -16,6 +16,7 @@ comparePrice: 103.5 EUR
 prodname: 'Jean Paul Gaultier Classique Agua de Perfume - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074C3THZN/?tag=tolees-21'
 descuento: '42.08'
 average: '58.95'

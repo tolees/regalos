@@ -16,6 +16,7 @@ comparePrice: 98.0 EUR
 prodname: 'Jimmy Choo Jimmy Choo Agua de perfume Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LCZEJK/?tag=tolees-21'
 descuento: '59.12'
 average: '40.06'

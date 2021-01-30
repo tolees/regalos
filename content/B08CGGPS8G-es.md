@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Papel Transparante de Regalo  Rollo de Celofán de 20m x 80cm para Floristerías Navidad  Envoltura de Flores  Cestas y Regalos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CGGPS8G/?tag=tolees-21'
 descuento: '21.06'
 average: '14.99'

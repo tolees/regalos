@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '12 Packs Cadena de Luces  Govee 1m/3.3ft 20 LEDs Guirnaldas Luces con Pilas  IP67 Impermeable Luces Decorativas Flexible de Alambre de Cobre para Navidad  Fiesta - Blanco Cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HP4BPBD/?tag=tolees-21'
 descuento: '31.27'
 average: '14.19'

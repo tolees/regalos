@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'WEMEK Niñas Disfraz de Princesa Elsa con Capa Anna Vestido Reino de Hielo Ice Queen Cosplay Traje de Carnaval Halloween Navidad Fiesta Outfits de cumpleaños 02 2-3 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0834XL2ZR/?tag=tolees-21'
 descuento: '70.12'
 average: '11.95'

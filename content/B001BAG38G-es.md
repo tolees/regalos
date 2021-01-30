@@ -16,6 +16,7 @@ comparePrice: 86.0 EUR
 prodname: 'Jean Paul Gaultier Le Male  Eau De Toilette Spray  125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BAG38G/?tag=tolees-21'
 descuento: '39.53'
 average: '55.25'

@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Swarovski Remix Collection  Strand Infinity  baño en Tono Oro Rosa  Cristal Negro  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KKTXGT/?tag=tolees-21'
 descuento: '29.06'
 average: '48.95'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Swarovski Collar Louison  de Mujer  Blanco  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY4M5GX/?tag=tolees-21'
 descuento: '50.00'
 average: '149.5'

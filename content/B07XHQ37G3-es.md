@@ -16,6 +16,7 @@ comparePrice: 16.92 EUR
 prodname: '12 rollos de cinta adhesiva con purpurina y 1 rollo de 10 m de cinta adhesiva de doble cara  colorida cinta adhesiva decorativa para manualidades de papel  álbumes de recortes y regalos de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHQ37G3/?tag=tolees-21'
 descuento: '40.96'
 average: '9.99'

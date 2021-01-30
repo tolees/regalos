@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Burberry My Burberry Eau De Toilette 50Ml Vapo.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XU8KIVA/?tag=tolees-21'
 descuento: '54.33'
 average: '31.9035'

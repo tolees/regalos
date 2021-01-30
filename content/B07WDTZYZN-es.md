@@ -16,6 +16,7 @@ comparePrice: 35.97 EUR
 prodname: 'Proyector Navidad LED  FOCHEA Luces de Proyector Interior y Exterior con 16 Diapositivas Reemplazables y Control Remoto RF para Halloween  Navidad  Valentín  Fiesta  Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDTZYZN/?tag=tolees-21'
 descuento: '16.68'
 average: '29.97'

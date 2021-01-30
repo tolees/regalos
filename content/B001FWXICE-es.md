@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Bvlgari 21236 - Agua de colonia  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FWXICE/?tag=tolees-21'
 descuento: '38.50'
 average: '40.59'

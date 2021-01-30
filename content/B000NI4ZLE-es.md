@@ -16,6 +16,7 @@ comparePrice: 4.36 EUR
 prodname: 'Adidas Fruity Rhythm Eau De Toilette Woda toaletowa dla kobiet 30ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NI4ZLE/?tag=tolees-21'
 descuento: '31.19'
 average: '3.0'

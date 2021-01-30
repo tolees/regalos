@@ -16,6 +16,7 @@ comparePrice: 4.45 EUR
 prodname: 'Instituto Español Gotas Frescas agua de colonia Vaporizador 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAIT190/?tag=tolees-21'
 descuento: '27.19'
 average: '3.24'

@@ -16,6 +16,7 @@ comparePrice: 17.32 EUR
 prodname: 'qingqingR Christmas Deer 5D DIY Full Diamond Painting Bordado Cross Crafts Stitch Kit Home Decoración de Pared'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083YSB6J2/?tag=tolees-21'
 descuento: '50.00'
 average: '8.66'

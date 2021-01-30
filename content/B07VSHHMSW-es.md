@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Collar  Colgante Luna y Gato  Plata de Ley 925 Moda Joyería  Navidad Joyas Regalos Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSHHMSW/?tag=tolees-21'
 descuento: '82.74'
 average: '19.313333333333333'

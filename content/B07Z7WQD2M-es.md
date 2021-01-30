@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Álvarez Gómez - Flores Mediterráneas Verbena y Azahar  Agua de Colonia - Frasco de 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7WQD2M/?tag=tolees-21'
 descuento: '50.13'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 61.5 EUR
 prodname: 'Kenzo  Agua de perfume para hombres - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018URHWCS/?tag=tolees-21'
 descuento: '39.11'
 average: '37.45'

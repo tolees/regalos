@@ -16,6 +16,7 @@ comparePrice: 34.5 EUR
 prodname: 'Shiseido 70518 - Agua de colonia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007YA6MOC/?tag=tolees-21'
 descuento: '67.71'
 average: '12.655000000000001'

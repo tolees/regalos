@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Amaza 150pcs Etiquetas de Papel Kraft 7cm x 2cm Gift Tags Navidad Regalos con 30m Cordel de Yute Navidad Decoracion Arbol  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076WWM7SJ/?tag=tolees-21'
 descuento: '71.98'
 average: '4.48'

@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Villeroy & Boch Artesano Original Estantería  4 piezas  Porcelana Premium/pizarra natural/Madera  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JPGJPE2/?tag=tolees-21'
 descuento: '39.93'
 average: '161.78333333333333'

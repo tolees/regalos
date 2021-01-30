@@ -16,6 +16,7 @@ comparePrice: 63.95 EUR
 prodname: 'Salvatore Ferragamo Signorina In Fiore Agua de Tocador Vaporizador - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VTFFRXX/?tag=tolees-21'
 descuento: '49.10'
 average: '37.552'

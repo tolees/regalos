@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Adolfo Dominguez Agua Fresca Azahar Agua de Tocador Vaporizador - 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYTH159/?tag=tolees-21'
 descuento: '38.03'
 average: '21.59'

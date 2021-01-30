@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'FunPa Fieltro Árbol de Navidad  Arbol Navidad Fieltro Pared DIY Decoración del Árbol de Navidad Decoración Colgante para Niños 30PCS Ornamento de Adorno LED Luces de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPPTJBK/?tag=tolees-21'
 descuento: '71.84'
 average: '13.313333333333334'

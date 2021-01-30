@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Elizabeth Arden  Agua de perfume para mujeres - 30 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYG77CF/?tag=tolees-21'
 descuento: '39.59'
 average: '19.33'

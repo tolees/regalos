@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'Vicloon 8 Piezas Conjunto con Accesorios de Princesa del Hielo Elsa  Contiene Guantes  Varita  Corona  Anillo  Pendientes y Trenza  para Halloween  Navidad  Fiestas  cumpleaños  Niña  2-9 Años - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWCJZWV/?tag=tolees-21'
 descuento: '28.59'
 average: '8.79'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Boucheron  Agua de colonia para hombres - 100 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TXRZQK0/?tag=tolees-21'
 descuento: '63.87'
 average: '27.483333333333334'

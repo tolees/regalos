@@ -16,6 +16,7 @@ comparePrice: 34.75 EUR
 prodname: 'Guirnalda Luces Exterior  Blanco Cálido Guirnalda de Luces Led Impermeable IP65  8 Modos con USB  Control Remoto Led Cadena de Luces  para Exterior y Interior  Jardines  Casas  Boda  Arbol de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6W4HSL/?tag=tolees-21'
 descuento: '68.43'
 average: '10.97'

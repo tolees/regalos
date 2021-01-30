@@ -16,6 +16,7 @@ comparePrice: 18.8 EUR
 prodname: 'Polvo Acrilico para Uñas Purpurina Cara Glitter para Uñas - Set de Purpurina De 10 Cajas - Body Cosmetic Glitter Hair Nail Art Decorativo para Fiesta de Limo Christmas Arts Crafts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJN1XB9/?tag=tolees-21'
 descuento: '52.18'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'ETEREAUTY Rosa de Oro 24K  Artificial Gold Rose con Elegante Caja de Regalo y Tarjeta  Regalos románticos para el Día de San Valentín  Día de la Madre  Aniversario  Cumpleaños  Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SDJDWY/?tag=tolees-21'
 descuento: '32.27'
 average: '20.99'

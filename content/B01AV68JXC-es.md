@@ -16,6 +16,7 @@ comparePrice: 52.93 EUR
 prodname: 'Montblanc  Agua de perfume para mujeres - 50 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AV68JXC/?tag=tolees-21'
 descuento: '59.38'
 average: '23.136363636363637'

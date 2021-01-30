@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '14 Pack luz de Botella  Kolpop luz Corcho  20PCS Baterías Reemplazables de Vino 2m 20 LED a Pilas Decorativas Cobre Luz para Romántico Boda  Navidad  Fiesta  Hogar  Exterior  Jardín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGX8ZDY/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

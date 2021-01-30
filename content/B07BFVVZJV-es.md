@@ -16,6 +16,7 @@ comparePrice: 31.21 EUR
 prodname: 'Hielo  anal plug Christmas Tree  silicona  tierna Gradualmente einführbar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFVVZJV/?tag=tolees-21'
 descuento: '79.49'
 average: '5.995'

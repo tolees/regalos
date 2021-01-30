@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'UBERMing 20 Piezas Regalos de Ángel de Guarda + Bolsa de Organza + Etiqueta Papel de Estraza Ángel de la Guarda con Llavero para Navidad Boda Fiesta Comunión Confirmación Regalo para Invitados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D6G8QH3/?tag=tolees-21'
 descuento: '24.59'
 average: '13.19'

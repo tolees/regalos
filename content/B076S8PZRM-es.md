@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: '24 Velas LED Sin Fuego - Glamouric Velas Electrónicas con Baterías Incorporadas Perfectas para San Valentín  Cumpleaños  Fiestas  Halloween  Navidad  Festivales  Decoración  Luz Blanca Cálida '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076S8PZRM/?tag=tolees-21'
 descuento: '38.11'
 average: '13.323333333333334'

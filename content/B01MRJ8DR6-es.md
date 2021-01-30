@@ -16,6 +16,7 @@ comparePrice: 13.34 EUR
 prodname: 'Bolsa de Almacenamiento de Tela para árbol de Navidad  125 x 30 x 50 cm   Color Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRJ8DR6/?tag=tolees-21'
 descuento: '20.61'
 average: '10.42'

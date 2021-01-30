@@ -16,6 +16,7 @@ comparePrice: 96.0 EUR
 prodname: 'Guerlain  Agua de colonia para mujeres - 125 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BF6YNGG/?tag=tolees-21'
 descuento: '45.21'
 average: '52.6'

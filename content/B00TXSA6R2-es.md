@@ -16,6 +16,7 @@ comparePrice: 62.1 EUR
 prodname: 'Boucheron Quatre Agua de Perfume - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TXSA6R2/?tag=tolees-21'
 descuento: '41.22'
 average: '36.67'

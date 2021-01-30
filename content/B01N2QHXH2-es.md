@@ -16,6 +16,7 @@ comparePrice: 40.16 EUR
 prodname: 'Jesús Del Pozo Halloween Shot Man Agua de Tocador - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2QHXH2/?tag=tolees-21'
 descuento: '44.55'
 average: '22.27'

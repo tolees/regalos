@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Trussardi Uomo Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005MQO53A/?tag=tolees-21'
 descuento: '47.51'
 average: '41.99'

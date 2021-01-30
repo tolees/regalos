@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Perfume para hombres marca Jaguar fragancia Eau de Toilette 60 ml oferta ideal para regalo colonia duradera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C6LRTRF/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

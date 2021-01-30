@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Vera Wang Embrace Rosebuds & Vanilla Eau de Toilette para Mujer - 30 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DYW5DTI/?tag=tolees-21'
 descuento: '34.80'
 average: '11.389999999999999'

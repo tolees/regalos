@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas de Navidad Fiesta para Boda Ceremonia Bautizo Frozen Baile Cumpleaños Halloween'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD75KMB/?tag=tolees-21'
 descuento: '61.12'
 average: '17.49'

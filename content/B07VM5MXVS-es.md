@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'OBEEII Vestidos Princesa Niña Traje del Vestido Princesa Reino del Hielo para Carnaval Navidad Halloween Cosplay Rosa 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VM5MXVS/?tag=tolees-21'
 descuento: '68.02'
 average: '9.59'

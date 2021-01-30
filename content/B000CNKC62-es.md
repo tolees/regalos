@@ -16,6 +16,7 @@ comparePrice: 57.8 EUR
 prodname: 'Cartier Declaration Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CNKC62/?tag=tolees-21'
 descuento: '25.26'
 average: '43.6'

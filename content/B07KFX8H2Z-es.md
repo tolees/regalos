@@ -16,6 +16,7 @@ comparePrice: 12.45 EUR
 prodname: 'Adidas Get Ready Set para Mujer  Contiene: Neceser Adidas + Get Ready! Eau de Toilette 50 ml + Get Ready! Body Hair Face 3 in 1 Shower Gel 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFX8H2Z/?tag=tolees-21'
 descuento: '44.18'
 average: '6.8'

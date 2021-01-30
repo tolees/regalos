@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Vannico Camara de Fotos para Niños  Camara Fotos Infantil 8 MP 3 Inch Pulgadas Táctil Juego Vídeo con Tarjeta TF 16GB Ni?os Regalos Cumplea?os Navidad Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRHXZ7G/?tag=tolees-21'
 descuento: '38.58'
 average: '42.99'

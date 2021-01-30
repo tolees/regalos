@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Adidas Get Ready Eau de Toilette para Mujer -  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I8LCM90/?tag=tolees-21'
 descuento: '28.99'
 average: '5.315384615384615'

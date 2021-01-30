@@ -16,6 +16,7 @@ comparePrice: 17.1 EUR
 prodname: 'OwlFay Disfraz de Princesa Carnaval Vestido Reino de Hielo Vestidos de Fiesta Halloween Cosplay Navidad Costume Azul 4-5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WTY84R/?tag=tolees-21'
 descuento: '50.00'
 average: '8.55'

@@ -16,6 +16,7 @@ comparePrice: 35.45 EUR
 prodname: 'CAROLINA HERRERA 212 eau de toilette 30ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BZD73S/?tag=tolees-21'
 descuento: '15.51'
 average: '29.95'

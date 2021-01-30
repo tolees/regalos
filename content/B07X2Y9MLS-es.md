@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Disfrace Unicornio Pijama Animal Cosplay Unisex Franella Una Pieza per Halloween Carnaval Navidad Fiesta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2Y9MLS/?tag=tolees-21'
 descuento: '35.55'
 average: '9.99'

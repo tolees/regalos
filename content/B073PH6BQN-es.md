@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Swarovski Colgante Zodiac  Tauro  Lila  de Mujer  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PH6BQN/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

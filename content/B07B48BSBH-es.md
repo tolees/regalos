@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Juego de herramientas para parrillas para barbacoa  kit de herramientas para parrillas MFEI Kit de accesorios para exteriores en estuche de almacenamiento - Regalo perfecto para Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B48BSBH/?tag=tolees-21'
 descuento: '22.41'
 average: '16.62'

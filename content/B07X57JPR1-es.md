@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Rotuladores Acrílicos de Pintura Piedras Rotuladores de Pintura Acrílica 28 Colores Rotuladores Acrílicos Permanentes Para Tela  Madera  Vidrio  Huevo de Pascua  Regalo de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X57JPR1/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

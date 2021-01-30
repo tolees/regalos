@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Navidad Moños y Cintas 12 PCS Christmas Gift Pull Bows Wrap grande Bows Pull Ribbon Pull Strings para Navidad Wedding Birthday Gift Wrap'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZ7DKZ9/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

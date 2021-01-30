@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Conjunto camiseta padre hijo gamer personalizado  Regalo día del Padre  Madre  Navidad  Cumpleaños papa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDHGQ3N/?tag=tolees-21'
 descuento: '23.37'
 average: '22.95'

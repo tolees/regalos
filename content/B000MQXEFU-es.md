@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Jaguar Agua de colonia para mujeres 1 unidad 130 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MQXEFU/?tag=tolees-21'
 descuento: '81.51'
 average: '15.6'

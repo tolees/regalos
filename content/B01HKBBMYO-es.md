@@ -16,6 +16,7 @@ comparePrice: 46.28 EUR
 prodname: 'Versace Eros Femme Agua de Colonia - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HKBBMYO/?tag=tolees-21'
 descuento: '35.29'
 average: '29.953333333333333'

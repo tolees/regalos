@@ -16,6 +16,7 @@ comparePrice: 94 EUR
 prodname: 'Boucheron 54030 - Agua de perfume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HMCPG62/?tag=tolees-21'
 descuento: '53.21'
 average: '45.47'

@@ -16,6 +16,7 @@ comparePrice: 47.0 EUR
 prodname: 'Bvlgari 36349 - Agua de colonia  25 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007C27HQY/?tag=tolees-21'
 descuento: '36.28'
 average: '27.215'

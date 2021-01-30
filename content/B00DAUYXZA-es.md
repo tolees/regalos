@@ -16,6 +16,7 @@ comparePrice: 62.0 EUR
 prodname: 'Paco Rabanne Invictus  Agua de tocador para hombres - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DAUYXZA/?tag=tolees-21'
 descuento: '35.56'
 average: '39.95'

@@ -16,6 +16,7 @@ comparePrice: 60.5 EUR
 prodname: 'Carolina Herrera 212 Men Agua de Tocador Vaporizador - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WDN17D/?tag=tolees-21'
 descuento: '55.54'
 average: '26.9'

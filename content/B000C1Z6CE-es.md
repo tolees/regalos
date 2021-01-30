@@ -16,6 +16,7 @@ comparePrice: 211.5 EUR
 prodname: 'Sisley Eau Du Soir Agua de perfume Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1Z6CE/?tag=tolees-21'
 descuento: '38.16'
 average: '122.61444444444444'

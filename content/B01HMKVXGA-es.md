@@ -16,6 +16,7 @@ comparePrice: 71.3 EUR
 prodname: 'Calvin Klein Deep Euphoria Agua de Perfume - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HMKVXGA/?tag=tolees-21'
 descuento: '52.02'
 average: '32.655'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Villeroy & Boch Petite Fleur Ensaladera  25 cm  Porcelana Premium  Blanco/Colorido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000CGEHV/?tag=tolees-21'
 descuento: '30.04'
 average: '55.9'

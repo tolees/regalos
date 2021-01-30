@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Zorara Cortina de Luces LED Navidad 3m x 3m Cortina Luces LED  8 Modos de Luces  Resistente al Agua Cortina Luces LED para Decoración de Ventana[Clase de eficiencia energética A+]  Blanco cálido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVYB9XH/?tag=tolees-21'
 descuento: '25.90'
 average: '12.856666666666667'

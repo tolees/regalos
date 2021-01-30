@@ -16,6 +16,7 @@ comparePrice: 22.56 EUR
 prodname: 'Gomas de Borrar Animal 30PCS Al Azar Juguete Desmontable Mini Lápiz de Goma Conjunto de Borrador para Niños Regalo fiesta de cumpleaños Navidad oficina Escuela Papeleria Suministros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3L4M9V/?tag=tolees-21'
 descuento: '60.15'
 average: '8.99'

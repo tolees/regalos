@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'Nenuco Agua de Colonia recomendado para bebés  fragancia original - formato de cristal 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6WM9M6/?tag=tolees-21'
 descuento: '49.91'
 average: '2.75'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'AUOPLUS 30M 300 LED Guirnalda Luz Exterior Solar Cadena de Luces Blanco Cálido 8 Modos Decoración para Navidad Fiestas Bodas Patio Dormitorio Jardines  Festivales[Clase de eficiencia energética A+++]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJRD36T/?tag=tolees-21'
 descuento: '33.35'
 average: '17.99'

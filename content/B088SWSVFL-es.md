@@ -16,6 +16,7 @@ comparePrice: 3.92 EUR
 prodname: 'fgdjfhsdfgsdfh 29 * 19Cm Fun Kids Baby Añadir Agua Escribir Dibujar Pintura Agua Dibujo Lienzo Magic Doodle Mat con Magic Pen Brushes Regalo Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088SWSVFL/?tag=tolees-21'
 descuento: '40.05'
 average: '2.35'

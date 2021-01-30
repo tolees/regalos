@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Guirnaldas luminosas Solar de Exterior OxyLED G40 10.35M 30 2 Bombillas E12 Base 4 Modos Luz IP65 Impermeable Luces Decorativas Ideal para Jardín  Terraza  Patio  Exterior  Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082ZYSTQQ/?tag=tolees-21'
 descuento: '63.01'
 average: '36.99'

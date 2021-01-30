@@ -16,6 +16,7 @@ comparePrice: 101.68 EUR
 prodname: 'Dior - Hypnotic Poison - Eau de toilette para mujer - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7UDWO/?tag=tolees-21'
 descuento: '15.47'
 average: '85.95'

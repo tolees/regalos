@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Guirnalda Cadena de Luces de LED Alambre de Cobre Iluminacion Dorada 3 Metros 30 LED con 3 Modos de Caja de Bateria Decoracion para Navidad Bodas Fiestas de Enuotek'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTZT9VH/?tag=tolees-21'
 descuento: '50.08'
 average: '5.99'

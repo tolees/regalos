@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Lictin 5 Pares Pendientes en Oro Largos  Pendientes Mujer para Fiesta  Boda  Cumpleaños  Regalo de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RVBR7L2/?tag=tolees-21'
 descuento: '50.04'
 average: '6.99'

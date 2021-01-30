@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Álvarez Gómez 100154 Flores Mediterráneas Magnolia Blanca  Agua de Colonia Frasco de 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7X37MP/?tag=tolees-21'
 descuento: '47.37'
 average: '10.5'

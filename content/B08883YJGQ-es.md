@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Crystals & Stones BAP39 - Pendientes de plata de ley 925 bañados en oro de 24 quilates con cristales de Swarovski'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08883YJGQ/?tag=tolees-21'
 descuento: '37.51'
 average: '28.74'

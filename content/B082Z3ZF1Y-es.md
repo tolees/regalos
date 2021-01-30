@@ -16,6 +16,7 @@ comparePrice: 16.78 EUR
 prodname: 'Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna Cosplay Costume Snow Ice Queen Disfraces Bordado Traje Parte Las Niñas Vestido Fiesta Ceremonia Navidad Carnaval Fancy Dress Verde 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Z3ZF1Y/?tag=tolees-21'
 descuento: '50.00'
 average: '8.39'

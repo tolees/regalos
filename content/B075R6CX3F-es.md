@@ -16,6 +16,7 @@ comparePrice: 46.31 EUR
 prodname: 'Nos sentido decantador de vino aireador para Navidad y vacaciones regalo Magic Decanter 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R6CX3F/?tag=tolees-21'
 descuento: '48.20'
 average: '23.99'

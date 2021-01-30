@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Adolfo Dominguez - Agua Fresca Agua De Tocador Vaporizador  120 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000YRLU76/?tag=tolees-21'
 descuento: '28.62'
 average: '23.83125'

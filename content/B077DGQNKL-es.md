@@ -16,6 +16,7 @@ comparePrice: 33.47 EUR
 prodname: 'Diy pintura al óleo por número Kit  pintura Paintworks Sea Velero arte de la pared dibujo con pinceles 16 * 20 pulgadas decoración de Navidad decoraciones regalos  sin marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077DGQNKL/?tag=tolees-21'
 descuento: '55.81'
 average: '14.79'

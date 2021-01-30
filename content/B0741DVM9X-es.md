@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Swarovski Timeless Remix Collection  Azul  baño de rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0741DVM9X/?tag=tolees-21'
 descuento: '30.43'
 average: '46.07142857142857'

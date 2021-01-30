@@ -16,6 +16,7 @@ comparePrice: 91.31 EUR
 prodname: 'Versace Eros Pour Femme Agua de Perfume - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QAIV6WM/?tag=tolees-21'
 descuento: '50.17'
 average: '46.983333333333334'

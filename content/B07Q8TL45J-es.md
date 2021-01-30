@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'TekHome Mini LED Proyector Bebe Estrellas Portátil Azul  Juguetes Bebes 3 6 9 Meses 1 Año  Luz Noche Nocturna Infantil  2019 Regalos Cumpleaños Navidad para Niños 2 3 4 5 6 Años  48 Efectos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q8TL45J/?tag=tolees-21'
 descuento: '48.59'
 average: '17.99'

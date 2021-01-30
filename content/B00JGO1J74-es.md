@@ -16,6 +16,7 @@ comparePrice: 83.0 EUR
 prodname: 'Tocade Rochas -  Eau de toilette vaporizador para mujer  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JGO1J74/?tag=tolees-21'
 descuento: '49.10'
 average: '43.03666666666667'

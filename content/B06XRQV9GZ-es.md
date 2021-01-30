@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Cadena de Luces  Mr.Twinklelight 6.5M 50 LED Flor Solar Luz Decorativa para Jardín  Terraza  Boda  Árbol de Navidad  Fiesta  Patio  Blanco Cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XRQV9GZ/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

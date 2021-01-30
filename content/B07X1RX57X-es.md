@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Luces Discoteca 15Colores Hosome Bola de Discoteca DJ Activada por Sonido 4M Cable USB 8 Niveles de Brillo  Control Remoto para Escenario  Cumpleaño de Niños  Navidad  Fiesta en el Hogar y Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1RX57X/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

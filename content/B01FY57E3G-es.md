@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Mont Blanc Legend  Eau de Toilette para hombres - 200 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FY57E3G/?tag=tolees-21'
 descuento: '53.18'
 average: '52.00454545454545'

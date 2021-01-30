@@ -16,6 +16,7 @@ comparePrice: 37.25 EUR
 prodname: 'Adolfo Dominguez Agua Fresca Vetiver Eau de Toilette - 230 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5WTN1J/?tag=tolees-21'
 descuento: '25.10'
 average: '29.11'

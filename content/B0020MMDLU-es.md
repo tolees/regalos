@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dolce & Gabbana 20984 - Agua de colonia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0020MMDLU/?tag=tolees-21'
 descuento: '38.93'
 average: '35.595'

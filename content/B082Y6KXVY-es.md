@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Case Compatible con Realme 5 Pro Funda Transparente Silicona Suave Carcasa Protectora Navidad Santa Deer Diseño de patrón Creativo Ultra Slim Flexible Cover'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Y6KXVY/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

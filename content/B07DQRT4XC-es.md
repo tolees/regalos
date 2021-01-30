@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Swarovski Pendientes Magic  blanco  baño de rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQRT4XC/?tag=tolees-21'
 descuento: '22.16'
 average: '61.49'

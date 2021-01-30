@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: '2 Piezas Coches Juguete Flyfun  Coches para Niños  Tire Hacia Atrás del Coche de Juguete  los Mejores Chicos y Chicas para Navidad  3 Años o Más Jugar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVCYNP2/?tag=tolees-21'
 descuento: '55.57'
 average: '17.99'

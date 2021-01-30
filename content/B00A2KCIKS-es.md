@@ -16,6 +16,7 @@ comparePrice: 94.5 EUR
 prodname: 'DOLCE & GABBANA POUR FEMME - Agua de perfume vaporizador  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A2KCIKS/?tag=tolees-21'
 descuento: '65.88'
 average: '32.24'

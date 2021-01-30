@@ -16,6 +16,7 @@ comparePrice: 9.89 EUR
 prodname: 'Original Perfume Para Mujer  10ml Lady Natural Light Fragrance Flower Perfume Mujer Roller Perfume  Eau De Toilette'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082D62PKC/?tag=tolees-21'
 descuento: '40.44'
 average: '5.89'

@@ -16,6 +16,7 @@ comparePrice: 17.1 EUR
 prodname: 'OwlFay Disfraz Niñas Princesa Vestidos de Carnaval Fiesta Halloween Cosplay Navidad Costume Verde 4-5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WVWNXF/?tag=tolees-21'
 descuento: '50.00'
 average: '8.55'

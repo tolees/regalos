@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Guirnalda Luces Exterior  10 Tubo 30cm 300 LEDs IP65 Impermeable luz Navidad  Impermeable Iluminacion Jardin Decorativas Fiestas  30cm Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7DYQ4F/?tag=tolees-21'
 descuento: '32.27'
 average: '21.24'

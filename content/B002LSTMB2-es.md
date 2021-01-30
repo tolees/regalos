@@ -16,6 +16,7 @@ comparePrice: 62.0 EUR
 prodname: 'Paco Rabanne 1 Million Eau de Toilette Vaporizador 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002LSTMB2/?tag=tolees-21'
 descuento: '35.56'
 average: '41.56611111111111'

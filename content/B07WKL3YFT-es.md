@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Marvelights Botella de Vino de Corcho Luz de Cadena Paquete de 8M 2M 20 Leds Cable de Cobre con Batería Mini Luz de Corcho Blanca CáLida para Bricolaje Fiesta Decoración Navidad  Blanco cálido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKL3YFT/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

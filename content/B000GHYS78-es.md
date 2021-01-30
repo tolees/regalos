@@ -16,6 +16,7 @@ comparePrice: 49 EUR
 prodname: 'Issey Miyake Pleats Please Agua de perfume Vaporizador 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GHYS78/?tag=tolees-21'
 descuento: '54.10'
 average: '23.045'

@@ -16,6 +16,7 @@ comparePrice: 96.49 EUR
 prodname: 'Swarovski Colgante Symbol de Mujer  Oro Amarillo  Cristal  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814Z1TTX/?tag=tolees-21'
 descuento: '31.60'
 average: '66.0'

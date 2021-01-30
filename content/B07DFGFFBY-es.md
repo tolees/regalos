@@ -16,6 +16,7 @@ comparePrice: 7.86 EUR
 prodname: 'Funko- Mystery Mini Blind Box: Disney: NBX: PDQ  CDU 12  The Nightmare Before Christmas Figura Coleccionable  Multicolor  Estándar  32850 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFGFFBY/?tag=tolees-21'
 descuento: '24.05'
 average: '6.348888888888888'

@@ -16,6 +16,7 @@ comparePrice: 92.0 EUR
 prodname: 'Yves Saint Laurent Ysl L Homme Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012RYDWG/?tag=tolees-21'
 descuento: '56.63'
 average: '46.425'

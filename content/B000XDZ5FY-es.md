@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Grès Cabochard Women Eau De Toilette 100 Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XDZ5FY/?tag=tolees-21'
 descuento: '44.66'
 average: '9.95'

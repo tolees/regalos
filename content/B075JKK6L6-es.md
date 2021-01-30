@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Bom Bom Bebe Navidad Pelele para Dormir Monos Bodies Manga Larga verde 9-12m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JKK6L6/?tag=tolees-21'
 descuento: '39.15'
 average: '13.99'

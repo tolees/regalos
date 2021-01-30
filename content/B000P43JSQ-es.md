@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Mandarina Duck Agua de Tocador Vaporizador - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P43JSQ/?tag=tolees-21'
 descuento: '25.06'
 average: '19.116666666666664'

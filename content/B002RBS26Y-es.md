@@ -16,6 +16,7 @@ comparePrice: 69.91 EUR
 prodname: 'Acqua Di Parma Magnolia Nobile Agua de Perfume - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002RBS26Y/?tag=tolees-21'
 descuento: '22.69'
 average: '54.05'

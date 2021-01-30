@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'feihao Velas Perfumadas Velas Aromaticas Cera de Soja Natural Aromaterapia Decoración para Relajación Fiesta Boda Baño Yoga Cumpleaños Navidad Día de San Valentín Regalos 8 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089WC8ZV4/?tag=tolees-21'
 descuento: '26.58'
 average: '16.88'

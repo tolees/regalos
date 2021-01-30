@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Neon Moon-Nursery Night Lamp Gift-Wall Decor Lights para Navidad  fiesta de cumpleaños  habitación infantil  sala de estar  blanco cálido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KV22ZVH/?tag=tolees-21'
 descuento: '30.47'
 average: '11.75'

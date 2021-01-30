@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'J.Rosée Collares Mujer Colgante Plata de Ley 925 [Alas de Ángel Brillante] Circonita Regalos Cadena 45cm+5cm  Regalos Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7GYGJJ/?tag=tolees-21'
 descuento: '81.01'
 average: '24.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 310.8 EUR
 prodname: 'Villeroy & Boch Royal Juego de mesa para 6 personas  12 piezas  Porcelana Premium Bone  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004HYCZGW/?tag=tolees-21'
 descuento: '28.29'
 average: '181.464'

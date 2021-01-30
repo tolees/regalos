@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Dolamen Niños Unisexo Onesies Kigurumi Pijamas  Niña Traje Disfraz Animal Pyjamas  Ropa de Dormir Halloween Cosplay Navidad Animales de Vestuario  90-100CM  35"-39"   Dragon '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HR8PYDR/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

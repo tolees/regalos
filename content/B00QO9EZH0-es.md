@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Guirnaldas Solares Luminosas de 50 LEDs Multicolor en forma de flor - Iluminación a base de energía solar para exteriores a prueba de agua - Lámpara de jardín/luz externa solar con sensor nocturno incorporado  cuerdas y picos de tierra – Luces de Hada alimentadas por energía solar para Navidad  para exteriores  cercas  Patio  Vallas  Terraza  Pasarela  Barreras  Entradas  Garaje  Cobertizo  Adornos  Pasillos  Bordes  Sendas y Fachada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QO9EZH0/?tag=tolees-21'
 descuento: '67.52'
 average: '12.99'

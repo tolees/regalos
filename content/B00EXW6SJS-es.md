@@ -16,6 +16,7 @@ comparePrice: 61.5 EUR
 prodname: 'Versace Eros Eau de Toilette Vaporizador 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EXW6SJS/?tag=tolees-21'
 descuento: '38.60'
 average: '37.76'

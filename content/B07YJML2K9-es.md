@@ -16,6 +16,7 @@ comparePrice: 22.83 EUR
 prodname: 'Cortina de Baño de Navidad  Cortina de Ducha Blanca Tema Fiesta con Dibujo Animado de Muñeco de Nieve  Tela Poliéster  Lavable a Máquina  180x180cm con 12 Anillas  Diseño de Dobladillo Ponderado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJML2K9/?tag=tolees-21'
 descuento: '38.72'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Swarovski Pulsera Angelic  Blanco  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P9L2NVO/?tag=tolees-21'
 descuento: '40.00'
 average: '77.4'

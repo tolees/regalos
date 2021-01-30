@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'LitBud Niños Sudaderas con Capucha para niños Niño pequeño Dinosaurio de Dibujos Animados Cocodrilo Navidad Acción de Gracias Cremallera Capa Otoño Azul Tamaño 6-7 años 7T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W3S6DW6/?tag=tolees-21'
 descuento: '35.05'
 average: '16.88'

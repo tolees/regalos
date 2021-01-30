@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Narciso Rodriguez 140435 - Agua de tocador vaporizador para mujeres  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AMEZFO/?tag=tolees-21'
 descuento: '43.00'
 average: '39.9'

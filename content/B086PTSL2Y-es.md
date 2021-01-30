@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bombas de Baño  Aofmee Bomba de Baño Set de Regalo  Sales de Baño Relajantes y Espuma  Bolas Baño Efervescentes  Regalo Cumpleaños Valentin dia de la Madre Navidad para Mujer Amigas Niños Esposas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PTSL2Y/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

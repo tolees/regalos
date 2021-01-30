@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'J.Rosée Collares Mujer Colgante Plata de Ley 925 La Libertad de Volar Brillante Circonita Regalos Originales Cadena 45cm+5cm  Regalos Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZP5CLD/?tag=tolees-21'
 descuento: '80.67'
 average: '21.037499999999998'

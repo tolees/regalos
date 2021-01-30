@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Hugo Boss 14294 - Agua de perfume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1Z6DS/?tag=tolees-21'
 descuento: '15.21'
 average: '25.674999999999997'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Náutica Blue Sail Eau de Toilette para Hombre -  100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVHG8GX/?tag=tolees-21'
 descuento: '20.10'
 average: '8.63'

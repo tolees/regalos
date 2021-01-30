@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Musk Fresh Agua de Colonia para Hombre 200ml Avon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086T1MK5H/?tag=tolees-21'
 descuento: '16.69'
 average: '4.99'

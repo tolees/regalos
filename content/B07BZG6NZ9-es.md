@@ -16,6 +16,7 @@ comparePrice: 99.87 EUR
 prodname: 'J.Rosée Pendientes Mujer Plata de Ley 925 Brillante" Corona de Laurel de Princesa" Circonita Regalos de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZG6NZ9/?tag=tolees-21'
 descuento: '86.99'
 average: '24.172222222222224'

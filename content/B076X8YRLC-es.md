@@ -16,6 +16,7 @@ comparePrice: 24.12 EUR
 prodname: 'Cacharel  Agua de perfume para mujeres - 30 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X8YRLC/?tag=tolees-21'
 descuento: '29.73'
 average: '16.95'

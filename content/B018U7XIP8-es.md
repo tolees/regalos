@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'LE Cortina de Luces LED con Enchufe 3x3m 306 LED  Luz Decorativa Blanco Cálido  Impermeable para a Interior y Exterior  8 Modos Luz  Cadena Luces para Fiestas  Bodas  Jardin  Navidad  Aniversario  etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018U7XIP8/?tag=tolees-21'
 descuento: '22.74'
 average: '19.49'

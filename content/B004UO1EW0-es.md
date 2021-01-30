@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tous Touch Eau de Toilette Vaporizador 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004UO1EW0/?tag=tolees-21'
 descuento: '46.15'
 average: '23.9125'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'URAQT Disfraces de Carnaval Lady Bug  Disfraz de Cat Noir Niños  Máscara Diadema Miraculous Ladybug Manga Larga Monos Actuación Cumpleaños Halloween Carnaval Navidad Regalo Cosplay Negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2R8XNH/?tag=tolees-21'
 descuento: '31.86'
 average: '18.189999999999998'

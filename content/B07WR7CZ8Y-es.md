@@ -16,6 +16,7 @@ comparePrice: 18.02 EUR
 prodname: 'Cable electroluminiscente El Wire Podazz de 10 pies de alambre de neón con luz estroboscópica de alambre de alambre con alambre de forma fácil para Halloween  Navidad  interior de automóviles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WR7CZ8Y/?tag=tolees-21'
 descuento: '46.23'
 average: '9.69'

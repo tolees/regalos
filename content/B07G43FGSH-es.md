@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Raya Jerséis Mujer 2019 Invierno Blanco Tumblr Moda Casual Punto Navidad Jersey Sueter Pullover Ropa  Beige  Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G43FGSH/?tag=tolees-21'
 descuento: '86.70'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cadena de Luces  YWTESCH Luz Solar de Cadena 12 LEDs Multicolor Guirnarldas de Luz Cálida LED Luces del Efecto Estrellado para Navidad  Fiestas  Bodas  Patio  Festivales etc  5.3M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075V1TQPB/?tag=tolees-21'
 descuento: '43.35'
 average: '17.656666666666666'

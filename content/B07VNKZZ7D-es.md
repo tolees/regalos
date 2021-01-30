@@ -16,6 +16,7 @@ comparePrice: 34.86 EUR
 prodname: 'Aitsite Bolas de Navidad 6 cm Bolas de árbol de Navidad Adorno de Pared Colgante de Pared Adornos Decoraciones Árbol Bolas Decorativas Boda de Fiesta Suministro Hogar Decoraciones para Festivales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNKZZ7D/?tag=tolees-21'
 descuento: '48.39'
 average: '18.313333333333333'

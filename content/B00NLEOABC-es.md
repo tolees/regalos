@@ -16,6 +16,7 @@ comparePrice: 21.68 EUR
 prodname: 'NYK1 Designer Swarovski Crystal & Glass Nail File Handmade makes a perfect Gift'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NLEOABC/?tag=tolees-21'
 descuento: '31.78'
 average: '14.79'

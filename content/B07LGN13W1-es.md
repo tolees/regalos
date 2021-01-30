@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Vicloon Disfraz de Princesa Belle Vestido y Accesorios para Niñas  Corona Anillo Sceptre Collar Pendientes Guantes  para Fiesta Cosplay Navidad Fiesta de cumpleaños Halloween'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGN13W1/?tag=tolees-21'
 descuento: '15.01'
 average: '19.223333333333333'

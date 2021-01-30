@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pendientes de Bisutería color Oro Brillante de Regalo Navidad para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QD4JYX/?tag=tolees-21'
 descuento: '36.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 81.0 EUR
 prodname: 'Diesel Only The Brave - Agua de tocador vaporizador  125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002XQ1RJW/?tag=tolees-21'
 descuento: '42.04'
 average: '40.46428571428572'

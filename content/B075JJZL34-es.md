@@ -16,6 +16,7 @@ comparePrice: 40.87 EUR
 prodname: 'Shiseido Ever Bloom Agua de Perfume - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JJZL34/?tag=tolees-21'
 descuento: '26.25'
 average: '30.14'

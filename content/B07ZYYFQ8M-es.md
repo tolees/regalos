@@ -16,6 +16,7 @@ comparePrice: 1.21 EUR
 prodname: 'Feketeuki Colorido árbol de Navidad de Navidad Luz LED Brillo Árbol de Navidad Lámpara de luz Nocturna Año Nuevo Regalo romántico Decoración de Fiesta en el hogar - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYYFQ8M/?tag=tolees-21'
 descuento: '41.32'
 average: '0.6966666666666667'

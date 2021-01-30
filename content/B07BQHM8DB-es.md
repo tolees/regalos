@@ -16,6 +16,7 @@ comparePrice: 21.87 EUR
 prodname: 'Luz de decoración con forma de letrero de neón LED  decoración de pared para Navidad  fiesta de cumpleaños  sala de niños  sala de estar  decoración de fiesta de bodas  azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQHM8DB/?tag=tolees-21'
 descuento: '26.89'
 average: '15.99'

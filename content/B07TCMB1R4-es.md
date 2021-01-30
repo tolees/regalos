@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Alex Perry Regalo Día de la Madre pendientes mujer swarovski joyas para mujer pendientes adelgazar regalos san valentin mujer pendientes para boda niñas novia regalo para mujer madre e hija'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCMB1R4/?tag=tolees-21'
 descuento: '74.01'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 107.0 EUR
 prodname: 'Hermes Le Jardin De Monsieur Li Eau de Toilette Vaporizador - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00USO2CGS/?tag=tolees-21'
 descuento: '28.50'
 average: '76.5'

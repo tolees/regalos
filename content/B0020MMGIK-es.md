@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Tous Agua de Colonia - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0020MMGIK/?tag=tolees-21'
 descuento: '16.88'
 average: '21.28333333333333'

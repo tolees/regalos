@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Pherofly Roll on Atrayente de las mujeres - Feromona extra fuerte y naturalmente atrayente Eau de Toilette para él 14 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J4CJMKS/?tag=tolees-21'
 descuento: '21.44'
 average: '21.99'

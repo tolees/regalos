@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'Alvarez Gomez - Agua de Colonia Concentrada - 750 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005QUUKFY/?tag=tolees-21'
 descuento: '19.07'
 average: '33.95'

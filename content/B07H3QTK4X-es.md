@@ -16,6 +16,7 @@ comparePrice: 91.5 EUR
 prodname: 'Dolce & Gabbana  Agua de perfume para mujeres - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3QTK4X/?tag=tolees-21'
 descuento: '43.50'
 average: '51.7'

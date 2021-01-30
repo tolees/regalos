@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'BUYERTIME 5M/16.4Ft 50 LEDs Cadena de Luces Impermeable Flexible de Alambre de Plata con Caja de Batería AA Batería No Incluye  para Iluminación DIY  Navidad  Fiesta  Decoración - Blanco Cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HBGMOEK/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

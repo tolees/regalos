@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Paco Rabanne Ultraviolet Agua de perfume Vaporizador 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002KD0WGC/?tag=tolees-21'
 descuento: '36.28'
 average: '41.96'

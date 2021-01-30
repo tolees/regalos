@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Luz Nocturna Infantil Tekemai  Luz de Noche Bebé  Lámpara de Mesa  lámpara de cabecera 9 colores cambiando/USB recargable/control remoto y táctil regulable  Navidad y regalos de cumpleaños - Elefante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFC3B8L/?tag=tolees-21'
 descuento: '20.01'
 average: '23.99'

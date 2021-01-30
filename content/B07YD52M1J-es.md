@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Luces de Navidad para Decoración Diseño de Muñeco de Nieve  Colgante de Decoración de Árbol de Navidad la Luz de Noche para la Habitación de los Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD52M1J/?tag=tolees-21'
 descuento: '83.35'
 average: '11.99'

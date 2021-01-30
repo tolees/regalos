@@ -16,6 +16,7 @@ comparePrice: 17.94 EUR
 prodname: 'Adolfo Dominguez  Agua de colonia para hombres - 60 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2K7TDF/?tag=tolees-21'
 descuento: '16.11'
 average: '16.016666666666666'

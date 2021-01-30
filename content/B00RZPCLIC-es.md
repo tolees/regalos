@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Swarovski Pendientes Solitaire de Mujer  chapado en tono Oro Rosa  Vidrio  Transparente/Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RZPCLIC/?tag=tolees-21'
 descuento: '40.82'
 average: '29.0'

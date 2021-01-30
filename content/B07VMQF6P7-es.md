@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Traje de la Casa de Papel con Mascara Mono Cosplay Trajes de Adultos Niños Careta Disfraz Carnaval Navidad Halloween Halloween'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMQF6P7/?tag=tolees-21'
 descuento: '53.68'
 average: '12.89'

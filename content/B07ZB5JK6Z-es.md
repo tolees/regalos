@@ -16,6 +16,7 @@ comparePrice: 35.14 EUR
 prodname: 'Ramo Flores Rosa Chapada en Oro  Ramo Rosa Artificiales de Papel Oro con Caja de Regalo  Regalo Ideal para el día de San Valentín  día de la Madre  Aniversario  cumpleaños  Navidad  decoración  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZB5JK6Z/?tag=tolees-21'
 descuento: '28.88'
 average: '24.99'

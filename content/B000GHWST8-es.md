@@ -16,6 +16,7 @@ comparePrice: 68.65 EUR
 prodname: 'Calvin Klein Euphoria Eau de Toilette Vaporizador 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GHWST8/?tag=tolees-21'
 descuento: '48.49'
 average: '36.278000000000006'

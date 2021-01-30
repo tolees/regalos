@@ -16,6 +16,7 @@ comparePrice: 38.02 EUR
 prodname: 'Jennifer Lopez Glow - Eau de toilette  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1Z6KG/?tag=tolees-21'
 descuento: '31.75'
 average: '24.608333333333334'

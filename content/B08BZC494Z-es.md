@@ -16,6 +16,7 @@ comparePrice: 20.06 EUR
 prodname: '3d led night 3d illusion light Ciclismo Night Light para bebé Dormitorio Decoración Gift Christmas Bedroom Party Decoration （Interruptor tactil  - Estilo 1581'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZC494Z/?tag=tolees-21'
 descuento: '90.78'
 average: '1.85'

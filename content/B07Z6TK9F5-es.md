@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Álvarez Gómez Flores Mediterráneas Jazmín de Noche  Agua de Colonia Frasco de 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6TK9F5/?tag=tolees-21'
 descuento: '45.11'
 average: '10.95'

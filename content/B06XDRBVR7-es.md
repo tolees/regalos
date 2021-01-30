@@ -16,6 +16,7 @@ comparePrice: 93.11 EUR
 prodname: 'Prada Luna Rossa Carbon Vaporizador Agua de Colonia - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDRBVR7/?tag=tolees-21'
 descuento: '53.87'
 average: '42.95'

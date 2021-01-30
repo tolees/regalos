@@ -16,6 +16,7 @@ comparePrice: 10.71 EUR
 prodname: 'Nenuco Pack Agua de Colonia Infantil Bebé Minnie con Muñeco - 175 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DELEJ7C/?tag=tolees-21'
 descuento: '25.77'
 average: '7.95'

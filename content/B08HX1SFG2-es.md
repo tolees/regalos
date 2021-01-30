@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Tiras LED Alexa WiFi 5M  Tira LED RGB Inteligente con Control APP  Sync con Música y 7 Modo Escenas  Luces LED Funciona con Alexa  Google Home para la Habitación  Navidad y Fiestas  12V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HX1SFG2/?tag=tolees-21'
 descuento: '20.03'
 average: '27.495'

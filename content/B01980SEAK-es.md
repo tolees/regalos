@@ -16,6 +16,7 @@ comparePrice: 7.86 EUR
 prodname: 'MENFORSAN  Agua de Colonia Fresa para Gatos - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01980SEAK/?tag=tolees-21'
 descuento: '61.83'
 average: '3.0'

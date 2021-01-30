@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'OSHINE 50unidades LED Velas Velas CR2032 pilas velas sin llama de iluminación eléctrica falso Vela para Hogar Navidad boda mesa regalo al aire libre cálido Luz blanca cálida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSFZDTN/?tag=tolees-21'
 descuento: '64.60'
 average: '16.99'

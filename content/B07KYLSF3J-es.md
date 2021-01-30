@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Kami Idea Regalos dia de la Madre Mujer Pendientes de Botón Gatito afortunado Cristales de Swarovski Aguamarina Regalos de Madres Joyeria para Aniversario Cumpleaños Ella Mamá Chicas Dama Abuela Novia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYLSF3J/?tag=tolees-21'
 descuento: '75.01'
 average: '23.49'

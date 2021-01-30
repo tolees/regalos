@@ -16,6 +16,7 @@ comparePrice: 18.3 EUR
 prodname: 'OwlFay Disfraz Elsa Frozen Niñas Princesa Ana Vestido Reino de Hielo Vestidos de Carnaval Fiesta Halloween Cosplay Navidad Costume Azul+Pantalones 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822WGHNV/?tag=tolees-21'
 descuento: '50.00'
 average: '9.15'

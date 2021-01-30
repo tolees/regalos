@@ -16,6 +16,7 @@ comparePrice: 97.84 EUR
 prodname: 'Versace Crystal Noir Agua de Tocador Vaporizador - 90 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GIL1UE/?tag=tolees-21'
 descuento: '48.95'
 average: '49.95'

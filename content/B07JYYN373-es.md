@@ -16,6 +16,7 @@ comparePrice: 7.15 EUR
 prodname: 'Funda mapa mundi ideal para agendas 2020 Regalo Original Regalo de Navidad Regalo para ella para el. Diario  block de notas  cuaderno de viaje planificador anual Regalo original y único.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYYN373/?tag=tolees-21'
 descuento: '16.08'
 average: '6'

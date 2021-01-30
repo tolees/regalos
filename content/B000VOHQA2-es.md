@@ -16,6 +16,7 @@ comparePrice: 11 EUR
 prodname: 'Vanderbilt Eau De Toilette Con Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOHQA2/?tag=tolees-21'
 descuento: '19.64'
 average: '8.735'

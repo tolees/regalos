@@ -16,6 +16,7 @@ comparePrice: 10.29 EUR
 prodname: '5pcs 5D DIY Diamond Painting Christmas Keychain/Collar Kits de pegatinas DIY Art Craft Kits para niños y adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WG18BQP/?tag=tolees-21'
 descuento: '20.41'
 average: '8.19'

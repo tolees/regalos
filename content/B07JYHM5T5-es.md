@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'D.Perlla Pendientes Perla Mujer Circonita Joyas Diamante Conjunto   Te quiero hasta el cielo   arracada con para Navidad regalos originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYHM5T5/?tag=tolees-21'
 descuento: '53.23'
 average: '7.9'

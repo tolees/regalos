@@ -16,6 +16,7 @@ comparePrice: 71.75 EUR
 prodname: 'Loris Azzaro  Eau de Toilette para Hombre - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1Z1JM/?tag=tolees-21'
 descuento: '48.45'
 average: '32.413333333333334'

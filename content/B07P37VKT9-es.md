@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'ANGEL NINA Regalos Navidad Mujer pendientes mujer plata pendientes niña Púrpura Cristal de Swarovski pendientes pequeños tous mujer joyeria regalos originales para mama profesores regalos cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P37VKT9/?tag=tolees-21'
 descuento: '74.01'
 average: '25.99'

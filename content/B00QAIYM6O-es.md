@@ -16,6 +16,7 @@ comparePrice: 86.75 EUR
 prodname: 'Roberto Cavalli Paradiso Agua de Perfume - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QAIYM6O/?tag=tolees-21'
 descuento: '59.78'
 average: '36.47'

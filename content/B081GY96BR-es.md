@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Susan Y regalo del día de la madre arete mujer joyería mujer regalo swarovski mamá joyería mujer regalo original mujer navidad idea regalos mujer regalo abuela regalo niña adolescente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081GY96BR/?tag=tolees-21'
 descuento: '80.01'
 average: '49.989999999999995'

@@ -16,6 +16,7 @@ comparePrice: 64.0 EUR
 prodname: 'Cartier  Agua de perfume para mujeres - 30 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IRBAX42/?tag=tolees-21'
 descuento: '36.11'
 average: '37.616666666666674'

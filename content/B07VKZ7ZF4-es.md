@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'OBEEII Disfraz Rapunzel Niña Carnaval Vestido de Princesa para Navidad Fiesta Halloween Cosplay Costume Rapunzel para Niña 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKZ7ZF4/?tag=tolees-21'
 descuento: '62.02'
 average: '11.39'

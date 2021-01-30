@@ -16,6 +16,7 @@ comparePrice: 98.0 EUR
 prodname: 'Michael Kors 55703 - Agua de perfume  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GUJ4WBS/?tag=tolees-21'
 descuento: '47.52'
 average: '51.43'

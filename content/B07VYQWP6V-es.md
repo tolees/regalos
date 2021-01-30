@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'BACKTURE Luces Discoteca  Iluminación de Escenarios Bluetooth con Control de Sonido Rotating  16 Colores Focos para Iluminación de Escenarios  Eventos Cumpleaños  Fiesta  Bar  Navidad  Bodas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYQWP6V/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

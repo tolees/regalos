@@ -16,6 +16,7 @@ comparePrice: 91 EUR
 prodname: 'Bulgari  Agua de tocador para hombres  Soir  - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P20RPQ/?tag=tolees-21'
 descuento: '42.91'
 average: '51.95'

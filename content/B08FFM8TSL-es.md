@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'CINMOK 2pcs Cinta Regalo Color Metálica  Cinta Brillante rollo  Decoración Rojo de Manualidades en Navidad para Árboles de Navidad  Embalaje Regalo.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FFM8TSL/?tag=tolees-21'
 descuento: '27.48'
 average: '7.97'

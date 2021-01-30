@@ -16,6 +16,7 @@ comparePrice: 69.5 EUR
 prodname: 'Dolce & Gabbana 18358 - Agua de colonia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOPG0E/?tag=tolees-21'
 descuento: '44.60'
 average: '38.54600000000001'

@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'DEESOSPRO® [Tarjeta de Cumpleaños] [Tarjeta de Aniversario] [Tarjeta de Graduación] con Patrón Emergente 3D Creativo  Regalo para Cumpleaños  Graduación  Navidad  Día del Niño  Parque de atracciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Z5QJ6Z/?tag=tolees-21'
 descuento: '33.40'
 average: '9.99'

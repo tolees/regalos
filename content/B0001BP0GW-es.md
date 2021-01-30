@@ -16,6 +16,7 @@ comparePrice: 79.8 EUR
 prodname: 'Guerlain - Eau de Toilette Mitsouko'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0001BP0GW/?tag=tolees-21'
 descuento: '53.15'
 average: '37.885000000000005'

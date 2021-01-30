@@ -16,6 +16,7 @@ comparePrice: 17.38 EUR
 prodname: 'Fontee® Perrito Navidad Rojo Capa Terciopelo Saco de Disfraces para Perro y Gorro Navideño para Mascota'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9C9NN1/?tag=tolees-21'
 descuento: '54.03'
 average: '7.99'

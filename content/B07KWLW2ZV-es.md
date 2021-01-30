@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Swarovski Anillo One Heart  para Mujer  Rojo  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWLW2ZV/?tag=tolees-21'
 descuento: '41.69'
 average: '34.4'

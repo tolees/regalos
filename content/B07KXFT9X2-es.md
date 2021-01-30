@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'dPois Disfraz Princesa para Niña Bebé Vestido Princesa Tutú Diadema Lunares Falda Lentejuelas Traje Infantil de Cumpleaños Fiesta Navidad Cosplay Rosa 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXFT9X2/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

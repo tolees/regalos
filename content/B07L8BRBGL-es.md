@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'OBEEII Cenicienta Disfraz Cinderella Carnaval Traje de Princesa Cuentos Infantiles para Halloween Navidad Fiesta Ceremonia Aniversario Cosplay Costume para Niñas Chicas 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8BRBGL/?tag=tolees-21'
 descuento: '38.90'
 average: '12.294'

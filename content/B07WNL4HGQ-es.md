@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Cortina de Luces  Luz Cadena  Luz de Cortina  LED Guirnaldas luminosas  Cadena De Luces  8 Modos de Luz Perfecto para Decoración de Navidad  Festival Fiestas  Casa Jardín Boda  3*3m Blanco Cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNL4HGQ/?tag=tolees-21'
 descuento: '51.23'
 average: '19.99'

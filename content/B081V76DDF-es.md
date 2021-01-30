@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'FKANT Monederos Mujer  Billetera Piel Bloqueo RFID Monedero Cremallera de Bolsillo Carteras Durable Cuero 20 Ranuras Gran Capacidad Cartera Mujer Concaja de Regalo para Navidad San Valentín  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081V76DDF/?tag=tolees-21'
 descuento: '37.01'
 average: '18.89'

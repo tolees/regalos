@@ -16,6 +16,7 @@ comparePrice: 59.23 EUR
 prodname: 'Armani 53992 - Agua de perfume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G3C2FOI/?tag=tolees-21'
 descuento: '38.71'
 average: '36.3'

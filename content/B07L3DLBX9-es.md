@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Susan Y Regalos día de la Madre Collar Mujer Bucci Bear-be Optimistic Collar Mujer Swarovski Cristales Joyas para niñas Madre Aniversario Ella día de San valentín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3DLBX9/?tag=tolees-21'
 descuento: '60.02'
 average: '9.99'

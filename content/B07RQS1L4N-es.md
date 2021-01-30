@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'LEADSTAR Explosion Box  Álbum de Fotos Creative Scrapbook DIY de Bricolaje Libro Recuerdos Caja de Explosiones con 6 Caras para Cumpleaños Aniversario Boda San Valentín Día de la Madre Navidad  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQS1L4N/?tag=tolees-21'
 descuento: '51.37'
 average: '18.49'

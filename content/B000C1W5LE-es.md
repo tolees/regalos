@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Thierry Mugler 16863 - Agua de colonia  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1W5LE/?tag=tolees-21'
 descuento: '44.62'
 average: '37.06666666666667'

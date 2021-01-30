@@ -16,6 +16,7 @@ comparePrice: 49.97 EUR
 prodname: 'Luces de Cadena de Cortina  3M x2M Cortina de Luces LED 198 Bombillas LED  8 Modos de Luz  Blanco Cálido  Control Remoto para Romántico Boda  Navidad  Fiesta  Año Nuevo - Joy.J'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1JJNYR/?tag=tolees-21'
 descuento: '50.03'
 average: '24.97'

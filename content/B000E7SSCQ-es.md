@@ -16,6 +16,7 @@ comparePrice: 80.87 EUR
 prodname: 'Moschino Cheap & Chic  Agua de tocador para hombres - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7SSCQ/?tag=tolees-21'
 descuento: '60.43'
 average: '32'

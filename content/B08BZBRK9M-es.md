@@ -16,6 +16,7 @@ comparePrice: 20.06 EUR
 prodname: '3d night light led illusion night Tigre Night Light para bebé Dormitorio Decoración Gift Christmas Bedroom Party Decoration （Interruptor tactil  - Estilo 1641'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZBRK9M/?tag=tolees-21'
 descuento: '90.78'
 average: '1.85'

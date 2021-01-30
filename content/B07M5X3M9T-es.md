@@ -16,6 +16,7 @@ comparePrice: 20.2 EUR
 prodname: 'The Nightmare Before Christmas Nightmare Before Christmas: 20oz Oogie  Jack & Zero Mug  Ceramic  Multicolor  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5X3M9T/?tag=tolees-21'
 descuento: '20.00'
 average: '16.16'

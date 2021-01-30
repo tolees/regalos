@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Dior Eau Sauvage Agua de perfume Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0083WWRIK/?tag=tolees-21'
 descuento: '28.77'
 average: '58.650000000000006'

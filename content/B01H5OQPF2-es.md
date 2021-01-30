@@ -16,6 +16,7 @@ comparePrice: 28.86 EUR
 prodname: 'Angel Schlesser Bergamota Agua de Colonia Vaporizador - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5OQPF2/?tag=tolees-21'
 descuento: '65.52'
 average: '10.825'

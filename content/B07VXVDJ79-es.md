@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Tuokay 10M 100 LED Luces de Navidad Cadena de Luces Guirnalda de Luces con Adaptador 8 Modos Luces Decorativa Iluminación de Navidad para Arbol de Navidad  Fiesta Boda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXVDJ79/?tag=tolees-21'
 descuento: '33.35'
 average: '11.99'

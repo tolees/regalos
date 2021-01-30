@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'SGILE 1:14 Coche Teledirigido  2.4 GHz 4WD RC Camión Monstruo de Todo Terreno  con 2 Baterías Recargables  Regalo de Navidad para Niños  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2XDJ7F/?tag=tolees-21'
 descuento: '21.01'
 average: '35.56333333333333'

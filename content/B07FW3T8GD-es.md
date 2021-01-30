@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Swarovski Conjunto Vintage  Rosa  Baño en Tono Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FW3T8GD/?tag=tolees-21'
 descuento: '40.00'
 average: '89.4'

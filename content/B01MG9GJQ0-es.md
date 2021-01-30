@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'SOUFEEL Abalorio Charm Pulsera de Foto Personalizado Plata de Ley Navidad Cumpleaño y Aniversario para Madre Mujer Niña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MG9GJQ0/?tag=tolees-21'
 descuento: '35.50'
 average: '19.99'

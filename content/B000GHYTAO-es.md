@@ -16,6 +16,7 @@ comparePrice: 65.25 EUR
 prodname: 'Lancome Hypnôse Agua de perfume Vaporizador 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GHYTAO/?tag=tolees-21'
 descuento: '54.71'
 average: '29.55'

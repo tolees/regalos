@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Guirnalda Luces Exterior Solare  BrizLabs 13.8M 60 LED Guirnalda Luces Solar Impermeable 8 Modos Interior y Exterior Cadena de Luces Solar para Jardín Terraza  Patio  Navidad  Fiesta  Blanco Calido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082W1G7LQ/?tag=tolees-21'
 descuento: '19.06'
 average: '17.856666666666666'

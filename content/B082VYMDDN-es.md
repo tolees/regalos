@@ -16,6 +16,7 @@ comparePrice: 25.5 EUR
 prodname: 'OwlFay Disfraz de Princesa Carnival para Niñas Vestidos de Fiesta Navidad Halloween Cosplay Costume Outfit Rosa 4-5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VYMDDN/?tag=tolees-21'
 descuento: '55.88'
 average: '11.25'

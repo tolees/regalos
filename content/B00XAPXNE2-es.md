@@ -16,6 +16,7 @@ comparePrice: 6.23 EUR
 prodname: 'POLIL colgador antipolillas aroma agua de colonia paquete 2 uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAPXNE2/?tag=tolees-21'
 descuento: '63.40'
 average: '2.28'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Bvlgari Au The Blanc - Agua de colonia  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZRPN1EA/?tag=tolees-21'
 descuento: '39.87'
 average: '48.1'

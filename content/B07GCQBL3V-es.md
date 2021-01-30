@@ -16,6 +16,7 @@ comparePrice: 26.63 EUR
 prodname: 'TEDD - Pijama de dinosaurio de algodón para niños  ropa de dormir  para invierno  manga larga  para Navidad  2 piezas  regalo de Navidad Verde 03 Verde 11-12 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCQBL3V/?tag=tolees-21'
 descuento: '37.29'
 average: '16.7'

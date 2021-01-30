@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Linterna Solar Exterior GolWof LED Luz Solar Colgando Jardín Farolillo Solare Farol Solar Exterior Jardin Luce Solare Luz Solar Linterna Jardín para Interiore/ Exteriore Césped Patio Festival Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9LMV38/?tag=tolees-21'
 descuento: '20.01'
 average: '19.456666666666667'

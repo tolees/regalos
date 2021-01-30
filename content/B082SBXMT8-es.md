@@ -16,6 +16,7 @@ comparePrice: 15.62 EUR
 prodname: 'OBEEII Disfraz Elsa Anna Traje Frozen Niñas Princesa Ana Vestido + Pantalones Reino de Hielo Vestidos de Carnaval Fiesta Halloween Cosplay Navidad Costume Chica 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SBXMT8/?tag=tolees-21'
 descuento: '50.00'
 average: '7.81'

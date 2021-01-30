@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Collar  Plata de Ley 925 Moda Joyería  Navidad Joyas Regalos Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7ZY3ZS/?tag=tolees-21'
 descuento: '90.02'
 average: '16.313333333333333'

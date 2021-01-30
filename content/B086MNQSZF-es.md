@@ -16,6 +16,7 @@ comparePrice: 11.04 EUR
 prodname: 'YO-HAPPY Kids Photo Use Medias  Navidad Cosplay Party Use  Suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MNQSZF/?tag=tolees-21'
 descuento: '50.00'
 average: '5.52'

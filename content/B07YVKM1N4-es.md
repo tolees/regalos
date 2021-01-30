@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'Sony Pack Navidad 2019  BD - 20 discos [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVKM1N4/?tag=tolees-21'
 descuento: '62.36'
 average: '54.666000000000004'

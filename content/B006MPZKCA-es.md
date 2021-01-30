@@ -16,6 +16,7 @@ comparePrice: 87.3 EUR
 prodname: 'Roberto Cavalli Agua de Perfume - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006MPZKCA/?tag=tolees-21'
 descuento: '65.92'
 average: '29.0625'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Tuokay 20M 200 LED Luces de Navidad Cadena de Luces Guirnalda de Luces con Adaptador 8 Modos Luces Decorativa Iluminación de Navidad para Arbol de Navidad  Fiesta Boda  Blanco Calido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXV94SS/?tag=tolees-21'
 descuento: '16.67'
 average: '19.99'

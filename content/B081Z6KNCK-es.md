@@ -16,6 +16,7 @@ comparePrice: 21.38 EUR
 prodname: 'Disfraz Elsa Frozen Niñas con Capa Princesa Ana Vestido Traje Ice Queen Snowflake para Halloween Navidad Carnaval Themed Manga Larga Infantil Nieve Hielo Fiesta de Cosplay Outfit 001 Azul 7-8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Z6KNCK/?tag=tolees-21'
 descuento: '50.00'
 average: '10.69'

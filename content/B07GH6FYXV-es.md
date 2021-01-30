@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'The Nightmare Before Christmas - Notebook Premium Moonlight Madness'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GH6FYXV/?tag=tolees-21'
 descuento: '36.53'
 average: '6.95'

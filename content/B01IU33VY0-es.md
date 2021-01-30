@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Swarovski Pulsera Angelic  de Mujer  verde  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IU33VY0/?tag=tolees-21'
 descuento: '50.00'
 average: '64.5'

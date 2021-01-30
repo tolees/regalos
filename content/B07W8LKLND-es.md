@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Libro Lámpara Tomshine Mini Lámpara Lectura Libro 12 Colores y 5 Niveles de Brillo Ajustables/Control Remoto/Temporizador/360 °Plegable/Lampara Mesilla de Noche Regalo Navidad para Mujer Novia Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8LKLND/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

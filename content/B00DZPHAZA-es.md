@@ -16,6 +16,7 @@ comparePrice: 60.45 EUR
 prodname: 'Calvin Klein Euphoria Men - Agua de tocador vaporizador para hombre  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DZPHAZA/?tag=tolees-21'
 descuento: '57.07'
 average: '29.034999999999997'

@@ -16,6 +16,7 @@ comparePrice: 33.57 EUR
 prodname: 'HI SUYI - Cojín con forma de árbol de Navidad  polipropileno  relleno de algodón   diseño de árbol de Navidad Rojo  grande   con relleno .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBYXTTD/?tag=tolees-21'
 descuento: '50.01'
 average: '16.78'

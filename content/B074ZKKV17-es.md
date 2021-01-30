@@ -16,6 +16,7 @@ comparePrice: 88.89 EUR
 prodname: 'Carolina Herrera 212 Vip Black Agua de Perfume Vaporizador - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZKKV17/?tag=tolees-21'
 descuento: '51.06'
 average: '43.65'

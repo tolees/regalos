@@ -16,6 +16,7 @@ comparePrice: 77.0 EUR
 prodname: 'Escada Magnetism Agua de perfume Vaporizador 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1VWCM/?tag=tolees-21'
 descuento: '57.14'
 average: '34.6475'

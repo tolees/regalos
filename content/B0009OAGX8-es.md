@@ -16,6 +16,7 @@ comparePrice: 45.5 EUR
 prodname: 'Ralph Lauren 2706 - Agua de colonia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAGX8/?tag=tolees-21'
 descuento: '16.04'
 average: '40.86666666666667'

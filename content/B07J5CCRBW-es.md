@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'AmzBarley Disfraz Princesa Vestido de Traje Niñas de Navidad Fiesta Ceremonia Boda Bautizo Frozen Baile Manga Larga Falda Niña Costume para Cumpleaños Halloween Jessie Cosplay Carnaval 1-2 Años 90'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5CCRBW/?tag=tolees-21'
 descuento: '50.01'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 78 EUR
 prodname: 'Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L32Q5SU/?tag=tolees-21'
 descuento: '59.12'
 average: '31.89'

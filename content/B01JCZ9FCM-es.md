@@ -16,6 +16,7 @@ comparePrice: 74.04 EUR
 prodname: 'Coach  Agua de perfume para mujeres - 90 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JCZ9FCM/?tag=tolees-21'
 descuento: '32.54'
 average: '49.95'

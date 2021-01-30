@@ -16,6 +16,7 @@ comparePrice: 43.02 EUR
 prodname: 'Jimmy Choo  Agua de perfume para mujeres - 90 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSDO6LW/?tag=tolees-21'
 descuento: '56.76'
 average: '18.6'

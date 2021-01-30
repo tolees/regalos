@@ -16,6 +16,7 @@ comparePrice: 21.74 EUR
 prodname: 'OwlFay Rapunzel Disfraz Carnaval Traje de Princesa para Halloween Navidad Fiesta Cosplay Costume para Niñas Chicas Morado A 6-7 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4RKH6P/?tag=tolees-21'
 descuento: '50.00'
 average: '10.87'

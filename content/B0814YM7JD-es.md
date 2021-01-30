@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Swarovski Collar Swan de Mujer con Rodio Plateado  Cristal  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814YM7JD/?tag=tolees-21'
 descuento: '30.93'
 average: '89.1'

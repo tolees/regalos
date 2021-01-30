@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: '3mm x 100m Cuerda Algodó Cordel Natural para Macramé Colgador de Plantas  Envolver Regalo Navidad  Colgar Fotos  Manualidades  DIY Artesanía  Decoración Bohemia  Caqui '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DN9Q3VZ/?tag=tolees-21'
 descuento: '15.40'
 average: '10.99'

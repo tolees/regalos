@@ -16,6 +16,7 @@ comparePrice: 8.89 EUR
 prodname: 'ALLOMN Rosa  Flores Artificiales  24K Chapado en Oro Rosa con Caja de Regalo día de San Valentín Día de la Madre Cumpleaños de Navidad  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5CFG4N/?tag=tolees-21'
 descuento: '22.50'
 average: '6.89'

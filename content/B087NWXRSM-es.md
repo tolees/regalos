@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Grandma Shark Bambú Tabla de Quesos  Bandeja de Queso y Galletas con Cubiertos  Navidad & San-Valentín Mejores Regalos  Redondo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NWXRSM/?tag=tolees-21'
 descuento: '41.68'
 average: '13.99'

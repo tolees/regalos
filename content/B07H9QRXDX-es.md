@@ -16,6 +16,7 @@ comparePrice: 19.06 EUR
 prodname: 'RGBW LED Strip Super Night [Only LED Strip Lights] SMD 5050 16.4 ft/5 m Colour Changing 300 ledes for Kitchen Home Christmas Decoration Lighting RGB + White  Non de Waterproof'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9QRXDX/?tag=tolees-21'
 descuento: '39.77'
 average: '11.48'

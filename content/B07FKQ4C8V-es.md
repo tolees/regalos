@@ -16,6 +16,7 @@ comparePrice: 83.0 EUR
 prodname: 'Hermès  Agua de perfume para hombres - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKQ4C8V/?tag=tolees-21'
 descuento: '33.80'
 average: '52.08333333333333'

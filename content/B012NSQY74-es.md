@@ -16,6 +16,7 @@ comparePrice: 51.54 EUR
 prodname: 'Lacoste  Agua de colonia para mujeres - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012NSQY74/?tag=tolees-21'
 descuento: '61.47'
 average: '22.405'

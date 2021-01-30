@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'EKKONG Explosion Box  Christmas Explosion Box Creativo DIY Álbum de Fotos Scrapbook Caja Regalo para Cumpleaños Día de San Valentín Aniversario Navidad  Christmas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1WC58G/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

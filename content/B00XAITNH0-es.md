@@ -16,6 +16,7 @@ comparePrice: 16.02 EUR
 prodname: 'Poseidon The Black Eau de Toilette para Hombre - 150 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAITNH0/?tag=tolees-21'
 descuento: '31.65'
 average: '11.017272727272724'

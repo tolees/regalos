@@ -16,6 +16,7 @@ comparePrice: 31.5 EUR
 prodname: 'Calvin Klein CK All Agua de Tocador - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYD2V7A/?tag=tolees-21'
 descuento: '20.95'
 average: '30.12142857142857'

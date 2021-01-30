@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Estee Lauder 56889 - Agua de perfume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ELS9ZUI/?tag=tolees-21'
 descuento: '33.61'
 average: '60.970000000000006'

@@ -16,6 +16,7 @@ comparePrice: 25.31 EUR
 prodname: 'Elizabeth Taylor White Diamond Eau De Toilette 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAI8Q/?tag=tolees-21'
 descuento: '28.92'
 average: '19.00333333333333'

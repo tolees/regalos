@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'OxyLED Guirnalda Luces Exterior Solar 10 Metros 100 LED Blanco Cálido Guirnalda de luces solares 8 Modos Luz Decoración para Navidad  Fiestas  Bodas  Patio  Dormitorio Jardines  Festivales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWSLCWM/?tag=tolees-21'
 descuento: '23.09'
 average: '11.49'

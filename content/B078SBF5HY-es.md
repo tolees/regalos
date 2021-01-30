@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Swarovski Colgante Anillo Stone Round Ring  baño de rodio  Cristal Blanco  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SBF5HY/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

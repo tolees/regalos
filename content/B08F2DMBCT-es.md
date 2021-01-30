@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Bolsas Papel Kraft Regalo Bolsas bolsas para chuches para cumpleaños de niños Navidad Halloween Dulces Regalos Chocolates Galletas Recuerdo Golosinas 24pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F2DMBCT/?tag=tolees-21'
 descuento: '16.69'
 average: '4.99'

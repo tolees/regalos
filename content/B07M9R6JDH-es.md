@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Angelady Collar de Pendientes Juego de Joyas de para Mujer Cristal de Swarovski  Pendientes de Oreja sin Agujero de Plata de Ley 925 Regalo para la Novia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9R6JDH/?tag=tolees-21'
 descuento: '36.96'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Chloe Fleur de Parfum Agua de Perfume - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GI9ZQWI/?tag=tolees-21'
 descuento: '27.30'
 average: '39.95'

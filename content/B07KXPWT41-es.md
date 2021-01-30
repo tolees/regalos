@@ -16,6 +16,7 @@ comparePrice: 51.71 EUR
 prodname: 'Luces de cadena LED  copo de nieve Iluminación LED decorativa IP65 Luces exteriores impermeables para el interior de Navidad  fiesta  cumpleaños  dormitorio  clubes  decoración de jardines y jardines'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXPWT41/?tag=tolees-21'
 descuento: '80.68'
 average: '9.99'

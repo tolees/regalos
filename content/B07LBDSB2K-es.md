@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'URAQT Disfraz de Princesa Frozen Elsa  Traje del Vestido Traje de Princesa de la Nieve Vestido Infantil Disfraz de Princesa de Niñas para Frozen Themed Fiesta Cumpleaños Navidad 100CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBDSB2K/?tag=tolees-21'
 descuento: '19.24'
 average: '18.826363636363634'

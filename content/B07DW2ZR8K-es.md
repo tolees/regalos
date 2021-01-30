@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'ThxMadam Scrapbook Cuero Álbum de Fotos Libro de Visitas de Boda con 60 Páginas Negras Presentes para Regalo de Valentín Día de Aniversario Navidad Cumpleaños para Esposa Hija Madre Corazón Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW2ZR8K/?tag=tolees-21'
 descuento: '38.90'
 average: '21.99'

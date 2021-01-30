@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Star Wars Eau de Toilette en Estuche - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GQE9FQI/?tag=tolees-21'
 descuento: '56.07'
 average: '5.92'

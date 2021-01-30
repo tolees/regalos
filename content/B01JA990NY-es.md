@@ -16,6 +16,7 @@ comparePrice: 83.3 EUR
 prodname: 'Prada La Femme Prada Agua de Perfume Vaporizador - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JA990NY/?tag=tolees-21'
 descuento: '28.03'
 average: '58.61666666666667'

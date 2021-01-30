@@ -16,6 +16,7 @@ comparePrice: 18.98 EUR
 prodname: 'Carpa De Ensueño  Carpa Para Cama，Carpa Cojin Molon，Carpa Niños，Carpa Infantil，Carpa Para Niños，Carpa Para Niños Plegable Mágica De Invierno， Navidad Y Regalos De Cumpleaños  Parque de dinosaurios '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L49TFD7/?tag=tolees-21'
 descuento: '27.66'
 average: '13.73'

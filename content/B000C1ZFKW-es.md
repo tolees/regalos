@@ -16,6 +16,7 @@ comparePrice: 89.6 EUR
 prodname: 'Yves Saint Laurent Paris Eau de Toilette Vaporizador 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1ZFKW/?tag=tolees-21'
 descuento: '45.12'
 average: '51.486666666666665'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Landove Pijama Unicornio Niña Niño Mono Franela Kigurumi Animales Entero Unisex Sleepsuit Romper Homewear Onesie Cosplay Traje de Disfraz para Festival Carnaval Halloween Navidad Regalos …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1N3Z9H/?tag=tolees-21'
 descuento: '57.51'
 average: '19.82333333333333'

@@ -16,6 +16,7 @@ comparePrice: 4.05 EUR
 prodname: 'LuckyGirls Calcetines de algodón Estampados de Dibujos Animados cálidos de Invierno para Hombre Navidad Transpirable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZP3G5SS/?tag=tolees-21'
 descuento: '73.83'
 average: '1.06'

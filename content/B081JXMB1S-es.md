@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Camara Fotos Infantil Cámara de Fotos para Niños con HD 1080P Cámara Recargable para Niños Cumpleaños Festival de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JXMB1S/?tag=tolees-21'
 descuento: '70.01'
 average: '29.99'

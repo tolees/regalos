@@ -16,6 +16,7 @@ comparePrice: 81.5 EUR
 prodname: 'Paco Rabanne Invictus Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DAUYQX4/?tag=tolees-21'
 descuento: '31.41'
 average: '54.82440476190477'

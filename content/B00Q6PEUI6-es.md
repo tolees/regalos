@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Cesta con American Candy | Caja de caramelos y Chucherias Americanas | Surtido de 18 artículos incluido Reeses  Baby Ruth  Nerds  Hersheys| Golosinas para Navidad Reyes o para regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q6PEUI6/?tag=tolees-21'
 descuento: '19.88'
 average: '19.99'

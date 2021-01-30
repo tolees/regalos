@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Donna Karan 31803 - Agua de colonia 50.0 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004NXLI9C/?tag=tolees-21'
 descuento: '43.88'
 average: '28.28'

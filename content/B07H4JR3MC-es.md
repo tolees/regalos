@@ -16,6 +16,7 @@ comparePrice: 11.49 EUR
 prodname: 'FTVOGUE Navidad de Madera Merry-Go-Round Caballo decoración Vintage Mini Colgante carrusel Caballo Colgante para cumpleaños Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4JR3MC/?tag=tolees-21'
 descuento: '48.74'
 average: '5.89'

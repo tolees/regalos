@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Dolce & Gabbana Light Blue  Agua de tocador para mujeres - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XEATY0/?tag=tolees-21'
 descuento: '46.76'
 average: '40.620000000000005'

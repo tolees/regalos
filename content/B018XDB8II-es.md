@@ -16,6 +16,7 @@ comparePrice: 12.05 EUR
 prodname: 'Victorio & Lucchino Nº2 Agua de Colonia - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018XDB8II/?tag=tolees-21'
 descuento: '19.09'
 average: '9.799999999999999'

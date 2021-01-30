@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '60 LED 10M Cadena Solar de Luces  IP65 Impermeable 8 Modos Luces Decorativas  Guirnalda Luces Exterior Luminosas para Exterior Interior  Jardines  Casas  Boda  Fiesta de Navidad  Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYVYXLG/?tag=tolees-21'
 descuento: '40.01'
 average: '16.35666666666667'

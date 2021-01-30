@@ -16,6 +16,7 @@ comparePrice: 35.87 EUR
 prodname: 'Velas LED velas sin llama 4"5"6"Set de 3 de cera real Dripless marfil incluyen baile realista llevó las llamas y 10teclas de Control Remoto con Función de temporizador de 24h regalo de Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPSK985/?tag=tolees-21'
 descuento: '50.15'
 average: '17.88'

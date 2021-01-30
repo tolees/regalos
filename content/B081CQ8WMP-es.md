@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'dressfan Animal Negro Dragón Siamese Pijamas Dragón Disfraz Cosplay Disfraz Navidad Halloween Pijamas Unisex Adulto Adolescente Niños  Negro  L 66"-70"  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CQ8WMP/?tag=tolees-21'
 descuento: '50.01'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '6x Fresadora de Madera de Fresa de Carburo  Pirograbado de Madera  Escultura Grabado Ideal de regalo de navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFQBRY9/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

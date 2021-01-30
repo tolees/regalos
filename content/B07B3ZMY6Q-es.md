@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'PLAYMOBIL Calendario de Adviento Navidad en el Bosque  A partir de 1.5 años  9391 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3ZMY6Q/?tag=tolees-21'
 descuento: '20.00'
 average: '20.513333333333335'

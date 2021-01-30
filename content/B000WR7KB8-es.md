@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Villeroy & Boch Piemont Cubertería  Para hasta 6 personas  30 piezas  acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WR7KB8/?tag=tolees-21'
 descuento: '51.51'
 average: '146.2475'

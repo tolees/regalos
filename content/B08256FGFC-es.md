@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'OBEEII 6PCS Disfraz de Princesa Elsa Niñas Carnaval Traje de Frozen Belle Vestido y Accesorios Cosplay Costume para Halloween Navidad Fiesta Ceremonia Aniversario Snow Queen Fancy Dress Azul 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08256FGFC/?tag=tolees-21'
 descuento: '51.36'
 average: '19.45'

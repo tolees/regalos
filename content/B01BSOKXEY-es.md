@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Swarovski Reloj Crystalline Oval 5181008'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSOKXEY/?tag=tolees-21'
 descuento: '27.36'
 average: '239.0'

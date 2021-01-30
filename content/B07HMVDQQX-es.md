@@ -16,6 +16,7 @@ comparePrice: 19.09 EUR
 prodname: 'Juego de pluma de cristal para firmar y escribir en caligrafía  ideal como regalo de Navidad  de empresa y de vacaciones  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMVDQQX/?tag=tolees-21'
 descuento: '47.67'
 average: '9.99'

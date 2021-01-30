@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'IREGRO Luces de Proyector Navidad Copos de Nieve Luz de nevadas Navidad Impermeable LED Exterior Decoración Luz de Proyector con Control Remoto Patrón para Fiesta  Navidad  Festivos Valentín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W9DBV62/?tag=tolees-21'
 descuento: '28.58'
 average: '19.99'

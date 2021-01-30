@@ -16,6 +16,7 @@ comparePrice: 12.2 EUR
 prodname: 'Victoria Secret Temptation  Agua de perfume para mujeres  250 ml  1 Pieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B3O2JZ0/?tag=tolees-21'
 descuento: '91.80'
 average: '1.0'

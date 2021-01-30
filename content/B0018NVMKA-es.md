@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'DKNY men - Eau de Toilette Energizing 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0018NVMKA/?tag=tolees-21'
 descuento: '60.13'
 average: '31.775'

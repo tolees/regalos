@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Lancôme La Vie Est Belle Intense Agua de Perfume - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZA9W2ZC/?tag=tolees-21'
 descuento: '44.49'
 average: '32.75'

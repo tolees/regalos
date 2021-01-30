@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Calvin Klein  Agua de perfume para mujeres - 30 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2THWJB/?tag=tolees-21'
 descuento: '41.05'
 average: '32.42'

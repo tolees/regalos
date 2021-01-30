@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Cadena de Luces  Mr.Twinklelight 4.5M 30 LED Solar Bola de Cristal Luz Decorativa para Jardín  Terraza  Boda  Árbol de Navidad  Fiesta  Patio  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XRTDLM7/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

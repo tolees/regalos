@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'BelleStyle Caja de Regalo Creativo de Bricolaje Libro de Recuerdos Caja de Explosiones DIY Scrapbooking Album Memory Álbum para cumpleaños Aniversario Boda San Valentín Día de la Madre Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S48BXL7/?tag=tolees-21'
 descuento: '57.50'
 average: '16.99'

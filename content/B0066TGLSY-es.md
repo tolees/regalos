@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Boucheron  Agua de perfume para hombres - 100 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0066TGLSY/?tag=tolees-21'
 descuento: '35.87'
 average: '29.97142857142857'

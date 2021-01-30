@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'OBEEII Disfraz Princesa para Niñas Costume Princesa Reino Frozen para Carnaval Navidad Cumpleaños Partido Prom Azul 11-12 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGCPR9F/?tag=tolees-21'
 descuento: '55.69'
 average: '13.29'

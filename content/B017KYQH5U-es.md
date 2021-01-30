@@ -16,6 +16,7 @@ comparePrice: 3.1 EUR
 prodname: 'Heno De Pravia Original Agua de Colonia - 650 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017KYQH5U/?tag=tolees-21'
 descuento: '27.42'
 average: '2.25'

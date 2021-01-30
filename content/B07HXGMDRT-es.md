@@ -16,6 +16,7 @@ comparePrice: 61.5 EUR
 prodname: 'vivo Villeroy & Boch Group New Fresh Basic Cubertería  18/10 Acero Inoxidable  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HXGMDRT/?tag=tolees-21'
 descuento: '18.16'
 average: '50.33'

@@ -16,6 +16,7 @@ comparePrice: 14.8 EUR
 prodname: 'Poseidon Sport Eau de Toilette para Hombre - 150 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAITIFW/?tag=tolees-21'
 descuento: '32.77'
 average: '9.684999999999999'

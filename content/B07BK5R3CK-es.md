@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Yasolote 7M Cadena de Luz Solar 8 Modos 50 LED Luces de Navidad Impermeable de Diseño de Flor para Árbol de Navidad  Patio  Jardín  Terraza y Exteriores e Interiores  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK5R3CK/?tag=tolees-21'
 descuento: '46.17'
 average: '14.49'

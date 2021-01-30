@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Paco Rabanne 1 Million Privé Agua de Perfume Spray - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVLARUW/?tag=tolees-21'
 descuento: '41.25'
 average: '39.95'

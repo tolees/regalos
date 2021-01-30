@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Swarovski Pendientes de botón Attract  de Mujer  rojo  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLKY3HK/?tag=tolees-21'
 descuento: '50.00'
 average: '24.5'

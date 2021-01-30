@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Collar  Collar Colgante de Corazón Mujer  Plata de Ley 925  Navidad Joyas Regalos Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6XLV1Y/?tag=tolees-21'
 descuento: '88.20'
 average: '15.48'

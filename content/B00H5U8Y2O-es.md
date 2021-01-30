@@ -16,6 +16,7 @@ comparePrice: 154 EUR
 prodname: 'Jean Patou Joy Forever Agua de Perfume - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H5U8Y2O/?tag=tolees-21'
 descuento: '50.01'
 average: '76.465'

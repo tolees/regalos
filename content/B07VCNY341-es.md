@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Guirnalda de luces solares OxyLED 2 x 30 luces LED para jardín  patio  exteriores  impermeable  para interiores y exteriores  ideal para jardín  terraza  patio  exterior  Navidad  luz ambiental '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCNY341/?tag=tolees-21'
 descuento: '28.59'
 average: '14.99'

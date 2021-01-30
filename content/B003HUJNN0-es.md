@@ -16,6 +16,7 @@ comparePrice: 111.0 EUR
 prodname: 'Carolina Herrera 212 Vip Men Agua de Tocador Vaporizador - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HUJNN0/?tag=tolees-21'
 descuento: '45.99'
 average: '59.95'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'PROACC Juego de 8 Coches Dinosaurios  plástico Tire hacia Atrás de los Juguetes  Regalo de Cumpleaños Navidad para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWSH4LC/?tag=tolees-21'
 descuento: '52.51'
 average: '18.99'

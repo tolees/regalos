@@ -16,6 +16,7 @@ comparePrice: 72.0 EUR
 prodname: 'Lacoste 65873 - Agua de colonia  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q8GWAOY/?tag=tolees-21'
 descuento: '51.46'
 average: '37.45'

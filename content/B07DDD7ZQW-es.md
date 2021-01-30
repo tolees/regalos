@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Lámpara Infantiles Proyector Estrella+Proyector LED+Timer Aut-Apagado+8 Modos Color+360 Grado Rotación+USB/Pilas Energizado Luz de Cabecera Niños O Adulto Regalo para Halloween Acción Gracias Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDD7ZQW/?tag=tolees-21'
 descuento: '61.68'
 average: '23.99'

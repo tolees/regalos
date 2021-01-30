@@ -16,6 +16,7 @@ comparePrice: 69.5 EUR
 prodname: 'Donna Karan DKNY  Agua de tocador para mujeres - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004NXLIJM/?tag=tolees-21'
 descuento: '37.09'
 average: '41.81'

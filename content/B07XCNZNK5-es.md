@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Pintura Corporal y Facial  Kit de Pintura Facial  Face Body Painting  Adecuada para Niños y Adultos  Maquillaje de Fiesta  Cumpleaños  Halloween  Navidad 2 Plantillas 15 Colores Lavables 4 Pinceles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCNZNK5/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Amaza 36 Pcs Globos Led Decoracion Cumpleaños  Boda Fiesta  Navidad  Blanco   36 Pieces '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBX13MB/?tag=tolees-21'
 descuento: '42.71'
 average: '10.88'

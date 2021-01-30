@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Satkago Set Peluqueria Juguete Niña Belleza con Secador de Pelo Juego de rol  Halloween / Navidad Regalos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G1C7XHG/?tag=tolees-21'
 descuento: '15.80'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'Atkinsons English Lavender Agua de Tocador - 620 ml  8000600023296 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0051PSF5G/?tag=tolees-21'
 descuento: '66.13'
 average: '18.95'

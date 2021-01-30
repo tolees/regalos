@@ -16,6 +16,7 @@ comparePrice: 80.09 EUR
 prodname: 'Guerlain Insolence Eau de Toilette Vaporizador 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOJAQU/?tag=tolees-21'
 descuento: '48.83'
 average: '38.821999999999996'

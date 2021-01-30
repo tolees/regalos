@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Swarovski Pendientes Symbolic Evil Eye de Mujer  chapados en tono Oro Rosa  Cristal  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DSZ49ZB/?tag=tolees-21'
 descuento: '50.72'
 average: '34.0'

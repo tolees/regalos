@@ -16,6 +16,7 @@ comparePrice: 13.97 EUR
 prodname: '10 Hojas Papel de Regalo  CHALA Papel de Regalo Diseño de Navidad/Alce Monigote de Nieve/Árbol de Navidad para Cumpleaños  Despedidas de Soltera  Baby shower  Navidad y Más  10 Diseño 50mm*70mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVJJF7B/?tag=tolees-21'
 descuento: '21.47'
 average: '10.97'

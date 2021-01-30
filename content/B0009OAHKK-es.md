@@ -16,6 +16,7 @@ comparePrice: 58.5 EUR
 prodname: 'Carolina Herrera 212 Men Agua de Tocador - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAHKK/?tag=tolees-21'
 descuento: '54.02'
 average: '26.9'

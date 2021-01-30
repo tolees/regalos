@@ -16,6 +16,7 @@ comparePrice: 74.0 EUR
 prodname: 'Paco Rabanne Paco Rabanne Homme Eau de Toilette Vaporizador 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAGS8/?tag=tolees-21'
 descuento: '59.59'
 average: '35.39411764705883'

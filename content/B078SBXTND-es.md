@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Swarovski Anillo Attract  Blanco  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SBXTND/?tag=tolees-21'
 descuento: '31.49'
 average: '54.52'

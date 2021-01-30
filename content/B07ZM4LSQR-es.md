@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Botella calefactora de microondas Bolsa de agua caliente transparente de silicona ambiental con cubierta de punto  terapias frías y calientes - Regalo para cumpleaños  Navidad  320ml  rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZM4LSQR/?tag=tolees-21'
 descuento: '86.40'
 average: '10.88'

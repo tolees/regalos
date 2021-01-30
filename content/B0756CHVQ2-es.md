@@ -16,6 +16,7 @@ comparePrice: 18.98 EUR
 prodname: 'Buluri 12 colores Set de tiza para el cabello Tinte para el cabello plumas de tiza profesionales para el cabello  plumas de tinte para el cabello - Funciona en todos los colores del cabello Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756CHVQ2/?tag=tolees-21'
 descuento: '26.40'
 average: '14.77083333333333'

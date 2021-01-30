@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Swarovski Colgante Iconic Swan  Baño de Rodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9QZW2A/?tag=tolees-21'
 descuento: '18.36'
 average: '49.75714285714286'

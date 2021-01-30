@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '48 PCS 3D Nail Art Decoration Glitter Powder Sequins Set Festival Chunky Glitter Face Body Hair Decoration Party DIY Craft Slime Making Kit  Lentejuelas Nail Salon Equipos para Navidad Halloween'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVV8BPW/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

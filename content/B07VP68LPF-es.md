@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Amilril Collar Estrella Mujer  Plata de Ley 925 Joyería  Navidad Joyas Regalos Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VP68LPF/?tag=tolees-21'
 descuento: '37.28'
 average: '27.313333333333333'

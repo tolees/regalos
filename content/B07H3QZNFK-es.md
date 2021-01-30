@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Mopoin 24 Pcs Mini Juegos Rompecabezas Set  Juego De Ompecabezas  Juego De Rompecabezas De Cumpleaños para Niños  Regalo para Navidad  Aliviar El Estrés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3QZNFK/?tag=tolees-21'
 descuento: '45.85'
 average: '13.49'
