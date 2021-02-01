@@ -28,10 +28,10 @@ En este momento está [Cortina de Luces  Hepside Luz Cadena Luz de Cortina USB 3
 
 🔎:
 
-- 🌜 [Fácil de usar]: Disponen de un adaptador USB para que puede conectar directamente las luces a su televisor o portátil, y usarlo en cualquier momento y lugar. Los LED de bajo consumo, no se sobrecalienta incluso después de horas de uso y el tacto seguramente.
-- 🌜 [Cortina Luces LED de Hadas]: La cortina tiene unas dimensiones de 3m*3m, 300LED luces blancas cálidas, cortina de luces tiene 10 cadenas y 30 LED de cada luces, puede crear un hermoso efecto cascada.
-- 🌜 [8 Modos y Control Remoto]: Cortina luces navidad tiene 8 efectos de iluminación, para dar todas las atmósferas que quiera a su decoración. Puede controlarlo todo con el control remoto. Función de memoria, puede dejar el modo favorito en las hermosas luces de cortina, puede abrirla directamente la próxima vez.
 - 🌜 [Lo que obtienes]: 1 pack luz de cortina de cuento de hadas. Ofrecemos una garantía de devolución de dinero de 60 días, garantía sin preocupaciones de 1 año, servicio al cliente las 24 horas.
 - 🌜 [Luces de cuerda de alambre de cobre DIY]: Esta luces de navidad cortina es ideal para dar hermoso efecto en su salón, jardín, terraza, pérgola o porche, o crear otros atmósfera impresionantes para fiestas, época navideña, día de San Valentín, etc.
+- 🌜 [8 Modos y Control Remoto]: Cortina luces navidad tiene 8 efectos de iluminación, para dar todas las atmósferas que quiera a su decoración. Puede controlarlo todo con el control remoto. Función de memoria, puede dejar el modo favorito en las hermosas luces de cortina, puede abrirla directamente la próxima vez.
+- 🌜 [Cortina Luces LED de Hadas]: La cortina tiene unas dimensiones de 3m*3m, 300LED luces blancas cálidas, cortina de luces tiene 10 cadenas y 30 LED de cada luces, puede crear un hermoso efecto cascada.
+- 🌜 [Fácil de usar]: Disponen de un adaptador USB para que puede conectar directamente las luces a su televisor o portátil, y usarlo en cualquier momento y lugar. Los LED de bajo consumo, no se sobrecalienta incluso después de horas de uso y el tacto seguramente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CKXHKNJ/?tag=tolees-21)
