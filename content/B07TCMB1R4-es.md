@@ -29,9 +29,9 @@ Tienes [Alex Perry Regalo Día de la Madre pendientes mujer swarovski joyas para
 🔎:
 
 - ♥ Every jewellery of Alex Perry has its own unique character. We provide 12-month after sale service. If there are any problems with the purchase, please dont hesitate to contact us. Your message will be answered within 24 hours. Shipment fulfilled by Amazon, enjoy the fast and safe delivery.
-- ♥ With an exquisite gift box packaging. A versatile piece for women, ladies and girls. Suitable as Valentines Day Gifts, Mothers day gifts, Christmas gifts, anniversary gifts, birthday gifts, wedding gifts, party gifts, graduation gifts, back-to-school gifts. A special gift to express your love to them.
 - ♥ Be your satellite - If everyone is a small satellite, then you are my universe.
-- ♥ The elegant and classy pair of earrings was made by two cross linked transformative circle with a white pearl set in the middle, the fluent design is inspired by soft and graceful silk fluttering in the sky and revolving arround the true love.
+- ♥ With an exquisite gift box packaging. A versatile piece for women, ladies and girls. Suitable as Valentines Day Gifts, Mothers day gifts, Christmas gifts, anniversary gifts, birthday gifts, wedding gifts, party gifts, graduation gifts, back-to-school gifts. A special gift to express your love to them.
 - ♥ Size: 0.9 cm * 0.9 cm / 0.35 in * 0.35 in. Weight: 1.02 g * 2 / 0.038 oz * 2.
+- ♥ The elegant and classy pair of earrings was made by two cross linked transformative circle with a white pearl set in the middle, the fluent design is inspired by soft and graceful silk fluttering in the sky and revolving arround the true love.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TCMB1R4/?tag=tolees-21)
