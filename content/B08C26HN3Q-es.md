@@ -28,10 +28,10 @@ En este momento está [Fontee - Ramo Flores Rosa Chapada en Oro  6 Piezas Ramo R
 
 🔎:
 
+- SIN RIESGO DE COMPRA - 100% GARANTÍA DE DEVOLUCIÓN DEL DINERO. Si no está satisfecho con este artículo por algún motivo, le enviaremos de inmediato un reemplazo o le reembolsaremos el precio de compra.
 - NUEVO DISEÑO: este ramo de flores de rosa dorada es el nuevo diseño, hecho a mano, cada ramo tiene 6 flores rosas, follaje dorado y flores rojas, delicadas y elegantes.
 - EL REGALO PERFECTO: esta rosa inmortal es el regalo perfecto para una ocasión especial como el Día de San Valentín, Aniversario, Día de la Madre, Cumpleaños, o para hacer una sorpresa especial y sorprender a tu amada cuando menos lo esperas.
-- SIN RIESGO DE COMPRA - 100% GARANTÍA DE DEVOLUCIÓN DEL DINERO. Si no está satisfecho con este artículo por algún motivo, le enviaremos de inmediato un reemplazo o le reembolsaremos el precio de compra.
-- UNA SEÑAL DE AMOR: un regalo perfecto para su esposa, su novia, su hija o su madre. Ramo empaquetado en una elegante caja de regalo.
 - UNA FLOR QUE NUNCA MEJORA: una rosa siempre es un regalo de amor, esta rosa fantástica nunca se tocará, siempre estará viva y siempre te recordará la ocasión especial en que la recibiste como regalo.
+- UNA SEÑAL DE AMOR: un regalo perfecto para su esposa, su novia, su hija o su madre. Ramo empaquetado en una elegante caja de regalo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C26HN3Q/?tag=tolees-21)
