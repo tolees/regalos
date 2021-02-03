@@ -28,9 +28,9 @@ Está [Funko - Disney The Nightmare Before Christmas - Super Deluxe Jack Skellin
 
 ℹ️:
 
+- Desde Pesadilla antes de Navidad, Jack Skellington con cero, como un estilizado Super Deluxe de Funko!
 - Estilizado coleccionable mide 30 cm de alto, perfecto para cualquier fanático de la pesadilla antes de Navidad.
 - ¡Colecciona y muestra todas las figuras de Pesadilla antes de Navidad de Funko!
 - Funko pop! es el juguete 2017 del año y ganador del premio de elección de la gente
-- Desde Pesadilla antes de Navidad, Jack Skellington con cero, como un estilizado Super Deluxe de Funko!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DFDFZ6D/?tag=tolees-21)
