@@ -28,10 +28,10 @@ Está [Sisley Paris Eau Du Soir Agua De Perfume Vaporizador 100 ml  123694 ](htt
 
 ℹ️:
 
-- Para el cabello: normal
 - Contiene 100 ml
-- Tipo de piel: normal
 - Este producto está indicado para mujeres
+- Tipo de piel: normal
+- Para el cabello: normal
 - De la marca Sisley
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1Z6CE/?tag=tolees-21)
