@@ -1,29 +1,30 @@
 ---
 layout: post
-title: 'Ultimate Christmas  LP  [Vinilo] al 19.20 % de rebaja'
-date: 2021-01-21 11:16:58
+title: 'Universal Music - Ultimate Christmas  LP al 48.65 % de rebaja'
+date: 2021-02-04 01:55:36
 image: 'https://m.media-amazon.com/images/I/51EZzFfZKfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075C9ZMXN-es Ultimate Christmas LP [Vinilo]'
+slug: 'B075C9ZMXN-es Universal Music - Ultimate Christmas LP [Vinilo]'
 sku: 'B075C9ZMXN-es'
 tags: [ 'christmas', ]
-actualPrice: 36.49 EUR
+actualPrice: 23.19 EUR
 currency: EUR
-price: 36.49
+price: 23.19
 comparePrice: 45.16 EUR
-prodname: 'Ultimate Christmas  LP  [Vinilo]'
+prodname: 'Universal Music - Ultimate Christmas  LP  [Vinilo]'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Universal Music'
 buyurl: 'https://www.amazon.es/dp/B075C9ZMXN/?tag=tolees-21'
-descuento: '19.20'
-average: '36.49'
+descuento: '48.65'
+average: '29.84'
 ---
 
-Tienes [Ultimate Christmas  LP  [Vinilo]](https://www.amazon.es/dp/B075C9ZMXN/?tag=tolees-21) con precio final de  36.49 EUR (original: 45.16 EUR) (19.20 %  de rebaja) aqui!
+Tienes [Universal Music - Ultimate Christmas  LP  [Vinilo]](https://www.amazon.es/dp/B075C9ZMXN/?tag=tolees-21) con precio final de  23.19 EUR (original: 45.16 EUR) (48.65 %  de rebaja) aqui!
 
-[![Ultimate Christmas  LP  [Vinilo]](https://m.media-amazon.com/images/I/51EZzFfZKfL._SL200_.jpg)](https://www.amazon.es/dp/B075C9ZMXN/?tag=tolees-21)
+[![Universal Music - Ultimate Christmas  LP](https://m.media-amazon.com/images/I/51EZzFfZKfL._SL200_.jpg)](https://www.amazon.es/dp/B075C9ZMXN/?tag=tolees-21)
 
 🔎:
 
