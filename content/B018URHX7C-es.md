@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kenzo  Agua de perfume para hombres - 10 al 42.86 % de descuento'
-date: 2021-02-03 19:25:42
+date: 2021-02-07 11:01:37
 image: 'https://m.media-amazon.com/images/I/41nSU6F+QFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Kenzo  Agua de perfume para hombres - 100 ml.](https://www.a
 
 🔎:
 
-- Kenzo homme edp vapo 100 ml
 - Kenzo homme edp vapo 100 mlkenzo
+- Kenzo homme edp vapo 100 ml
 - Productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B018URHX7C/?tag=tolees-21)
