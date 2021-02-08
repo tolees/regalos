@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sisley Paris Eau Du Soir Agua De Perfume al 48.00 % de descuento'
-date: 2021-02-07 21:44:51
+date: 2021-02-08 21:52:35
 image: 'https://m.media-amazon.com/images/I/3168U2SiIML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sisley Paris'
 buyurl: 'https://www.amazon.es/dp/B000C1Z6CE/?tag=tolees-21'
 descuento: '48.00'
-average: '115.383333333333'
+average: '114.914347826086'
 ---
 
 Está [Sisley Paris Eau Du Soir Agua De Perfume Vaporizador 100 ml  123694 ](https://www.amazon.es/dp/B000C1Z6CE/?tag=tolees-21) con 48.00 de descuento por 109.99 EUR (original: 211.5 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Sisley Paris Eau Du Soir Agua De Perfume Vaporizador 100 ml  123694 ](htt
 
 ℹ️:
 
-- Tipo de piel: normal
 - Para el cabello: normal
-- Contiene 100 ml
-- Este producto está indicado para mujeres
 - De la marca Sisley
+- Este producto está indicado para mujeres
+- Contiene 100 ml
+- Tipo de piel: normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1Z6CE/?tag=tolees-21)
