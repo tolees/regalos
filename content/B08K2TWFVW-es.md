@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 't6m - Vela aromática  aromaterapia  cera al 25.84 % de descuento'
-date: 2021-02-06 09:52:05
+date: 2021-02-08 00:45:46
 image: 'https://m.media-amazon.com/images/I/41lsQ17N-yL._SL200_.jpg'
 comments: true
 category: ofertas
