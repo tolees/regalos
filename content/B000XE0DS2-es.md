@@ -28,10 +28,10 @@ Ahora mismo tienes [Cacharel Anais AnaisS - Eau de Toilette  Vaporizador  100 ml
 
 🔎:
 
-- Nota importante: El fabricante nos proporciona este producto con dos empaques diferentes pero el contenido es el mismo
-- Las notas olfativas principales de este producto son amaderado y floral
 - Este producto está indicado para mujeres
 - De la marca Cacharel
 - Contiene 100 ml
+- Las notas olfativas principales de este producto son amaderado y floral
+- Nota importante: El fabricante nos proporciona este producto con dos empaques diferentes pero el contenido es el mismo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000XE0DS2/?tag=tolees-21)
