@@ -28,8 +28,8 @@ En este momento está [Hugo Boss 12153 - Agua de colonia](https://www.amazon.es/
 
 🔎:
 
+- Marca: Hugo Boss-boss
 - Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de colonia
-- Marca: Hugo Boss-boss
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000PS8P3Q/?tag=tolees-21)
