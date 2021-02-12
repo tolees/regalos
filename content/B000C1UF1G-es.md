@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Armani-Emporio Emporio Ella Agua de perf al 48.29 % de descuento'
-date: 2021-02-11 22:42:01
+date: 2021-02-12 22:45:17
 image: 'https://m.media-amazon.com/images/I/31HVqbZCD7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Armani-Emporio Emporio Ella Agua de perfume Vaporizador 100 ml](https://w
 
 ℹ️:
 
-- De la marca Armani-emporio.
 - Las notas olfativas principales de este producto son especiado y floral.
 - Contiene 100 ml.
 - Este producto está indicado para mujeres.
+- De la marca Armani-emporio.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1UF1G/?tag=tolees-21)
