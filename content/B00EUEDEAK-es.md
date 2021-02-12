@@ -28,10 +28,10 @@ Tienes [David Beckham Classic Eau de Toilette para Hombre  90 ml](https://www.am
 
 ℹ️:
 
-- Eau de Toilette para hombre 90 ml
-- Combínalo con el gel de ducha para un mayor aroma
 - Una fragancia amaderada, cítrica y picante
+- Eau de Toilette para hombre 90 ml
 - Clásico, con un giro moderno
 - Para hombres de estilo duradero
+- Combínalo con el gel de ducha para un mayor aroma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EUEDEAK/?tag=tolees-21)
