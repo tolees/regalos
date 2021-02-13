@@ -28,10 +28,10 @@ Ahora mismo tienes [Kami Idea Collar  Mi Fatídico Amor  Colgante de Corazón a 
 
 🔎:
 
-- ❤ Servicio de Primera Clase ❤ 30 días de garantía de devolución del dinero por cualquier motivo; Garantía de por vida para cualquier problema de calidad.
 - ❤ Especificación ❤ Talla Colgante: 0.9 * 0.6inch; Longitud de la Cadena: 17.7 + 2inch; Peso: 5.42g / 0.19oz. Respetuoso del medio ambiente aleación de zinc chapado en oro rosa y platino. Hipoalergénico, Sin Plomo y Sin Níquel, aprobó la norma de inspección SGS. Materias primas cristalinas de Swarovski.
+- ❤ Gran Idea de Regalo ❤ Todas las joyas llegan en una caja de joyería exquisita, sin necesidad de envoltura. Es un bonito regalo para cualquier mujer en cualquier ocasión Navidad, San Valentín, Día de la Madre …
 - ❤ Inspiración ❤ Nunca he tenido este sentimiento en mi corazón, pero desde el momento en que te vi, sé que siempre estás destinado a ser mi destino. Corazon a corazon y De la mano, envejecemos juntos! Diseño de dos corazones, la superficie brillante y la exquisita cristalinas pavimentan a lo largo del perímetro exterior agregan un efecto llamativo al ítem.
 - ❤ Consejos de Joyería ❤ Por favor, úselo y evite el agua caliente, el agua de mar, el champú, la crema de ducha, los perfumes y otros líquidos corrosivos. No lo toques a menudo. Frote su joyería con toallitas húmedas para bebés y luego frote con un paño de algodón limpio y seco. Almacenar joyas por separado.
-- ❤ Gran Idea de Regalo ❤ Todas las joyas llegan en una caja de joyería exquisita, sin necesidad de envoltura. Es un bonito regalo para cualquier mujer en cualquier ocasión Navidad, San Valentín, Día de la Madre …
+- ❤ Servicio de Primera Clase ❤ 30 días de garantía de devolución del dinero por cualquier motivo; Garantía de por vida para cualquier problema de calidad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HNTTK67/?tag=tolees-21)
