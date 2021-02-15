@@ -28,10 +28,10 @@ Tienes [Guirnalda Luces Exterior Solar Tomshine 50LED 6.9m Cadena de Luces bolas
 
 ℹ️:
 
-- 【Ahorro de energía y Larga Vida】Equipado recargable 800mAh batería y cargada por energía solar, puede proporcionar iluminación de aproximadamente 10 a 12 horas por la noche una vez completamente cargada, sin necesidad de enchufes o cables, iluminación ecológica y de bajo consumo.
 - 【IP44 Impermeable 】: IP44 resistente al polvo y al agua puede soportar diferentes condiciones climáticas tanto para uso en interiores como en exteriores.
-- 【8 modos de iluminación】:Ocho tipos de modos de trabajo ajustables (combinación/En ola/secuencial/Slo glo/persiguiendo/Decoloración Lenta/ Centelleo/Constante en), perfectos para decorar su jardín, patio, fiesta, etc.
+- 【Ahorro de energía y Larga Vida】Equipado recargable 800mAh batería y cargada por energía solar, puede proporcionar iluminación de aproximadamente 10 a 12 horas por la noche una vez completamente cargada, sin necesidad de enchufes o cables, iluminación ecológica y de bajo consumo.
 - 【Servicio Postventa de Calidad】: Ofrecemos un buen servicio post-venta. Si tiene algún problema, por favor contáctenos. Vamos a resolver para usted lo antes posible.
 - 【Decoración Maravillosa】: La luz de la cadena solar consta de 50 piezas de bolas LED de excelente calidad, para una longitud total de 6.9 m, es lo suficientemente larga para cumplir con los requisitos de decoración de bricolaje para su fiesta o en el jardín.
+- 【8 modos de iluminación】:Ocho tipos de modos de trabajo ajustables (combinación/En ola/secuencial/Slo glo/persiguiendo/Decoloración Lenta/ Centelleo/Constante en), perfectos para decorar su jardín, patio, fiesta, etc.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RQQF5ZW/?tag=tolees-21)
