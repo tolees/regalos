@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07BZG6NZ9-es J.Rosée Pendientes Mujer Plata de Ley 925 Brillante"...'
 sku: 'B07BZG6NZ9-es'
-tags: [ 'navidad', ]
+tags: [ 'navidad','plata','de','ley', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

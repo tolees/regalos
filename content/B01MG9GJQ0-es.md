@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01MG9GJQ0-es SOUFEEL Abalorio Charm Pulsera de Foto Personalizado Plata...'
 sku: 'B01MG9GJQ0-es'
-tags: [ 'navidad', ]
+tags: [ 'navidad','plata','de','ley', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
