@@ -28,8 +28,8 @@ Tienes [Pandora Pendientes de aro Mujer plata - 296317CZ](https://www.amazon.es/
 
 🔎:
 
+- Ajustable: no
 - Tipo de metal: plata
 - Tipo de gema: circonita
-- Ajustable: no
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074ZRMRPT/?tag=tolees-21)
