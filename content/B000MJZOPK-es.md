@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 58.86 % en Issey Miyake - L Eau D Issey - Agua De T'
-date: 2021-02-01 01:23:29
+date: 2021-02-18 11:27:17
 image: 'https://m.media-amazon.com/images/I/31F7cmkE8oL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Issey Miyake'
 buyurl: 'https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21'
 descuento: '58.86'
-average: '45.2154736842106'
+average: '45.1606250000001'
 ---
 
 Tienes [Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador  100 ml](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21) con un 58.86 % de descuento con precio de oferta de 39.95 EUR (original: 97.1 EUR) en el siguiente enlace!
@@ -28,8 +28,12 @@ Tienes [Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador  100 ml](http
 
 ℹ️:
 
-- Tipo de producto - Agua de colonia
+- Ingredientes: Aqua, Alcohol Denat, Parfum
+- Para el cabello: Normal
+- Marca - issey miyake
+- Tipo de producto - agua de colonia
 - Producto pensado para mujeres
-- Marca - Issey Miyake
+- Nombre de la fragancia: Floral
+- Tipo de piel: Normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)

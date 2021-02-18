@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YINUO LIGHT - Juego de Regalo de Velas A al 17.84 % de rebaja'
-date: 2021-02-17 12:13:56
+date: 2021-02-18 12:32:28
 image: 'https://m.media-amazon.com/images/I/51HQzESjszL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'YINUO LIGHT'
 buyurl: 'https://www.amazon.es/dp/B089QJRT29/?tag=tolees-21'
 descuento: '17.84'
-average: '27.54'
+average: '26.815'
 ---
 
 Tienes [YINUO LIGHT - Juego de Regalo de Velas Aromáticas  8 Piezas de Velas Aromáticas para Mujeres  Alivia el Estrés y Regalo de Aromaterapia Adecuado para Cumpleaños  Día de La Madre  Día de San Valentín y Navidad](https://www.amazon.es/dp/B089QJRT29/?tag=tolees-21) con precio final de  24.64 EUR (original: 29.99 EUR) (17.84 %  de rebaja) aqui!
