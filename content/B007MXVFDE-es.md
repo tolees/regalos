@@ -28,9 +28,9 @@ Ahora mismo tienes [Marc Jacobs Daisy Eau So Fresh Eau de Toilette Vaporizador 1
 
 🔎:
 
-- Las notas olfativas principales de este producto son floral y afrutado.
 - Contiene 125 ml.
-- Este producto está indicado para mujeres.
+- Las notas olfativas principales de este producto son floral y afrutado.
 - De la marca Marc Jacobs.
+- Este producto está indicado para mujeres.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007MXVFDE/?tag=tolees-21)
