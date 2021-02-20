@@ -28,10 +28,10 @@ Ahora mismo tienes [Guirnalda de Luces LED Navidad  KEEHOM Cadena Tira Luminosa 
 
 🔎:
 
-- ☃️【Alimentación por USB 】: No necesita baterías ni pilas, se conecta directamente a una fuente de alimentación 5V, por lo que se puede usar con una batería externa, powerbank, ordenador, computadora o usar el adaptador de su móvil para conectarlo al enchufe de casa.
 - 🎁【 Atmósfera Navideña 】: Decora su casa con nuestra guirnalda de luces y lo hace sentir que la fiesta se ha aproximado o ha llegado. Estas luces son perfectas para la decoración durante los día de la Navidad.
-- 🎅【 Diseño Novedoso 】: Esta cortina de luces dispone de 20 LEDs que están “escondidas” en patrones navideños, dichos patrones son Papá Noel, muñeco de nieve, campana, calcetín de navidad, bastón de caramelo, vela, árbol navideño, etc.
-- 🎄【 Material Resistente 】: Las placas de patrones están hechas de metal, protegen las luces y al mismo tiempo resisten impactos, por lo que se puede colgar la cortina tanto en el interior como en el exterior.
+- ☃️【Alimentación por USB 】: No necesita baterías ni pilas, se conecta directamente a una fuente de alimentación 5V, por lo que se puede usar con una batería externa, powerbank, ordenador, computadora o usar el adaptador de su móvil para conectarlo al enchufe de casa.
 - 🍭【 Especificaciones 】: Longitud: 3m. Cantidad de luces: 20. Color de luces: Blanco cálido.
+- 🎄【 Material Resistente 】: Las placas de patrones están hechas de metal, protegen las luces y al mismo tiempo resisten impactos, por lo que se puede colgar la cortina tanto en el interior como en el exterior.
+- 🎅【 Diseño Novedoso 】: Esta cortina de luces dispone de 20 LEDs que están “escondidas” en patrones navideños, dichos patrones son Papá Noel, muñeco de nieve, campana, calcetín de navidad, bastón de caramelo, vela, árbol navideño, etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HRV7YCG/?tag=tolees-21)
