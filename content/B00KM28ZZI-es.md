@@ -28,10 +28,10 @@ En este momento está [Semillas Batlle - Semillas Hortícolas - Coliflor Grande 
 
 🔎:
 
-- Hojas de color verde claro erguidas y de nervios acusados
+- Forma de cultivo: Se siembra de Mayo a Agosto, según se deseen frutos más o menos tempranos, en semillero, para trasplantar al cabo de un mes ó mes y medio al marco de 70x80 cms. evitando siempre que las plantitas sufran o se endurezcan en el semillero
 - Planta de buen porte y pie corto, pella muy grande, blanca y apretada de conservación regular
 - Cosecha: a partir de 210 Días
 - Siembra: de Mayo a Agosto
-- Forma de cultivo: Se siembra de Mayo a Agosto, según se deseen frutos más o menos tempranos, en semillero, para trasplantar al cabo de un mes ó mes y medio al marco de 70x80 cms. evitando siempre que las plantitas sufran o se endurezcan en el semillero
+- Hojas de color verde claro erguidas y de nervios acusados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KM28ZZI/?tag=tolees-21)
