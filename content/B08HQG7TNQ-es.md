@@ -28,10 +28,10 @@ Ahora mismo tienes [Azhna - Juego de 10 huevos de madera para decoración del ho
 
 🔎:
 
-- Pintado a mano en Rusia
 - Lindo diseño de Navidad con feliz cara de Papá Noel.
 - Cada huevo mide 6 x 5 cm.
-- Gran recuerdo, decoración del hogar ornamento o ayuda visual para la educación.
 - Juego de 10 huevos de madera con bucles para colgar
+- Gran recuerdo, decoración del hogar ornamento o ayuda visual para la educación.
+- Pintado a mano en Rusia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HQG7TNQ/?tag=tolees-21)
