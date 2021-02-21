@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 61.83 % en MENFORSAN  Agua de Colonia Fresa para Ga'
 date: 2020-03-12 12:31:36
-image: 'https://m.media-amazon.com/images/I/31hxWz+zb4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hxWz+zb4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.0'
 
 Tienes [MENFORSAN  Agua de Colonia Fresa para Gatos - 125 ml](https://www.amazon.es/dp/B01980SEAK/?tag=tolees-21) con un 61.83 % de descuento con precio de oferta de 3.0 EUR (original: 7.86 EUR) en el siguiente enlace!
 
-[![MENFORSAN  Agua de Colonia Fresa para Ga](https://m.media-amazon.com/images/I/31hxWz+zb4L._SL200_.jpg)](https://www.amazon.es/dp/B01980SEAK/?tag=tolees-21)
+[![MENFORSAN  Agua de Colonia Fresa para Ga](https://m.media-amazon.com/images/I/31hxWz+zb4L._SL400_.jpg)](https://www.amazon.es/dp/B01980SEAK/?tag=tolees-21)
 
 ℹ️:
 

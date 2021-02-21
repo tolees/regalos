@@ -2,7 +2,7 @@
 layout: post
 title: 'LOVORDS Collar Mujer Grabado Plata de Le al 87.59 % de rebaja'
 date: 2020-04-04 14:16:37
-image: 'https://m.media-amazon.com/images/I/41zgISuM6oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zgISuM6oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.2'
 
 Tienes [LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Infinito Perla Cultivada Blanca de Agua Dulce 10mm Regalo Novia o Esposa](https://www.amazon.es/dp/B07GYHP79X/?tag=tolees-21) con precio final de  12.41 EUR (original: 99.99 EUR) (87.59 %  de rebaja) aqui!
 
-[![LOVORDS Collar Mujer Grabado Plata de Le](https://m.media-amazon.com/images/I/41zgISuM6oL._SL200_.jpg)](https://www.amazon.es/dp/B07GYHP79X/?tag=tolees-21)
+[![LOVORDS Collar Mujer Grabado Plata de Le](https://m.media-amazon.com/images/I/41zgISuM6oL._SL400_.jpg)](https://www.amazon.es/dp/B07GYHP79X/?tag=tolees-21)
 
 🔎:
 

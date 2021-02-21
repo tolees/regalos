@@ -2,7 +2,7 @@
 layout: post
 title: 'Axcer LED Zapatos Verano Ligero Transpir al 67.54 % de rebaja'
 date: 2020-08-06 14:03:54
-image: 'https://m.media-amazon.com/images/I/41a6SoepkIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a6SoepkIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Tienes [Axcer LED Zapatos Verano Ligero Transpirable Bajo 7 Colores USB Carga Luminosas Flash Deporte de Zapatillas con Luces Los Mejores Regalos para Niños Niñas Cumpleaños de Navidad Reyes Mango](https://www.amazon.es/dp/B07PWS74TK/?tag=tolees-21) con precio final de  24.99 EUR (original: 76.99 EUR) (67.54 %  de rebaja) aqui!
 
-[![Axcer LED Zapatos Verano Ligero Transpir](https://m.media-amazon.com/images/I/41a6SoepkIL._SL200_.jpg)](https://www.amazon.es/dp/B07PWS74TK/?tag=tolees-21)
+[![Axcer LED Zapatos Verano Ligero Transpir](https://m.media-amazon.com/images/I/41a6SoepkIL._SL400_.jpg)](https://www.amazon.es/dp/B07PWS74TK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'OSHINE 50unidades LED Velas Velas CR2032 al 64.60 % de descuento'
 date: 2020-03-08 07:41:21
-image: 'https://m.media-amazon.com/images/I/41FQOCYKR8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FQOCYKR8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [OSHINE 50unidades LED Velas Velas CR2032 pilas velas sin llama de iluminación eléctrica falso Vela para Hogar Navidad boda mesa regalo al aire libre cálido Luz blanca cálida](https://www.amazon.es/dp/B07VSFZDTN/?tag=tolees-21) a 16.99 EUR (original: 47.99 EUR) (64.60 %  de descuento) en el siguiente enlace!
 
-[![OSHINE 50unidades LED Velas Velas CR2032](https://m.media-amazon.com/images/I/41FQOCYKR8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VSFZDTN/?tag=tolees-21)
+[![OSHINE 50unidades LED Velas Velas CR2032](https://m.media-amazon.com/images/I/41FQOCYKR8L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VSFZDTN/?tag=tolees-21)
 
 🔎:
 

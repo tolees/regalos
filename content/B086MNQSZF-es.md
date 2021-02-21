@@ -2,7 +2,7 @@
 layout: post
 title: 'YO-HAPPY Kids Photo Use Medias  Navidad  al 50.00 % de descuento'
 date: 2020-04-20 13:02:40
-image: 'https://m.media-amazon.com/images/I/515svT8Rj0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515svT8Rj0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.52'
 
 Está [YO-HAPPY Kids Photo Use Medias  Navidad Cosplay Party Use  Suave](https://www.amazon.es/dp/B086MNQSZF/?tag=tolees-21) con 50.00 de descuento por 5.52 EUR (original: 11.04 EUR) en el siguiente enlace!
 
-[![YO-HAPPY Kids Photo Use Medias  Navidad ](https://m.media-amazon.com/images/I/515svT8Rj0L._SL200_.jpg)](https://www.amazon.es/dp/B086MNQSZF/?tag=tolees-21)
+[![YO-HAPPY Kids Photo Use Medias  Navidad ](https://m.media-amazon.com/images/I/515svT8Rj0L._SL400_.jpg)](https://www.amazon.es/dp/B086MNQSZF/?tag=tolees-21)
 
 ℹ️:
 

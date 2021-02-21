@@ -2,7 +2,7 @@
 layout: post
 title: 'amzdeal Pintura Facial con 14 Colores Pi al 50.03 % de descuento'
 date: 2020-06-16 13:35:15
-image: 'https://m.media-amazon.com/images/I/51WAx7WEolL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WAx7WEolL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.921999999999999'
 
 Está [amzdeal Pintura Facial con 14 Colores Pintura Cara para la Fiesta Navidad Kit de Pintura Maquillaje como Regalos de los niños con Polvo Brillo*2  Pigmento*14 y Pincel*2](https://www.amazon.es/dp/B07LCP56KV/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![amzdeal Pintura Facial con 14 Colores Pi](https://m.media-amazon.com/images/I/51WAx7WEolL._SL200_.jpg)](https://www.amazon.es/dp/B07LCP56KV/?tag=tolees-21)
+[![amzdeal Pintura Facial con 14 Colores Pi](https://m.media-amazon.com/images/I/51WAx7WEolL._SL400_.jpg)](https://www.amazon.es/dp/B07LCP56KV/?tag=tolees-21)
 
 ℹ️:
 

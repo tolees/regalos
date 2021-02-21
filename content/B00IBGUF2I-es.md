@@ -2,7 +2,7 @@
 layout: post
 title: 'Tuscany Silver 8.43.6544 - Cadena con co al 50.00 % de descuento'
 date: 2020-02-11 23:29:04
-image: 'https://m.media-amazon.com/images/I/31oR53d-g+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oR53d-g+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.5'
 
 Ahora mismo tienes [Tuscany Silver 8.43.6544 - Cadena con colgante de plata de ley  925/1000 ](https://www.amazon.es/dp/B00IBGUF2I/?tag=tolees-21) a 19.5 EUR (original: 39.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Tuscany Silver 8.43.6544 - Cadena con co](https://m.media-amazon.com/images/I/31oR53d-g+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00IBGUF2I/?tag=tolees-21)
+[![Tuscany Silver 8.43.6544 - Cadena con co](https://m.media-amazon.com/images/I/31oR53d-g+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00IBGUF2I/?tag=tolees-21)
 
 🔎:
 

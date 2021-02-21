@@ -2,7 +2,7 @@
 layout: post
 title: 'J.Rosée Pendientes Mujer Plata de Ley 92 al 80.05 % de rebaja'
 date: 2020-03-08 18:50:23
-image: 'https://m.media-amazon.com/images/I/51Nzd-rk1iL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Nzd-rk1iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.90666666666667'
 
 Tienes [J.Rosée Pendientes Mujer Plata de Ley 925  Regalo de San Valentín Originales](https://www.amazon.es/dp/B07RLPX4YJ/?tag=tolees-21) con precio final de  19.95 EUR (original: 99.99 EUR) (80.05 %  de rebaja) aqui!
 
-[![J.Rosée Pendientes Mujer Plata de Ley 92](https://m.media-amazon.com/images/I/51Nzd-rk1iL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RLPX4YJ/?tag=tolees-21)
+[![J.Rosée Pendientes Mujer Plata de Ley 92](https://m.media-amazon.com/images/I/51Nzd-rk1iL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RLPX4YJ/?tag=tolees-21)
 
 🔎:
 

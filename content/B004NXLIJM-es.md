@@ -2,7 +2,7 @@
 layout: post
 title: 'Donna Karan DKNY  Agua de tocador para m al 37.09 % de rebaja'
 date: 2020-02-19 13:36:10
-image: 'https://m.media-amazon.com/images/I/312-NAGiBjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312-NAGiBjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.81'
 
 Tienes [Donna Karan DKNY  Agua de tocador para mujeres - 100 ml.](https://www.amazon.es/dp/B004NXLIJM/?tag=tolees-21) con precio final de  43.72 EUR (original: 69.5 EUR) (37.09 %  de rebaja) aqui!
 
-[![Donna Karan DKNY  Agua de tocador para m](https://m.media-amazon.com/images/I/312-NAGiBjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004NXLIJM/?tag=tolees-21)
+[![Donna Karan DKNY  Agua de tocador para m](https://m.media-amazon.com/images/I/312-NAGiBjL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004NXLIJM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Coach  Agua de perfume para mujeres - 90 al 32.54 % de rebaja'
 date: 2020-05-11 16:03:25
-image: 'https://m.media-amazon.com/images/I/31qnntlLX5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qnntlLX5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Tienes [Coach  Agua de perfume para mujeres - 90 gr.](https://www.amazon.es/dp/B01JCZ9FCM/?tag=tolees-21) con precio final de  49.95 EUR (original: 74.04 EUR) (32.54 %  de rebaja) aqui!
 
-[![Coach  Agua de perfume para mujeres - 90](https://m.media-amazon.com/images/I/31qnntlLX5L._SL200_.jpg)](https://www.amazon.es/dp/B01JCZ9FCM/?tag=tolees-21)
+[![Coach  Agua de perfume para mujeres - 90](https://m.media-amazon.com/images/I/31qnntlLX5L._SL400_.jpg)](https://www.amazon.es/dp/B01JCZ9FCM/?tag=tolees-21)
 
 🔎:
 

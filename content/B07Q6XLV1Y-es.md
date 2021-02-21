@@ -2,7 +2,7 @@
 layout: post
 title: 'Amilril Collar  Collar Colgante de Coraz al 88.20 % de descuento'
 date: 2020-01-07 15:22:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.48'
 
 Está [Amilril Collar  Collar Colgante de Corazón Mujer  Plata de Ley 925  Navidad Joyas Regalos Originales](https://www.amazon.es/dp/B07Q6XLV1Y/?tag=tolees-21) con 88.20 de descuento por 12.98 EUR (original: 109.98 EUR) en el siguiente enlace!
 
-[![Amilril Collar  Collar Colgante de Coraz](https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL200_.jpg)](https://www.amazon.es/dp/B07Q6XLV1Y/?tag=tolees-21)
+[![Amilril Collar  Collar Colgante de Coraz](https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL400_.jpg)](https://www.amazon.es/dp/B07Q6XLV1Y/?tag=tolees-21)
 
 ℹ️:
 

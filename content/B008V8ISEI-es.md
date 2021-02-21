@@ -2,7 +2,7 @@
 layout: post
 title: 'Villeroy & Boch Toy s Delight "Breakfast con un 46.72 % de descuento'
 date: 2020-01-24 08:12:27
-image: 'https://m.media-amazon.com/images/I/41zv+UpMk7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zv+UpMk7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.75'
 
 En este momento está [Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio de desayuno para 2 personas  6 piezas  Porcelana Premium  Blanco/Rojo](https://www.amazon.es/dp/B008V8ISEI/?tag=tolees-21) a 52.75 EUR (original: 99.0 EUR) (46.72 %  de descuento) en el siguiente enlace!
 
-[![Villeroy & Boch Toy s Delight "Breakfast](https://m.media-amazon.com/images/I/41zv+UpMk7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B008V8ISEI/?tag=tolees-21)
+[![Villeroy & Boch Toy s Delight "Breakfast](https://m.media-amazon.com/images/I/41zv+UpMk7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B008V8ISEI/?tag=tolees-21)
 
 🔎:
 

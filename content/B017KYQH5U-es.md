@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.42 % en Heno De Pravia Original Agua de Colonia '
 date: 2020-06-28 14:37:21
-image: 'https://m.media-amazon.com/images/I/41bMSgYVKRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bMSgYVKRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.25'
 
 Tienes [Heno De Pravia Original Agua de Colonia - 650 ml](https://www.amazon.es/dp/B017KYQH5U/?tag=tolees-21) con un 27.42 % de descuento con precio de oferta de 2.25 EUR (original: 3.1 EUR) en el siguiente enlace!
 
-[![Heno De Pravia Original Agua de Colonia ](https://m.media-amazon.com/images/I/41bMSgYVKRL._SL200_.jpg)](https://www.amazon.es/dp/B017KYQH5U/?tag=tolees-21)
+[![Heno De Pravia Original Agua de Colonia ](https://m.media-amazon.com/images/I/41bMSgYVKRL._SL400_.jpg)](https://www.amazon.es/dp/B017KYQH5U/?tag=tolees-21)
 
 ℹ️:
 

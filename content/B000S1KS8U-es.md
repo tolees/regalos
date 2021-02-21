@@ -2,7 +2,7 @@
 layout: post
 title: 'Tuscany Silver - Pendientes para mujer c con un 75.00 % de descuento'
 date: 2020-05-10 12:06:32
-image: 'https://m.media-amazon.com/images/I/31bEMx0BxQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bEMx0BxQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.263333333333334'
 
 En este momento está [Tuscany Silver - Pendientes para mujer con plata de ley  925/1000 ](https://www.amazon.es/dp/B000S1KS8U/?tag=tolees-21) a 9.75 EUR (original: 39.0 EUR) (75.00 %  de descuento) en el siguiente enlace!
 
-[![Tuscany Silver - Pendientes para mujer c](https://m.media-amazon.com/images/I/31bEMx0BxQL._SL200_.jpg)](https://www.amazon.es/dp/B000S1KS8U/?tag=tolees-21)
+[![Tuscany Silver - Pendientes para mujer c](https://m.media-amazon.com/images/I/31bEMx0BxQL._SL400_.jpg)](https://www.amazon.es/dp/B000S1KS8U/?tag=tolees-21)
 
 🔎:
 

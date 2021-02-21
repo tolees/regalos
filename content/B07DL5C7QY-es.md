@@ -2,7 +2,7 @@
 layout: post
 title: 'J.Rosée Mujer Colgante Collar Plata de L al 93.00 % de descuento'
 date: 2020-02-21 13:04:36
-image: 'https://m.media-amazon.com/images/I/51wYOyEZ0SL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wYOyEZ0SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.209999999999997'
 
 Ahora mismo tienes [J.Rosée Mujer Colgante Collar Plata de Ley 925 Brillante Circonita con Hermosa Caja Regalos Originales Danza en el mar](https://www.amazon.es/dp/B07DL5C7QY/?tag=tolees-21) a 13.99 EUR (original: 199.99 EUR) (93.00 %  de descuento) en el siguiente enlace!
 
-[![J.Rosée Mujer Colgante Collar Plata de L](https://m.media-amazon.com/images/I/51wYOyEZ0SL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DL5C7QY/?tag=tolees-21)
+[![J.Rosée Mujer Colgante Collar Plata de L](https://m.media-amazon.com/images/I/51wYOyEZ0SL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DL5C7QY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Crystals&Stones Mujer plata de ley 925 p al 90.00 % de descuento'
 date: 2020-06-23 15:45:55
-image: 'https://m.media-amazon.com/images/I/31DywhMsejL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DywhMsejL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.75'
 
 Ahora mismo tienes [Crystals&Stones Mujer plata de ley 925 plata](https://www.amazon.es/dp/B07TFNH17X/?tag=tolees-21) a 5.75 EUR (original: 57.49 EUR) (90.00 %  de descuento) en el siguiente enlace!
 
-[![Crystals&Stones Mujer plata de ley 925 p](https://m.media-amazon.com/images/I/31DywhMsejL._SL200_.jpg)](https://www.amazon.es/dp/B07TFNH17X/?tag=tolees-21)
+[![Crystals&Stones Mujer plata de ley 925 p](https://m.media-amazon.com/images/I/31DywhMsejL._SL400_.jpg)](https://www.amazon.es/dp/B07TFNH17X/?tag=tolees-21)
 
 🔎:
 

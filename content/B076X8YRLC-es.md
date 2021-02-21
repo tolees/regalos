@@ -2,7 +2,7 @@
 layout: post
 title: 'Cacharel  Agua de perfume para mujeres - con un 29.73 % de descuento'
 date: 2020-05-21 08:46:46
-image: 'https://m.media-amazon.com/images/I/41f08AwAsGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f08AwAsGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.95'
 
 En este momento está [Cacharel  Agua de perfume para mujeres - 30 ml.](https://www.amazon.es/dp/B076X8YRLC/?tag=tolees-21) a 16.95 EUR (original: 24.12 EUR) (29.73 %  de descuento) en el siguiente enlace!
 
-[![Cacharel  Agua de perfume para mujeres -](https://m.media-amazon.com/images/I/41f08AwAsGL._SL200_.jpg)](https://www.amazon.es/dp/B076X8YRLC/?tag=tolees-21)
+[![Cacharel  Agua de perfume para mujeres -](https://m.media-amazon.com/images/I/41f08AwAsGL._SL400_.jpg)](https://www.amazon.es/dp/B076X8YRLC/?tag=tolees-21)
 
 🔎:
 

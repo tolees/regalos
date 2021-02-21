@@ -2,7 +2,7 @@
 layout: post
 title: 'Carolina Herrera 212 Men Agua de Tocador al 54.02 % de rebaja'
 date: 2020-05-23 18:42:08
-image: 'https://m.media-amazon.com/images/I/31rik54164L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rik54164L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.9'
 
 Tienes [Carolina Herrera 212 Men Agua de Tocador - 50 ml](https://www.amazon.es/dp/B0009OAHKK/?tag=tolees-21) con precio final de  26.9 EUR (original: 58.5 EUR) (54.02 %  de rebaja) aqui!
 
-[![Carolina Herrera 212 Men Agua de Tocador](https://m.media-amazon.com/images/I/31rik54164L._SL200_.jpg)](https://www.amazon.es/dp/B0009OAHKK/?tag=tolees-21)
+[![Carolina Herrera 212 Men Agua de Tocador](https://m.media-amazon.com/images/I/31rik54164L._SL400_.jpg)](https://www.amazon.es/dp/B0009OAHKK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Amilril Collar  árbol de la Vida Colgant al 82.74 % de rebaja'
 date: 2020-03-14 17:05:24
-image: 'https://m.media-amazon.com/images/I/419yKHTmGGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419yKHTmGGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.98'
 
 Tienes [Amilril Collar  árbol de la Vida Colgante  Plata de Ley 925 Moda Joyería  Regalo para Madre Originales](https://www.amazon.es/dp/B07Q82C9LS/?tag=tolees-21) con precio final de  18.98 EUR (original: 109.98 EUR) (82.74 %  de rebaja) aqui!
 
-[![Amilril Collar  árbol de la Vida Colgant](https://m.media-amazon.com/images/I/419yKHTmGGL._SL200_.jpg)](https://www.amazon.es/dp/B07Q82C9LS/?tag=tolees-21)
+[![Amilril Collar  árbol de la Vida Colgant](https://m.media-amazon.com/images/I/419yKHTmGGL._SL400_.jpg)](https://www.amazon.es/dp/B07Q82C9LS/?tag=tolees-21)
 
 🔎:
 

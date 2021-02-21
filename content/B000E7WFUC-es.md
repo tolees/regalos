@@ -2,7 +2,7 @@
 layout: post
 title: 'ESTÉE LAUDER WHITE LINEN agua de perfume al 53.52 % de descuento'
 date: 2020-01-13 17:41:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.53333333333333'
 
 Ahora mismo tienes [ESTÉE LAUDER WHITE LINEN agua de perfume vaporizador 60 ml](https://www.amazon.es/dp/B000E7WFUC/?tag=tolees-21) a 33 EUR (original: 71 EUR) (53.52 %  de descuento) en el siguiente enlace!
 
-[![ESTÉE LAUDER WHITE LINEN agua de perfume](https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL200_.jpg)](https://www.amazon.es/dp/B000E7WFUC/?tag=tolees-21)
+[![ESTÉE LAUDER WHITE LINEN agua de perfume](https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL400_.jpg)](https://www.amazon.es/dp/B000E7WFUC/?tag=tolees-21)
 
 🔎:
 

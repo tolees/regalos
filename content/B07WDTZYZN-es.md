@@ -2,7 +2,7 @@
 layout: post
 title: 'Proyector Navidad LED  FOCHEA Luces de P al 16.68 % de descuento'
 date: 2020-03-16 22:02:08
-image: 'https://m.media-amazon.com/images/I/61sLG8nVjjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61sLG8nVjjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.97'
 
 Ahora mismo tienes [Proyector Navidad LED  FOCHEA Luces de Proyector Interior y Exterior con 16 Diapositivas Reemplazables y Control Remoto RF para Halloween  Navidad  Valentín  Fiesta  Cumpleaños](https://www.amazon.es/dp/B07WDTZYZN/?tag=tolees-21) a 29.97 EUR (original: 35.97 EUR) (16.68 %  de descuento) en el siguiente enlace!
 
-[![Proyector Navidad LED  FOCHEA Luces de P](https://m.media-amazon.com/images/I/61sLG8nVjjL._SL200_.jpg)](https://www.amazon.es/dp/B07WDTZYZN/?tag=tolees-21)
+[![Proyector Navidad LED  FOCHEA Luces de P](https://m.media-amazon.com/images/I/61sLG8nVjjL._SL400_.jpg)](https://www.amazon.es/dp/B07WDTZYZN/?tag=tolees-21)
 
 🔎:
 

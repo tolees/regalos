@@ -2,7 +2,7 @@
 layout: post
 title: 'Versace Crystal Noir Agua de Tocador Vap al 48.95 % de descuento'
 date: 2020-03-31 12:04:54
-image: 'https://m.media-amazon.com/images/I/41frpRM6lvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41frpRM6lvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Está [Versace Crystal Noir Agua de Tocador Vaporizador - 90 ml](https://www.amazon.es/dp/B000GIL1UE/?tag=tolees-21) con 48.95 de descuento por 49.95 EUR (original: 97.84 EUR) en el siguiente enlace!
 
-[![Versace Crystal Noir Agua de Tocador Vap](https://m.media-amazon.com/images/I/41frpRM6lvL._SL200_.jpg)](https://www.amazon.es/dp/B000GIL1UE/?tag=tolees-21)
+[![Versace Crystal Noir Agua de Tocador Vap](https://m.media-amazon.com/images/I/41frpRM6lvL._SL400_.jpg)](https://www.amazon.es/dp/B000GIL1UE/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Remix Collection  Strand Infin al 29.06 % de rebaja'
 date: 2020-03-02 13:05:32
-image: 'https://m.media-amazon.com/images/I/41vir-gb2DL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vir-gb2DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.95'
 
 Tienes [Swarovski Remix Collection  Strand Infinity  baño en Tono Oro Rosa  Cristal Negro  para Mujer](https://www.amazon.es/dp/B074KKTXGT/?tag=tolees-21) con precio final de  48.95 EUR (original: 69.0 EUR) (29.06 %  de rebaja) aqui!
 
-[![Swarovski Remix Collection  Strand Infin](https://m.media-amazon.com/images/I/41vir-gb2DL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B074KKTXGT/?tag=tolees-21)
+[![Swarovski Remix Collection  Strand Infin](https://m.media-amazon.com/images/I/41vir-gb2DL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B074KKTXGT/?tag=tolees-21)
 
 🔎:
 

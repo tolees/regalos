@@ -2,7 +2,7 @@
 layout: post
 title: 'Acqua Di Parma Magnolia Nobile Agua de P al 22.69 % de descuento'
 date: 2020-08-30 16:14:15
-image: 'https://m.media-amazon.com/images/I/51YTyUrIaNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YTyUrIaNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.05'
 
 Está [Acqua Di Parma Magnolia Nobile Agua de Perfume - 50 ml](https://www.amazon.es/dp/B002RBS26Y/?tag=tolees-21) con 22.69 de descuento por 54.05 EUR (original: 69.91 EUR) en el siguiente enlace!
 
-[![Acqua Di Parma Magnolia Nobile Agua de P](https://m.media-amazon.com/images/I/51YTyUrIaNL._SL200_.jpg)](https://www.amazon.es/dp/B002RBS26Y/?tag=tolees-21)
+[![Acqua Di Parma Magnolia Nobile Agua de P](https://m.media-amazon.com/images/I/51YTyUrIaNL._SL400_.jpg)](https://www.amazon.es/dp/B002RBS26Y/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Thomas Sabo Colgante Charm con Cierre pa al 51.02 % de descuento'
 date: 2020-06-27 19:20:45
-image: 'https://m.media-amazon.com/images/I/41VlGnmb9VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VlGnmb9VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.0'
 
 Ahora mismo tienes [Thomas Sabo Colgante Charm con Cierre para Mujer " Vintage Mano"  Plata de Ley 925  Plateado](https://www.amazon.es/dp/B07F7PVRGH/?tag=tolees-21) a 48.0 EUR (original: 98.0 EUR) (51.02 %  de descuento) en el siguiente enlace!
 
-[![Thomas Sabo Colgante Charm con Cierre pa](https://m.media-amazon.com/images/I/41VlGnmb9VL._SL200_.jpg)](https://www.amazon.es/dp/B07F7PVRGH/?tag=tolees-21)
+[![Thomas Sabo Colgante Charm con Cierre pa](https://m.media-amazon.com/images/I/41VlGnmb9VL._SL400_.jpg)](https://www.amazon.es/dp/B07F7PVRGH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'DCC FIONNI Collar Mujer Corazon Colgante con un 23.33 % de descuento'
 date: 2020-04-05 08:44:24
-image: 'https://m.media-amazon.com/images/I/41b8fWoqmBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b8fWoqmBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.0'
 
 En este momento está [DCC FIONNI Collar Mujer Corazon Colgante Plata de Ley 925 Joyeria Flores Colgante Collares Personalizados con Caja de Regalo Mama Aniversario Cumpleaños](https://www.amazon.es/dp/B083ZYBXFS/?tag=tolees-21) a 23.0 EUR (original: 30.0 EUR) (23.33 %  de descuento) en el siguiente enlace!
 
-[![DCC FIONNI Collar Mujer Corazon Colgante](https://m.media-amazon.com/images/I/41b8fWoqmBL._SL200_.jpg)](https://www.amazon.es/dp/B083ZYBXFS/?tag=tolees-21)
+[![DCC FIONNI Collar Mujer Corazon Colgante](https://m.media-amazon.com/images/I/41b8fWoqmBL._SL400_.jpg)](https://www.amazon.es/dp/B083ZYBXFS/?tag=tolees-21)
 
 🔎:
 

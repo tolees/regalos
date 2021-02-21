@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Pendientes Magic  blanco  baño al 22.16 % de rebaja'
 date: 2020-09-23 19:11:42
-image: 'https://m.media-amazon.com/images/I/31qY+39Y98L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qY+39Y98L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.49'
 
 Tienes [Swarovski Pendientes Magic  blanco  baño de rodio](https://www.amazon.es/dp/B07DQRT4XC/?tag=tolees-21) con precio final de  61.49 EUR (original: 79.0 EUR) (22.16 %  de rebaja) aqui!
 
-[![Swarovski Pendientes Magic  blanco  baño](https://m.media-amazon.com/images/I/31qY+39Y98L._SL200_.jpg)](https://www.amazon.es/dp/B07DQRT4XC/?tag=tolees-21)
+[![Swarovski Pendientes Magic  blanco  baño](https://m.media-amazon.com/images/I/31qY+39Y98L._SL400_.jpg)](https://www.amazon.es/dp/B07DQRT4XC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Cortina de Luces  Luz Cadena  Luz de Cor al 51.23 % de rebaja'
 date: 2020-09-19 19:40:33
-image: 'https://m.media-amazon.com/images/I/51s0og4tjYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51s0og4tjYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [Cortina de Luces  Luz Cadena  Luz de Cortina  LED Guirnaldas luminosas  Cadena De Luces  8 Modos de Luz Perfecto para Decoración de Navidad  Festival Fiestas  Casa Jardín Boda  3*3m Blanco Cálido](https://www.amazon.es/dp/B07WNL4HGQ/?tag=tolees-21) con precio final de  19.99 EUR (original: 40.99 EUR) (51.23 %  de rebaja) aqui!
 
-[![Cortina de Luces  Luz Cadena  Luz de Cor](https://m.media-amazon.com/images/I/51s0og4tjYL._SL200_.jpg)](https://www.amazon.es/dp/B07WNL4HGQ/?tag=tolees-21)
+[![Cortina de Luces  Luz Cadena  Luz de Cor](https://m.media-amazon.com/images/I/51s0og4tjYL._SL400_.jpg)](https://www.amazon.es/dp/B07WNL4HGQ/?tag=tolees-21)
 
 🔎:
 

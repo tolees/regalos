@@ -2,7 +2,7 @@
 layout: post
 title: 'Victorio & Lucchino Nº2 Agua de Colonia  con un 19.09 % de descuento'
 date: 2020-07-06 12:30:26
-image: 'https://m.media-amazon.com/images/I/41l04bdXeJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l04bdXeJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.799999999999999'
 
 En este momento está [Victorio & Lucchino Nº2 Agua de Colonia - 150 ml](https://www.amazon.es/dp/B018XDB8II/?tag=tolees-21) a 9.75 EUR (original: 12.05 EUR) (19.09 %  de descuento) en el siguiente enlace!
 
-[![Victorio & Lucchino Nº2 Agua de Colonia ](https://m.media-amazon.com/images/I/41l04bdXeJL._SL200_.jpg)](https://www.amazon.es/dp/B018XDB8II/?tag=tolees-21)
+[![Victorio & Lucchino Nº2 Agua de Colonia ](https://m.media-amazon.com/images/I/41l04bdXeJL._SL400_.jpg)](https://www.amazon.es/dp/B018XDB8II/?tag=tolees-21)
 
 🔎:
 

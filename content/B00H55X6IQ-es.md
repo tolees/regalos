@@ -2,7 +2,7 @@
 layout: post
 title: 'CLGarden LEDKB200 Cerezo de LED en 180 c al 17.87 % de descuento'
 date: 2020-01-15 18:16:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51v7GuwOfRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51v7GuwOfRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.95'
 
 Está [CLGarden LEDKB200 Cerezo de LED en 180 cm de altura con 200 hermosas flores de cerezo frío blanco  árbol la decoración de navidad](https://www.amazon.es/dp/B00H55X6IQ/?tag=tolees-21) con 17.87 de descuento por 45.95 EUR (original: 55.95 EUR) en el siguiente enlace!
 
-[![CLGarden LEDKB200 Cerezo de LED en 180 c](https://images-eu.ssl-images-amazon.com/images/I/51v7GuwOfRL._SL200_.jpg)](https://www.amazon.es/dp/B00H55X6IQ/?tag=tolees-21)
+[![CLGarden LEDKB200 Cerezo de LED en 180 c](https://images-eu.ssl-images-amazon.com/images/I/51v7GuwOfRL._SL400_.jpg)](https://www.amazon.es/dp/B00H55X6IQ/?tag=tolees-21)
 
 ℹ️:
 

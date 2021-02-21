@@ -2,7 +2,7 @@
 layout: post
 title: 'Burberry My Burberry Eau De Toilette 50M con un 54.33 % de descuento'
 date: 2020-08-22 22:45:30
-image: 'https://m.media-amazon.com/images/I/41eLTDNA3oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eLTDNA3oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.9035'
 
 En este momento está [Burberry My Burberry Eau De Toilette 50Ml Vapo.](https://www.amazon.es/dp/B00XU8KIVA/?tag=tolees-21) a 31.51 EUR (original: 69.0 EUR) (54.33 %  de descuento) en el siguiente enlace!
 
-[![Burberry My Burberry Eau De Toilette 50M](https://m.media-amazon.com/images/I/41eLTDNA3oL._SL200_.jpg)](https://www.amazon.es/dp/B00XU8KIVA/?tag=tolees-21)
+[![Burberry My Burberry Eau De Toilette 50M](https://m.media-amazon.com/images/I/41eLTDNA3oL._SL400_.jpg)](https://www.amazon.es/dp/B00XU8KIVA/?tag=tolees-21)
 
 🔎:
 

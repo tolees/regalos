@@ -2,7 +2,7 @@
 layout: post
 title: 'Thomas Sabo - Pulsera con colgante de Mu al 17.93 % de descuento'
 date: 2020-09-17 16:06:06
-image: 'https://m.media-amazon.com/images/I/41-PwTK9dIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-PwTK9dIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.8'
 
 Está [Thomas Sabo - Pulsera con colgante de Mujer  Plata de Ley 925  Plateado](https://www.amazon.es/dp/B074DHV1NT/?tag=tolees-21) con 17.93 de descuento por 23.8 EUR (original: 29.0 EUR) en el siguiente enlace!
 
-[![Thomas Sabo - Pulsera con colgante de Mu](https://m.media-amazon.com/images/I/41-PwTK9dIL._SL200_.jpg)](https://www.amazon.es/dp/B074DHV1NT/?tag=tolees-21)
+[![Thomas Sabo - Pulsera con colgante de Mu](https://m.media-amazon.com/images/I/41-PwTK9dIL._SL400_.jpg)](https://www.amazon.es/dp/B074DHV1NT/?tag=tolees-21)
 
 ℹ️:
 

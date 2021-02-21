@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Anillo Attract  Blanco  Baño d con un 31.49 % de descuento'
 date: 2020-08-19 17:41:07
-image: 'https://m.media-amazon.com/images/I/21Ng93DTqdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Ng93DTqdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.52'
 
 En este momento está [Swarovski Anillo Attract  Blanco  Baño de Rodio](https://www.amazon.es/dp/B078SBXTND/?tag=tolees-21) a 54.12 EUR (original: 79.0 EUR) (31.49 %  de descuento) en el siguiente enlace!
 
-[![Swarovski Anillo Attract  Blanco  Baño d](https://m.media-amazon.com/images/I/21Ng93DTqdL._SL200_.jpg)](https://www.amazon.es/dp/B078SBXTND/?tag=tolees-21)
+[![Swarovski Anillo Attract  Blanco  Baño d](https://m.media-amazon.com/images/I/21Ng93DTqdL._SL400_.jpg)](https://www.amazon.es/dp/B078SBXTND/?tag=tolees-21)
 
 🔎:
 

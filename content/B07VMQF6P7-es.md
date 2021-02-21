@@ -2,7 +2,7 @@
 layout: post
 title: 'Traje de la Casa de Papel con Mascara Mo al 53.68 % de descuento'
 date: 2020-01-27 16:35:37
-image: 'https://m.media-amazon.com/images/I/41lroYcI+zL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lroYcI+zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.89'
 
 Ahora mismo tienes [Traje de la Casa de Papel con Mascara Mono Cosplay Trajes de Adultos Niños Careta Disfraz Carnaval Navidad Halloween Halloween](https://www.amazon.es/dp/B07VMQF6P7/?tag=tolees-21) a 13.89 EUR (original: 29.99 EUR) (53.68 %  de descuento) en el siguiente enlace!
 
-[![Traje de la Casa de Papel con Mascara Mo](https://m.media-amazon.com/images/I/41lroYcI+zL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VMQF6P7/?tag=tolees-21)
+[![Traje de la Casa de Papel con Mascara Mo](https://m.media-amazon.com/images/I/41lroYcI+zL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VMQF6P7/?tag=tolees-21)
 
 🔎:
 

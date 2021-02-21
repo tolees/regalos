@@ -2,7 +2,7 @@
 layout: post
 title: 'Adolfo Dominguez  Agua de colonia para h al 16.11 % de descuento'
 date: 2020-09-14 20:44:20
-image: 'https://m.media-amazon.com/images/I/41jZn5AP-iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jZn5AP-iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.016666666666666'
 
 Ahora mismo tienes [Adolfo Dominguez  Agua de colonia para hombres - 60 ml.](https://www.amazon.es/dp/B07F2K7TDF/?tag=tolees-21) a 15.05 EUR (original: 17.94 EUR) (16.11 %  de descuento) en el siguiente enlace!
 
-[![Adolfo Dominguez  Agua de colonia para h](https://m.media-amazon.com/images/I/41jZn5AP-iL._SL200_.jpg)](https://www.amazon.es/dp/B07F2K7TDF/?tag=tolees-21)
+[![Adolfo Dominguez  Agua de colonia para h](https://m.media-amazon.com/images/I/41jZn5AP-iL._SL400_.jpg)](https://www.amazon.es/dp/B07F2K7TDF/?tag=tolees-21)
 
 🔎:
 

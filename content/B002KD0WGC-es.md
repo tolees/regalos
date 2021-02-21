@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.28 % en Paco Rabanne Ultraviolet Agua de perfume'
 date: 2020-01-25 11:38:48
-image: 'https://m.media-amazon.com/images/I/41P9d5EpBXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P9d5EpBXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.96'
 
 Tienes [Paco Rabanne Ultraviolet Agua de perfume Vaporizador 50 ml](https://www.amazon.es/dp/B002KD0WGC/?tag=tolees-21) con un 36.28 % de descuento con precio de oferta de 43.97 EUR (original: 69.0 EUR) en el siguiente enlace!
 
-[![Paco Rabanne Ultraviolet Agua de perfume](https://m.media-amazon.com/images/I/41P9d5EpBXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B002KD0WGC/?tag=tolees-21)
+[![Paco Rabanne Ultraviolet Agua de perfume](https://m.media-amazon.com/images/I/41P9d5EpBXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B002KD0WGC/?tag=tolees-21)
 
 ℹ️:
 

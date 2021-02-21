@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Uefa Champions Edition Eau de Toi al 36.80 % de descuento'
 date: 2020-06-14 08:10:36
-image: 'https://m.media-amazon.com/images/I/51pi8lLKC3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pi8lLKC3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.39375'
 
 Ahora mismo tienes [Adidas Uefa Champions Edition Eau de Toilette para Hombre -  100 ml.](https://www.amazon.es/dp/B0731Q7VDQ/?tag=tolees-21) a 7.9 EUR (original: 12.5 EUR) (36.80 %  de descuento) en el siguiente enlace!
 
-[![Adidas Uefa Champions Edition Eau de Toi](https://m.media-amazon.com/images/I/51pi8lLKC3L._SL200_.jpg)](https://www.amazon.es/dp/B0731Q7VDQ/?tag=tolees-21)
+[![Adidas Uefa Champions Edition Eau de Toi](https://m.media-amazon.com/images/I/51pi8lLKC3L._SL400_.jpg)](https://www.amazon.es/dp/B0731Q7VDQ/?tag=tolees-21)
 
 🔎:
 

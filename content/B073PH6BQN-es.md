@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Colgante Zodiac  Tauro  Lila   al 50.00 % de descuento'
 date: 2020-08-20 08:11:13
-image: 'https://m.media-amazon.com/images/I/31gYjWADeBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gYjWADeBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.5'
 
 Está [Swarovski Colgante Zodiac  Tauro  Lila  de Mujer  Baño de Rodio](https://www.amazon.es/dp/B073PH6BQN/?tag=tolees-21) con 50.00 de descuento por 39.5 EUR (original: 79.0 EUR) en el siguiente enlace!
 
-[![Swarovski Colgante Zodiac  Tauro  Lila  ](https://m.media-amazon.com/images/I/31gYjWADeBL._SL200_.jpg)](https://www.amazon.es/dp/B073PH6BQN/?tag=tolees-21)
+[![Swarovski Colgante Zodiac  Tauro  Lila  ](https://m.media-amazon.com/images/I/31gYjWADeBL._SL400_.jpg)](https://www.amazon.es/dp/B073PH6BQN/?tag=tolees-21)
 
 ℹ️:
 

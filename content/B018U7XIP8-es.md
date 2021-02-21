@@ -2,7 +2,7 @@
 layout: post
 title: 'LE Cortina de Luces LED con Enchufe 3x3m con un 22.74 % de descuento'
 date: 2020-09-02 00:40:37
-image: 'https://m.media-amazon.com/images/I/61SepV3CopL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61SepV3CopL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.49'
 
 En este momento está [LE Cortina de Luces LED con Enchufe 3x3m 306 LED  Luz Decorativa Blanco Cálido  Impermeable para a Interior y Exterior  8 Modos Luz  Cadena Luces para Fiestas  Bodas  Jardin  Navidad  Aniversario  etc](https://www.amazon.es/dp/B018U7XIP8/?tag=tolees-21) a 16.99 EUR (original: 21.99 EUR) (22.74 %  de descuento) en el siguiente enlace!
 
-[![LE Cortina de Luces LED con Enchufe 3x3m](https://m.media-amazon.com/images/I/61SepV3CopL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B018U7XIP8/?tag=tolees-21)
+[![LE Cortina de Luces LED con Enchufe 3x3m](https://m.media-amazon.com/images/I/61SepV3CopL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B018U7XIP8/?tag=tolees-21)
 
 🔎:
 

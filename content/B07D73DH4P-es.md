@@ -2,7 +2,7 @@
 layout: post
 title: 'Pendientes mujer plata de ley 925 pendie al 50.03 % de rebaja'
 date: 2020-10-08 19:30:41
-image: 'https://m.media-amazon.com/images/I/41qrjlWWcfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qrjlWWcfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [Pendientes mujer plata de ley 925 pendientes largos con colgantes de bola de 10mm de cristal joyería de moda regalos para mujeres y niñas](https://www.amazon.es/dp/B07D73DH4P/?tag=tolees-21) con precio final de  9.99 EUR (original: 19.99 EUR) (50.03 %  de rebaja) aqui!
 
-[![Pendientes mujer plata de ley 925 pendie](https://m.media-amazon.com/images/I/41qrjlWWcfL._SL200_.jpg)](https://www.amazon.es/dp/B07D73DH4P/?tag=tolees-21)
+[![Pendientes mujer plata de ley 925 pendie](https://m.media-amazon.com/images/I/41qrjlWWcfL._SL400_.jpg)](https://www.amazon.es/dp/B07D73DH4P/?tag=tolees-21)
 
 🔎:
 

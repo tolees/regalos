@@ -2,7 +2,7 @@
 layout: post
 title: 'Estee Lauder 56889 - Agua de perfume al 33.61 % de rebaja'
 date: 2020-09-11 18:39:24
-image: 'https://m.media-amazon.com/images/I/31swLAmhAEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31swLAmhAEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.970000000000006'
 
 Tienes [Estee Lauder 56889 - Agua de perfume](https://www.amazon.es/dp/B00ELS9ZUI/?tag=tolees-21) con precio final de  65.73 EUR (original: 99.0 EUR) (33.61 %  de rebaja) aqui!
 
-[![Estee Lauder 56889 - Agua de perfume](https://m.media-amazon.com/images/I/31swLAmhAEL._SL200_.jpg)](https://www.amazon.es/dp/B00ELS9ZUI/?tag=tolees-21)
+[![Estee Lauder 56889 - Agua de perfume](https://m.media-amazon.com/images/I/31swLAmhAEL._SL400_.jpg)](https://www.amazon.es/dp/B00ELS9ZUI/?tag=tolees-21)
 
 🔎:
 

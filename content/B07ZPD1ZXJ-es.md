@@ -2,7 +2,7 @@
 layout: post
 title: 'Westend - Zapatillas de Navidad para Hom al 30.96 % de descuento'
 date: 2020-04-28 13:04:47
-image: 'https://m.media-amazon.com/images/I/41-AmXorAnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-AmXorAnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.566666666666666'
 
 Está [Westend - Zapatillas de Navidad para Hombre  patrón nórdico](https://www.amazon.es/dp/B07ZPD1ZXJ/?tag=tolees-21) con 30.96 de descuento por 11.62 EUR (original: 16.83 EUR) en el siguiente enlace!
 
-[![Westend - Zapatillas de Navidad para Hom](https://m.media-amazon.com/images/I/41-AmXorAnL._SL200_.jpg)](https://www.amazon.es/dp/B07ZPD1ZXJ/?tag=tolees-21)
+[![Westend - Zapatillas de Navidad para Hom](https://m.media-amazon.com/images/I/41-AmXorAnL._SL400_.jpg)](https://www.amazon.es/dp/B07ZPD1ZXJ/?tag=tolees-21)
 
 ℹ️:
 

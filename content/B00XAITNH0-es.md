@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.65 % en Poseidon The Black Eau de Toilette para '
 date: 2020-07-02 16:45:13
-image: 'https://m.media-amazon.com/images/I/41Z8Vr-s29L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z8Vr-s29L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.017272727272724'
 
 Tienes [Poseidon The Black Eau de Toilette para Hombre - 150 ML](https://www.amazon.es/dp/B00XAITNH0/?tag=tolees-21) con un 31.65 % de descuento con precio de oferta de 10.95 EUR (original: 16.02 EUR) en el siguiente enlace!
 
-[![Poseidon The Black Eau de Toilette para ](https://m.media-amazon.com/images/I/41Z8Vr-s29L._SL200_.jpg)](https://www.amazon.es/dp/B00XAITNH0/?tag=tolees-21)
+[![Poseidon The Black Eau de Toilette para ](https://m.media-amazon.com/images/I/41Z8Vr-s29L._SL400_.jpg)](https://www.amazon.es/dp/B00XAITNH0/?tag=tolees-21)
 
 ℹ️:
 

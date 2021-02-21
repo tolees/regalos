@@ -2,7 +2,7 @@
 layout: post
 title: 'dPois Disfraz Princesa para Niña Bebé Ve al 35.02 % de descuento'
 date: 2020-08-17 20:39:23
-image: 'https://m.media-amazon.com/images/I/41qI0n-PVFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qI0n-PVFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Ahora mismo tienes [dPois Disfraz Princesa para Niña Bebé Vestido Princesa Tutú Diadema Lunares Falda Lentejuelas Traje Infantil de Cumpleaños Fiesta Navidad Cosplay Rosa 2-3 Años](https://www.amazon.es/dp/B07KXFT9X2/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
 
-[![dPois Disfraz Princesa para Niña Bebé Ve](https://m.media-amazon.com/images/I/41qI0n-PVFL._SL200_.jpg)](https://www.amazon.es/dp/B07KXFT9X2/?tag=tolees-21)
+[![dPois Disfraz Princesa para Niña Bebé Ve](https://m.media-amazon.com/images/I/41qI0n-PVFL._SL400_.jpg)](https://www.amazon.es/dp/B07KXFT9X2/?tag=tolees-21)
 
 🔎:
 

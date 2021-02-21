@@ -2,7 +2,7 @@
 layout: post
 title: 'Boucheron Quatre Agua de Perfume - 100 m al 41.22 % de descuento'
 date: 2020-08-10 13:39:10
-image: 'https://m.media-amazon.com/images/I/414afV1clkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414afV1clkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.67'
 
 Ahora mismo tienes [Boucheron Quatre Agua de Perfume - 100 ml](https://www.amazon.es/dp/B00TXSA6R2/?tag=tolees-21) a 36.5 EUR (original: 62.1 EUR) (41.22 %  de descuento) en el siguiente enlace!
 
-[![Boucheron Quatre Agua de Perfume - 100 m](https://m.media-amazon.com/images/I/414afV1clkL._SL200_.jpg)](https://www.amazon.es/dp/B00TXSA6R2/?tag=tolees-21)
+[![Boucheron Quatre Agua de Perfume - 100 m](https://m.media-amazon.com/images/I/414afV1clkL._SL400_.jpg)](https://www.amazon.es/dp/B00TXSA6R2/?tag=tolees-21)
 
 🔎:
 

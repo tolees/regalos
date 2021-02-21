@@ -2,7 +2,7 @@
 layout: post
 title: 'BAMOER   Plata de ley  925/1000  al 50.53 % de descuento'
 date: 2020-07-14 11:32:40
-image: 'https://m.media-amazon.com/images/I/41Kw2JR+rUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Kw2JR+rUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.445'
 
 Está [BAMOER   Plata de ley  925/1000 ](https://www.amazon.es/dp/B01COUVYRQ/?tag=tolees-21) con 50.53 de descuento por 8.9 EUR (original: 17.99 EUR) en el siguiente enlace!
 
-[![BAMOER   Plata de ley  925/1000 ](https://m.media-amazon.com/images/I/41Kw2JR+rUL._SL200_.jpg)](https://www.amazon.es/dp/B01COUVYRQ/?tag=tolees-21)
+[![BAMOER   Plata de ley  925/1000 ](https://m.media-amazon.com/images/I/41Kw2JR+rUL._SL400_.jpg)](https://www.amazon.es/dp/B01COUVYRQ/?tag=tolees-21)
 
 ℹ️:
 

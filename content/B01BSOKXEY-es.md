@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Reloj Crystalline Oval 5181008 al 27.36 % de descuento'
 date: 2020-04-22 18:46:05
-image: 'https://m.media-amazon.com/images/I/51DLg+YHk3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DLg+YHk3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '239.0'
 
 Está [Swarovski Reloj Crystalline Oval 5181008](https://www.amazon.es/dp/B01BSOKXEY/?tag=tolees-21) con 27.36 de descuento por 239.0 EUR (original: 329.0 EUR) en el siguiente enlace!
 
-[![Swarovski Reloj Crystalline Oval 5181008](https://m.media-amazon.com/images/I/51DLg+YHk3L._SL200_.jpg)](https://www.amazon.es/dp/B01BSOKXEY/?tag=tolees-21)
+[![Swarovski Reloj Crystalline Oval 5181008](https://m.media-amazon.com/images/I/51DLg+YHk3L._SL400_.jpg)](https://www.amazon.es/dp/B01BSOKXEY/?tag=tolees-21)
 
 ℹ️:
 

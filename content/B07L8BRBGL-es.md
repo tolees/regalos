@@ -2,7 +2,7 @@
 layout: post
 title: 'OBEEII Cenicienta Disfraz Cinderella Car con un 38.90 % de descuento'
 date: 2020-08-23 12:51:20
-image: 'https://m.media-amazon.com/images/I/51jcl92-0EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jcl92-0EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.294'
 
 En este momento está [OBEEII Cenicienta Disfraz Cinderella Carnaval Traje de Princesa Cuentos Infantiles para Halloween Navidad Fiesta Ceremonia Aniversario Cosplay Costume para Niñas Chicas 5-6 Años](https://www.amazon.es/dp/B07L8BRBGL/?tag=tolees-21) a 15.27 EUR (original: 24.99 EUR) (38.90 %  de descuento) en el siguiente enlace!
 
-[![OBEEII Cenicienta Disfraz Cinderella Car](https://m.media-amazon.com/images/I/51jcl92-0EL._SL200_.jpg)](https://www.amazon.es/dp/B07L8BRBGL/?tag=tolees-21)
+[![OBEEII Cenicienta Disfraz Cinderella Car](https://m.media-amazon.com/images/I/51jcl92-0EL._SL400_.jpg)](https://www.amazon.es/dp/B07L8BRBGL/?tag=tolees-21)
 
 🔎:
 

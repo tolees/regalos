@@ -2,7 +2,7 @@
 layout: post
 title: 'OBEEII Disfraz Princesa para Niñas Costu al 55.69 % de rebaja'
 date: 2020-01-24 10:15:57
-image: 'https://m.media-amazon.com/images/I/41p-xmnYnxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p-xmnYnxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.29'
 
 Tienes [OBEEII Disfraz Princesa para Niñas Costume Princesa Reino Frozen para Carnaval Navidad Cumpleaños Partido Prom Azul 11-12 Años](https://www.amazon.es/dp/B07VGCPR9F/?tag=tolees-21) con precio final de  13.29 EUR (original: 29.99 EUR) (55.69 %  de rebaja) aqui!
 
-[![OBEEII Disfraz Princesa para Niñas Costu](https://m.media-amazon.com/images/I/41p-xmnYnxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VGCPR9F/?tag=tolees-21)
+[![OBEEII Disfraz Princesa para Niñas Costu](https://m.media-amazon.com/images/I/41p-xmnYnxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VGCPR9F/?tag=tolees-21)
 
 🔎:
 

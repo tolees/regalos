@@ -2,7 +2,7 @@
 layout: post
 title: 'The Nightmare Before Christmas Nightmare al 20.00 % de rebaja'
 date: 2020-08-22 15:15:44
-image: 'https://m.media-amazon.com/images/I/51r+kopcpFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51r+kopcpFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.16'
 
 Tienes [The Nightmare Before Christmas Nightmare Before Christmas: 20oz Oogie  Jack & Zero Mug  Ceramic  Multicolor  One Size](https://www.amazon.es/dp/B07M5X3M9T/?tag=tolees-21) con precio final de  16.16 EUR (original: 20.2 EUR) (20.00 %  de rebaja) aqui!
 
-[![The Nightmare Before Christmas Nightmare](https://m.media-amazon.com/images/I/51r+kopcpFL._SL200_.jpg)](https://www.amazon.es/dp/B07M5X3M9T/?tag=tolees-21)
+[![The Nightmare Before Christmas Nightmare](https://m.media-amazon.com/images/I/51r+kopcpFL._SL400_.jpg)](https://www.amazon.es/dp/B07M5X3M9T/?tag=tolees-21)
 
 🔎:
 

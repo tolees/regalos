@@ -2,7 +2,7 @@
 layout: post
 title: 'Issey Miyake - LEAU DISSEY HOMME Eau De  al 46.81 % de rebaja'
 date: 2020-08-05 04:54:48
-image: 'https://m.media-amazon.com/images/I/31YiqlP9RkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YiqlP9RkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.807142857142864'
 
 Tienes [Issey Miyake - LEAU DISSEY HOMME Eau De Toilette vapo 200 ml](https://www.amazon.es/dp/B000XEAZ9Y/?tag=tolees-21) con precio final de  59.95 EUR (original: 112.71 EUR) (46.81 %  de rebaja) aqui!
 
-[![Issey Miyake - LEAU DISSEY HOMME Eau De ](https://m.media-amazon.com/images/I/31YiqlP9RkL._SL200_.jpg)](https://www.amazon.es/dp/B000XEAZ9Y/?tag=tolees-21)
+[![Issey Miyake - LEAU DISSEY HOMME Eau De ](https://m.media-amazon.com/images/I/31YiqlP9RkL._SL400_.jpg)](https://www.amazon.es/dp/B000XEAZ9Y/?tag=tolees-21)
 
 🔎:
 

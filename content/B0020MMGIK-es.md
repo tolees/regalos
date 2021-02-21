@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 16.88 % en Tous Agua de Colonia - 30 ml'
 date: 2020-05-29 13:34:26
-image: 'https://m.media-amazon.com/images/I/41s4OM17hoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s4OM17hoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.28333333333333'
 
 Tienes [Tous Agua de Colonia - 30 ml](https://www.amazon.es/dp/B0020MMGIK/?tag=tolees-21) con un 16.88 % de descuento con precio de oferta de 19.95 EUR (original: 24.0 EUR) en el siguiente enlace!
 
-[![Tous Agua de Colonia - 30 ml](https://m.media-amazon.com/images/I/41s4OM17hoL._SL200_.jpg)](https://www.amazon.es/dp/B0020MMGIK/?tag=tolees-21)
+[![Tous Agua de Colonia - 30 ml](https://m.media-amazon.com/images/I/41s4OM17hoL._SL400_.jpg)](https://www.amazon.es/dp/B0020MMGIK/?tag=tolees-21)
 
 ℹ️:
 

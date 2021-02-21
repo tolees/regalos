@@ -2,7 +2,7 @@
 layout: post
 title: 'Paco Rabanne 1 Million Eau de Toilette V al 35.56 % de descuento'
 date: 2020-07-20 20:14:10
-image: 'https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.56611111111111'
 
 Ahora mismo tienes [Paco Rabanne 1 Million Eau de Toilette Vaporizador 50 ml](https://www.amazon.es/dp/B002LSTMB2/?tag=tolees-21) a 39.95 EUR (original: 62.0 EUR) (35.56 %  de descuento) en el siguiente enlace!
 
-[![Paco Rabanne 1 Million Eau de Toilette V](https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B002LSTMB2/?tag=tolees-21)
+[![Paco Rabanne 1 Million Eau de Toilette V](https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B002LSTMB2/?tag=tolees-21)
 
 🔎:
 

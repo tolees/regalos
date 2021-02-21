@@ -2,7 +2,7 @@
 layout: post
 title: 'Lychee Solar Powered 3 5m 10 LED Luces d al 28.13 % de rebaja'
 date: 2020-01-16 15:48:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61GTivAJWcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61GTivAJWcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.69'
 
 Tienes [Lychee Solar Powered 3 5m 10 LED Luces de cuerda de hadas impermeables Luces de cadena con energía solar marroquí con 2 modos para decoraciones de Navidad  jardín  bodas  fiestas y vacaciones](https://www.amazon.es/dp/B01NA9CTEE/?tag=tolees-21) con precio final de  14.69 EUR (original: 20.44 EUR) (28.13 %  de rebaja) aqui!
 
-[![Lychee Solar Powered 3 5m 10 LED Luces d](https://images-eu.ssl-images-amazon.com/images/I/61GTivAJWcL._SL200_.jpg)](https://www.amazon.es/dp/B01NA9CTEE/?tag=tolees-21)
+[![Lychee Solar Powered 3 5m 10 LED Luces d](https://images-eu.ssl-images-amazon.com/images/I/61GTivAJWcL._SL400_.jpg)](https://www.amazon.es/dp/B01NA9CTEE/?tag=tolees-21)
 
 🔎:
 

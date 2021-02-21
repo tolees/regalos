@@ -2,7 +2,7 @@
 layout: post
 title: 'Armand Basi L Eau Pour Homme Eau de Toil con un 43.88 % de descuento'
 date: 2020-02-27 14:56:30
-image: 'https://m.media-amazon.com/images/I/41Ky++lJSNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ky++lJSNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.294'
 
 En este momento está [Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador 75 ml](https://www.amazon.es/dp/B005SZLO3O/?tag=tolees-21) a 22.28 EUR (original: 39.7 EUR) (43.88 %  de descuento) en el siguiente enlace!
 
-[![Armand Basi L Eau Pour Homme Eau de Toil](https://m.media-amazon.com/images/I/41Ky++lJSNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B005SZLO3O/?tag=tolees-21)
+[![Armand Basi L Eau Pour Homme Eau de Toil](https://m.media-amazon.com/images/I/41Ky++lJSNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B005SZLO3O/?tag=tolees-21)
 
 🔎:
 

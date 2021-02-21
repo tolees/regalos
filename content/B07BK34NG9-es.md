@@ -2,7 +2,7 @@
 layout: post
 title: 'AmzBarley Princesa Vestido Disfraz Traje al 50.01 % de rebaja'
 date: 2020-01-23 10:09:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51vS%2BxVeYXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vS%2BxVeYXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [AmzBarley Princesa Vestido Disfraz Traje Reina de Nieve Dress Costume Niña Infantil Capa Manga Larga por Cumpleaños Cosplay Halloween Baile Navidad Fiesta Boda Bautizo Ceremonia Carnaval 2-3 Años](https://www.amazon.es/dp/B07BK34NG9/?tag=tolees-21) con precio final de  29.99 EUR (original: 59.99 EUR) (50.01 %  de rebaja) aqui!
 
-[![AmzBarley Princesa Vestido Disfraz Traje](https://images-eu.ssl-images-amazon.com/images/I/51vS%2BxVeYXL._SL200_.jpg)](https://www.amazon.es/dp/B07BK34NG9/?tag=tolees-21)
+[![AmzBarley Princesa Vestido Disfraz Traje](https://images-eu.ssl-images-amazon.com/images/I/51vS%2BxVeYXL._SL400_.jpg)](https://www.amazon.es/dp/B07BK34NG9/?tag=tolees-21)
 
 🔎:
 

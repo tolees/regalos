@@ -2,7 +2,7 @@
 layout: post
 title: 'Pandora Abalorios Mujer plata - 798049EN al 20.00 % de descuento'
 date: 2020-08-07 19:39:20
-image: 'https://m.media-amazon.com/images/I/31S67zrBn+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S67zrBn+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.004999999999995'
 
 Ahora mismo tienes [Pandora Abalorios Mujer plata - 798049ENMX](https://www.amazon.es/dp/B07NF3RF2R/?tag=tolees-21) a 36.0 EUR (original: 45.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Pandora Abalorios Mujer plata - 798049EN](https://m.media-amazon.com/images/I/31S67zrBn+L._SL200_.jpg)](https://www.amazon.es/dp/B07NF3RF2R/?tag=tolees-21)
+[![Pandora Abalorios Mujer plata - 798049EN](https://m.media-amazon.com/images/I/31S67zrBn+L._SL400_.jpg)](https://www.amazon.es/dp/B07NF3RF2R/?tag=tolees-21)
 
 🔎:
 

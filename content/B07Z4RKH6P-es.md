@@ -2,7 +2,7 @@
 layout: post
 title: 'OwlFay Rapunzel Disfraz Carnaval Traje d al 50.00 % de descuento'
 date: 2020-03-01 12:12:13
-image: 'https://m.media-amazon.com/images/I/41UU6tQdEOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UU6tQdEOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.87'
 
 Está [OwlFay Rapunzel Disfraz Carnaval Traje de Princesa para Halloween Navidad Fiesta Cosplay Costume para Niñas Chicas Morado A 6-7 Años](https://www.amazon.es/dp/B07Z4RKH6P/?tag=tolees-21) con 50.00 de descuento por 10.87 EUR (original: 21.74 EUR) en el siguiente enlace!
 
-[![OwlFay Rapunzel Disfraz Carnaval Traje d](https://m.media-amazon.com/images/I/41UU6tQdEOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Z4RKH6P/?tag=tolees-21)
+[![OwlFay Rapunzel Disfraz Carnaval Traje d](https://m.media-amazon.com/images/I/41UU6tQdEOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Z4RKH6P/?tag=tolees-21)
 
 ℹ️:
 

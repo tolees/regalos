@@ -2,7 +2,7 @@
 layout: post
 title: 'Mont Blanc  Agua de tocador para mujeres con un 46.95 % de descuento'
 date: 2020-02-26 20:08:15
-image: 'https://m.media-amazon.com/images/I/31WnszsPGsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WnszsPGsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.95'
 
 En este momento está [Mont Blanc  Agua de tocador para mujeres - 200 ml.](https://www.amazon.es/dp/B06XDFW23T/?tag=tolees-21) a 59.95 EUR (original: 113.0 EUR) (46.95 %  de descuento) en el siguiente enlace!
 
-[![Mont Blanc  Agua de tocador para mujeres](https://m.media-amazon.com/images/I/31WnszsPGsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XDFW23T/?tag=tolees-21)
+[![Mont Blanc  Agua de tocador para mujeres](https://m.media-amazon.com/images/I/31WnszsPGsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XDFW23T/?tag=tolees-21)
 
 🔎:
 

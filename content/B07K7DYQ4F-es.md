@@ -2,7 +2,7 @@
 layout: post
 title: 'Guirnalda Luces Exterior  10 Tubo 30cm 3 al 32.27 % de rebaja'
 date: 2020-01-27 12:15:46
-image: 'https://m.media-amazon.com/images/I/61VuTe4TFpL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61VuTe4TFpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.24'
 
 Tienes [Guirnalda Luces Exterior  10 Tubo 30cm 300 LEDs IP65 Impermeable luz Navidad  Impermeable Iluminacion Jardin Decorativas Fiestas  30cm Blanco ](https://www.amazon.es/dp/B07K7DYQ4F/?tag=tolees-21) con precio final de  20.99 EUR (original: 30.99 EUR) (32.27 %  de rebaja) aqui!
 
-[![Guirnalda Luces Exterior  10 Tubo 30cm 3](https://m.media-amazon.com/images/I/61VuTe4TFpL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K7DYQ4F/?tag=tolees-21)
+[![Guirnalda Luces Exterior  10 Tubo 30cm 3](https://m.media-amazon.com/images/I/61VuTe4TFpL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K7DYQ4F/?tag=tolees-21)
 
 🔎:
 

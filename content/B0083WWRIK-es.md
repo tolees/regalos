@@ -2,7 +2,7 @@
 layout: post
 title: 'Dior Eau Sauvage Agua de perfume Vaporiz con un 28.77 % de descuento'
 date: 2020-06-30 10:35:28
-image: 'https://m.media-amazon.com/images/I/51tLWmLp1+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tLWmLp1+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.650000000000006'
 
 En este momento está [Dior Eau Sauvage Agua de perfume Vaporizador 100 ml](https://www.amazon.es/dp/B0083WWRIK/?tag=tolees-21) a 56.95 EUR (original: 79.95 EUR) (28.77 %  de descuento) en el siguiente enlace!
 
-[![Dior Eau Sauvage Agua de perfume Vaporiz](https://m.media-amazon.com/images/I/51tLWmLp1+L._SL200_.jpg)](https://www.amazon.es/dp/B0083WWRIK/?tag=tolees-21)
+[![Dior Eau Sauvage Agua de perfume Vaporiz](https://m.media-amazon.com/images/I/51tLWmLp1+L._SL400_.jpg)](https://www.amazon.es/dp/B0083WWRIK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Loris Azzaro  Eau de Toilette para Hombr al 48.45 % de descuento'
 date: 2020-08-05 11:27:23
-image: 'https://m.media-amazon.com/images/I/41mSXSD8VTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mSXSD8VTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.413333333333334'
 
 Está [Loris Azzaro  Eau de Toilette para Hombre - 100 ml.](https://www.amazon.es/dp/B000C1Z1JM/?tag=tolees-21) con 48.45 de descuento por 36.99 EUR (original: 71.75 EUR) en el siguiente enlace!
 
-[![Loris Azzaro  Eau de Toilette para Hombr](https://m.media-amazon.com/images/I/41mSXSD8VTL._SL200_.jpg)](https://www.amazon.es/dp/B000C1Z1JM/?tag=tolees-21)
+[![Loris Azzaro  Eau de Toilette para Hombr](https://m.media-amazon.com/images/I/41mSXSD8VTL._SL400_.jpg)](https://www.amazon.es/dp/B000C1Z1JM/?tag=tolees-21)
 
 ℹ️:
 

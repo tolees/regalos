@@ -2,7 +2,7 @@
 layout: post
 title: 'Camara Fotos Infantil Cámara de Fotos pa al 70.01 % de descuento'
 date: 2020-01-25 11:46:32
-image: 'https://m.media-amazon.com/images/I/51NvqF-5rpL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NvqF-5rpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Está [Camara Fotos Infantil Cámara de Fotos para Niños con HD 1080P Cámara Recargable para Niños Cumpleaños Festival de Navidad](https://www.amazon.es/dp/B081JXMB1S/?tag=tolees-21) con 70.01 de descuento por 29.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Camara Fotos Infantil Cámara de Fotos pa](https://m.media-amazon.com/images/I/51NvqF-5rpL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B081JXMB1S/?tag=tolees-21)
+[![Camara Fotos Infantil Cámara de Fotos pa](https://m.media-amazon.com/images/I/51NvqF-5rpL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B081JXMB1S/?tag=tolees-21)
 
 ℹ️:
 

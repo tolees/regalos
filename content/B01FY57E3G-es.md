@@ -2,7 +2,7 @@
 layout: post
 title: 'Mont Blanc Legend  Eau de Toilette para  con un 53.18 % de descuento'
 date: 2020-10-09 19:33:30
-image: 'https://m.media-amazon.com/images/I/31tEZ2lt8gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tEZ2lt8gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.00454545454545'
 
 En este momento está [Mont Blanc Legend  Eau de Toilette para hombres - 200 ml.](https://www.amazon.es/dp/B01FY57E3G/?tag=tolees-21) a 51.5 EUR (original: 110.0 EUR) (53.18 %  de descuento) en el siguiente enlace!
 
-[![Mont Blanc Legend  Eau de Toilette para ](https://m.media-amazon.com/images/I/31tEZ2lt8gL._SL200_.jpg)](https://www.amazon.es/dp/B01FY57E3G/?tag=tolees-21)
+[![Mont Blanc Legend  Eau de Toilette para ](https://m.media-amazon.com/images/I/31tEZ2lt8gL._SL400_.jpg)](https://www.amazon.es/dp/B01FY57E3G/?tag=tolees-21)
 
 🔎:
 

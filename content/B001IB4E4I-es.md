@@ -2,7 +2,7 @@
 layout: post
 title: 'Bvlgari BLV POUR HOMME 47028 - Eau de to al 37.12 % de rebaja'
 date: 2020-09-03 14:53:17
-image: 'https://m.media-amazon.com/images/I/419nbFE+1wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419nbFE+1wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.3'
 
 Tienes [Bvlgari BLV POUR HOMME 47028 - Eau de toilette para hombre 100 ml](https://www.amazon.es/dp/B001IB4E4I/?tag=tolees-21) con precio final de  53.45 EUR (original: 85.0 EUR) (37.12 %  de rebaja) aqui!
 
-[![Bvlgari BLV POUR HOMME 47028 - Eau de to](https://m.media-amazon.com/images/I/419nbFE+1wL._SL200_.jpg)](https://www.amazon.es/dp/B001IB4E4I/?tag=tolees-21)
+[![Bvlgari BLV POUR HOMME 47028 - Eau de to](https://m.media-amazon.com/images/I/419nbFE+1wL._SL400_.jpg)](https://www.amazon.es/dp/B001IB4E4I/?tag=tolees-21)
 
 🔎:
 

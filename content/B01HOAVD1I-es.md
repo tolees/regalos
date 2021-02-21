@@ -2,7 +2,7 @@
 layout: post
 title: 'Cadena solar de luces LED Salcar de 5 me al 50.03 % de descuento'
 date: 2020-02-06 13:09:57
-image: 'https://m.media-amazon.com/images/I/51yZcvK-SoL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yZcvK-SoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Cadena solar de luces LED Salcar de 5 metros  20 mariposa de decoración  Solar Luz Cadena luminaria para navidad  fiestas  celebraciones  RGB ](https://www.amazon.es/dp/B01HOAVD1I/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Cadena solar de luces LED Salcar de 5 me](https://m.media-amazon.com/images/I/51yZcvK-SoL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01HOAVD1I/?tag=tolees-21)
+[![Cadena solar de luces LED Salcar de 5 me](https://m.media-amazon.com/images/I/51yZcvK-SoL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01HOAVD1I/?tag=tolees-21)
 
 ℹ️:
 

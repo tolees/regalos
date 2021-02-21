@@ -2,7 +2,7 @@
 layout: post
 title: 'Collar Mujer  J.Rosée Plata de Ley 925 B al 90.01 % de rebaja'
 date: 2020-02-13 14:53:49
-image: 'https://m.media-amazon.com/images/I/5115QX9VO6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5115QX9VO6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.323333333333332'
 
 Tienes [Collar Mujer  J.Rosée Plata de Ley 925 Brillante Circonita"Mi Amor de las Estrellas" Cadena 45cm-50cm con Hermosa Caja de Regalo Regalo para el Día de la Madre](https://www.amazon.es/dp/B01M0A44IA/?tag=tolees-21) con precio final de  9.99 EUR (original: 99.99 EUR) (90.01 %  de rebaja) aqui!
 
-[![Collar Mujer  J.Rosée Plata de Ley 925 B](https://m.media-amazon.com/images/I/5115QX9VO6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M0A44IA/?tag=tolees-21)
+[![Collar Mujer  J.Rosée Plata de Ley 925 B](https://m.media-amazon.com/images/I/5115QX9VO6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M0A44IA/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FTVOGUE Navidad de Madera Merry-Go-Round con un 48.74 % de descuento'
 date: 2020-05-09 14:02:28
-image: 'https://m.media-amazon.com/images/I/51fCP9DGVIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fCP9DGVIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.89'
 
 En este momento está [FTVOGUE Navidad de Madera Merry-Go-Round Caballo decoración Vintage Mini Colgante carrusel Caballo Colgante para cumpleaños Navidad](https://www.amazon.es/dp/B07H4JR3MC/?tag=tolees-21) a 5.89 EUR (original: 11.49 EUR) (48.74 %  de descuento) en el siguiente enlace!
 
-[![FTVOGUE Navidad de Madera Merry-Go-Round](https://m.media-amazon.com/images/I/51fCP9DGVIL._SL200_.jpg)](https://www.amazon.es/dp/B07H4JR3MC/?tag=tolees-21)
+[![FTVOGUE Navidad de Madera Merry-Go-Round](https://m.media-amazon.com/images/I/51fCP9DGVIL._SL400_.jpg)](https://www.amazon.es/dp/B07H4JR3MC/?tag=tolees-21)
 
 🔎:
 

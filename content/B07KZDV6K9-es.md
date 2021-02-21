@@ -2,7 +2,7 @@
 layout: post
 title: 'Alex Perry Regalo Día de la Madre pendie al 78.01 % de rebaja'
 date: 2020-04-13 09:11:16
-image: 'https://m.media-amazon.com/images/I/413CC-M-U2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413CC-M-U2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Tienes [Alex Perry Regalo Día de la Madre pendientes mujer pendientes plata pendientes fiesta pendientes swarovski pendientes baratos mujer joyas para mujer bisuteria mujer joyeria mujer](https://www.amazon.es/dp/B07KZDV6K9/?tag=tolees-21) con precio final de  21.99 EUR (original: 99.99 EUR) (78.01 %  de rebaja) aqui!
 
-[![Alex Perry Regalo Día de la Madre pendie](https://m.media-amazon.com/images/I/413CC-M-U2L._SL200_.jpg)](https://www.amazon.es/dp/B07KZDV6K9/?tag=tolees-21)
+[![Alex Perry Regalo Día de la Madre pendie](https://m.media-amazon.com/images/I/413CC-M-U2L._SL400_.jpg)](https://www.amazon.es/dp/B07KZDV6K9/?tag=tolees-21)
 
 🔎:
 

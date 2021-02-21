@@ -2,7 +2,7 @@
 layout: post
 title: 'AmzBarley Jessie Princesa Disfraz Vestid al 60.01 % de descuento'
 date: 2020-01-26 02:01:06
-image: 'https://m.media-amazon.com/images/I/41g5OX0fivL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41g5OX0fivL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Está [AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas de Navidad Fiesta para Boda Ceremonia Bautizo Frozen Baile Cumpleaños Halloween](https://www.amazon.es/dp/B07TD21MGJ/?tag=tolees-21) con 60.01 de descuento por 17.99 EUR (original: 44.99 EUR) en el siguiente enlace!
 
-[![AmzBarley Jessie Princesa Disfraz Vestid](https://m.media-amazon.com/images/I/41g5OX0fivL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TD21MGJ/?tag=tolees-21)
+[![AmzBarley Jessie Princesa Disfraz Vestid](https://m.media-amazon.com/images/I/41g5OX0fivL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TD21MGJ/?tag=tolees-21)
 
 ℹ️:
 

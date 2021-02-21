@@ -2,7 +2,7 @@
 layout: post
 title: '60 LED 10M Cadena Solar de Luces  IP65 I al 40.01 % de descuento'
 date: 2020-08-18 12:32:15
-image: 'https://m.media-amazon.com/images/I/41KQiDfyOaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KQiDfyOaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.35666666666667'
 
 Ahora mismo tienes [60 LED 10M Cadena Solar de Luces  IP65 Impermeable 8 Modos Luces Decorativas  Guirnalda Luces Exterior Luminosas para Exterior Interior  Jardines  Casas  Boda  Fiesta de Navidad  Amarillo ](https://www.amazon.es/dp/B07GYVYXLG/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![60 LED 10M Cadena Solar de Luces  IP65 I](https://m.media-amazon.com/images/I/41KQiDfyOaL._SL200_.jpg)](https://www.amazon.es/dp/B07GYVYXLG/?tag=tolees-21)
+[![60 LED 10M Cadena Solar de Luces  IP65 I](https://m.media-amazon.com/images/I/41KQiDfyOaL._SL400_.jpg)](https://www.amazon.es/dp/B07GYVYXLG/?tag=tolees-21)
 
 🔎:
 

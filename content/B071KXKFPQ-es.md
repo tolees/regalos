@@ -2,7 +2,7 @@
 layout: post
 title: 'Pendientes Mariposa Brillante Blancos de al 23.82 % de descuento'
 date: 2020-06-18 16:27:51
-image: 'https://m.media-amazon.com/images/I/31-BCKmYpWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-BCKmYpWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.656666666666666'
 
 Está [Pendientes Mariposa Brillante Blancos de Regalo de Navidad](https://www.amazon.es/dp/B071KXKFPQ/?tag=tolees-21) con 23.82 de descuento por 15.99 EUR (original: 20.99 EUR) en el siguiente enlace!
 
-[![Pendientes Mariposa Brillante Blancos de](https://m.media-amazon.com/images/I/31-BCKmYpWL._SL200_.jpg)](https://www.amazon.es/dp/B071KXKFPQ/?tag=tolees-21)
+[![Pendientes Mariposa Brillante Blancos de](https://m.media-amazon.com/images/I/31-BCKmYpWL._SL400_.jpg)](https://www.amazon.es/dp/B071KXKFPQ/?tag=tolees-21)
 
 ℹ️:
 

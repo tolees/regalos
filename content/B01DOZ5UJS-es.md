@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 47.58 % en Burberry  Agua de colonia para hombres -'
 date: 2020-01-16 21:03:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.04'
 
 Tienes [Burberry  Agua de colonia para hombres - 150 gr.](https://www.amazon.es/dp/B01DOZ5UJS/?tag=tolees-21) con un 47.58 % de descuento con precio de oferta de 55.04 EUR (original: 105 EUR) en el siguiente enlace!
 
-[![Burberry  Agua de colonia para hombres -](https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL200_.jpg)](https://www.amazon.es/dp/B01DOZ5UJS/?tag=tolees-21)
+[![Burberry  Agua de colonia para hombres -](https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL400_.jpg)](https://www.amazon.es/dp/B01DOZ5UJS/?tag=tolees-21)
 
 ℹ️:
 

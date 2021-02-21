@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Conjunto de Collares Symbolic  al 23.57 % de rebaja'
 date: 2020-10-09 19:19:11
-image: 'https://m.media-amazon.com/images/I/31F8Dga6GgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31F8Dga6GgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '88.49666666666667'
 
 Tienes [Swarovski Conjunto de Collares Symbolic Moon  Multicolor  Combinación de Acabados metálicos](https://www.amazon.es/dp/B074MHPDCQ/?tag=tolees-21) con precio final de  90.95 EUR (original: 119.0 EUR) (23.57 %  de rebaja) aqui!
 
-[![Swarovski Conjunto de Collares Symbolic ](https://m.media-amazon.com/images/I/31F8Dga6GgL._SL200_.jpg)](https://www.amazon.es/dp/B074MHPDCQ/?tag=tolees-21)
+[![Swarovski Conjunto de Collares Symbolic ](https://m.media-amazon.com/images/I/31F8Dga6GgL._SL400_.jpg)](https://www.amazon.es/dp/B074MHPDCQ/?tag=tolees-21)
 
 🔎:
 

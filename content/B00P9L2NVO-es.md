@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Pulsera Angelic  Blanco  Baño  al 40.00 % de descuento'
 date: 2020-06-10 16:23:04
-image: 'https://m.media-amazon.com/images/I/41B5n7Cp3FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B5n7Cp3FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.4'
 
 Ahora mismo tienes [Swarovski Pulsera Angelic  Blanco  Baño de Rodio](https://www.amazon.es/dp/B00P9L2NVO/?tag=tolees-21) a 77.4 EUR (original: 129.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Swarovski Pulsera Angelic  Blanco  Baño ](https://m.media-amazon.com/images/I/41B5n7Cp3FL._SL200_.jpg)](https://www.amazon.es/dp/B00P9L2NVO/?tag=tolees-21)
+[![Swarovski Pulsera Angelic  Blanco  Baño ](https://m.media-amazon.com/images/I/41B5n7Cp3FL._SL400_.jpg)](https://www.amazon.es/dp/B00P9L2NVO/?tag=tolees-21)
 
 🔎:
 

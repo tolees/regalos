@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Case Compatible con Realme 3 Pro  al 27.32 % de descuento'
 date: 2020-05-03 19:35:16
-image: 'https://m.media-amazon.com/images/I/41VIFz465IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VIFz465IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Está [Oihxse Case Compatible con Realme 3 Pro Funda Transparente Silicona Suave Carcasa Protectora Navidad Santa Deer Diseño de patrón Creativo Ultra Slim Flexible Cover](https://www.amazon.es/dp/B082Y6NCVN/?tag=tolees-21) con 27.32 de descuento por 7.98 EUR (original: 10.98 EUR) en el siguiente enlace!
 
-[![Oihxse Case Compatible con Realme 3 Pro ](https://m.media-amazon.com/images/I/41VIFz465IL._SL200_.jpg)](https://www.amazon.es/dp/B082Y6NCVN/?tag=tolees-21)
+[![Oihxse Case Compatible con Realme 3 Pro ](https://m.media-amazon.com/images/I/41VIFz465IL._SL400_.jpg)](https://www.amazon.es/dp/B082Y6NCVN/?tag=tolees-21)
 
 ℹ️:
 

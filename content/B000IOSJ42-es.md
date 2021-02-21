@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Contradiction - Agua de per al 63.28 % de descuento'
 date: 2020-05-05 12:36:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31CO8o2a9ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CO8o2a9ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.62'
 
 Ahora mismo tienes [Calvin Klein Contradiction - Agua de perfume  para mujeres  vaporizador  100 ml](https://www.amazon.es/dp/B000IOSJ42/?tag=tolees-21) a 26.62 EUR (original: 72.5 EUR) (63.28 %  de descuento) en el siguiente enlace!
 
-[![Calvin Klein Contradiction - Agua de per](https://images-eu.ssl-images-amazon.com/images/I/31CO8o2a9ZL._SL200_.jpg)](https://www.amazon.es/dp/B000IOSJ42/?tag=tolees-21)
+[![Calvin Klein Contradiction - Agua de per](https://images-eu.ssl-images-amazon.com/images/I/31CO8o2a9ZL._SL400_.jpg)](https://www.amazon.es/dp/B000IOSJ42/?tag=tolees-21)
 
 🔎:
 

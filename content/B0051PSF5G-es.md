@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 66.13 % en Atkinsons English Lavender Agua de Tocad'
 date: 2020-08-02 18:21:57
-image: 'https://m.media-amazon.com/images/I/41QZV14XgnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QZV14XgnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.95'
 
 Tienes [Atkinsons English Lavender Agua de Tocador - 620 ml  8000600023296 ](https://www.amazon.es/dp/B0051PSF5G/?tag=tolees-21) con un 66.13 % de descuento con precio de oferta de 18.95 EUR (original: 55.95 EUR) en el siguiente enlace!
 
-[![Atkinsons English Lavender Agua de Tocad](https://m.media-amazon.com/images/I/41QZV14XgnL._SL200_.jpg)](https://www.amazon.es/dp/B0051PSF5G/?tag=tolees-21)
+[![Atkinsons English Lavender Agua de Tocad](https://m.media-amazon.com/images/I/41QZV14XgnL._SL400_.jpg)](https://www.amazon.es/dp/B0051PSF5G/?tag=tolees-21)
 
 ℹ️:
 

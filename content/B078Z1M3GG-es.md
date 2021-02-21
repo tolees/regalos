@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Ear jackets Latisha  acabado c con un 50.00 % de descuento'
 date: 2020-01-22 20:32:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414Ciry8KYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Ciry8KYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.5'
 
 En este momento está [Swarovski Ear jackets Latisha  acabado con combinación de metales  cristal negro  para mujer](https://www.amazon.es/dp/B078Z1M3GG/?tag=tolees-21) a 44.5 EUR (original: 89 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Swarovski Ear jackets Latisha  acabado c](https://images-eu.ssl-images-amazon.com/images/I/414Ciry8KYL._SL200_.jpg)](https://www.amazon.es/dp/B078Z1M3GG/?tag=tolees-21)
+[![Swarovski Ear jackets Latisha  acabado c](https://images-eu.ssl-images-amazon.com/images/I/414Ciry8KYL._SL400_.jpg)](https://www.amazon.es/dp/B078Z1M3GG/?tag=tolees-21)
 
 🔎:
 

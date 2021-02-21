@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Timeless Remix Collection  Azu al 30.43 % de rebaja'
 date: 2020-07-15 20:14:04
-image: 'https://m.media-amazon.com/images/I/31YjIraoW3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YjIraoW3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.07142857142857'
 
 Tienes [Swarovski Timeless Remix Collection  Azul  baño de rodio](https://www.amazon.es/dp/B0741DVM9X/?tag=tolees-21) con precio final de  48.0 EUR (original: 69.0 EUR) (30.43 %  de rebaja) aqui!
 
-[![Swarovski Timeless Remix Collection  Azu](https://m.media-amazon.com/images/I/31YjIraoW3L._SL200_.jpg)](https://www.amazon.es/dp/B0741DVM9X/?tag=tolees-21)
+[![Swarovski Timeless Remix Collection  Azu](https://m.media-amazon.com/images/I/31YjIraoW3L._SL400_.jpg)](https://www.amazon.es/dp/B0741DVM9X/?tag=tolees-21)
 
 🔎:
 

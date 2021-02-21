@@ -2,7 +2,7 @@
 layout: post
 title: 'Amaza 100pcs Etiquetas de Papel Kraft Ár al 56.97 % de rebaja'
 date: 2020-04-14 09:00:20
-image: 'https://m.media-amazon.com/images/I/51IzwkAVGAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IzwkAVGAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.88'
 
 Tienes [Amaza 100pcs Etiquetas de Papel Kraft Árbol de Navidad Gift Tags con Cerda de Yute Navidad Decoracion Arbol  5 Patrones ](https://www.amazon.es/dp/B0772DGS9Z/?tag=tolees-21) con precio final de  6.88 EUR (original: 15.99 EUR) (56.97 %  de rebaja) aqui!
 
-[![Amaza 100pcs Etiquetas de Papel Kraft Ár](https://m.media-amazon.com/images/I/51IzwkAVGAL._SL200_.jpg)](https://www.amazon.es/dp/B0772DGS9Z/?tag=tolees-21)
+[![Amaza 100pcs Etiquetas de Papel Kraft Ár](https://m.media-amazon.com/images/I/51IzwkAVGAL._SL400_.jpg)](https://www.amazon.es/dp/B0772DGS9Z/?tag=tolees-21)
 
 🔎:
 

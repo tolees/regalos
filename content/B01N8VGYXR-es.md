@@ -2,7 +2,7 @@
 layout: post
 title: 'Elli Pendientes para dama forma geométri con un 34.69 % de descuento'
 date: 2020-09-25 08:21:11
-image: 'https://m.media-amazon.com/images/I/31VP0BuZhWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VP0BuZhWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.06'
 
 En este momento está [Elli Pendientes para dama forma geométrica con cristales Swarovski® en plata de ley 925](https://www.amazon.es/dp/B01N8VGYXR/?tag=tolees-21) a 26.06 EUR (original: 39.9 EUR) (34.69 %  de descuento) en el siguiente enlace!
 
-[![Elli Pendientes para dama forma geométri](https://m.media-amazon.com/images/I/31VP0BuZhWL._SL200_.jpg)](https://www.amazon.es/dp/B01N8VGYXR/?tag=tolees-21)
+[![Elli Pendientes para dama forma geométri](https://m.media-amazon.com/images/I/31VP0BuZhWL._SL400_.jpg)](https://www.amazon.es/dp/B01N8VGYXR/?tag=tolees-21)
 
 🔎:
 

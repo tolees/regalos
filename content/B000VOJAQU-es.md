@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.83 % en Guerlain Insolence Eau de Toilette Vapor'
 date: 2020-05-25 21:43:14
-image: 'https://m.media-amazon.com/images/I/41gDfJ6aTJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gDfJ6aTJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.821999999999996'
 
 Tienes [Guerlain Insolence Eau de Toilette Vaporizador 50 ml](https://www.amazon.es/dp/B000VOJAQU/?tag=tolees-21) con un 48.83 % de descuento con precio de oferta de 40.98 EUR (original: 80.09 EUR) en el siguiente enlace!
 
-[![Guerlain Insolence Eau de Toilette Vapor](https://m.media-amazon.com/images/I/41gDfJ6aTJL._SL200_.jpg)](https://www.amazon.es/dp/B000VOJAQU/?tag=tolees-21)
+[![Guerlain Insolence Eau de Toilette Vapor](https://m.media-amazon.com/images/I/41gDfJ6aTJL._SL400_.jpg)](https://www.amazon.es/dp/B000VOJAQU/?tag=tolees-21)
 
 ℹ️:
 

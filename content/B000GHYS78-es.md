@@ -2,7 +2,7 @@
 layout: post
 title: 'Issey Miyake Pleats Please Agua de perfu con un 54.10 % de descuento'
 date: 2020-01-15 23:33:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31kZBsrLkzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kZBsrLkzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.045'
 
 En este momento está [Issey Miyake Pleats Please Agua de perfume Vaporizador 30 ml](https://www.amazon.es/dp/B000GHYS78/?tag=tolees-21) a 22.49 EUR (original: 49 EUR) (54.10 %  de descuento) en el siguiente enlace!
 
-[![Issey Miyake Pleats Please Agua de perfu](https://images-eu.ssl-images-amazon.com/images/I/31kZBsrLkzL._SL200_.jpg)](https://www.amazon.es/dp/B000GHYS78/?tag=tolees-21)
+[![Issey Miyake Pleats Please Agua de perfu](https://images-eu.ssl-images-amazon.com/images/I/31kZBsrLkzL._SL400_.jpg)](https://www.amazon.es/dp/B000GHYS78/?tag=tolees-21)
 
 🔎:
 

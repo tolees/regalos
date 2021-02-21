@@ -2,7 +2,7 @@
 layout: post
 title: 'Swarovski Pendientes Symbolic Evil Eye d al 50.72 % de rebaja'
 date: 2020-06-24 18:02:00
-image: 'https://m.media-amazon.com/images/I/41ZZLYzsE9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZZLYzsE9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.0'
 
 Tienes [Swarovski Pendientes Symbolic Evil Eye de Mujer  chapados en tono Oro Rosa  Cristal  Multicolor](https://www.amazon.es/dp/B07DSZ49ZB/?tag=tolees-21) con precio final de  34.0 EUR (original: 69.0 EUR) (50.72 %  de rebaja) aqui!
 
-[![Swarovski Pendientes Symbolic Evil Eye d](https://m.media-amazon.com/images/I/41ZZLYzsE9L._SL200_.jpg)](https://www.amazon.es/dp/B07DSZ49ZB/?tag=tolees-21)
+[![Swarovski Pendientes Symbolic Evil Eye d](https://m.media-amazon.com/images/I/41ZZLYzsE9L._SL400_.jpg)](https://www.amazon.es/dp/B07DSZ49ZB/?tag=tolees-21)
 
 🔎:
 

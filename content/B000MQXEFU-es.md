@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 81.51 % en Jaguar Agua de colonia para mujeres 1 un'
 date: 2020-03-05 13:35:37
-image: 'https://m.media-amazon.com/images/I/41BVkKDOrwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BVkKDOrwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.6'
 
 Tienes [Jaguar Agua de colonia para mujeres 1 unidad 130 g](https://www.amazon.es/dp/B000MQXEFU/?tag=tolees-21) con un 81.51 % de descuento con precio de oferta de 13.87 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![Jaguar Agua de colonia para mujeres 1 un](https://m.media-amazon.com/images/I/41BVkKDOrwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000MQXEFU/?tag=tolees-21)
+[![Jaguar Agua de colonia para mujeres 1 un](https://m.media-amazon.com/images/I/41BVkKDOrwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000MQXEFU/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Armani 53992 - Agua de perfume al 38.71 % de descuento'
 date: 2020-06-06 15:11:23
-image: 'https://m.media-amazon.com/images/I/31f+Yej+lmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31f+Yej+lmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.3'
 
 Ahora mismo tienes [Armani 53992 - Agua de perfume](https://www.amazon.es/dp/B00G3C2FOI/?tag=tolees-21) a 36.3 EUR (original: 59.23 EUR) (38.71 %  de descuento) en el siguiente enlace!
 
-[![Armani 53992 - Agua de perfume](https://m.media-amazon.com/images/I/31f+Yej+lmL._SL200_.jpg)](https://www.amazon.es/dp/B00G3C2FOI/?tag=tolees-21)
+[![Armani 53992 - Agua de perfume](https://m.media-amazon.com/images/I/31f+Yej+lmL._SL400_.jpg)](https://www.amazon.es/dp/B00G3C2FOI/?tag=tolees-21)
 
 🔎:
 
