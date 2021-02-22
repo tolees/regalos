@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Pandora Abalorios Mujer plata - 791966 al 17.14 % de descuento'
-date: 2021-02-21 15:54:19
-image: 'https://m.media-amazon.com/images/I/4155W98ZCXL._SL200_.jpg'
+date: 2021-02-22 16:38:04
+image: 'https://m.media-amazon.com/images/I/4155W98ZCXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.0'
 
 Está [Pandora Abalorios Mujer plata - 791966](https://www.amazon.es/dp/B01KMQMAAO/?tag=tolees-21) con 17.14 de descuento por 29.0 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Pandora Abalorios Mujer plata - 791966](https://m.media-amazon.com/images/I/4155W98ZCXL._SL200_.jpg)](https://www.amazon.es/dp/B01KMQMAAO/?tag=tolees-21)
+[![Pandora Abalorios Mujer plata - 791966](https://m.media-amazon.com/images/I/4155W98ZCXL._SL400_.jpg)](https://www.amazon.es/dp/B01KMQMAAO/?tag=tolees-21)
 
 ℹ️:
 
