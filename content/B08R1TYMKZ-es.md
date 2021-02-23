@@ -28,10 +28,10 @@ Está [TX Marco para el hogar，Marco de Fotos A4 Decoración para Salón  Dormi
 
 ℹ️:
 
-- Tamaño de la foto: A4 (21 x 29,7 cm)
 - El conjunto de marcos es versátil para fotos de bebés, collages de fotos, fotos de bodas, vacaciones o fotos en blanco y negro. Los clavos suministrados facilitan la fijación del marco de madera en la habitación de los niños o en la sala de estar.
-- Material: madera maciza
 - De color negro
+- Material: madera maciza
+- Tamaño de la foto: A4 (21 x 29,7 cm)
 - Contenido del paquete: 1 marco de fotos A4, plantilla de papel y clavos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R1TYMKZ/?tag=tolees-21)
