@@ -29,9 +29,9 @@ Está [Swarovski Colgante Iconic Swan  multicolor  Baño de Rodio](https://www.a
 ℹ️:
 
 - Elegant and beautiful: Swarovski Iconic Swan Pendant, featuring a timeless Swan motif with gorgeous sparkling light-multicoloured stones, showcases our classic legendary Swan with a modern twist
-- Designed to last: Swarovski jewellery features the extraordinary brilliance of Swarovski crystals and durable metals - to ensure the life of your jewellery avoid contact with water, lotions or perfume
 - Stunning and unique: Radiant white Pointiage crystals combined with Swarovski´s signature Swan and an adjustable rhodium plated chain length help you stand out from the crowd
 - Items delivered: 1x Swarovski Iconic Swan Collection Classic Swan Pendant, 38cm rhodium plated chain and shimmering light-multicoloured crystals, with Swarovski necklace box
+- Designed to last: Swarovski jewellery features the extraordinary brilliance of Swarovski crystals and durable metals - to ensure the life of your jewellery avoid contact with water, lotions or perfume
 - Stand out from the crowd: A charming gift for you or a loved one, this eye-catching necklace has been crafted to complement any outfit, adding a luxurious, stylish touch, whatever the occasion
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NAASQ6C/?tag=tolees-21)
