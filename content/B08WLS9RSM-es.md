@@ -28,10 +28,10 @@ Tienes [CHUCHES - Caja de Dulces Años 80s y 90s. Regalo de Cumpleaños  Navidad
 
 🔎:
 
+- 🍭 [ 5 UNIDADES DE CADA CHUCHE ] Chuches para 5 así podrás disfrutar en familia o en una fiesta
+- 🍭 [ CAJA CON CHUCHES RETRO DE LOS AÑOS 80 Y 90 ] Recuerda viejos tiempos con chuches que te hicieron sonreir un día!
 - 🍭 [ PRIMERAS MARCAS ORIGINALES ] Ideal para regalar tanto a mayores como niños, sabor original
 - 🎁 INCLUYE: Monchitos, Peta Zetas, Escalofríos, Escalofrío con dedo, blisters de grajeas y bolas de chicle, Nubes, Picapicas, Ositos Haribo mini, Rueda de grajeas, Bubaloo y Mini Dipper
-- 🍭 [ 5 UNIDADES DE CADA CHUCHE ] Chuches para 5 así podrás disfrutar en familia o en una fiesta
 - 🎁 [ REGALO ORIGINAL Y DIVERTIDO ]
-- 🍭 [ CAJA CON CHUCHES RETRO DE LOS AÑOS 80 Y 90 ] Recuerda viejos tiempos con chuches que te hicieron sonreir un día!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WLS9RSM/?tag=tolees-21)
