@@ -29,8 +29,8 @@ Ahora mismo tienes [Nikos Sculpture Homme Eau de Toilette Vaporizador 100 ml](ht
 🔎:
 
 - Contiene 100 ml.
-- De la marca Nikos.
 - Este producto está indicado para hSombras.
 - Las notas olfativas principales de este producto son cítrico y floral.
+- De la marca Nikos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000E7WGFG/?tag=tolees-21)
