@@ -28,9 +28,9 @@ Ahora mismo tienes [Playmobil- Reyes Magos Juguete  Multicolor  tu  Geobra Brand
 
 🔎:
 
-- Incluye los cofres, la silla de montar y la cuerda
+- Incluye los tres reyes magos
 - Desarrolla la imaginación y la creatividad
 - Dimensiones: 18.7 x 7.2 x 14.2 cm
-- Incluye los tres reyes magos
+- Incluye los cofres, la silla de montar y la cuerda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B3Z2HDD/?tag=tolees-21)
