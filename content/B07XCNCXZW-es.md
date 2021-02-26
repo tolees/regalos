@@ -28,10 +28,10 @@ Ahora mismo tienes [SZILBZ Tira de luz de cable de neón de alambre para Hallowe
 
 🔎:
 
-- que la luz normal y cuerda de vidrio de neón. El cable EL es ligero y más eficiente energéticamente que las luces regulares. No hay radiación de calor o la contaminación.
-- 3 modos: constante, rápido flash y flash lento - simplemente pulse el botón del controlador para cambiar el modo.
-- EL Solicitud de alambre: artículos deportivos, artesanía de productos, suspensión de puerta y la salida, juguetes de destello, la ropa, la publicidad Flash, palabra y la imagen, señales de advertencia, etc., no puede ser utilizado para la iluminación diaria del hogar.
 - Inserte dos pilas AA como fuente de energía, cómodo y rápido, sin cables o conectores adicionales: partido de la luz que funcionan con baterías. encender las luces portátiles y eficientes. (Baterías no incluidas)
+- EL Solicitud de alambre: artículos deportivos, artesanía de productos, suspensión de puerta y la salida, juguetes de destello, la ropa, la publicidad Flash, palabra y la imagen, señales de advertencia, etc., no puede ser utilizado para la iluminación diaria del hogar.
+- que la luz normal y cuerda de vidrio de neón. El cable EL es ligero y más eficiente energéticamente que las luces regulares. No hay radiación de calor o la contaminación.
 - Diámetro del alambre: 2,3 mm. EL cable longitud del cable: 10 * 1m. Color: blanco, azul hielo, azul, verde, rosa, rojo, amarillo, naranja, rosa, verde Kelly, púrpura
+- 3 modos: constante, rápido flash y flash lento - simplemente pulse el botón del controlador para cambiar el modo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XCNCXZW/?tag=tolees-21)
