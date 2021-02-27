@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.70 % en Prada Infusion D Iris Agua de Perfume - '
-date: 2021-02-22 16:00:19
+date: 2021-02-27 11:16:39
 image: 'https://m.media-amazon.com/images/I/310biqm+r5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Prada Infusion D Iris Agua de Perfume - 100 ml](https://www.amazon.es/dp
 
 ℹ️:
 
-- Notas de salida: flor del naranjo africano, naranja, mandarina y neroli.
 - Familia olfativa: Amaderada Floral.
+- Notas de salida: flor del naranjo africano, naranja, mandarina y neroli.
 - Notas de corazón: iris, resina almáciga del lentisco y gálbano.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010SKFQCS/?tag=tolees-21)
