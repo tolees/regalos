@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Árbol de Navidad 180cm CHORTAU  800 punt al 44.60 % de descuento'
-date: 2021-02-19 11:47:51
-image: 'https://m.media-amazon.com/images/I/51NM9kwtqKL._SL200_.jpg'
+date: 2021-02-27 12:43:21
+image: 'https://m.media-amazon.com/images/I/51NM9kwtqKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.98'
 
 Ahora mismo tienes [Árbol de Navidad 180cm CHORTAU  800 puntas Árbol de Navidad Decoraciones navideñas verdes  Material de PVC  Ignífugo  Árbol de Navidad artificial impermeable con soporte de metal de estudio](https://www.amazon.es/dp/B08GF96F7D/?tag=tolees-21) a 76.98 EUR (original: 138.96 EUR) (44.60 %  de descuento) en el siguiente enlace!
 
-[![Árbol de Navidad 180cm CHORTAU  800 punt](https://m.media-amazon.com/images/I/51NM9kwtqKL._SL200_.jpg)](https://www.amazon.es/dp/B08GF96F7D/?tag=tolees-21)
+[![Árbol de Navidad 180cm CHORTAU  800 punt](https://m.media-amazon.com/images/I/51NM9kwtqKL._SL400_.jpg)](https://www.amazon.es/dp/B08GF96F7D/?tag=tolees-21)
 
 🔎:
 
