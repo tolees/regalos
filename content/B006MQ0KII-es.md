@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 15.37 % en Roberto Cavalli Agua de Perfume - 30 ml'
-date: 2021-02-28 09:53:53
+title: 'Descuento del 15.14 % en Roberto Cavalli Agua de Perfume - 30 ml'
+date: 2021-03-01 15:04:50
 image: 'https://m.media-amazon.com/images/I/313jxvyzmdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'agua','de','perfume', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75
-comparePrice: 18.61 EUR
+comparePrice: 18.56 EUR
 prodname: 'Roberto Cavalli Agua de Perfume - 30 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Roberto Cavalli'
 buyurl: 'https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21'
-descuento: '15.37'
-average: '18.1887500000001'
+descuento: '15.14'
+average: '17.9177777777779'
 ---
 
-Tienes [Roberto Cavalli Agua de Perfume - 30 ml](https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21) con un 15.37 % de descuento con precio de oferta de 15.75 EUR (original: 18.61 EUR) en el siguiente enlace!
+Tienes [Roberto Cavalli Agua de Perfume - 30 ml](https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21) con un 15.14 % de descuento con precio de oferta de 15.75 EUR (original: 18.56 EUR) en el siguiente enlace!
 
 [![Roberto Cavalli Agua de Perfume - 30 ml](https://m.media-amazon.com/images/I/313jxvyzmdL._SL400_.jpg)](https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21)
 
 ℹ️:
 
-- Notas de salida: pimienta rosa.
 - Notas de corazón: flor de azahar del naranjo.
+- Notas de salida: pimienta rosa.
 - Familia olfativa: Floral Oriental.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21)
