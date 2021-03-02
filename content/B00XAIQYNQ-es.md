@@ -28,10 +28,10 @@ Tienes [Aire de Sevilla Set de Belleza Edición Azahar - Crema Hidratante Corpor
 
 ℹ️:
 
-- El set contiene: Crema Hidratante Corporal 150 ml, Eau de Toilette 150 ml, Gel Exfoliante 150 ml.
-- Aroma cítrico muy agradable y refrescante.
-- Precioso estuche, ideal para regalo.
-- Gran durabilidad.
 - Fragancia fresca, limpia y juvenil.
+- Gran durabilidad.
+- Aroma cítrico muy agradable y refrescante.
+- El set contiene: Crema Hidratante Corporal 150 ml, Eau de Toilette 150 ml, Gel Exfoliante 150 ml.
+- Precioso estuche, ideal para regalo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAIQYNQ/?tag=tolees-21)
