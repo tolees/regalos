@@ -30,7 +30,7 @@ En este momento está [Guirnalda Luces Exterior Tomshine Cadena Luz 13M 100LED M
 
 - 【8 efectos de iluminación diferentes】: esta luz de cuerda tiene 8 efectos de iluminación, incluida la combinación, en una onda, secuencial, brillo lento, persecución / flash, atenuación lenta, centelleo / destello, encendido continuo, satisfaciendo sus diversas necesidades y brindándole una variedad de disfrute visual.
 - 【Maravillosa decoración】: fácil de operar. Decore el comedor, el dormitorio, el bar, el club, el patio, el jardín, la boda, los lugares con esta hermosa cadena de luz multicolor con 8 efectos de iluminación fascinantes y vívidos, experimentando un ambiente romántico y cálido.
-- 【Dos tipos de control de iluminación 】: Equipado con un control remoto IR 13 teclas que puede usarlo para cambiar diferentes efectos de iluminación. una forma es configurar el tiempo (6 horas encendidas y 18 horas apagadas), otra forma es detener la función de temporización y ajusta el brillo de la luz mediante el controlador.
 - 【Diseño de forma de bombilla especial】 La guirnalda de 13m incluye 100 bolas de luz multicolores de 20mm de diámetro, la superficie exclusiva de la bombilla de vidrio esmerilado proporciona una luz más suave para usted.
+- 【Dos tipos de control de iluminación 】: Equipado con un control remoto IR 13 teclas que puede usarlo para cambiar diferentes efectos de iluminación. una forma es configurar el tiempo (6 horas encendidas y 18 horas apagadas), otra forma es detener la función de temporización y ajusta el brillo de la luz mediante el controlador.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LBL19D8/?tag=tolees-21)
