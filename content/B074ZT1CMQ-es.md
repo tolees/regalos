@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Aros Mujer plata - 196316CZ-54 al 17.95 % de descuento'
-date: 2021-03-02 21:44:10
+date: 2021-03-03 22:16:56
 image: 'https://m.media-amazon.com/images/I/31deNej7jLL._SL400_.jpg'
 comments: true
 category: ofertas
