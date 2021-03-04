@@ -28,10 +28,10 @@ Ahora mismo tienes [Yizhet 2 Piezas Guirnaldas Luces Exterior Solar 10M 100 LED 
 
 🔎:
 
-- 🎄8 Modes : 8 modos de iluminación que incluyen combinación, luciérnagas, olas, desvanecimiento, persecución, desvanecimiento lento, centelleo y encendido constante. Elige tus modos favoritos en función de las diferentes ocasiones.
-- 🎄Luces Solares Guirnalda :Alimentado por energía solar, no se requiere batería o cable adicional. Se ilumina automáticamente por la noche y apagado durante el día.Obtendrá la mejor carga si lo coloca en un área abierta con luz solar directa.
 - 🎄Impermeable: Resistente al agua IP55,lo que lo hace perfecto para uso en interiores y exteriores.Estacadena de luz solar solo necesita cargar de 4 a 6 horas durante el día y puede funcionar de 8 a 12horas en la noche.
-- 🎄100 LED Súper Brillantes: La cadena de luz tiene 10 metros de largo y tiene 100 LED. Y el cable de cobre es lo suficientemente flexible, se pliega fácilmente en cualquier forma que desee, creando una atmósfera romántica.
+- 🎄8 Modes : 8 modos de iluminación que incluyen combinación, luciérnagas, olas, desvanecimiento, persecución, desvanecimiento lento, centelleo y encendido constante. Elige tus modos favoritos en función de las diferentes ocasiones.
 - 🎄 Escenarios de Múltiples Aplicaciones: Estas luces de cadena son un gran accesorio decorativo para iluminar espacios interiores y exteriores, como sus jardines, patio, cerca, puerta, patio, bodas, fiestas, árboles de Navidad, etc.
+- 🎄Luces Solares Guirnalda :Alimentado por energía solar, no se requiere batería o cable adicional. Se ilumina automáticamente por la noche y apagado durante el día.Obtendrá la mejor carga si lo coloca en un área abierta con luz solar directa.
+- 🎄100 LED Súper Brillantes: La cadena de luz tiene 10 metros de largo y tiene 100 LED. Y el cable de cobre es lo suficientemente flexible, se pliega fácilmente en cualquier forma que desee, creando una atmósfera romántica.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B4VR2MJ/?tag=tolees-21)
