@@ -28,9 +28,9 @@ En este momento está [Youtang - Caja de música pintada de Pesadilla antes de N
 
 🔎:
 
+- Melodía: «Esto es Halloween». Puedes escucharla antes de hacer el pedido
+- Ideal como regalo: caja de música ideal para amigos, pareja, familiares o para uno mismo
 - Material: caja musical de madera y metal. Tamaño aprox: 56 x 46 x 104 mm. Cabe en el bolsillo
 - Para que suene, tienes que hacer girar la manivela
-- Ideal como regalo: caja de música ideal para amigos, pareja, familiares o para uno mismo
-- Melodía: «Esto es Halloween». Puedes escucharla antes de hacer el pedido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CDMHTPR/?tag=tolees-21)
