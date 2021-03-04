@@ -28,8 +28,8 @@ Tienes [Juicy Couture 24321 - Agua de perfume  100 ml](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Productos de belleza y cuidado personal
-- Peso / Volumen: 100 ml
 - Tipo de producto: Agua de perfume -Genero: Unisex
+- Peso / Volumen: 100 ml
+- Productos de belleza y cuidado personal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000JL7Z5S/?tag=tolees-21)
