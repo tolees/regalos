@@ -28,10 +28,10 @@ Ahora mismo tienes [CompraFun Máscara LED Halloween  Máscara Disfraz Luminosa 
 
 🔎:
 
-- 🎁【Fácil de Llevar】El controlador tiene un clip, lo puedes meter en el bolsillo o poner en la cintura de las prendas.
-- 🎈【Apta para Diversas Ocasiones】Esta máscara es una óptima opción para usos en diferentes lugares (casa, discoteca, club) y situaciones (fiestas, cumpleaños, festivales, carnaval, Halloween, Navidad).
 - 🎉【Alimentación】Funciona con dos baterías AA, que no se incluyen en el paquete.
-- 🎉【3 Modos de Iluminación】Esta máscara luminosa cuenta con un controlador con el cual se puede seleccionar el modo de iluminación, son 3 modos en total (fijo, parpadeo lento y parpadeo rápido).
 - 🎈【Correa Ajustable】La correa de cabeza ajustable hace que esta máscara sea fácil de adaptarse a la mayoría de las personas, tanto adultos como niños.
+- 🎈【Apta para Diversas Ocasiones】Esta máscara es una óptima opción para usos en diferentes lugares (casa, discoteca, club) y situaciones (fiestas, cumpleaños, festivales, carnaval, Halloween, Navidad).
+- 🎁【Fácil de Llevar】El controlador tiene un clip, lo puedes meter en el bolsillo o poner en la cintura de las prendas.
+- 🎉【3 Modos de Iluminación】Esta máscara luminosa cuenta con un controlador con el cual se puede seleccionar el modo de iluminación, son 3 modos en total (fijo, parpadeo lento y parpadeo rápido).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0769F7XXV/?tag=tolees-21)
