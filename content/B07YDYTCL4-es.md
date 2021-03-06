@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PANDORA Kit de Cuidado y Limpieza al 17.39 % de rebaja'
-date: 2021-03-05 04:40:12
+date: 2021-03-06 09:37:28
 image: 'https://m.media-amazon.com/images/I/41lR2kInQ1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B07YDYTCL4/?tag=tolees-21'
 descuento: '17.39'
-average: '20.6410256410256'
+average: '20.6134453781513'
 ---
 
 Tienes [PANDORA Kit de Cuidado y Limpieza](https://www.amazon.es/dp/B07YDYTCL4/?tag=tolees-21) con precio final de  19.0 EUR (original: 23.0 EUR) (17.39 %  de rebaja) aqui!
