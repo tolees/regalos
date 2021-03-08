@@ -28,11 +28,11 @@ En este momento está [Swarovski Collar Attract  blanco  Baño de Rodio](https:/
 
 🔎:
 
-- El collar Attract ofrece un estilo sencillo y chic
-- Fácil de combinar y mezclar con otros accesorios de Swarovski
+- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional, el metal es enchapado y cada cristal se engarza de forma individual, debido a ello necesitan un cuidado optimo
 - optimo para cualquier ocasión, es un básico imprescindible para cualquier colección personal y resulta optimo para regalar
 - Atemporal y elegante, este diseño con baño de rodio lleva una impresionante piedra de talla cuadrada
+- El collar Attract ofrece un estilo sencillo y chic
+- Fácil de combinar y mezclar con otros accesorios de Swarovski
 - Largo: 38 cm Colgante: 0.6x0.6 cm
-- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional, el metal es enchapado y cada cristal se engarza de forma individual, debido a ello necesitan un cuidado optimo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TXS3SW8/?tag=tolees-21)
