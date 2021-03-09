@@ -28,10 +28,10 @@ Ahora mismo tienes [iiniim Conjunto de Disfraz Body de Algodón + Falda + Diadem
 
 🔎:
 
-- Disfraz adorable de fiesta con diadema con orejas para bebé niña (12 meses-4 años). Adorable vestido con una Diadema de orejas. Muy encantador y elegante.
-- Perfecto para cumpleaños, fiesta, fotografía, carnaval, baile de disfraces, ceremonia etc.
-- Cuello redondo, manga corta. Algodón, Organza, suave y lisa, el material es higroscópico y antibacteriano,que puede proteger la piel de los bebés.
 - Falda de 3 capas con patrón de lunares, pretina elástica con un lazo.
 - El vestido es adorable para niñas pequeñas! Le permitirá a su pequeña niña recibir muchos cumplidos.
+- Cuello redondo, manga corta. Algodón, Organza, suave y lisa, el material es higroscópico y antibacteriano,que puede proteger la piel de los bebés.
+- Disfraz adorable de fiesta con diadema con orejas para bebé niña (12 meses-4 años). Adorable vestido con una Diadema de orejas. Muy encantador y elegante.
+- Perfecto para cumpleaños, fiesta, fotografía, carnaval, baile de disfraces, ceremonia etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H2VYJZ7/?tag=tolees-21)
