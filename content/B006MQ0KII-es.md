@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 67.05 % en Roberto Cavalli Agua de Perfume - 30 ml'
-date: 2021-03-08 21:16:09
+date: 2021-03-09 21:31:48
 image: 'https://m.media-amazon.com/images/I/313jxvyzmdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Roberto Cavalli'
 buyurl: 'https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21'
 descuento: '67.05'
-average: '17.132142857143'
+average: '17.0366666666668'
 ---
 
 Tienes [Roberto Cavalli Agua de Perfume - 30 ml](https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21) con un 67.05 % de descuento con precio de oferta de 15.7 EUR (original: 47.65 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Roberto Cavalli Agua de Perfume - 30 ml](https://www.amazon.es/dp/B006MQ
 
 ℹ️:
 
-- Notas de salida: pimienta rosa.
 - Familia olfativa: Floral Oriental.
+- Notas de salida: pimienta rosa.
 - Notas de corazón: flor de azahar del naranjo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21)
