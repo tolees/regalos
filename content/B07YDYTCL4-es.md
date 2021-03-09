@@ -28,7 +28,7 @@ Tienes [PANDORA Kit de Cuidado y Limpieza](https://www.amazon.es/dp/B07YDYTCL4/?
 
 🔎:
 
-- Marca: Pandora.
 - Color: blanco.
+- Marca: Pandora.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YDYTCL4/?tag=tolees-21)
