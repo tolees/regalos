@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bedsure Cama Gato Cueva Navidad Suave -  al 17.40 % de descuento'
-date: 2021-03-05 21:13:11
+date: 2021-03-10 10:46:50
 image: 'https://m.media-amazon.com/images/I/51SThKv9o8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bedsure'
 buyurl: 'https://www.amazon.es/dp/B08FX6TFKC/?tag=tolees-21'
 descuento: '17.40'
-average: '22.74'
+average: '21.99'
 ---
 
 Está [Bedsure Cama Gato Cueva Navidad Suave - Casa Gato Mediano Lavable con Cojín Desenfundable y Extraíble  Camas para Perros Pequeños 35x35x40cm  Rojo y Negro](https://www.amazon.es/dp/B08FX6TFKC/?tag=tolees-21) con 17.40 de descuento por 18.99 EUR (original: 22.99 EUR) en el siguiente enlace!
