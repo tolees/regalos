@@ -28,10 +28,10 @@ Tienes [Lékué - Kit Cookies Navidad  Acero Inoxidable](https://www.amazon.es/d
 
 🔎:
 
-- Recetario incluido
+- 20 bolsitas de plástico (aptas contacto alimentario) y cordón para colgarlas
 - Divertidas e inesperadas pegatinas para customizar las bolsas
 - 5 nuevos cortadores de galletas: santa claus, reno, regalo, bastón de caramelo, campana
 - Embolsa las galletas, personalízalas y regálalas o cuélgalas de tu árbol de navidad
-- 20 bolsitas de plástico (aptas contacto alimentario) y cordón para colgarlas
+- Recetario incluido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NC17J4T/?tag=tolees-21)
