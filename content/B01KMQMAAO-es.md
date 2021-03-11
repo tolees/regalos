@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Abalorios Mujer plata - 791966 al 17.14 % de descuento'
-date: 2021-03-10 03:18:25
+date: 2021-03-11 04:22:32
 image: 'https://m.media-amazon.com/images/I/4155W98ZCXL._SL400_.jpg'
 comments: true
 category: ofertas
