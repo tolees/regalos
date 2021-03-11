@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Mujer plata Abalorios 798009EN16 al 27.84 % de descuento'
-date: 2021-03-09 21:37:54
+date: 2021-03-11 16:07:06
 image: 'https://m.media-amazon.com/images/I/41uIT9Cv+3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B07NF1ZXVM/?tag=tolees-21'
 descuento: '27.84'
-average: '30.5465957446809'
+average: '30.4426530612245'
 ---
 
 Está [Pandora Mujer plata Abalorios 798009EN16](https://www.amazon.es/dp/B07NF1ZXVM/?tag=tolees-21) con 27.84 de descuento por 28.0 EUR (original: 38.8 EUR) en el siguiente enlace!
