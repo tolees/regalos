@@ -28,10 +28,10 @@ Tienes [TOFU - Velas Perfumadas de Regalo  Regalos Originales para Mujer  Cera d
 
 🔎:
 
-- 【Netas y apariencia agradables】Las latas y el embalaje especialmente diseñados, lo hacen ideal para el presente y el regalo.
-- 【Cera de soja】 Esta vela está hecha de cera de soja 100% natural, biodegradable, ecológica y saludable, con un efecto de combustión limpio y duradero.
-- 【Cuatro incienso Set】 Juego de velas de aromaterapia de lavanda francesa de jazmín Gardénia. Emiten un olor agradable cuando se queman y tienen un tratamiento de belleza que calma los nervios, purifica el aire y elimina los olores.
 - 【Portátil y reutilizable】 Una vez que la vela perfumada se haya apagado, cubra el frasco para evitar que la vela se seque y acumule polvo. Estas cajas vacías se pueden usar para almacenar decoraciones, pulseras, alfileres o llaves.
+- 【Netas y apariencia agradables】Las latas y el embalaje especialmente diseñados, lo hacen ideal para el presente y el regalo.
 - 【Cómodo y relajante】 La larga duración (25 a 30 horas) proporciona aromaterapia para crear un ambiente relajante para familias, oficinas e iglesias
+- 【Cuatro incienso Set】 Juego de velas de aromaterapia de lavanda francesa de jazmín Gardénia. Emiten un olor agradable cuando se queman y tienen un tratamiento de belleza que calma los nervios, purifica el aire y elimina los olores.
+- 【Cera de soja】 Esta vela está hecha de cera de soja 100% natural, biodegradable, ecológica y saludable, con un efecto de combustión limpio y duradero.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0819CHRTY/?tag=tolees-21)
