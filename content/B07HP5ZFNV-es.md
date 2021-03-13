@@ -28,8 +28,8 @@ Tienes [Lékué Set 3 Plantillas Cookies Navidad](https://www.amazon.es/dp/B07HP
 
 ℹ️:
 
-- Una forma de arbol navideño, otra forma de copo de nieve y otra en forma de corazones
-- El molde no permite dejar espacios entre galleta y galleta y se aprovecha la masa al máximo.
 - Sencillo y fácil ideal para hacer con niños
+- El molde no permite dejar espacios entre galleta y galleta y se aprovecha la masa al máximo.
+- Una forma de arbol navideño, otra forma de copo de nieve y otra en forma de corazones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HP5ZFNV/?tag=tolees-21)
