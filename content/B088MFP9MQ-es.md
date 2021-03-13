@@ -28,10 +28,10 @@ Tienes [Swarovski Collar Angelic Rectangular  verde  baño de rodio](https://www
 
 🔎:
 
-- Largo: 38 cm; colgante: 1x0.8 cm
-- Un regalo precioso para un ser querido
-- Su diseño simple pero elegante lo convierte en una elección adecuada para añadir elegancia a los looks de diario
-- Incorpora una piedra rectangular de color verde que adorna una resplandeciente cadena y está rodeada de pavé
 - Combínalo con accesorios a juego para obtener un conjunto radiante
+- Un regalo precioso para un ser querido
+- Incorpora una piedra rectangular de color verde que adorna una resplandeciente cadena y está rodeada de pavé
+- Su diseño simple pero elegante lo convierte en una elección adecuada para añadir elegancia a los looks de diario
+- Largo: 38 cm; colgante: 1x0.8 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088MFP9MQ/?tag=tolees-21)
