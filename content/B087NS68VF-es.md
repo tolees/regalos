@@ -30,8 +30,8 @@ En este momento está [Tiras LED L8star Luz de Tira LED Smart 5050 Control APP  
 
 - Amplia gama de usos, se puede utilizar para decorar sus salas de estar
 - Tiras de LED regulables, Tira de LED con atenuador y brillo, El brillo es ajustable, se puede configurar de acuerdo a sus necesidades
-- Modo de música y micrófono, puede elegir libremente controlar 16 millones de colores, la tira de luz LED tiene un modo de música inteligente
 - Configuración en segundos, simplemente pegue la tira de luz en una superficie limpia y seca y comience a usar
+- Modo de música y micrófono, puede elegir libremente controlar 16 millones de colores, la tira de luz LED tiene un modo de música inteligente
 - Las luces también tienen una función de bricolaje para que pueda configurar su espectáculo de iluminación único para cualquier ambiente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087NS68VF/?tag=tolees-21)
