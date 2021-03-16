@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Hugo Boss 58396 - Agua de perfume al 54.46 % de rebaja'
-date: 2021-03-15 16:26:42
+date: 2021-03-16 22:17:00
 image: 'https://m.media-amazon.com/images/I/31IPsXNqXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LC0G4FM-es Hugo Boss 58396 - Agua de perfume'
 sku: 'B00LC0G4FM-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'agua','boss','de','perfume', ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B00LC0G4FM/?tag=tolees-21'
 descuento: '54.46'
-average: '43.0821782178219'
+average: '43.059223300971'
 ---
 
 Tienes [Hugo Boss 58396 - Agua de perfume](https://www.amazon.es/dp/B00LC0G4FM/?tag=tolees-21) con precio final de  41.9 EUR (original: 92.0 EUR) (54.46 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Hugo Boss 58396 - Agua de perfume](https://www.amazon.es/dp/B00LC0G4FM/?
 
 🔎:
 
+- Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de perfume
 - Marca: Hugo Boss-boss
-- Productos de belleza y el cuidado personal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LC0G4FM/?tag=tolees-21)
