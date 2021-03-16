@@ -29,9 +29,9 @@ Ahora mismo tienes [CAROLINA HERRERA CH MEN - Agua de tocador vaporizador  100 m
 🔎:
 
 - El paquete puede variar.
-- Este producto está indicado para hombres.
 - Contiene 100 ml.
 - De la marca Carolina Herrera.
+- Este producto está indicado para hombres.
 - Las notas olfativas principales de este producto son amaderado, especiado y cítrico.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008DVKC7Y/?tag=tolees-21)
