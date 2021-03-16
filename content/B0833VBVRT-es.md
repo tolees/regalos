@@ -29,9 +29,9 @@ En este momento está [Guirnaldas Luces Exterior Solar [2 Pack]  Kolpop 3M 30LED
 🔎:
 
 - ✨【8 Modos y Batería de 800 mAh】 Elija el efecto de iluminación que prefiera y cree un ambiente romántico. Con una alta capacidad de batería que aumenta a 800MA, esta luz solar solo necesita cargar de 6 a 8 horas durante el día y puede funcionar de 8 a 14 horas en la noche.
-- ✨【Escenarios de aplicaciones múltiples】Estas luces de cadena son un gran accesorio crea un ambiente cálido y agradable para usted y su familia, perfecto para su jardín, patio, césped, porche, puerta, patio, etc.
 - ✨【Salpicaduras a prueba de agua】 Tanto las luces de cuerda como el panel solar son IP55 a prueba de agua. No te preocupes por usarlos bajo la lluvia.
 - ✨【Guirnaldas Luces Exterior Solar】Cadena de luces LED de 3M, 30 LEDs; distancia del bulbo: 20cm;Los cables de PVC son impermeables.
 - ✨【Lo que obtienes】Paquete de 2 Guirnalda Solar Bola de Cristal Luces, garantía de devolución de dinero de 60 días, 1 año de garantía sin preocupaciones, servicio al cliente amigable las 24 horas.
+- ✨【Escenarios de aplicaciones múltiples】Estas luces de cadena son un gran accesorio crea un ambiente cálido y agradable para usted y su familia, perfecto para su jardín, patio, césped, porche, puerta, patio, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0833VBVRT/?tag=tolees-21)
