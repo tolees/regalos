@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M0A44IA-es Collar Mujer J.Rosée Plata de Ley 925 Brillante...'
 sku: 'B01M0A44IA-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

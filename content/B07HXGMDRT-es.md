@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07HXGMDRT-es vivo Villeroy & Boch Group New Fresh Basic Cubertería...'
 sku: 'B07HXGMDRT-es'
-tags: [ 'villeroy','&','boch', ]
+tags: [ '&','boch','villeroy', ]
 actualPrice: 50.33 EUR
 currency: EUR
 price: 50.33

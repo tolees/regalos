@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0013FKSIA-es Boucheron Jaipur Homme Eau de Toilette Vaporizador 100 ml'
 sku: 'B0013FKSIA-es'
-tags: [ 'eau','de','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

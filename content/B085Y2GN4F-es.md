@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B085Y2GN4F-es Milacolato 8 Pares de Aretes de Plata de ley 925 Circle...'
 sku: 'B085Y2GN4F-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

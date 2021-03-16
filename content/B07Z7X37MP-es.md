@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Z7X37MP-es Álvarez Gómez 100154 Flores Mediterráneas Magnolia Blanca...'
 sku: 'B07Z7X37MP-es'
-tags: [ 'agua','de','colonia', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

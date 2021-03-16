@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VP68LPF-es Amilril Collar Estrella Mujer Plata de Ley 925 Joyería...'
 sku: 'B07VP68LPF-es'
-tags: [ 'navidad','plata','de','ley', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 68.98 EUR
 currency: EUR
 price: 68.98

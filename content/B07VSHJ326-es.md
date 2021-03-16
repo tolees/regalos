@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VSHJ326-es Amilril Collar de Copo de Nieve Colgante Plata de Ley 925...'
 sku: 'B07VSHJ326-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

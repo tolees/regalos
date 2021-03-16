@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M3Y3W4P-es Eye Candy ECJ-NL0067 - Collar para mujer colgante en plata...'
 sku: 'B01M3Y3W4P-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 41.14 EUR
 currency: EUR
 price: 41.14

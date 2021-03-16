@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B000E7WI6I-es Jean Paul Gaultier Le Male Eau de Toilette Vaporizador 75 ml'
 sku: 'B000E7WI6I-es'
-tags: [ 'eau','de','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

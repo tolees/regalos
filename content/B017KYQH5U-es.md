@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B017KYQH5U-es Heno De Pravia Original Agua de Colonia - 650 ml'
 sku: 'B017KYQH5U-es'
-tags: [ 'agua','de','colonia', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

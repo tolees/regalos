@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Q6XLV1Y-es Amilril Collar Collar Colgante de Corazón Mujer Plata de...'
 sku: 'B07Q6XLV1Y-es'
-tags: [ 'navidad','plata','de','ley', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

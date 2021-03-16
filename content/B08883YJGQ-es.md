@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08883YJGQ-es Crystals & Stones BAP39 - Pendientes de plata de ley 925...'
 sku: 'B08883YJGQ-es'
-tags: [ 'swarovski','plata','de','ley', ]
+tags: [ 'de','ley','plata','swarovski', ]
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

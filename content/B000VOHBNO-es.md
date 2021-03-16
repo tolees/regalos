@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B000VOHBNO-es Lancome - Hypnose Homme - Eau de Toilette - 50 ml'
 sku: 'B000VOHBNO-es'
-tags: [ 'eau','de','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

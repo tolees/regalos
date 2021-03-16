@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01N8VGYXR-es Elli Pendientes para dama forma geométrica con cristales...'
 sku: 'B01N8VGYXR-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 26.06 EUR
 currency: EUR
 price: 26.06

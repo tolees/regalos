@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B007YA6MOC-es Shiseido 70518 - Agua de colonia'
 sku: 'B007YA6MOC-es'
-tags: [ 'agua','de','colonia', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

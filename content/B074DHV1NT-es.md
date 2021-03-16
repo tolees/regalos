@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074DHV1NT-es Thomas Sabo - Pulsera con colgante de Mujer Plata de Ley...'
 sku: 'B074DHV1NT-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

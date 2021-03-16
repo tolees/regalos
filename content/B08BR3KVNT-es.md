@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08BR3KVNT-es Beforya Paris** – Pendientes largos de plata de ley 925 –...'
 sku: 'B08BR3KVNT-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

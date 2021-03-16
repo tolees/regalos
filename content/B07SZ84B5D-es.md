@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07SZ84B5D-es Tobillera Infinito para mujeres niñas plata de ley 925...'
 sku: 'B07SZ84B5D-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

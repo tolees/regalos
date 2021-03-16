@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TFNH17X-es Crystals&Stones Mujer plata de ley 925 plata'
 sku: 'B07TFNH17X-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

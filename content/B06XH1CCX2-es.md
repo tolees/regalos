@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XH1CCX2-es FCB Eau de Toilette para Hombre 100 ml'
 sku: 'B06XH1CCX2-es'
-tags: [ 'eau','de','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

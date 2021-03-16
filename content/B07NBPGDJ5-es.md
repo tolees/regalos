@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07NBPGDJ5-es Anillo de plata labradorita anillo de plata labradorita...'
 sku: 'B07NBPGDJ5-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

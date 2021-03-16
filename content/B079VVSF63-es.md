@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B079VVSF63-es BVLGARI Omnia Pink Sapphire eau de toilette Mujeres 40 ml...'
 sku: 'B079VVSF63-es'
-tags: [ 'eau','de','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07GYHP79X-es LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante...'
 sku: 'B07GYHP79X-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

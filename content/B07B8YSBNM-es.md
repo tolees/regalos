@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07B8YSBNM-es J.Rosée Collar Mujer Collar Plata de Ley 925 Brillante...'
 sku: 'B07B8YSBNM-es'
-tags: [ 'navidad','plata','de','ley', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 16.33 EUR
 currency: EUR
 price: 16.33

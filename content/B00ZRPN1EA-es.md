@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00ZRPN1EA-es Bvlgari Au The Blanc - Agua de colonia 75 ml'
 sku: 'B00ZRPN1EA-es'
-tags: [ 'agua','de','colonia', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

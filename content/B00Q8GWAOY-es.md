@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00Q8GWAOY-es Lacoste 65873 - Agua de colonia 100 ml'
 sku: 'B00Q8GWAOY-es'
-tags: [ 'agua','de','colonia', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

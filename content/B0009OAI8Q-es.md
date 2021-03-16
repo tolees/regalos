@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0009OAI8Q-es Elizabeth Taylor White Diamond Eau De Toilette 100 ml'
 sku: 'B0009OAI8Q-es'
-tags: [ 'eau','de','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

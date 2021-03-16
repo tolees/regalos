@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07M9R6JDH-es Angelady Collar de Pendientes Juego de Joyas de para Mujer...'
 sku: 'B07M9R6JDH-es'
-tags: [ 'swarovski','plata','de','ley', ]
+tags: [ 'de','ley','plata','swarovski', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

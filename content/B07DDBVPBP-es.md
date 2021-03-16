@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DDBVPBP-es TABAC ORIGINAL Agua De Colonia Para Hombres 1 Unidad 100 ml'
 sku: 'B07DDBVPBP-es'
-tags: [ 'agua','de','colonia', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

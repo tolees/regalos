@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B002LSTMB2-es Paco Rabanne 1 Million Eau de Toilette Vaporizador 50 ml'
 sku: 'B002LSTMB2-es'
-tags: [ 'eau','de','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

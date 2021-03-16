@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B079VM5JCK-es Thomas Sabo - Colgante de Mujer "Cráneo de Toro Étnico...'
 sku: 'B079VM5JCK-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

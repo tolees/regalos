@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01DOZ5UJS-es Burberry Agua de colonia para hombres - 150 gr.'
 sku: 'B01DOZ5UJS-es'
-tags: [ 'agua','de','colonia', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 55.04 EUR
 currency: EUR
 price: 55.04

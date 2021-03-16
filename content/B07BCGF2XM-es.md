@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07BCGF2XM-es Tobilleras mujer plata de ley dulce romántico círculos...'
 sku: 'B07BCGF2XM-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

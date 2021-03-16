@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0053OWQQE-es Tuscany Silver Pulsera de mujer con plata de ley 925/1000...'
 sku: 'B0053OWQQE-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

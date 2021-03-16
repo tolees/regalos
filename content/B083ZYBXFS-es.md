@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083ZYBXFS-es DCC FIONNI Collar Mujer Corazon Colgante Plata de Ley 925...'
 sku: 'B083ZYBXFS-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

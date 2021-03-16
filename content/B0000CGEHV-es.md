@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0000CGEHV-es Villeroy & Boch Petite Fleur Ensaladera 25 cm Porcelana...'
 sku: 'B0000CGEHV-es'
-tags: [ 'villeroy','&','boch', ]
+tags: [ '&','boch','villeroy', ]
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

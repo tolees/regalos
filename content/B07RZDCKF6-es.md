@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RZDCKF6-es EUMI Pendientes Colgantes Pendientes Plata de Ley 925...'
 sku: 'B07RZDCKF6-es'
-tags: [ 'plata','de','ley', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

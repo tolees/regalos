@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B005VRA66K-es Versace Yellow Diamond Agua de Colonia - 90 ml'
 sku: 'B005VRA66K-es'
-tags: [ 'agua','de','colonia', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9
