@@ -28,9 +28,9 @@ Tienes [CALVIN KLEIN ETERNITY MEN agua de tocador vaporizador 100 ml](https://ww
 
 🔎:
 
-- Las notas olfativas principales de este producto son amaderado y cítrico.
-- Este producto está indicado para hombres.
 - Contiene 100 ml.
 - De la marca Calvin Klein.
+- Las notas olfativas principales de este producto son amaderado y cítrico.
+- Este producto está indicado para hombres.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000C1UBR4/?tag=tolees-21)
