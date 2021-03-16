@@ -28,8 +28,8 @@ Ahora mismo tienes [CALVIN KLEIN CK ONE agua de tocador vaporizador 50 ml](https
 
 🔎:
 
-- De la marca Calvin Klein.
-- Este producto está indicado tanto para mujeres como para hombres.
 - Las notas olfativas principales de este producto son amaderado, cítrico y floral.
+- Este producto está indicado tanto para mujeres como para hombres.
+- De la marca Calvin Klein.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000JCDV2S/?tag=tolees-21)
