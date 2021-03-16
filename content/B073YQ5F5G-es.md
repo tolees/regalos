@@ -5,7 +5,7 @@ date: 2020-10-02 22:18:21
 image: 'https://m.media-amazon.com/images/I/51JnMZ3EToL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073YQ5F5G-es Regalo De Navidad Abalorio Pulsera Mujer Plateado De Plata...'
 sku: 'B073YQ5F5G-es'
 tags: [ 'navidad', ]

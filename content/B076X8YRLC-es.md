@@ -5,7 +5,7 @@ date: 2020-05-21 08:46:46
 image: 'https://m.media-amazon.com/images/I/41f08AwAsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X8YRLC-es Cacharel Agua de perfume para mujeres - 30 ml.'
 sku: 'B076X8YRLC-es'
 tags: [ 'agua','de','perfume', ]

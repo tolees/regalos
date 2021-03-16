@@ -5,7 +5,7 @@ date: 2020-05-27 19:46:23
 image: 'https://m.media-amazon.com/images/I/41ubiazysuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C3BRQZG-es Biotherm Homme Aquafitness Eau de Toilette Vaporizador 100 ml'
 sku: 'B00C3BRQZG-es'
 tags: [ 'de','eau','toilette', ]

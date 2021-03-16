@@ -5,7 +5,7 @@ date: 2020-04-05 08:44:24
 image: 'https://m.media-amazon.com/images/I/41b8fWoqmBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZYBXFS-es DCC FIONNI Collar Mujer Corazon Colgante Plata de Ley 925...'
 sku: 'B083ZYBXFS-es'
 tags: [ 'de','ley','plata', ]

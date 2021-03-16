@@ -5,7 +5,7 @@ date: 2020-01-31 22:04:46
 image: 'https://m.media-amazon.com/images/I/41yVI7IApFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPDP15H-es OBEEII Disfraz Sofia Princesa Vestido de Fiesta Disfraz...'
 sku: 'B07VPDP15H-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 16:37:20
 image: 'https://m.media-amazon.com/images/I/31hXgAJ27+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MEGKQB1-es Guerlain Homme Agua de Perfume para Hombres - 100 gr'
 sku: 'B01MEGKQB1-es'
 tags: [ 'agua','de','perfume', ]

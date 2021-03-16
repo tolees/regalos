@@ -5,7 +5,7 @@ date: 2020-07-09 23:39:09
 image: 'https://m.media-amazon.com/images/I/41s2QJ-W5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BR1QTR7-es Beforya Paris** – Pendientes largos de plata de ley 925 –...'
 sku: 'B08BR1QTR7-es'
 tags: [ 'de','ley','plata', ]

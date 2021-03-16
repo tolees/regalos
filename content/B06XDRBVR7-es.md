@@ -5,7 +5,7 @@ date: 2020-03-10 17:27:20
 image: 'https://m.media-amazon.com/images/I/31h-tIUmO3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDRBVR7-es Prada Luna Rossa Carbon Vaporizador Agua de Colonia - 50 ml'
 sku: 'B06XDRBVR7-es'
 tags: [ 'agua','colonia','de', ]

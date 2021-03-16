@@ -5,7 +5,7 @@ date: 2020-02-13 14:54:27
 image: 'https://m.media-amazon.com/images/I/61IB2BRIoIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3ZMY6Q-es PLAYMOBIL Calendario de Adviento Navidad en el Bosque A...'
 sku: 'B07B3ZMY6Q-es'
 tags: [ 'adviento','navidad', ]

@@ -5,7 +5,7 @@ date: 2020-04-22 08:04:13
 image: 'https://m.media-amazon.com/images/I/41pz+WBMoDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Y6KXVY-es Oihxse Case Compatible con Realme 5 Pro Funda Transparente...'
 sku: 'B082Y6KXVY-es'
 tags: [ 'navidad', ]

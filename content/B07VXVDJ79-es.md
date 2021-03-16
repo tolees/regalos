@@ -5,7 +5,7 @@ date: 2020-01-18 18:59:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iVqlL23sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXVDJ79-es Tuokay 10M 100 LED Luces de Navidad Cadena de Luces...'
 sku: 'B07VXVDJ79-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-07-24 09:19:15
 image: 'https://m.media-amazon.com/images/I/51Japa-zt1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLDT79P-es Felly Juguetes Bebes Puzzles de Madera Educativos para...'
 sku: 'B07VLDT79P-es'
 tags: [ 'navidad', ]

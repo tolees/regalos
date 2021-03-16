@@ -5,7 +5,7 @@ date: 2020-09-12 18:43:10
 image: 'https://m.media-amazon.com/images/I/41QNZRtIhUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZA9W2ZC-es Lancôme La Vie Est Belle Intense Agua de Perfume - 30 ml'
 sku: 'B00ZA9W2ZC-es'
 tags: [ 'agua','de','perfume', ]

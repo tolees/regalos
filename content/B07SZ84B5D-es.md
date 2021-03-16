@@ -5,7 +5,7 @@ date: 2020-07-10 22:50:00
 image: 'https://m.media-amazon.com/images/I/31cbKc0MlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZ84B5D-es Tobillera Infinito para mujeres niñas plata de ley 925...'
 sku: 'B07SZ84B5D-es'
 tags: [ 'de','ley','plata', ]

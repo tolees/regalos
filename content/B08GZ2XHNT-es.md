@@ -5,7 +5,7 @@ date: 2020-10-12 00:49:57
 image: 'https://m.media-amazon.com/images/I/51L1g5YfkjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GZ2XHNT-es YUCCH 24pcs Bolsas de regalo de Navidad de Papel Incluye...'
 sku: 'B08GZ2XHNT-es'
 tags: [ 'navidad', ]

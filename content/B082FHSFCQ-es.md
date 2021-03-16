@@ -5,7 +5,7 @@ date: 2020-01-27 02:07:18
 image: 'https://m.media-amazon.com/images/I/51Ed2AveozL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FHSFCQ-es IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa con...'
 sku: 'B082FHSFCQ-es'
 tags: [ 'navidad', ]

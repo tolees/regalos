@@ -5,7 +5,7 @@ date: 2020-06-23 15:45:55
 image: 'https://m.media-amazon.com/images/I/31DywhMsejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFNH17X-es Crystals&Stones Mujer plata de ley 925 plata'
 sku: 'B07TFNH17X-es'
 tags: [ 'de','ley','plata', ]

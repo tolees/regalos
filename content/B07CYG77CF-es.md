@@ -5,7 +5,7 @@ date: 2020-03-19 11:57:34
 image: 'https://m.media-amazon.com/images/I/311tt1TxiZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYG77CF-es Elizabeth Arden Agua de perfume para mujeres - 30 ml.'
 sku: 'B07CYG77CF-es'
 tags: [ 'agua','de','perfume', ]

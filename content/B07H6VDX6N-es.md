@@ -5,7 +5,7 @@ date: 2020-03-04 15:03:28
 image: 'https://m.media-amazon.com/images/I/41JZ+rRiPJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6VDX6N-es mysunny Album de Fotos Libro de Recuerdos de Cuero página...'
 sku: 'B07H6VDX6N-es'
 tags: [ 'navidad', ]

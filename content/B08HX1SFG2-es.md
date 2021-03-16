@@ -5,7 +5,7 @@ date: 2020-09-21 18:45:14
 image: 'https://m.media-amazon.com/images/I/51zlx-6uaRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HX1SFG2-es Tiras LED Alexa WiFi 5M Tira LED RGB Inteligente con...'
 sku: 'B08HX1SFG2-es'
 tags: [ 'navidad', ]

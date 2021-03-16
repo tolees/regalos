@@ -5,7 +5,7 @@ date: 2020-05-09 14:02:28
 image: 'https://m.media-amazon.com/images/I/51fCP9DGVIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4JR3MC-es FTVOGUE Navidad de Madera Merry-Go-Round Caballo...'
 sku: 'B07H4JR3MC-es'
 tags: [ 'navidad', ]

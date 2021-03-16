@@ -5,7 +5,7 @@ date: 2020-06-27 19:20:45
 image: 'https://m.media-amazon.com/images/I/41VlGnmb9VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7PVRGH-es Thomas Sabo Colgante Charm con Cierre para Mujer " Vintage...'
 sku: 'B07F7PVRGH-es'
 tags: [ 'de','ley','plata', ]

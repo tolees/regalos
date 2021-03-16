@@ -5,7 +5,7 @@ date: 2020-07-18 12:23:46
 image: 'https://m.media-amazon.com/images/I/31nJ2t8aDYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000CGEHV-es Villeroy & Boch Petite Fleur Ensaladera 25 cm Porcelana...'
 sku: 'B0000CGEHV-es'
 tags: [ '&','boch','villeroy', ]

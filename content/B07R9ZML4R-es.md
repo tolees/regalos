@@ -5,7 +5,7 @@ date: 2020-07-05 01:42:01
 image: 'https://m.media-amazon.com/images/I/41AAZOOyU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9ZML4R-es Guirnalda Luces LED Tomshine 6.5m/21.33ft Cadena de Luz...'
 sku: 'B07R9ZML4R-es'
 tags: [ 'navidad', ]

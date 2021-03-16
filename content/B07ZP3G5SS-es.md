@@ -5,7 +5,7 @@ date: 2020-04-14 09:38:24
 image: 'https://m.media-amazon.com/images/I/41-sWnDlXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP3G5SS-es LuckyGirls Calcetines de algodón Estampados de Dibujos...'
 sku: 'B07ZP3G5SS-es'
 tags: [ 'navidad', ]

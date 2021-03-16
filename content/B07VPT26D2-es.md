@@ -5,7 +5,7 @@ date: 2020-02-22 12:38:42
 image: 'https://m.media-amazon.com/images/I/61yeZaT4dML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPT26D2-es GoMaihe Hiedra Artificial Guirnalda Planta 24pcs Plantas...'
 sku: 'B07VPT26D2-es'
 tags: [ 'navidad', ]

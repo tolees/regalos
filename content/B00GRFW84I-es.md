@@ -5,7 +5,7 @@ date: 2020-03-06 14:02:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411%2BjJl%2BJIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GRFW84I-es Adolfo Dominguez - Agua de Bambú agua de tocador...'
 sku: 'B00GRFW84I-es'
 tags: [ 'agua','de','tocador', ]

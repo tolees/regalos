@@ -5,7 +5,7 @@ date: 2020-04-15 08:38:02
 image: 'https://m.media-amazon.com/images/I/41TxXVejDOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4T5TXW-es OwlFay Disfraz Sofia Traje de Princesa Rapunzel Disfraz...'
 sku: 'B07Z4T5TXW-es'
 tags: [ 'navidad', ]

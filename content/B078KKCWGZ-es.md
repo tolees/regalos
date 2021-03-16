@@ -5,7 +5,7 @@ date: 2020-04-15 00:34:51
 image: 'https://m.media-amazon.com/images/I/41iOdkoK85L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KKCWGZ-es Dinosaurio Luz de la noche 3D LED lámpara Ilusión óptica...'
 sku: 'B078KKCWGZ-es'
 tags: [ 'navidad', ]

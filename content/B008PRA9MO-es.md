@@ -5,7 +5,7 @@ date: 2020-01-29 21:03:21
 image: 'https://m.media-amazon.com/images/I/418kH6szwjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008PRA9MO-es Hugo Boss 38882 - Agua de perfume'
 sku: 'B008PRA9MO-es'
 tags: [ 'agua','de','perfume', ]

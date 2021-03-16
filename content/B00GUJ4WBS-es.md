@@ -5,7 +5,7 @@ date: 2020-02-29 04:43:11
 image: 'https://m.media-amazon.com/images/I/41cAQXRuGuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GUJ4WBS-es Michael Kors 55703 - Agua de perfume 100 ml'
 sku: 'B00GUJ4WBS-es'
 tags: [ 'agua','de','perfume', ]

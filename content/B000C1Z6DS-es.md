@@ -5,7 +5,7 @@ date: 2020-06-11 05:48:19
 image: 'https://m.media-amazon.com/images/I/31pjNnOk0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1Z6DS-es Hugo Boss 14294 - Agua de perfume'
 sku: 'B000C1Z6DS-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 15:40:07
 image: 'https://m.media-amazon.com/images/I/41f+7zil8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7WQD2M-es Álvarez Gómez - Flores Mediterráneas Verbena y Azahar Agua...'
 sku: 'B07Z7WQD2M-es'
 tags: [ 'agua','colonia','de', ]

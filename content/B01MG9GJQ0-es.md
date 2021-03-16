@@ -5,7 +5,7 @@ date: 2020-09-04 00:22:34
 image: 'https://m.media-amazon.com/images/I/51AhtXNJywL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MG9GJQ0-es SOUFEEL Abalorio Charm Pulsera de Foto Personalizado Plata...'
 sku: 'B01MG9GJQ0-es'
 tags: [ 'de','ley','navidad','plata', ]

@@ -5,7 +5,7 @@ date: 2020-08-05 10:04:33
 image: 'https://m.media-amazon.com/images/I/41FdChFBrnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQQKQ13-es J.Endéar Tobillera de plata de ley 925 con símbolo de amor...'
 sku: 'B07PQQKQ13-es'
 tags: [ 'de','ley','plata', ]

@@ -5,7 +5,7 @@ date: 2020-08-04 14:56:57
 image: 'https://m.media-amazon.com/images/I/51nVFBDFoUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008RALQZS-es Ted Lapidus Black Extreme Eau de Toilette Vaporizador 100 ml'
 sku: 'B008RALQZS-es'
 tags: [ 'de','eau','toilette', ]

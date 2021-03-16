@@ -5,7 +5,7 @@ date: 2020-01-31 22:17:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eMt19%2BftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J7MYKSE-es Ankway Guirnalda luz Solar 8 Modos 5M 30 LED Guirnalda...'
 sku: 'B01J7MYKSE-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-09-14 14:11:19
 image: 'https://m.media-amazon.com/images/I/313xxyts2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DAUYQX4-es Paco Rabanne Invictus Eau de Toilette Vaporizador 100 ml'
 sku: 'B00DAUYQX4-es'
 tags: [ 'de','eau','toilette', ]

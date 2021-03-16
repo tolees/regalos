@@ -5,7 +5,7 @@ date: 2020-01-23 11:31:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31N4SvP5EbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYYFQ8M-es Feketeuki Colorido árbol de Navidad de Navidad Luz LED...'
 sku: 'B07ZYYFQ8M-es'
 tags: [ 'navidad', ]

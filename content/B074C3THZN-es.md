@@ -5,7 +5,7 @@ date: 2020-02-25 09:03:12
 image: 'https://m.media-amazon.com/images/I/41jFiicXtHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074C3THZN-es Jean Paul Gaultier Classique Agua de Perfume - 100 ml'
 sku: 'B074C3THZN-es'
 tags: [ 'agua','de','perfume', ]

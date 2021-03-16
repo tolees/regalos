@@ -5,7 +5,7 @@ date: 2020-03-01 11:07:14
 image: 'https://m.media-amazon.com/images/I/413m22jLZjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVU0PSC-es Colgante J.Rosée Collares Mujer Plata de Ley 925 Brillante...'
 sku: 'B01IVU0PSC-es'
 tags: [ 'de','ley','plata', ]

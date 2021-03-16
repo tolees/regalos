@@ -5,7 +5,7 @@ date: 2020-08-22 15:15:44
 image: 'https://m.media-amazon.com/images/I/51r+kopcpFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5X3M9T-es The Nightmare Before Christmas Nightmare Before Christmas:...'
 sku: 'B07M5X3M9T-es'
 tags: [ 'christmas', ]

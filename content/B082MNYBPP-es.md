@@ -5,7 +5,7 @@ date: 2020-02-05 10:20:29
 image: 'https://m.media-amazon.com/images/I/41vHtkEad5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MNYBPP-es DREAMWIN Capa de Superhéroe 5 Capa y Máscaras y Pulseras...'
 sku: 'B082MNYBPP-es'
 tags: [ 'navidad', ]

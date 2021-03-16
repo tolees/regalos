@@ -5,7 +5,7 @@ date: 2020-06-25 10:17:48
 image: 'https://m.media-amazon.com/images/I/31o8Pkf3YML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VNDZRJ-es Thomas Sabo Colgante para Mujer "Flor de LisCharm Club"...'
 sku: 'B079VNDZRJ-es'
 tags: [ 'de','ley','plata', ]

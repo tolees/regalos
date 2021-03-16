@@ -5,7 +5,7 @@ date: 2020-08-07 20:24:40
 image: 'https://m.media-amazon.com/images/I/41AsLW1DUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFX8H2Z-es Adidas Get Ready Set para Mujer Contiene: Neceser Adidas +...'
 sku: 'B07KFX8H2Z-es'
 tags: [ 'de','eau','toilette', ]

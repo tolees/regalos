@@ -5,7 +5,7 @@ date: 2020-05-15 08:22:23
 image: 'https://m.media-amazon.com/images/I/41bkLZIvadL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757XZJSB-es Swarovski Pendientes Luckily Evil Eye de Mujer multicolor...'
 sku: 'B0757XZJSB-es'
 tags: [ 'swarovski', ]

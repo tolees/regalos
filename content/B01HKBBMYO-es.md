@@ -5,7 +5,7 @@ date: 2020-05-31 20:06:45
 image: 'https://m.media-amazon.com/images/I/41gPJHQjqiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HKBBMYO-es Versace Eros Femme Agua de Colonia - 30 ml'
 sku: 'B01HKBBMYO-es'
 tags: [ 'agua','colonia','de', ]

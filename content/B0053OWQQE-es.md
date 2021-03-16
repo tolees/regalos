@@ -5,7 +5,7 @@ date: 2020-06-23 14:35:38
 image: 'https://m.media-amazon.com/images/I/41Knxmt1ikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053OWQQE-es Tuscany Silver Pulsera de mujer con plata de ley 925/1000...'
 sku: 'B0053OWQQE-es'
 tags: [ 'de','ley','plata', ]

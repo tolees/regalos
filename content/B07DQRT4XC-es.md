@@ -5,7 +5,7 @@ date: 2020-09-23 19:11:42
 image: 'https://m.media-amazon.com/images/I/31qY+39Y98L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQRT4XC-es Swarovski Pendientes Magic blanco baño de rodio'
 sku: 'B07DQRT4XC-es'
 tags: [ 'swarovski', ]

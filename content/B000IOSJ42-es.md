@@ -5,7 +5,7 @@ date: 2020-05-05 12:36:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CO8o2a9ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IOSJ42-es Calvin Klein Contradiction - Agua de perfume para mujeres...'
 sku: 'B000IOSJ42-es'
 tags: [ 'agua','de','perfume', ]

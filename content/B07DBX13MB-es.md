@@ -5,7 +5,7 @@ date: 2020-06-01 16:58:39
 image: 'https://m.media-amazon.com/images/I/41D5IPBJttL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBX13MB-es Amaza 36 Pcs Globos Led Decoracion Cumpleaños Boda Fiesta...'
 sku: 'B07DBX13MB-es'
 tags: [ 'navidad', ]

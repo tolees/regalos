@@ -5,7 +5,7 @@ date: 2020-02-12 16:45:49
 image: 'https://m.media-amazon.com/images/I/41Q5axJ36eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EU351VG-es Tuscany Silver 8.24.7042 - Pulsera de plata de ley...'
 sku: 'B00EU351VG-es'
 tags: [ 'de','ley','plata', ]

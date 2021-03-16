@@ -5,7 +5,7 @@ date: 2020-08-24 20:20:38
 image: 'https://m.media-amazon.com/images/I/21xKTCH8hhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYD2V7A-es Calvin Klein CK All Agua de Tocador - 200 ml'
 sku: 'B01MYD2V7A-es'
 tags: [ 'agua','de','tocador', ]

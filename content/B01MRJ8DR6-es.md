@@ -5,7 +5,7 @@ date: 2020-09-20 14:26:39
 image: 'https://m.media-amazon.com/images/I/41ETNlEgp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRJ8DR6-es Bolsa de Almacenamiento de Tela para árbol de Navidad 125...'
 sku: 'B01MRJ8DR6-es'
 tags: [ 'navidad', ]

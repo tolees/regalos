@@ -5,7 +5,7 @@ date: 2020-08-23 12:51:20
 image: 'https://m.media-amazon.com/images/I/51jcl92-0EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8BRBGL-es OBEEII Cenicienta Disfraz Cinderella Carnaval Traje de...'
 sku: 'B07L8BRBGL-es'
 tags: [ 'navidad', ]

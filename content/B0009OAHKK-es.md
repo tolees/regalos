@@ -5,7 +5,7 @@ date: 2020-05-23 18:42:08
 image: 'https://m.media-amazon.com/images/I/31rik54164L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAHKK-es Carolina Herrera 212 Men Agua de Tocador - 50 ml'
 sku: 'B0009OAHKK-es'
 tags: [ 'agua','de','tocador', ]

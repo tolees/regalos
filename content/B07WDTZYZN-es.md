@@ -5,7 +5,7 @@ date: 2020-03-16 22:02:08
 image: 'https://m.media-amazon.com/images/I/61sLG8nVjjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDTZYZN-es Proyector Navidad LED FOCHEA Luces de Proyector Interior y...'
 sku: 'B07WDTZYZN-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-07-17 10:57:35
 image: 'https://m.media-amazon.com/images/I/41m3oBwvavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IRBAX42-es Cartier Agua de perfume para mujeres - 30 gr.'
 sku: 'B00IRBAX42-es'
 tags: [ 'agua','de','perfume', ]

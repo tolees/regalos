@@ -5,7 +5,7 @@ date: 2020-07-25 11:28:22
 image: 'https://m.media-amazon.com/images/I/41ThTkdFqgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVLARUW-es Paco Rabanne 1 Million Privé Agua de Perfume Spray - 50 ml'
 sku: 'B01IVLARUW-es'
 tags: [ 'agua','de','perfume', ]

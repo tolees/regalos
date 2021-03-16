@@ -5,7 +5,7 @@ date: 2020-04-28 14:33:17
 image: 'https://m.media-amazon.com/images/I/41zfIC8ALkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002SQ19AO-es Issey Miyake A Scent by Issey Miyake - Agua de tocador...'
 sku: 'B002SQ19AO-es'
 tags: [ 'agua','de','tocador', ]

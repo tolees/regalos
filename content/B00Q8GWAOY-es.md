@@ -5,7 +5,7 @@ date: 2020-02-24 19:04:46
 image: 'https://m.media-amazon.com/images/I/41yp2glTGaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q8GWAOY-es Lacoste 65873 - Agua de colonia 100 ml'
 sku: 'B00Q8GWAOY-es'
 tags: [ 'agua','colonia','de', ]

@@ -5,7 +5,7 @@ date: 2020-01-09 15:02:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ArBPCfOCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QAIYM6O-es Roberto Cavalli Paradiso Agua de Perfume - 75 ml'
 sku: 'B00QAIYM6O-es'
 tags: [ 'agua','de','perfume', ]

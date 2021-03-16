@@ -5,7 +5,7 @@ date: 2020-03-19 16:36:29
 image: 'https://m.media-amazon.com/images/I/41OP7GjcJKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSN6VM1-es LOFTer Guirnalda Luces Cadena de Luces 120 LED 15M Tira...'
 sku: 'B07GSN6VM1-es'
 tags: [ 'navidad', ]

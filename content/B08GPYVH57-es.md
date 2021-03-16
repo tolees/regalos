@@ -5,7 +5,7 @@ date: 2020-09-30 05:28:58
 image: 'https://m.media-amazon.com/images/I/41SUH9iIOAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GPYVH57-es Bolsas Regalo CumpleañOs Bolsa Merienda Infantil Bolsas...'
 sku: 'B08GPYVH57-es'
 tags: [ 'navidad', ]

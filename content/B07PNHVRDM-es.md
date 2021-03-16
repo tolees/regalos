@@ -5,7 +5,7 @@ date: 2020-07-12 01:34:26
 image: 'https://m.media-amazon.com/images/I/31Gu0dicdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNHVRDM-es Villeroy & Boch Cuencos de cereales 0.6 litros Porcelana...'
 sku: 'B07PNHVRDM-es'
 tags: [ '&','boch','villeroy', ]

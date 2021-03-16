@@ -5,7 +5,7 @@ date: 2020-10-07 09:08:41
 image: 'https://m.media-amazon.com/images/I/41-MEkMAZrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HR8PYDR-es Dolamen Niños Unisexo Onesies Kigurumi Pijamas Niña Traje...'
 sku: 'B07HR8PYDR-es'
 tags: [ 'navidad', ]

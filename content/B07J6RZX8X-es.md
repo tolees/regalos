@@ -5,7 +5,7 @@ date: 2020-09-03 23:07:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51zPBteKRdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6RZX8X-es UTTORA Kit de Exploración para Niños 17 en 1 Juego de...'
 sku: 'B07J6RZX8X-es'
 tags: [ 'navidad', ]

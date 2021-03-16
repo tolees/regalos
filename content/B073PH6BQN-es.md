@@ -5,7 +5,7 @@ date: 2020-08-20 08:11:13
 image: 'https://m.media-amazon.com/images/I/31gYjWADeBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073PH6BQN-es Swarovski Colgante Zodiac Tauro Lila de Mujer Baño de Rodio'
 sku: 'B073PH6BQN-es'
 tags: [ 'swarovski', ]

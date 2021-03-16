@@ -5,7 +5,7 @@ date: 2020-03-05 11:51:42
 image: 'https://m.media-amazon.com/images/I/617irzy2ENL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HBGMOEK-es BUYERTIME 5M/16.4Ft 50 LEDs Cadena de Luces Impermeable...'
 sku: 'B01HBGMOEK-es'
 tags: [ 'navidad', ]

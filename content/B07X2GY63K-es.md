@@ -5,7 +5,7 @@ date: 2020-03-29 14:02:47
 image: 'https://m.media-amazon.com/images/I/51MLkYi1h7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2GY63K-es Unigoods 24 Piezas Bolas de Navidad 6 cm Bolas de árbol de...'
 sku: 'B07X2GY63K-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-02-26 20:06:02
 image: 'https://m.media-amazon.com/images/I/41Ort+v6ccL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HUJNN0-es Carolina Herrera 212 Vip Men Agua de Tocador Vaporizador -...'
 sku: 'B003HUJNN0-es'
 tags: [ 'agua','de','tocador', ]

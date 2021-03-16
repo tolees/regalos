@@ -5,7 +5,7 @@ date: 2020-03-05 18:14:07
 image: 'https://m.media-amazon.com/images/I/41-rfEPPoBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VTFFRXX-es Salvatore Ferragamo Signorina In Fiore Agua de Tocador...'
 sku: 'B06VTFFRXX-es'
 tags: [ 'agua','de','tocador', ]

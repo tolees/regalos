@@ -5,7 +5,7 @@ date: 2020-05-11 16:03:25
 image: 'https://m.media-amazon.com/images/I/31qnntlLX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JCZ9FCM-es Coach Agua de perfume para mujeres - 90 gr.'
 sku: 'B01JCZ9FCM-es'
 tags: [ 'agua','de','perfume', ]

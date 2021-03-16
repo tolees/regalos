@@ -5,7 +5,7 @@ date: 2020-10-09 19:33:30
 image: 'https://m.media-amazon.com/images/I/31tEZ2lt8gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FY57E3G-es Mont Blanc Legend Eau de Toilette para hombres - 200 ml.'
 sku: 'B01FY57E3G-es'
 tags: [ 'de','eau','toilette', ]

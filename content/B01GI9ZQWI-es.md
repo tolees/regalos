@@ -5,7 +5,7 @@ date: 2020-07-29 20:23:12
 image: 'https://m.media-amazon.com/images/I/41DHlBve62L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GI9ZQWI-es Chloe Fleur de Parfum Agua de Perfume - 75 ml'
 sku: 'B01GI9ZQWI-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-03-31 10:09:53
 image: 'https://m.media-amazon.com/images/I/31GsrW+IOYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000F0QMBG-es Cross Classic Century Bolígrafo - plata de ley'
 sku: 'B000F0QMBG-es'
 tags: [ 'de','ley','plata', ]

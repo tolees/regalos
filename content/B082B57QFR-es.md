@@ -5,7 +5,7 @@ date: 2020-01-01 06:24:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BJXwLfRsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082B57QFR-es OBEEII Blancanieves Disfraz con Capa 9 Piezas Carnaval...'
 sku: 'B082B57QFR-es'
 tags: [ 'navidad', ]

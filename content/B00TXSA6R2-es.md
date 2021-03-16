@@ -5,7 +5,7 @@ date: 2020-08-10 13:39:10
 image: 'https://m.media-amazon.com/images/I/414afV1clkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TXSA6R2-es Boucheron Quatre Agua de Perfume - 100 ml'
 sku: 'B00TXSA6R2-es'
 tags: [ 'agua','de','perfume', ]

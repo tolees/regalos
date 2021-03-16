@@ -5,7 +5,7 @@ date: 2020-01-03 14:55:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51h45t6rifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPV1PRT-es Yvsoo Calendario Adviento Juguetes Set 3Pcs Rompecabezas...'
 sku: 'B07KPV1PRT-es'
 tags: [ 'adviento', ]

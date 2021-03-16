@@ -5,7 +5,7 @@ date: 2020-08-17 20:39:23
 image: 'https://m.media-amazon.com/images/I/41qI0n-PVFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXFT9X2-es dPois Disfraz Princesa para Niña Bebé Vestido Princesa...'
 sku: 'B07KXFT9X2-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 13:05:42
 image: 'https://m.media-amazon.com/images/I/51S+Vg44rpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HA5Q4JE-es 30 Multicolor LED Solares Guirnaldas Luminosas forma de...'
 sku: 'B00HA5Q4JE-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-09-27 17:31:03
 image: 'https://m.media-amazon.com/images/I/41VH1ckxOYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F48Z4YL-es Rosa 24 K Rosa de la Galaxia Flores Artificiales de Rose...'
 sku: 'B08F48Z4YL-es'
 tags: [ 'navidad', ]

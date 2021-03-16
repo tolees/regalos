@@ -5,7 +5,7 @@ date: 2020-06-30 07:33:01
 image: 'https://m.media-amazon.com/images/I/41x2dGSlplL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BR9J1MX-es Beforya Paris** – Pendientes largos Square – * Moonlight *...'
 sku: 'B08BR9J1MX-es'
 tags: [ 'de','ley','plata', ]

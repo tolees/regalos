@@ -5,7 +5,7 @@ date: 2020-01-06 22:24:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5195nOhoNyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Z6KNCK-es Disfraz Elsa Frozen Niñas con Capa Princesa Ana Vestido...'
 sku: 'B081Z6KNCK-es'
 tags: [ 'navidad', ]

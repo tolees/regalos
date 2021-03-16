@@ -5,7 +5,7 @@ date: 2020-06-01 17:45:34
 image: 'https://m.media-amazon.com/images/I/41-gdq20l6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JPGJPE2-es Villeroy & Boch Artesano Original Estantería 4 piezas...'
 sku: 'B00JPGJPE2-es'
 tags: [ '&','boch','villeroy', ]

@@ -5,7 +5,7 @@ date: 2020-07-06 21:13:13
 image: 'https://m.media-amazon.com/images/I/31q8dZqjaJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ICHQE12-es Carolina Herrera 212 Vip Rosé Agua de Perfume Vaporizador...'
 sku: 'B00ICHQE12-es'
 tags: [ 'agua','de','perfume', ]

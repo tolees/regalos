@@ -5,7 +5,7 @@ date: 2020-01-25 11:38:48
 image: 'https://m.media-amazon.com/images/I/41P9d5EpBXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002KD0WGC-es Paco Rabanne Ultraviolet Agua de perfume Vaporizador 50 ml'
 sku: 'B002KD0WGC-es'
 tags: [ 'agua','de','perfume', ]

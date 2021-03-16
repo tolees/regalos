@@ -5,7 +5,7 @@ date: 2020-01-26 01:59:52
 image: 'https://m.media-amazon.com/images/I/41zp2wV6grL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9MPSS3-es AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas...'
 sku: 'B07V9MPSS3-es'
 tags: [ 'navidad', ]

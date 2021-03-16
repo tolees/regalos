@@ -5,7 +5,7 @@ date: 2020-09-14 10:53:25
 image: 'https://m.media-amazon.com/images/I/51AZqYnkBXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAPXNE2-es POLIL colgador antipolillas aroma agua de colonia paquete...'
 sku: 'B00XAPXNE2-es'
 tags: [ 'agua','colonia','de', ]

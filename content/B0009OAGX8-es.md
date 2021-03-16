@@ -5,7 +5,7 @@ date: 2020-06-20 21:41:57
 image: 'https://m.media-amazon.com/images/I/41z9hNm7tqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAGX8-es Ralph Lauren 2706 - Agua de colonia'
 sku: 'B0009OAGX8-es'
 tags: [ 'agua','colonia','de', ]

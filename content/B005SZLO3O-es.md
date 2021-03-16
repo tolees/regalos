@@ -5,7 +5,7 @@ date: 2020-02-27 14:56:30
 image: 'https://m.media-amazon.com/images/I/41Ky++lJSNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005SZLO3O-es Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador...'
 sku: 'B005SZLO3O-es'
 tags: [ 'de','eau','toilette', ]

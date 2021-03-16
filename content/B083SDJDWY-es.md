@@ -5,7 +5,7 @@ date: 2020-07-24 09:26:37
 image: 'https://m.media-amazon.com/images/I/41H-ucXJOzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SDJDWY-es ETEREAUTY Rosa de Oro 24K Artificial Gold Rose con...'
 sku: 'B083SDJDWY-es'
 tags: [ 'navidad', ]

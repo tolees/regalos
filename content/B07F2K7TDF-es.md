@@ -5,7 +5,7 @@ date: 2020-09-14 20:44:20
 image: 'https://m.media-amazon.com/images/I/41jZn5AP-iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2K7TDF-es Adolfo Dominguez Agua de colonia para hombres - 60 ml.'
 sku: 'B07F2K7TDF-es'
 tags: [ 'agua','colonia','de', ]

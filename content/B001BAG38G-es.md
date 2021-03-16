@@ -5,7 +5,7 @@ date: 2020-03-08 15:02:18
 image: 'https://m.media-amazon.com/images/I/41SPwF0qnhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BAG38G-es Jean Paul Gaultier Le Male Eau De Toilette Spray 125 ml'
 sku: 'B001BAG38G-es'
 tags: [ 'de','eau','toilette', ]

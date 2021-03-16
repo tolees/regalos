@@ -5,7 +5,7 @@ date: 2020-04-09 08:29:25
 image: 'https://m.media-amazon.com/images/I/51Bxxmn8NmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KV22ZVH-es Neon Moon-Nursery Night Lamp Gift-Wall Decor Lights para...'
 sku: 'B07KV22ZVH-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-06-25 05:54:41
 image: 'https://m.media-amazon.com/images/I/41Gqjv8VKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWCNCF2-es ThxMadam Album de Fotos DIY Álbum de Fotos Libros de...'
 sku: 'B06XWCNCF2-es'
 tags: [ 'navidad', ]

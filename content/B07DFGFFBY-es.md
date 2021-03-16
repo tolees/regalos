@@ -5,7 +5,7 @@ date: 2020-03-01 20:20:54
 image: 'https://m.media-amazon.com/images/I/51rMQLpln2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFGFFBY-es Funko- Mystery Mini Blind Box: Disney: NBX: PDQ CDU 12 The...'
 sku: 'B07DFGFFBY-es'
 tags: [ 'christmas', ]

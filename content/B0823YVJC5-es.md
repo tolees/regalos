@@ -5,7 +5,7 @@ date: 2020-01-01 06:23:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BYG4pGulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823YVJC5-es Disfraz de Princesa Elsa Frozen Vestido Largo Niñas...'
 sku: 'B0823YVJC5-es'
 tags: [ 'navidad', ]

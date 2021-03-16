@@ -5,7 +5,7 @@ date: 2020-02-06 19:10:58
 image: 'https://m.media-amazon.com/images/I/315J2oI5nzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GMTBZP-es Pendientes Mujer J.Rosée Pendientes Mujer Perla de Agua...'
 sku: 'B075GMTBZP-es'
 tags: [ 'de','ley','plata', ]

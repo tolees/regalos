@@ -5,7 +5,7 @@ date: 2020-01-19 11:55:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/614ow%2B7ZynL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1JJNYR-es Luces de Cadena de Cortina 3M x2M Cortina de Luces LED 198...'
 sku: 'B07Y1JJNYR-es'
 tags: [ 'navidad', ]

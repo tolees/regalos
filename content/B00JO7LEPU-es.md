@@ -5,7 +5,7 @@ date: 2020-02-08 05:21:49
 image: 'https://m.media-amazon.com/images/I/41ErB67mh2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JO7LEPU-es Montblanc Emblem Agua de Tocador - 100 ml'
 sku: 'B00JO7LEPU-es'
 tags: [ 'agua','de','tocador', ]

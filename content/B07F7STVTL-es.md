@@ -5,7 +5,7 @@ date: 2020-07-29 19:32:04
 image: 'https://m.media-amazon.com/images/I/41rZLgXjy6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7STVTL-es Pendientes de plata de ley con diseño de calavera'
 sku: 'B07F7STVTL-es'
 tags: [ 'de','ley','plata', ]

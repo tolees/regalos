@@ -5,7 +5,7 @@ date: 2020-08-16 12:26:13
 image: 'https://m.media-amazon.com/images/I/515v93-XoqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZSL5K1-es BONNYCO Pizarra Mágica con Luz A3 y A5 6 Plantillas 2...'
 sku: 'B07WZSL5K1-es'
 tags: [ 'navidad', ]

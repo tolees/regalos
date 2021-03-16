@@ -5,7 +5,7 @@ date: 2020-09-19 19:40:33
 image: 'https://m.media-amazon.com/images/I/51s0og4tjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNL4HGQ-es Cortina de Luces Luz Cadena Luz de Cortina LED Guirnaldas...'
 sku: 'B07WNL4HGQ-es'
 tags: [ 'navidad', ]

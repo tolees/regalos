@@ -5,7 +5,7 @@ date: 2020-09-30 05:31:35
 image: 'https://m.media-amazon.com/images/I/613xvId9voL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVJJF7B-es 10 Hojas Papel de Regalo CHALA Papel de Regalo Diseño de...'
 sku: 'B08CVJJF7B-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-02-05 17:28:44
 image: 'https://m.media-amazon.com/images/I/51rvQoo4J2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QO9EZH0-es Guirnaldas Solares Luminosas de 50 LEDs Multicolor en...'
 sku: 'B00QO9EZH0-es'
 tags: [ 'navidad', ]

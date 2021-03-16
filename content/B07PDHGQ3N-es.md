@@ -5,7 +5,7 @@ date: 2020-03-07 18:49:46
 image: 'https://m.media-amazon.com/images/I/41bd2Rgj-kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDHGQ3N-es Conjunto camiseta padre hijo gamer personalizado Regalo...'
 sku: 'B07PDHGQ3N-es'
 tags: [ 'navidad', ]

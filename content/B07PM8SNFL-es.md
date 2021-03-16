@@ -5,7 +5,7 @@ date: 2020-09-19 11:46:09
 image: 'https://m.media-amazon.com/images/I/41I1EigjzAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM8SNFL-es Harry Potter Muñeca Hermione Granger Baile de navidad de...'
 sku: 'B07PM8SNFL-es'
 tags: [ 'navidad', ]

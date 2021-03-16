@@ -5,7 +5,7 @@ date: 2020-08-14 11:37:36
 image: 'https://m.media-amazon.com/images/I/510Xv3c+N3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCNZNK5-es Pintura Corporal y Facial Kit de Pintura Facial Face Body...'
 sku: 'B07XCNZNK5-es'
 tags: [ 'navidad', ]

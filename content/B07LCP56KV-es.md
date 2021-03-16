@@ -5,7 +5,7 @@ date: 2020-06-16 13:35:15
 image: 'https://m.media-amazon.com/images/I/51WAx7WEolL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCP56KV-es amzdeal Pintura Facial con 14 Colores Pintura Cara para la...'
 sku: 'B07LCP56KV-es'
 tags: [ 'navidad', ]

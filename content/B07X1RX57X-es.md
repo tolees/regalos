@@ -5,7 +5,7 @@ date: 2020-04-18 03:39:40
 image: 'https://m.media-amazon.com/images/I/51yX4kBwF2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1RX57X-es Luces Discoteca 15Colores Hosome Bola de Discoteca DJ...'
 sku: 'B07X1RX57X-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-08-25 08:18:50
 image: 'https://m.media-amazon.com/images/I/41rp2Me5sUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G0P2WP0-es Maison F. Kurkdjian Aqua Vitae Edt – Agua de tocador 200 ml'
 sku: 'B00G0P2WP0-es'
 tags: [ 'agua','de','tocador', ]

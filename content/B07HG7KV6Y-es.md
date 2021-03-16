@@ -5,7 +5,7 @@ date: 2020-09-05 13:01:23
 image: 'https://m.media-amazon.com/images/I/61etGFda0ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG7KV6Y-es WOSTOO Guirnalda Luces Luces LED Pilas USB 2 en 1 Blanco...'
 sku: 'B07HG7KV6Y-es'
 tags: [ 'navidad', ]

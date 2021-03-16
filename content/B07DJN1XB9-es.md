@@ -5,7 +5,7 @@ date: 2020-04-16 08:54:26
 image: 'https://m.media-amazon.com/images/I/61nBA1mv2IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJN1XB9-es Polvo Acrilico para Uñas Purpurina Cara Glitter para Uñas...'
 sku: 'B07DJN1XB9-es'
 tags: [ 'christmas', ]

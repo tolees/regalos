@@ -5,7 +5,7 @@ date: 2020-04-29 15:55:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6iO%2BwmtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9R6JDH-es Angelady Collar de Pendientes Juego de Joyas de para Mujer...'
 sku: 'B07M9R6JDH-es'
 tags: [ 'de','ley','plata','swarovski', ]

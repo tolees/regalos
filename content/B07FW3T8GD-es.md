@@ -5,7 +5,7 @@ date: 2020-06-12 16:01:05
 image: 'https://m.media-amazon.com/images/I/31P-hOr8HOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FW3T8GD-es Swarovski Conjunto Vintage Rosa Baño en Tono Oro Rosa'
 sku: 'B07FW3T8GD-es'
 tags: [ 'swarovski', ]

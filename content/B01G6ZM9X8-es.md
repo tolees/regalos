@@ -5,7 +5,7 @@ date: 2020-06-01 06:45:49
 image: 'https://m.media-amazon.com/images/I/41T10AekmQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G6ZM9X8-es Infinite U Simple Wave de plata de ley 925 con circonita...'
 sku: 'B01G6ZM9X8-es'
 tags: [ 'de','ley','plata', ]

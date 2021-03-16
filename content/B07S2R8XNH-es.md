@@ -5,7 +5,7 @@ date: 2020-04-01 11:04:05
 image: 'https://m.media-amazon.com/images/I/31vfLiky5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2R8XNH-es URAQT Disfraces de Carnaval Lady Bug Disfraz de Cat Noir...'
 sku: 'B07S2R8XNH-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-01-10 22:55:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lZMRN2CJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HMCPG62-es Boucheron 54030 - Agua de perfume'
 sku: 'B00HMCPG62-es'
 tags: [ 'agua','de','perfume', ]

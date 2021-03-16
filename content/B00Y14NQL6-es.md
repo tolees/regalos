@@ -5,7 +5,7 @@ date: 2020-07-10 17:55:57
 image: 'https://m.media-amazon.com/images/I/31xjfXExGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y14NQL6-es Paco Rabanne 71949 - Agua de colonia 30 ml'
 sku: 'B00Y14NQL6-es'
 tags: [ 'agua','colonia','de', ]

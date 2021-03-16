@@ -5,7 +5,7 @@ date: 2020-06-19 07:38:41
 image: 'https://m.media-amazon.com/images/I/4146dEvbwRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I8LCM90-es Adidas Get Ready Eau de Toilette para Mujer - 50 ml'
 sku: 'B00I8LCM90-es'
 tags: [ 'de','eau','toilette', ]

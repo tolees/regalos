@@ -5,7 +5,7 @@ date: 2020-05-09 14:02:35
 image: 'https://m.media-amazon.com/images/I/41t4VUs32zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3S6DW6-es LitBud Niños Sudaderas con Capucha para niños Niño pequeño...'
 sku: 'B07W3S6DW6-es'
 tags: [ 'navidad', ]

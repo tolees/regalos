@@ -5,7 +5,7 @@ date: 2020-06-01 19:27:26
 image: 'https://m.media-amazon.com/images/I/41ZniC5hjAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMVDQQX-es Juego de pluma de cristal para firmar y escribir en...'
 sku: 'B07HMVDQQX-es'
 tags: [ 'navidad', ]

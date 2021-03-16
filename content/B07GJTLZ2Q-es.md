@@ -5,7 +5,7 @@ date: 2020-04-08 16:30:04
 image: 'https://m.media-amazon.com/images/I/415i6ZwbHcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJTLZ2Q-es Cadena de Luces Qomolo G40 Exterior Guirnalda Luces Con 25...'
 sku: 'B07GJTLZ2Q-es'
 tags: [ 'navidad', ]

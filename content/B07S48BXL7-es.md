@@ -5,7 +5,7 @@ date: 2020-06-06 14:23:50
 image: 'https://m.media-amazon.com/images/I/51Nt-QxYY9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S48BXL7-es BelleStyle Caja de Regalo Creativo de Bricolaje Libro de...'
 sku: 'B07S48BXL7-es'
 tags: [ 'navidad', ]

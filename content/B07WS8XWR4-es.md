@@ -5,7 +5,7 @@ date: 2020-02-27 11:25:17
 image: 'https://m.media-amazon.com/images/I/51ymGTH2e9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS8XWR4-es Yasolote 22M Guirnalda de Luces Solares 8 Modos 200 LED...'
 sku: 'B07WS8XWR4-es'
 tags: [ 'navidad', ]

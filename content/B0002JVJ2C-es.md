@@ -5,7 +5,7 @@ date: 2020-08-05 14:55:19
 image: 'https://m.media-amazon.com/images/I/41uD2XJMeQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002JVJ2C-es Armani Acqua Di Gio Homme Agua de Colonia 200 ml'
 sku: 'B0002JVJ2C-es'
 tags: [ 'agua','colonia','de', ]

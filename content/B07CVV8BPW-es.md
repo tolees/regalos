@@ -5,7 +5,7 @@ date: 2020-04-11 16:40:58
 image: 'https://m.media-amazon.com/images/I/61cQldXSBxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVV8BPW-es 48 PCS 3D Nail Art Decoration Glitter Powder Sequins Set...'
 sku: 'B07CVV8BPW-es'
 tags: [ 'navidad', ]

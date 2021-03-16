@@ -5,7 +5,7 @@ date: 2020-05-20 07:58:27
 image: 'https://m.media-amazon.com/images/I/41QlVz7H6yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZZXYMY-es Hi Young - Colgante de plata de ley 925 bañado en oro...'
 sku: 'B07CZZXYMY-es'
 tags: [ 'de','ley','plata', ]

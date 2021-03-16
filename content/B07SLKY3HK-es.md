@@ -5,7 +5,7 @@ date: 2020-08-26 23:18:32
 image: 'https://m.media-amazon.com/images/I/41eeWx9yKKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLKY3HK-es Swarovski Pendientes de botón Attract de Mujer rojo Baño...'
 sku: 'B07SLKY3HK-es'
 tags: [ 'swarovski', ]

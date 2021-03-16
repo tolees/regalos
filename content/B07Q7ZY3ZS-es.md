@@ -5,7 +5,7 @@ date: 2020-01-02 09:34:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VcyEhp%2B-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7ZY3ZS-es Amilril Collar Plata de Ley 925 Moda Joyería Navidad Joyas...'
 sku: 'B07Q7ZY3ZS-es'
 tags: [ 'de','ley','navidad','plata', ]

@@ -5,7 +5,7 @@ date: 2020-08-14 19:48:42
 image: 'https://m.media-amazon.com/images/I/41jmTnEuX0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DN9Q3VZ-es 3mm x 100m Cuerda Algodó Cordel Natural para Macramé...'
 sku: 'B08DN9Q3VZ-es'
 tags: [ 'navidad', ]

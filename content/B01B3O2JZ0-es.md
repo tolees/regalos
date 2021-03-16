@@ -5,7 +5,7 @@ date: 2020-03-14 22:30:23
 image: 'https://m.media-amazon.com/images/I/41OwJKirM9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B3O2JZ0-es Victoria Secret Temptation Agua de perfume para mujeres...'
 sku: 'B01B3O2JZ0-es'
 tags: [ 'agua','de','perfume', ]

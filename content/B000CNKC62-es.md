@@ -5,7 +5,7 @@ date: 2020-03-14 08:36:48
 image: 'https://m.media-amazon.com/images/I/41jHX13ln2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CNKC62-es Cartier Declaration Eau de Toilette Vaporizador 100 ml'
 sku: 'B000CNKC62-es'
 tags: [ 'de','eau','toilette', ]

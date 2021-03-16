@@ -5,7 +5,7 @@ date: 2020-01-18 10:55:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ENct9E9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822VCS8Z-es OwlFay Disfraz de Princesa Frozen Elsa Vestido Ana Reino...'
 sku: 'B0822VCS8Z-es'
 tags: [ 'navidad', ]

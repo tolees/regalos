@@ -5,7 +5,7 @@ date: 2020-06-23 09:32:40
 image: 'https://m.media-amazon.com/images/I/317UjoHQIfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AZJ30G6-es Swarovski Colgante Creativity Circle de Mujer Chapado en...'
 sku: 'B01AZJ30G6-es'
 tags: [ 'swarovski', ]

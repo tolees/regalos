@@ -5,7 +5,7 @@ date: 2020-03-12 19:23:29
 image: 'https://m.media-amazon.com/images/I/41P9vKX0B-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TXRZQK0-es Boucheron Agua de colonia para hombres - 100 gr.'
 sku: 'B00TXRZQK0-es'
 tags: [ 'agua','colonia','de', ]

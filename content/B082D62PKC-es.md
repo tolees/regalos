@@ -5,7 +5,7 @@ date: 2020-04-13 10:02:25
 image: 'https://m.media-amazon.com/images/I/31y6qPLHGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D62PKC-es Original Perfume Para Mujer 10ml Lady Natural Light...'
 sku: 'B082D62PKC-es'
 tags: [ 'de','eau','toilette', ]

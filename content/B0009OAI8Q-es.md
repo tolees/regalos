@@ -5,7 +5,7 @@ date: 2020-05-26 18:28:14
 image: 'https://m.media-amazon.com/images/I/31KRGhCFOFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAI8Q-es Elizabeth Taylor White Diamond Eau De Toilette 100 ml'
 sku: 'B0009OAI8Q-es'
 tags: [ 'de','eau','toilette', ]

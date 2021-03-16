@@ -5,7 +5,7 @@ date: 2020-05-03 12:35:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412LmHB2c-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000P20RPQ-es Bulgari Agua de tocador para hombres Soir - 100 ml.'
 sku: 'B000P20RPQ-es'
 tags: [ 'agua','de','tocador', ]

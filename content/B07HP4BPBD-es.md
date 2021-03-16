@@ -5,7 +5,7 @@ date: 2020-04-29 06:55:18
 image: 'https://m.media-amazon.com/images/I/51-Iwl-1zXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP4BPBD-es 12 Packs Cadena de Luces Govee 1m/3.3ft 20 LEDs Guirnaldas...'
 sku: 'B07HP4BPBD-es'
 tags: [ 'navidad', ]

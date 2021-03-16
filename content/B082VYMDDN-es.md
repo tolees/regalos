@@ -5,7 +5,7 @@ date: 2020-01-05 14:33:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513k7pFwOzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VYMDDN-es OwlFay Disfraz de Princesa Carnival para Niñas Vestidos de...'
 sku: 'B082VYMDDN-es'
 tags: [ 'navidad', ]

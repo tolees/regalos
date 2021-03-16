@@ -5,7 +5,7 @@ date: 2020-07-14 11:32:40
 image: 'https://m.media-amazon.com/images/I/41Kw2JR+rUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01COUVYRQ-es BAMOER Plata de ley 925/1000'
 sku: 'B01COUVYRQ-es'
 tags: [ 'de','ley','plata', ]

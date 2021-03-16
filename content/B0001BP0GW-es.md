@@ -5,7 +5,7 @@ date: 2020-02-27 08:01:45
 image: 'https://m.media-amazon.com/images/I/51sBviPilNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001BP0GW-es Guerlain - Eau de Toilette Mitsouko'
 sku: 'B0001BP0GW-es'
 tags: [ 'de','eau','toilette', ]

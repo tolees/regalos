@@ -5,7 +5,7 @@ date: 2020-02-09 17:02:50
 image: 'https://m.media-amazon.com/images/I/41HzA66P+eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6WB9KB-es J.Endéar Pulsera Forma de Inicial A Plata de Ley 925...'
 sku: 'B07V6WB9KB-es'
 tags: [ 'de','ley','plata', ]

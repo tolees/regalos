@@ -5,7 +5,7 @@ date: 2020-09-14 19:05:21
 image: 'https://m.media-amazon.com/images/I/41AelpV3CYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VOPG0E-es Dolce & Gabbana 18358 - Agua de colonia'
 sku: 'B000VOPG0E-es'
 tags: [ 'agua','colonia','de', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 09:06:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kXZWVIHML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVB7OZO-es XMASKING Estrella Cometa de 95 cm en Tubo Luminoso 108 LED...'
 sku: 'B00NVB7OZO-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-01-18 16:18:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oJM8UcXLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004HIHMTS-es Boucheron Agua de colonia para mujeres - 30 gr.'
 sku: 'B004HIHMTS-es'
 tags: [ 'agua','colonia','de', ]

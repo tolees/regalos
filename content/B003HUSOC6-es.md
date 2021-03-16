@@ -5,7 +5,7 @@ date: 2020-02-10 17:10:55
 image: 'https://m.media-amazon.com/images/I/41akLwoaPPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HUSOC6-es Carolina Herrera 212 Men NYC Agua de Tocador Vaporizador -...'
 sku: 'B003HUSOC6-es'
 tags: [ 'agua','de','tocador', ]

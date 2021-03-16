@@ -5,7 +5,7 @@ date: 2020-02-01 03:44:26
 image: 'https://m.media-amazon.com/images/I/312TfUPeRlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JJZL34-es Shiseido Ever Bloom Agua de Perfume - 50 ml'
 sku: 'B075JJZL34-es'
 tags: [ 'agua','de','perfume', ]

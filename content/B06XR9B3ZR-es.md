@@ -5,7 +5,7 @@ date: 2020-09-07 19:53:54
 image: 'https://m.media-amazon.com/images/I/51wGWeJPkdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XR9B3ZR-es Cadena de Luces Mr.Twinklelight 4.5M 30 LED Solar Bola de...'
 sku: 'B06XR9B3ZR-es'
 tags: [ 'navidad', ]

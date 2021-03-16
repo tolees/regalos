@@ -5,7 +5,7 @@ date: 2020-01-14 21:16:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51okmhG%2B5DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082DW7NP6-es OBEEII Anna Frozen Disfraz Princesa Ana Elsa Cosplay...'
 sku: 'B082DW7NP6-es'
 tags: [ 'navidad', ]

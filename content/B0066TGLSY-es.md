@@ -5,7 +5,7 @@ date: 2020-05-26 09:03:27
 image: 'https://m.media-amazon.com/images/I/41bHlKvm+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0066TGLSY-es Boucheron Agua de perfume para hombres - 100 gr.'
 sku: 'B0066TGLSY-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-02-26 20:08:15
 image: 'https://m.media-amazon.com/images/I/31WnszsPGsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDFW23T-es Mont Blanc Agua de tocador para mujeres - 200 ml.'
 sku: 'B06XDFW23T-es'
 tags: [ 'agua','de','tocador', ]

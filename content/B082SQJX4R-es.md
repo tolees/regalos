@@ -5,7 +5,7 @@ date: 2020-01-30 18:20:47
 image: 'https://m.media-amazon.com/images/I/517Dkfr1NGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SQJX4R-es MOCOCITO Calcetines de Mujer 6 Pares Calcetines Algodón...'
 sku: 'B082SQJX4R-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-06-19 23:33:07
 image: 'https://m.media-amazon.com/images/I/41rqEA18pGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LVXEB78-es Creed Iris Tubereuse Agua de Perfume - 100 ml'
 sku: 'B00LVXEB78-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-10-05 16:40:00
 image: 'https://m.media-amazon.com/images/I/61ZhxjqjGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHCQ5Z1-es 3D Lámpara de Escritorio Win-Y LED 7 del tacto del color...'
 sku: 'B07DHCQ5Z1-es'
 tags: [ 'navidad', ]

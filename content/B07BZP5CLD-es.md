@@ -5,7 +5,7 @@ date: 2020-02-24 10:20:53
 image: 'https://m.media-amazon.com/images/I/41BwghFIToL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZP5CLD-es J.Rosée Collares Mujer Colgante Plata de Ley 925 La...'
 sku: 'B07BZP5CLD-es'
 tags: [ 'de','ley','navidad','plata', ]

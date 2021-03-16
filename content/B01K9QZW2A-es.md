@@ -5,7 +5,7 @@ date: 2020-07-20 07:18:41
 image: 'https://m.media-amazon.com/images/I/31d8UxKxUML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9QZW2A-es Swarovski Colgante Iconic Swan Baño de Rodio'
 sku: 'B01K9QZW2A-es'
 tags: [ 'swarovski', ]

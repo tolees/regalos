@@ -5,7 +5,7 @@ date: 2020-09-11 18:39:24
 image: 'https://m.media-amazon.com/images/I/31swLAmhAEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ELS9ZUI-es Estee Lauder 56889 - Agua de perfume'
 sku: 'B00ELS9ZUI-es'
 tags: [ 'agua','de','perfume', ]

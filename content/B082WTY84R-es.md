@@ -5,7 +5,7 @@ date: 2020-01-18 10:54:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uooNMfahL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WTY84R-es OwlFay Disfraz de Princesa Carnaval Vestido Reino de Hielo...'
 sku: 'B082WTY84R-es'
 tags: [ 'navidad', ]

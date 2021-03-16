@@ -5,7 +5,7 @@ date: 2020-04-13 09:11:16
 image: 'https://m.media-amazon.com/images/I/413CC-M-U2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZDV6K9-es Alex Perry Regalo Día de la Madre pendientes mujer...'
 sku: 'B07KZDV6K9-es'
 tags: [ 'swarovski', ]

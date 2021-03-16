@@ -5,7 +5,7 @@ date: 2020-06-06 12:48:50
 image: 'https://m.media-amazon.com/images/I/31y51dNtBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3PPQ1K-es luz nocturna infantil Tianhaixing LED Silicona blanda...'
 sku: 'B07L3PPQ1K-es'
 tags: [ 'navidad', ]

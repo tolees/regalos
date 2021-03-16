@@ -5,7 +5,7 @@ date: 2020-05-13 15:47:30
 image: 'https://m.media-amazon.com/images/I/51zDeVPKvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCQBL3V-es TEDD - Pijama de dinosaurio de algodón para niños ropa de...'
 sku: 'B07GCQBL3V-es'
 tags: [ 'navidad', ]

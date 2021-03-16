@@ -5,7 +5,7 @@ date: 2020-07-13 17:20:12
 image: 'https://m.media-amazon.com/images/I/51A8GfcvV+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1WC58G-es EKKONG Explosion Box Christmas Explosion Box Creativo DIY...'
 sku: 'B07Y1WC58G-es'
 tags: [ 'christmas','navidad', ]

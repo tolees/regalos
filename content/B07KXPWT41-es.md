@@ -5,7 +5,7 @@ date: 2020-02-01 09:34:14
 image: 'https://m.media-amazon.com/images/I/51uDy6j3h3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXPWT41-es Luces de cadena LED copo de nieve Iluminación LED...'
 sku: 'B07KXPWT41-es'
 tags: [ 'navidad', ]

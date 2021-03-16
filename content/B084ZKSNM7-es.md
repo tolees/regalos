@@ -5,7 +5,7 @@ date: 2020-07-20 10:03:02
 image: 'https://m.media-amazon.com/images/I/414m2oK59NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZKSNM7-es Gorros suaves gruesos y cálidos Sombreros de invierno...'
 sku: 'B084ZKSNM7-es'
 tags: [ 'navidad', ]

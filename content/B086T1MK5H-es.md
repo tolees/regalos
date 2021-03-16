@@ -5,7 +5,7 @@ date: 2020-05-23 16:36:20
 image: 'https://m.media-amazon.com/images/I/31GxvK1cUML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086T1MK5H-es Musk Fresh Agua de Colonia para Hombre 200ml Avon'
 sku: 'B086T1MK5H-es'
 tags: [ 'agua','colonia','de', ]

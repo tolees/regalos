@@ -5,7 +5,7 @@ date: 2020-06-29 14:27:29
 image: 'https://m.media-amazon.com/images/I/51iEJnGz7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004UO1EW0-es Tous Touch Eau de Toilette Vaporizador 30 ml'
 sku: 'B004UO1EW0-es'
 tags: [ 'de','eau','toilette', ]

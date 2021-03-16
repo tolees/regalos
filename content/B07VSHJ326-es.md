@@ -5,7 +5,7 @@ date: 2020-02-23 19:01:58
 image: 'https://m.media-amazon.com/images/I/417KBiV0CLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSHJ326-es Amilril Collar de Copo de Nieve Colgante Plata de Ley 925...'
 sku: 'B07VSHJ326-es'
 tags: [ 'de','ley','plata', ]

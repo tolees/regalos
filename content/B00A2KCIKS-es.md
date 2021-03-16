@@ -5,7 +5,7 @@ date: 2020-09-08 20:36:03
 image: 'https://m.media-amazon.com/images/I/41JIQCyS2lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A2KCIKS-es DOLCE & GABBANA POUR FEMME - Agua de perfume vaporizador...'
 sku: 'B00A2KCIKS-es'
 tags: [ 'agua','de','perfume', ]

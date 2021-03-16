@@ -5,7 +5,7 @@ date: 2020-08-19 15:19:00
 image: 'https://m.media-amazon.com/images/I/41FuPxn7YML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XEATY0-es Dolce & Gabbana Light Blue Agua de tocador para mujeres -...'
 sku: 'B000XEATY0-es'
 tags: [ 'agua','de','tocador', ]

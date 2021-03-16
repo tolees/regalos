@@ -5,7 +5,7 @@ date: 2020-06-28 14:37:21
 image: 'https://m.media-amazon.com/images/I/41bMSgYVKRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017KYQH5U-es Heno De Pravia Original Agua de Colonia - 650 ml'
 sku: 'B017KYQH5U-es'
 tags: [ 'agua','colonia','de', ]

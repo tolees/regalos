@@ -5,7 +5,7 @@ date: 2020-03-05 13:57:43
 image: 'https://m.media-amazon.com/images/I/41p-yAD2m8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0086EKVPQ-es Alyssa Ashley green Tea Essence Eau de Toilette...'
 sku: 'B0086EKVPQ-es'
 tags: [ 'de','eau','toilette', ]

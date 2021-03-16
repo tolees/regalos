@@ -5,7 +5,7 @@ date: 2020-01-04 22:29:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RfLirwrpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SCDK73-es WEMEK Niñas Disfraz de Princesa Elsa con Capa Frozen Anna...'
 sku: 'B082SCDK73-es'
 tags: [ 'navidad', ]

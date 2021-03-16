@@ -5,7 +5,7 @@ date: 2020-07-15 20:14:04
 image: 'https://m.media-amazon.com/images/I/31YjIraoW3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0741DVM9X-es Swarovski Timeless Remix Collection Azul baño de rodio'
 sku: 'B0741DVM9X-es'
 tags: [ 'swarovski', ]

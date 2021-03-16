@@ -5,7 +5,7 @@ date: 2020-09-03 14:53:17
 image: 'https://m.media-amazon.com/images/I/419nbFE+1wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001IB4E4I-es Bvlgari BLV POUR HOMME 47028 - Eau de toilette para hombre...'
 sku: 'B001IB4E4I-es'
 tags: [ 'de','eau','toilette', ]

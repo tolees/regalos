@@ -5,7 +5,7 @@ date: 2020-06-24 19:17:06
 image: 'https://m.media-amazon.com/images/I/31mwbW54EGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814YM7JD-es Swarovski Collar Swan de Mujer con Rodio Plateado Cristal...'
 sku: 'B0814YM7JD-es'
 tags: [ 'swarovski', ]

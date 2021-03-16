@@ -5,7 +5,7 @@ date: 2020-01-06 09:59:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51C48yzuAEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8Q5GTJ-es Guirnalda navidad de luz 300 LED Blanco 30M cálido 8 Modo...'
 sku: 'B07S8Q5GTJ-es'
 tags: [ 'navidad', ]

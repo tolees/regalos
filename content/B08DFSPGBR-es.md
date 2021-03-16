@@ -5,7 +5,7 @@ date: 2020-09-27 17:37:53
 image: 'https://m.media-amazon.com/images/I/61xqhDa33hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFSPGBR-es DazSpirit 24 Calendario De Adviento Navidad Bolsa De...'
 sku: 'B08DFSPGBR-es'
 tags: [ 'adviento','navidad', ]

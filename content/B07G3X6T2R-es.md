@@ -5,7 +5,7 @@ date: 2020-05-12 07:05:49
 image: 'https://m.media-amazon.com/images/I/410pKkV2TDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3X6T2R-es Raya Jerséis Mujer 2019 Invierno Blanco Tumblr Moda Casual...'
 sku: 'B07G3X6T2R-es'
 tags: [ 'navidad', ]

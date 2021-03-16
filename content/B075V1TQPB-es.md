@@ -5,7 +5,7 @@ date: 2020-02-12 12:34:17
 image: 'https://m.media-amazon.com/images/I/51EPhssKW8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075V1TQPB-es Cadena de Luces YWTESCH Luz Solar de Cadena 12 LEDs...'
 sku: 'B075V1TQPB-es'
 tags: [ 'navidad', ]

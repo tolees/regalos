@@ -5,7 +5,7 @@ date: 2020-06-14 08:10:36
 image: 'https://m.media-amazon.com/images/I/51pi8lLKC3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0731Q7VDQ-es Adidas Uefa Champions Edition Eau de Toilette para Hombre...'
 sku: 'B0731Q7VDQ-es'
 tags: [ 'de','eau','toilette', ]

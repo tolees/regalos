@@ -5,7 +5,7 @@ date: 2020-09-03 10:35:24
 image: 'https://m.media-amazon.com/images/I/61l9nRuL01L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNKZZ7D-es Aitsite Bolas de Navidad 6 cm Bolas de árbol de Navidad...'
 sku: 'B07VNKZZ7D-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-03-16 13:55:50
 image: 'https://m.media-amazon.com/images/I/51hGitJx1YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0E9KXD-es Halloween Jesus Del Pozo Halloween Kiss Sexy Agua De...'
 sku: 'B01N0E9KXD-es'
 tags: [ 'agua','de','tocador', ]

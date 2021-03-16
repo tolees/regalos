@@ -5,7 +5,7 @@ date: 2020-03-15 12:53:15
 image: 'https://m.media-amazon.com/images/I/41I9HXzZP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GHVIGM-es KENZO L EAU eau de toilette Mujeres 100 ml - Eau de...'
 sku: 'B000GHVIGM-es'
 tags: [ 'de','eau','toilette', ]

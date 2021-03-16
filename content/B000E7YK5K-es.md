@@ -5,7 +5,7 @@ date: 2020-03-05 13:05:18
 image: 'https://m.media-amazon.com/images/I/31AGJzOysTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E7YK5K-es Armani Acqua Di Gio Homme Eau de Toilette Vaporizador 100 ml'
 sku: 'B000E7YK5K-es'
 tags: [ 'de','eau','toilette', ]

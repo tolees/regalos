@@ -5,7 +5,7 @@ date: 2020-05-19 15:42:36
 image: 'https://m.media-amazon.com/images/I/41TtMy-XsPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZNF93P-es B.Catcher Collar Mujer Colgante Mariposas 925 Plata de Ley...'
 sku: 'B075ZNF93P-es'
 tags: [ 'de','ley','plata', ]

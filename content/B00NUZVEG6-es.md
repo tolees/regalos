@@ -5,7 +5,7 @@ date: 2020-03-17 13:13:10
 image: 'https://m.media-amazon.com/images/I/41VmokBmyRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NUZVEG6-es Tous Love Moments Agua de Colonia - 30 ml'
 sku: 'B00NUZVEG6-es'
 tags: [ 'agua','colonia','de', ]

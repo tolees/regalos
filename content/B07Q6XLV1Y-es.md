@@ -5,7 +5,7 @@ date: 2020-01-07 15:22:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6XLV1Y-es Amilril Collar Collar Colgante de Corazón Mujer Plata de...'
 sku: 'B07Q6XLV1Y-es'
 tags: [ 'de','ley','navidad','plata', ]

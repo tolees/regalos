@@ -5,7 +5,7 @@ date: 2020-09-08 15:50:35
 image: 'https://m.media-amazon.com/images/I/41AQN6MK-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002XQ1RJW-es Diesel Only The Brave - Agua de tocador vaporizador 125 ml'
 sku: 'B002XQ1RJW-es'
 tags: [ 'agua','de','tocador', ]

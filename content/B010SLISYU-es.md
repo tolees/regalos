@@ -5,7 +5,7 @@ date: 2020-09-19 21:48:12
 image: 'https://m.media-amazon.com/images/I/41WSh-f37aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010SLISYU-es Old Spice Original Eau De Toilette 100 ml'
 sku: 'B010SLISYU-es'
 tags: [ 'de','eau','toilette', ]

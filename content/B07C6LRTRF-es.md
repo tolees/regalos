@@ -5,7 +5,7 @@ date: 2020-03-14 20:31:35
 image: 'https://m.media-amazon.com/images/I/41PSA1vzugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C6LRTRF-es Perfume para hombres marca Jaguar fragancia Eau de...'
 sku: 'B07C6LRTRF-es'
 tags: [ 'de','eau','toilette', ]

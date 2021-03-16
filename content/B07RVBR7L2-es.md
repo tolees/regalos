@@ -5,7 +5,7 @@ date: 2020-01-24 11:09:07
 image: 'https://m.media-amazon.com/images/I/51CuXbQzBBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVBR7L2-es Lictin 5 Pares Pendientes en Oro Largos Pendientes Mujer...'
 sku: 'B07RVBR7L2-es'
 tags: [ 'navidad', ]

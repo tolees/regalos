@@ -5,7 +5,7 @@ date: 2020-08-01 10:31:57
 image: 'https://m.media-amazon.com/images/I/41BYQQ2XKNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BR41KH7-es ANAZOZ Pendientes Mujer Plata Pendientes Aro Mujer Plata...'
 sku: 'B08BR41KH7-es'
 tags: [ 'de','ley','plata', ]

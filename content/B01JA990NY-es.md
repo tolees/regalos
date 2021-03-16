@@ -5,7 +5,7 @@ date: 2020-03-03 00:35:39
 image: 'https://m.media-amazon.com/images/I/41O-931WDzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JA990NY-es Prada La Femme Prada Agua de Perfume Vaporizador - 50 ml'
 sku: 'B01JA990NY-es'
 tags: [ 'agua','de','perfume', ]

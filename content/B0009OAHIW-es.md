@@ -5,7 +5,7 @@ date: 2020-08-17 19:02:35
 image: 'https://m.media-amazon.com/images/I/41nX1oIAjfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAHIW-es Dolce & Gabbana Light Blue Eau de Toilette Vaporizador 50 ml'
 sku: 'B0009OAHIW-es'
 tags: [ 'de','eau','toilette', ]

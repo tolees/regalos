@@ -5,7 +5,7 @@ date: 2020-06-15 11:23:38
 image: 'https://m.media-amazon.com/images/I/517-SxPDLfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F6YF60I-es Old Spice Whitewater Vaporizador Agua de Colonia - 100 ml'
 sku: 'B01F6YF60I-es'
 tags: [ 'agua','colonia','de', ]

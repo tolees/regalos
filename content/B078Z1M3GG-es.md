@@ -5,7 +5,7 @@ date: 2020-01-22 20:32:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414Ciry8KYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078Z1M3GG-es Swarovski Ear jackets Latisha acabado con combinación de...'
 sku: 'B078Z1M3GG-es'
 tags: [ 'swarovski', ]

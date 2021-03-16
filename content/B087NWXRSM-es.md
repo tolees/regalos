@@ -5,7 +5,7 @@ date: 2020-10-09 12:44:45
 image: 'https://m.media-amazon.com/images/I/41PolANVVaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NWXRSM-es Grandma Shark Bambú Tabla de Quesos Bandeja de Queso y...'
 sku: 'B087NWXRSM-es'
 tags: [ 'navidad', ]

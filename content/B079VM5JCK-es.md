@@ -5,7 +5,7 @@ date: 2020-06-25 10:18:49
 image: 'https://m.media-amazon.com/images/I/41a4XgdAWcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VM5JCK-es Thomas Sabo - Colgante de Mujer "Cráneo de Toro Étnico...'
 sku: 'B079VM5JCK-es'
 tags: [ 'de','ley','plata', ]

@@ -5,7 +5,7 @@ date: 2020-01-30 13:10:47
 image: 'https://m.media-amazon.com/images/I/410Qgek2dkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IMU0RDA-es Elizabeth Arden Agua de colonia para mujeres - 100 ml.'
 sku: 'B00IMU0RDA-es'
 tags: [ 'agua','colonia','de', ]

@@ -5,7 +5,7 @@ date: 2020-07-02 08:04:35
 image: 'https://m.media-amazon.com/images/I/41cTC-LykJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKBVVHN-es Pendientes de plata de ley 925 con diseño de caballo de...'
 sku: 'B07XKBVVHN-es'
 tags: [ 'de','ley','plata', ]

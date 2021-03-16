@@ -5,7 +5,7 @@ date: 2020-08-26 11:22:41
 image: 'https://m.media-amazon.com/images/I/514It6HNgNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X57JPR1-es Rotuladores Acrílicos de Pintura Piedras Rotuladores de...'
 sku: 'B07X57JPR1-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-02-07 17:27:50
 image: 'https://m.media-amazon.com/images/I/31kZDXsdXbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SBF5HY-es Swarovski Colgante Anillo Stone Round Ring baño de rodio...'
 sku: 'B078SBF5HY-es'
 tags: [ 'swarovski', ]

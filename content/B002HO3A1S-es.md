@@ -5,7 +5,7 @@ date: 2020-08-05 04:55:50
 image: 'https://m.media-amazon.com/images/I/41rCYXFuEtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002HO3A1S-es Thierry Mugler Angel Agua de perfume Vaporizador...'
 sku: 'B002HO3A1S-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-09-19 15:16:14
 image: 'https://m.media-amazon.com/images/I/41ZdW-cxIcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4CGT71-es TOJEAN Amor Maternal Colgantes Joyeria Mujer Plata de ley...'
 sku: 'B07P4CGT71-es'
 tags: [ 'de','ley','plata', ]

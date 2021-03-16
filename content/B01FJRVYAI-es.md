@@ -5,7 +5,7 @@ date: 2020-01-30 22:20:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UtBsn263L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FJRVYAI-es Cadena solar de luces LED Salcar de 5 metros 20 gotas de...'
 sku: 'B01FJRVYAI-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-07-03 07:57:33
 image: 'https://m.media-amazon.com/images/I/41ntVyz9HmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IYC71Q6-es Prada 17294 - Agua de Colonia L Homme 100 ml'
 sku: 'B01IYC71Q6-es'
 tags: [ 'agua','colonia','de', ]

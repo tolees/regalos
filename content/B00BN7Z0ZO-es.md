@@ -5,7 +5,7 @@ date: 2020-06-03 16:55:40
 image: 'https://m.media-amazon.com/images/I/41jf8jtHbXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7Z0ZO-es COURREGES EAU DE COURRÈGES agua de tocador vaporizador 50 ml'
 sku: 'B00BN7Z0ZO-es'
 tags: [ 'agua','de','tocador', ]

@@ -5,7 +5,7 @@ date: 2020-03-04 18:15:43
 image: 'https://m.media-amazon.com/images/I/41FLHS+TYOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBPGDJ5-es Anillo de plata labradorita anillo de plata labradorita...'
 sku: 'B07NBPGDJ5-es'
 tags: [ 'de','ley','plata', ]

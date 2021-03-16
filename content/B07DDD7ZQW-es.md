@@ -5,7 +5,7 @@ date: 2020-04-19 19:02:23
 image: 'https://m.media-amazon.com/images/I/51NBF7vLl9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDD7ZQW-es Lámpara Infantiles Proyector Estrella+Proyector LED+Timer...'
 sku: 'B07DDD7ZQW-es'
 tags: [ 'navidad', ]

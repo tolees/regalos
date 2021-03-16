@@ -5,7 +5,7 @@ date: 2020-10-09 19:19:11
 image: 'https://m.media-amazon.com/images/I/31F8Dga6GgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MHPDCQ-es Swarovski Conjunto de Collares Symbolic Moon Multicolor...'
 sku: 'B074MHPDCQ-es'
 tags: [ 'swarovski', ]

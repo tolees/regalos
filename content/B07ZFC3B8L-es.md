@@ -5,7 +5,7 @@ date: 2020-07-09 06:52:37
 image: 'https://m.media-amazon.com/images/I/41pnLQG9+0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFC3B8L-es Luz Nocturna Infantil Tekemai Luz de Noche Bebé Lámpara de...'
 sku: 'B07ZFC3B8L-es'
 tags: [ 'navidad', ]

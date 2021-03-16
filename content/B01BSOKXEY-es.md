@@ -5,7 +5,7 @@ date: 2020-04-22 18:46:05
 image: 'https://m.media-amazon.com/images/I/51DLg+YHk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSOKXEY-es Swarovski Reloj Crystalline Oval 5181008'
 sku: 'B01BSOKXEY-es'
 tags: [ 'swarovski', ]

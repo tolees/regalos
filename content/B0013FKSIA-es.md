@@ -5,7 +5,7 @@ date: 2020-02-08 21:08:58
 image: 'https://m.media-amazon.com/images/I/41AZjxPz0sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013FKSIA-es Boucheron Jaipur Homme Eau de Toilette Vaporizador 100 ml'
 sku: 'B0013FKSIA-es'
 tags: [ 'de','eau','toilette', ]

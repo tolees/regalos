@@ -5,7 +5,7 @@ date: 2020-06-19 19:06:44
 image: 'https://m.media-amazon.com/images/I/41IECHBlSaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WQQRM8-es Pandora Brazalete Mujer plata - 596438CZ-1'
 sku: 'B071WQQRM8-es'
 tags: [ 'pandora', ]

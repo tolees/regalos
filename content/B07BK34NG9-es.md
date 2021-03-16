@@ -5,7 +5,7 @@ date: 2020-01-23 10:09:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vS%2BxVeYXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BK34NG9-es AmzBarley Princesa Vestido Disfraz Traje Reina de Nieve...'
 sku: 'B07BK34NG9-es'
 tags: [ 'navidad', ]

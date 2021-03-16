@@ -5,7 +5,7 @@ date: 2020-05-13 15:03:45
 image: 'https://m.media-amazon.com/images/I/31UzjBvIp9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGBSKPL-es OBEEII Disfraz Rapunzel Niña Carnaval Vestido de Princesa...'
 sku: 'B07VGBSKPL-es'
 tags: [ 'navidad', ]

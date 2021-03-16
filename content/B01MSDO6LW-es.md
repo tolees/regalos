@@ -5,7 +5,7 @@ date: 2020-02-04 09:28:20
 image: 'https://m.media-amazon.com/images/I/41VBQNY1o3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSDO6LW-es Jimmy Choo Agua de perfume para mujeres - 90 gr.'
 sku: 'B01MSDO6LW-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-03-01 23:16:57
 image: 'https://m.media-amazon.com/images/I/41ukKDj2AeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZM4LSQR-es Botella calefactora de microondas Bolsa de agua caliente...'
 sku: 'B07ZM4LSQR-es'
 tags: [ 'navidad', ]

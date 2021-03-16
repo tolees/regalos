@@ -5,7 +5,7 @@ date: 2020-03-08 21:35:50
 image: 'https://m.media-amazon.com/images/I/31bvJP6uOsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H5OQPF2-es Angel Schlesser Bergamota Agua de Colonia Vaporizador -...'
 sku: 'B01H5OQPF2-es'
 tags: [ 'agua','colonia','de', ]

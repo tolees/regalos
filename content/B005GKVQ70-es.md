@@ -5,7 +5,7 @@ date: 2020-05-31 13:22:22
 image: 'https://m.media-amazon.com/images/I/51-GphC4ToL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005GKVQ70-es PLAYBOY LONDON agua de tocador vaporizador 100 ml'
 sku: 'B005GKVQ70-es'
 tags: [ 'agua','de','tocador', ]

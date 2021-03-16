@@ -5,7 +5,7 @@ date: 2020-03-01 12:12:13
 image: 'https://m.media-amazon.com/images/I/41UU6tQdEOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4RKH6P-es OwlFay Rapunzel Disfraz Carnaval Traje de Princesa para...'
 sku: 'B07Z4RKH6P-es'
 tags: [ 'navidad', ]

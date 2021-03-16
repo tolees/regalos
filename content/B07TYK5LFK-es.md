@@ -5,7 +5,7 @@ date: 2020-06-22 14:02:36
 image: 'https://m.media-amazon.com/images/I/5184S8PBWXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYK5LFK-es Qings Aros Pendientes Plata de Ley 925 Mujer Pendientes...'
 sku: 'B07TYK5LFK-es'
 tags: [ 'de','ley','navidad','plata', ]

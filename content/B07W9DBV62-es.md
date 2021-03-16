@@ -5,7 +5,7 @@ date: 2020-02-03 19:55:24
 image: 'https://m.media-amazon.com/images/I/51xOPSE3z-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W9DBV62-es IREGRO Luces de Proyector Navidad Copos de Nieve Luz de...'
 sku: 'B07W9DBV62-es'
 tags: [ 'navidad', ]

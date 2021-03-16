@@ -5,7 +5,7 @@ date: 2020-05-29 13:34:26
 image: 'https://m.media-amazon.com/images/I/41s4OM17hoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0020MMGIK-es Tous Agua de Colonia - 30 ml'
 sku: 'B0020MMGIK-es'
 tags: [ 'agua','colonia','de', ]

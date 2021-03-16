@@ -5,7 +5,7 @@ date: 2020-07-10 03:31:13
 image: 'https://m.media-amazon.com/images/I/61bbPcf4F1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4JXYYZ-es WisFox Explosion Box Creativo DIY Hecho a Mano Sorpresa...'
 sku: 'B07Z4JXYYZ-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-06-06 19:57:21
 image: 'https://m.media-amazon.com/images/I/21jn5ujrbKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ALZASAA-es UTOQIA Collar Drop Plata de Ley 925 milésimas'
 sku: 'B01ALZASAA-es'
 tags: [ 'de','ley','plata', ]

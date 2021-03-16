@@ -5,7 +5,7 @@ date: 2020-07-06 12:30:26
 image: 'https://m.media-amazon.com/images/I/41l04bdXeJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018XDB8II-es Victorio & Lucchino Nº2 Agua de Colonia - 150 ml'
 sku: 'B018XDB8II-es'
 tags: [ 'agua','colonia','de', ]

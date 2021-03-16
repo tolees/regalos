@@ -5,7 +5,7 @@ date: 2020-08-14 19:45:30
 image: 'https://m.media-amazon.com/images/I/51KxRGOM5sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYZL585-es Rotuladores Acrílicos de 12 Colores Rotuladores Acrílicos...'
 sku: 'B07YYZL585-es'
 tags: [ 'navidad', ]

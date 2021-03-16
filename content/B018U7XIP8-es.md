@@ -5,7 +5,7 @@ date: 2020-09-02 00:40:37
 image: 'https://m.media-amazon.com/images/I/61SepV3CopL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018U7XIP8-es LE Cortina de Luces LED con Enchufe 3x3m 306 LED Luz...'
 sku: 'B018U7XIP8-es'
 tags: [ 'navidad', ]

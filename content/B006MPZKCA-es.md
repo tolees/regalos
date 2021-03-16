@@ -5,7 +5,7 @@ date: 2020-02-13 11:06:14
 image: 'https://m.media-amazon.com/images/I/41uIF8VcVVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006MPZKCA-es Roberto Cavalli Agua de Perfume - 75 ml'
 sku: 'B006MPZKCA-es'
 tags: [ 'agua','de','perfume', ]

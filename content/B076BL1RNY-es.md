@@ -5,7 +5,7 @@ date: 2020-10-09 06:35:25
 image: 'https://m.media-amazon.com/images/I/41Bv2T9IyOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076BL1RNY-es Peluche Amor Pájaros En Un Corazón Bead Charm – para...'
 sku: 'B076BL1RNY-es'
 tags: [ 'de','ley','pandora','plata', ]

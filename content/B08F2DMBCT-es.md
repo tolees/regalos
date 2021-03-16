@@ -5,7 +5,7 @@ date: 2020-09-06 18:28:17
 image: 'https://m.media-amazon.com/images/I/51hOznyXhXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F2DMBCT-es Bolsas Papel Kraft Regalo Bolsas bolsas para chuches para...'
 sku: 'B08F2DMBCT-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-02-26 08:14:54
 image: 'https://m.media-amazon.com/images/I/319XAOxx7aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GN1X8H-es Pendientes J.Rosée Pendiente Mujer Perla de Agua Dulce...'
 sku: 'B075GN1X8H-es'
 tags: [ 'de','ley','plata', ]

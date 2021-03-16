@@ -5,7 +5,7 @@ date: 2020-09-09 11:50:24
 image: 'https://m.media-amazon.com/images/I/41EBQ8A4+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCNQ2SD-es Square Enix Bring Arts - Kingdom Hearts II Sora Christmas...'
 sku: 'B07HCNQ2SD-es'
 tags: [ 'christmas', ]

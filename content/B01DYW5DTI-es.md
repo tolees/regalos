@@ -5,7 +5,7 @@ date: 2020-05-26 15:50:22
 image: 'https://m.media-amazon.com/images/I/41xTL6rbR+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DYW5DTI-es Vera Wang Embrace Rosebuds & Vanilla Eau de Toilette para...'
 sku: 'B01DYW5DTI-es'
 tags: [ 'de','eau','toilette', ]

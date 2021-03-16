@@ -5,7 +5,7 @@ date: 2020-10-02 22:38:50
 image: 'https://m.media-amazon.com/images/I/41MXAhVc6yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9C9NN1-es Fontee® Perrito Navidad Rojo Capa Terciopelo Saco de...'
 sku: 'B07Y9C9NN1-es'
 tags: [ 'navidad', ]

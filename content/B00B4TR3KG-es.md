@@ -5,7 +5,7 @@ date: 2020-09-23 12:32:09
 image: 'https://m.media-amazon.com/images/I/41ldk2DCwRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4TR3KG-es Versace Eros Eau de Toilette Vaporizador 100 ml'
 sku: 'B00B4TR3KG-es'
 tags: [ 'de','eau','toilette', ]

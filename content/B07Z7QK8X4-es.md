@@ -5,7 +5,7 @@ date: 2020-01-28 12:21:20
 image: 'https://m.media-amazon.com/images/I/61naD2Q9EYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7QK8X4-es Finether Luz de Proyector LED Océano Decoración Interiores...'
 sku: 'B07Z7QK8X4-es'
 tags: [ 'navidad', ]

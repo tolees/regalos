@@ -5,7 +5,7 @@ date: 2020-08-22 22:45:30
 image: 'https://m.media-amazon.com/images/I/41eLTDNA3oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XU8KIVA-es Burberry My Burberry Eau De Toilette 50Ml Vapo.'
 sku: 'B00XU8KIVA-es'
 tags: [ 'de','eau','toilette', ]

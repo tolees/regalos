@@ -5,7 +5,7 @@ date: 2020-04-22 19:35:46
 image: 'https://m.media-amazon.com/images/I/41f3vUHXrmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005QUUKFY-es Alvarez Gomez - Agua de Colonia Concentrada - 750 ml.'
 sku: 'B005QUUKFY-es'
 tags: [ 'agua','colonia','de', ]

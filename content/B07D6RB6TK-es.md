@@ -5,7 +5,7 @@ date: 2020-04-14 00:15:37
 image: 'https://m.media-amazon.com/images/I/31KmBs-sJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6RB6TK-es Colgante con perlas de plata de ley 925 Abalorio...'
 sku: 'B07D6RB6TK-es'
 tags: [ 'de','ley','plata', ]

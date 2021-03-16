@@ -5,7 +5,7 @@ date: 2020-02-05 14:13:59
 image: 'https://m.media-amazon.com/images/I/4129nNnuV9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBW32RF-es ENGSWA Collar Mujer Plata de Ley 925 Colgante Corazón con...'
 sku: 'B07XBW32RF-es'
 tags: [ 'de','ley','plata', ]

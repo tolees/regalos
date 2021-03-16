@@ -5,7 +5,7 @@ date: 2020-10-05 12:44:22
 image: 'https://m.media-amazon.com/images/I/41CDZaKzW-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AV68JXC-es Montblanc Agua de perfume para mujeres - 50 gr.'
 sku: 'B01AV68JXC-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 18:35:45
 image: 'https://m.media-amazon.com/images/I/31mSx28Yl9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAIT190-es Instituto Español Gotas Frescas agua de colonia...'
 sku: 'B00XAIT190-es'
 tags: [ 'agua','colonia','de', ]

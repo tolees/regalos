@@ -5,7 +5,7 @@ date: 2020-01-07 12:06:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nx64FRtOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081V76DDF-es FKANT Monederos Mujer Billetera Piel Bloqueo RFID Monedero...'
 sku: 'B081V76DDF-es'
 tags: [ 'navidad', ]

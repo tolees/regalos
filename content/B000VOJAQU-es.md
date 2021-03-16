@@ -5,7 +5,7 @@ date: 2020-05-25 21:43:14
 image: 'https://m.media-amazon.com/images/I/41gDfJ6aTJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VOJAQU-es Guerlain Insolence Eau de Toilette Vaporizador 50 ml'
 sku: 'B000VOJAQU-es'
 tags: [ 'de','eau','toilette', ]

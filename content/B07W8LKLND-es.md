@@ -5,7 +5,7 @@ date: 2020-03-24 09:16:21
 image: 'https://m.media-amazon.com/images/I/51U18TfF0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8LKLND-es Libro Lámpara Tomshine Mini Lámpara Lectura Libro 12...'
 sku: 'B07W8LKLND-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-01-27 12:15:46
 image: 'https://m.media-amazon.com/images/I/61VuTe4TFpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7DYQ4F-es Guirnalda Luces Exterior 10 Tubo 30cm 300 LEDs IP65...'
 sku: 'B07K7DYQ4F-es'
 tags: [ 'navidad', ]

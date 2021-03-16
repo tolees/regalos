@@ -5,7 +5,7 @@ date: 2020-05-03 19:35:16
 image: 'https://m.media-amazon.com/images/I/41VIFz465IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Y6NCVN-es Oihxse Case Compatible con Realme 3 Pro Funda Transparente...'
 sku: 'B082Y6NCVN-es'
 tags: [ 'navidad', ]

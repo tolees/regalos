@@ -5,7 +5,7 @@ date: 2020-01-24 08:12:27
 image: 'https://m.media-amazon.com/images/I/41zv+UpMk7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008V8ISEI-es Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio...'
 sku: 'B008V8ISEI-es'
 tags: [ '&','boch','villeroy', ]

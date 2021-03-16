@@ -5,7 +5,7 @@ date: 2020-02-12 12:07:31
 image: 'https://m.media-amazon.com/images/I/51K00pT5tgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWCJZWV-es Vicloon 8 Piezas Conjunto con Accesorios de Princesa del...'
 sku: 'B07NWCJZWV-es'
 tags: [ 'navidad', ]

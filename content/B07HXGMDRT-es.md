@@ -5,7 +5,7 @@ date: 2020-06-13 15:22:33
 image: 'https://m.media-amazon.com/images/I/31q5j6Fux3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HXGMDRT-es vivo Villeroy & Boch Group New Fresh Basic Cubertería...'
 sku: 'B07HXGMDRT-es'
 tags: [ '&','boch','villeroy', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 09:26:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41emb9k8HfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GQE9FQI-es Star Wars Eau de Toilette en Estuche - 30 ml'
 sku: 'B01GQE9FQI-es'
 tags: [ 'de','eau','toilette', ]

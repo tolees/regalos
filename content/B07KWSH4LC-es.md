@@ -5,7 +5,7 @@ date: 2020-07-09 16:15:11
 image: 'https://m.media-amazon.com/images/I/51FvyUWwBkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWSH4LC-es PROACC Juego de 8 Coches Dinosaurios plástico Tire hacia...'
 sku: 'B07KWSH4LC-es'
 tags: [ 'navidad', ]

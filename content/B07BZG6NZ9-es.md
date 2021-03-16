@@ -5,7 +5,7 @@ date: 2020-03-04 14:47:04
 image: 'https://m.media-amazon.com/images/I/41aNcxqK-CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZG6NZ9-es J.Rosée Pendientes Mujer Plata de Ley 925 Brillante"...'
 sku: 'B07BZG6NZ9-es'
 tags: [ 'de','ley','navidad','plata', ]

@@ -5,7 +5,7 @@ date: 2020-02-11 09:25:34
 image: 'https://m.media-amazon.com/images/I/51jTF2ar8CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6W4HSL-es Guirnalda Luces Exterior Blanco Cálido Guirnalda de Luces...'
 sku: 'B07V6W4HSL-es'
 tags: [ 'navidad', ]

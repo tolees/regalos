@@ -5,7 +5,7 @@ date: 2020-07-02 13:46:32
 image: 'https://m.media-amazon.com/images/I/41fsiK5MyyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088SWSVFL-es fgdjfhsdfgsdfh 29 * 19Cm Fun Kids Baby Añadir Agua...'
 sku: 'B088SWSVFL-es'
 tags: [ 'navidad', ]

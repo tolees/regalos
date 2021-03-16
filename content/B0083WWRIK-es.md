@@ -5,7 +5,7 @@ date: 2020-06-30 10:35:28
 image: 'https://m.media-amazon.com/images/I/51tLWmLp1+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0083WWRIK-es Dior Eau Sauvage Agua de perfume Vaporizador 100 ml'
 sku: 'B0083WWRIK-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-04-06 21:14:13
 image: 'https://m.media-amazon.com/images/I/51U+v1dt0VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYQTMP3-es TAZEMAT 24 Hojas Máscaras de Animales Papel para Rascar...'
 sku: 'B07XYQTMP3-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-07-14 07:20:46
 image: 'https://m.media-amazon.com/images/I/51fGWz-J6UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GN2VV1V-es EKKONG Explosion Box Scrapbook Creative DIY Photo Album de...'
 sku: 'B07GN2VV1V-es'
 tags: [ 'navidad', ]

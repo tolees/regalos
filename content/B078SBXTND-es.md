@@ -5,7 +5,7 @@ date: 2020-08-19 17:41:07
 image: 'https://m.media-amazon.com/images/I/21Ng93DTqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SBXTND-es Swarovski Anillo Attract Blanco Baño de Rodio'
 sku: 'B078SBXTND-es'
 tags: [ 'swarovski', ]

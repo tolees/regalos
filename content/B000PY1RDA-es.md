@@ -5,7 +5,7 @@ date: 2020-01-18 15:28:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51YngToGS2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PY1RDA-es First American Brands Love Is just The Two Of Us Eau De...'
 sku: 'B000PY1RDA-es'
 tags: [ 'de','eau','toilette', ]

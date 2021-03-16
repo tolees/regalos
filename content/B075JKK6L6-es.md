@@ -5,7 +5,7 @@ date: 2020-10-09 16:56:56
 image: 'https://m.media-amazon.com/images/I/41t3dC81zEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JKK6L6-es Bom Bom Bebe Navidad Pelele para Dormir Monos Bodies Manga...'
 sku: 'B075JKK6L6-es'
 tags: [ 'navidad', ]

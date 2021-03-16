@@ -5,7 +5,7 @@ date: 2020-01-13 17:41:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E7WFUC-es ESTÉE LAUDER WHITE LINEN agua de perfume vaporizador 60 ml'
 sku: 'B000E7WFUC-es'
 tags: [ 'agua','de','perfume', ]

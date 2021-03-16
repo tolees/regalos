@@ -5,7 +5,7 @@ date: 2020-01-25 11:46:32
 image: 'https://m.media-amazon.com/images/I/51NvqF-5rpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JXMB1S-es Camara Fotos Infantil Cámara de Fotos para Niños con HD...'
 sku: 'B081JXMB1S-es'
 tags: [ 'navidad', ]

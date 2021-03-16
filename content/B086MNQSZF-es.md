@@ -5,7 +5,7 @@ date: 2020-04-20 13:02:40
 image: 'https://m.media-amazon.com/images/I/515svT8Rj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MNQSZF-es YO-HAPPY Kids Photo Use Medias Navidad Cosplay Party Use...'
 sku: 'B086MNQSZF-es'
 tags: [ 'navidad', ]

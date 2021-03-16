@@ -5,7 +5,7 @@ date: 2020-04-11 08:40:59
 image: 'https://m.media-amazon.com/images/I/41MtKolTMgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NLEOABC-es NYK1 Designer Swarovski Crystal & Glass Nail File Handmade...'
 sku: 'B00NLEOABC-es'
 tags: [ 'swarovski', ]

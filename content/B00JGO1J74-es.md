@@ -5,7 +5,7 @@ date: 2020-03-12 11:05:56
 image: 'https://m.media-amazon.com/images/I/51OZjYX7UrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JGO1J74-es Tocade Rochas - Eau de toilette vaporizador para mujer 100 ml'
 sku: 'B00JGO1J74-es'
 tags: [ 'de','eau','toilette', ]

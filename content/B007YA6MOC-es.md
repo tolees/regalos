@@ -5,7 +5,7 @@ date: 2020-02-13 11:29:17
 image: 'https://m.media-amazon.com/images/I/31j6JQmOV3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007YA6MOC-es Shiseido 70518 - Agua de colonia'
 sku: 'B007YA6MOC-es'
 tags: [ 'agua','colonia','de', ]

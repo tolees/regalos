@@ -5,7 +5,7 @@ date: 2020-01-01 11:04:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31baTKZ-xkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HMKVXGA-es Calvin Klein Deep Euphoria Agua de Perfume - 50 ml'
 sku: 'B01HMKVXGA-es'
 tags: [ 'agua','de','perfume', ]

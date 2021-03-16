@@ -5,7 +5,7 @@ date: 2020-02-09 17:23:25
 image: 'https://m.media-amazon.com/images/I/41URGMKgCZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZVCN1S-es Pulsera con Collar para Parejas 2 Pcs Acero Inoxidable...'
 sku: 'B077ZVCN1S-es'
 tags: [ 'navidad', ]

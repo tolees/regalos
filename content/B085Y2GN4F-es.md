@@ -5,7 +5,7 @@ date: 2020-06-25 19:32:20
 image: 'https://m.media-amazon.com/images/I/41QI5FWAMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085Y2GN4F-es Milacolato 8 Pares de Aretes de Plata de ley 925 Circle...'
 sku: 'B085Y2GN4F-es'
 tags: [ 'de','ley','plata', ]

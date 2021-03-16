@@ -5,7 +5,7 @@ date: 2020-02-11 23:29:04
 image: 'https://m.media-amazon.com/images/I/31oR53d-g+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IBGUF2I-es Tuscany Silver 8.43.6544 - Cadena con colgante de plata de...'
 sku: 'B00IBGUF2I-es'
 tags: [ 'de','ley','plata', ]

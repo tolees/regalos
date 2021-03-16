@@ -5,7 +5,7 @@ date: 2020-09-17 05:55:13
 image: 'https://m.media-amazon.com/images/I/61krS-updPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVYB9XH-es Zorara Cortina de Luces LED Navidad 3m x 3m Cortina Luces...'
 sku: 'B07WVYB9XH-es'
 tags: [ 'navidad', ]

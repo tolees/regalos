@@ -5,7 +5,7 @@ date: 2020-01-06 12:57:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jXgmefDeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKWFDDZ-es NUÜR Luz de Neón Estrella Lunar LED Señales Luminosas Neón...'
 sku: 'B07GKWFDDZ-es'
 tags: [ 'navidad', ]

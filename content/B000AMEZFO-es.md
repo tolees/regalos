@@ -5,7 +5,7 @@ date: 2020-06-04 19:01:42
 image: 'https://m.media-amazon.com/images/I/413I91WmAYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000AMEZFO-es Narciso Rodriguez 140435 - Agua de tocador vaporizador...'
 sku: 'B000AMEZFO-es'
 tags: [ 'agua','de','tocador', ]

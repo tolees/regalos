@@ -5,7 +5,7 @@ date: 2020-10-02 21:50:36
 image: 'https://m.media-amazon.com/images/I/4174O+gFYCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828QLCVV-es SHEGRACE plata de ley'
 sku: 'B0828QLCVV-es'
 tags: [ 'de','ley','plata', ]

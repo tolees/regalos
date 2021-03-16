@@ -5,7 +5,7 @@ date: 2020-01-24 10:14:07
 image: 'https://m.media-amazon.com/images/I/31dNauqh5RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VM5MXVS-es OBEEII Vestidos Princesa Niña Traje del Vestido Princesa...'
 sku: 'B07VM5MXVS-es'
 tags: [ 'navidad', ]

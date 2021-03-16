@@ -5,7 +5,7 @@ date: 2020-05-18 10:43:02
 image: 'https://m.media-amazon.com/images/I/41Wi668XvWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1W5LE-es Thierry Mugler 16863 - Agua de colonia 30 ml'
 sku: 'B000C1W5LE-es'
 tags: [ 'agua','colonia','de', ]

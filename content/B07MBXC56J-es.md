@@ -5,7 +5,7 @@ date: 2020-03-01 10:35:48
 image: 'https://m.media-amazon.com/images/I/51z9n9JK0zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBXC56J-es OxyLED Guirnaldas luminosas de exterior [LED Versión]G40 7...'
 sku: 'B07MBXC56J-es'
 tags: [ 'navidad', ]

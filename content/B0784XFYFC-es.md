@@ -5,7 +5,7 @@ date: 2020-04-14 09:14:59
 image: 'https://m.media-amazon.com/images/I/61rKmfOnz8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784XFYFC-es Regalo de navidad para hombre amigo cervezas del mundo...'
 sku: 'B0784XFYFC-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-09-22 15:06:09
 image: 'https://m.media-amazon.com/images/I/51RP1V4IL5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B618VKR-es VIPMOON 2x5m/32.8ft 2pcs 6803 IC Dream Magic Tira de LED...'
 sku: 'B07B618VKR-es'
 tags: [ 'navidad', ]

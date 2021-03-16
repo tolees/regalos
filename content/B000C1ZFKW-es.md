@@ -5,7 +5,7 @@ date: 2020-05-21 09:44:16
 image: 'https://m.media-amazon.com/images/I/31VWC8TSDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1ZFKW-es Yves Saint Laurent Paris Eau de Toilette Vaporizador 75 ml'
 sku: 'B000C1ZFKW-es'
 tags: [ 'de','eau','toilette', ]

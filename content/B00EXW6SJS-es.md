@@ -5,7 +5,7 @@ date: 2020-02-07 13:55:48
 image: 'https://m.media-amazon.com/images/I/41cWxkryjWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EXW6SJS-es Versace Eros Eau de Toilette Vaporizador 50 ml'
 sku: 'B00EXW6SJS-es'
 tags: [ 'de','eau','toilette', ]

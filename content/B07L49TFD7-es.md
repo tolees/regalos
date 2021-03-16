@@ -5,7 +5,7 @@ date: 2020-05-31 13:44:05
 image: 'https://m.media-amazon.com/images/I/51S1DroxjHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L49TFD7-es Carpa De Ensueño Carpa Para Cama，Carpa Cojin Molon，Carpa...'
 sku: 'B07L49TFD7-es'
 tags: [ 'navidad', ]

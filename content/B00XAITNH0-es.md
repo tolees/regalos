@@ -5,7 +5,7 @@ date: 2020-07-02 16:45:13
 image: 'https://m.media-amazon.com/images/I/41Z8Vr-s29L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAITNH0-es Poseidon The Black Eau de Toilette para Hombre - 150 ML'
 sku: 'B00XAITNH0-es'
 tags: [ 'de','eau','toilette', ]

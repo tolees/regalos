@@ -5,7 +5,7 @@ date: 2020-08-29 19:57:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lroYcI%2BzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNQ8K8N-es Traje de la Casa de Papel con Mascara Mono Cosplay Trajes...'
 sku: 'B07VNQ8K8N-es'
 tags: [ 'navidad', ]

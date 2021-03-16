@@ -5,7 +5,7 @@ date: 2020-03-12 12:31:36
 image: 'https://m.media-amazon.com/images/I/31hxWz+zb4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01980SEAK-es MENFORSAN Agua de Colonia Fresa para Gatos - 125 ml'
 sku: 'B01980SEAK-es'
 tags: [ 'agua','colonia','de', ]

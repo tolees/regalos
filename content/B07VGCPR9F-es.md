@@ -5,7 +5,7 @@ date: 2020-01-24 10:15:57
 image: 'https://m.media-amazon.com/images/I/41p-xmnYnxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGCPR9F-es OBEEII Disfraz Princesa para Niñas Costume Princesa Reino...'
 sku: 'B07VGCPR9F-es'
 tags: [ 'navidad', ]

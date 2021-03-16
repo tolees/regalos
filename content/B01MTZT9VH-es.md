@@ -5,7 +5,7 @@ date: 2020-02-05 19:54:48
 image: 'https://m.media-amazon.com/images/I/51gY57ZjIdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTZT9VH-es Guirnalda Cadena de Luces de LED Alambre de Cobre...'
 sku: 'B01MTZT9VH-es'
 tags: [ 'navidad', ]

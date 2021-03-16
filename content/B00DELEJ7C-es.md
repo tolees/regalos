@@ -5,7 +5,7 @@ date: 2020-05-17 13:02:15
 image: 'https://m.media-amazon.com/images/I/51p7d1VMXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DELEJ7C-es Nenuco Pack Agua de Colonia Infantil Bebé Minnie con...'
 sku: 'B00DELEJ7C-es'
 tags: [ 'agua','colonia','de', ]

@@ -5,7 +5,7 @@ date: 2020-08-25 19:18:27
 image: 'https://m.media-amazon.com/images/I/31qt2JDj+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3Y3W4P-es Eye Candy ECJ-NL0067 - Collar para mujer colgante en plata...'
 sku: 'B01M3Y3W4P-es'
 tags: [ 'de','ley','plata', ]

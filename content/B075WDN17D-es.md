@@ -5,7 +5,7 @@ date: 2020-05-22 14:05:12
 image: 'https://m.media-amazon.com/images/I/41u8leUc9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WDN17D-es Carolina Herrera 212 Men Agua de Tocador Vaporizador - 50 ml'
 sku: 'B075WDN17D-es'
 tags: [ 'agua','de','tocador', ]

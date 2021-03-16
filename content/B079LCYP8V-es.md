@@ -5,7 +5,7 @@ date: 2020-05-05 08:04:38
 image: 'https://m.media-amazon.com/images/I/31-lqpkY-qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LCYP8V-es Narciso Rodriguez Agua de perfume para hombres - 50 ml.'
 sku: 'B079LCYP8V-es'
 tags: [ 'agua','de','perfume', ]

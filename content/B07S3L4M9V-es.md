@@ -5,7 +5,7 @@ date: 2020-02-11 09:50:48
 image: 'https://m.media-amazon.com/images/I/41BMGTPLt9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3L4M9V-es Gomas de Borrar Animal 30PCS Al Azar Juguete Desmontable...'
 sku: 'B07S3L4M9V-es'
 tags: [ 'navidad', ]

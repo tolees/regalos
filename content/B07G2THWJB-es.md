@@ -5,7 +5,7 @@ date: 2020-05-02 14:01:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Q66Om%2BRfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2THWJB-es Calvin Klein Agua de perfume para mujeres - 30 ml.'
 sku: 'B07G2THWJB-es'
 tags: [ 'agua','de','perfume', ]

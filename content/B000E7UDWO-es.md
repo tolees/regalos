@@ -5,7 +5,7 @@ date: 2020-07-01 11:50:32
 image: 'https://m.media-amazon.com/images/I/41w3zWsaqzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E7UDWO-es Dior - Hypnotic Poison - Eau de toilette para mujer - 100 ml'
 sku: 'B000E7UDWO-es'
 tags: [ 'de','eau','toilette', ]

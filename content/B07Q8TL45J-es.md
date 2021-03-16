@@ -5,7 +5,7 @@ date: 2020-06-06 13:45:23
 image: 'https://m.media-amazon.com/images/I/51yjkefNIgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8TL45J-es TekHome Mini LED Proyector Bebe Estrellas Portátil Azul...'
 sku: 'B07Q8TL45J-es'
 tags: [ 'navidad', ]

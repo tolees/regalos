@@ -5,7 +5,7 @@ date: 2020-03-26 16:27:45
 image: 'https://m.media-amazon.com/images/I/31eR1QEy6WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZRPN1EA-es Bvlgari Au The Blanc - Agua de colonia 75 ml'
 sku: 'B00ZRPN1EA-es'
 tags: [ 'agua','colonia','de', ]

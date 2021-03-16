@@ -5,7 +5,7 @@ date: 2020-03-02 13:05:32
 image: 'https://m.media-amazon.com/images/I/41vir-gb2DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KKTXGT-es Swarovski Remix Collection Strand Infinity baño en Tono...'
 sku: 'B074KKTXGT-es'
 tags: [ 'swarovski', ]

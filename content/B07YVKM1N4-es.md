@@ -5,7 +5,7 @@ date: 2020-04-03 23:08:51
 image: 'https://m.media-amazon.com/images/I/41ynPe5RXfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVKM1N4-es Sony Pack Navidad 2019 BD - 20 discos [Blu-ray]'
 sku: 'B07YVKM1N4-es'
 tags: [ 'navidad', ]

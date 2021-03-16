@@ -5,7 +5,7 @@ date: 2020-06-15 18:21:23
 image: 'https://m.media-amazon.com/images/I/514lZ+Z5hvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJB6FG1-es Nenuco Agua de Colonia recomendado para bebés fragancia...'
 sku: 'B07MJB6FG1-es'
 tags: [ 'agua','colonia','de', ]

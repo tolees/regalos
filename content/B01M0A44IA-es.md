@@ -5,7 +5,7 @@ date: 2020-02-13 14:53:49
 image: 'https://m.media-amazon.com/images/I/5115QX9VO6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0A44IA-es Collar Mujer J.Rosée Plata de Ley 925 Brillante...'
 sku: 'B01M0A44IA-es'
 tags: [ 'de','ley','plata', ]

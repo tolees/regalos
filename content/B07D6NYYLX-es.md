@@ -5,7 +5,7 @@ date: 2020-04-04 05:20:17
 image: 'https://m.media-amazon.com/images/I/51bpV6IRKSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6NYYLX-es Morkka Portátil Máquina de Burbujas Soplador de Pompas de...'
 sku: 'B07D6NYYLX-es'
 tags: [ 'navidad', ]

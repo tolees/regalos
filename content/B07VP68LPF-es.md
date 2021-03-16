@@ -5,7 +5,7 @@ date: 2020-01-07 12:16:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41m1qXwC35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VP68LPF-es Amilril Collar Estrella Mujer Plata de Ley 925 Joyería...'
 sku: 'B07VP68LPF-es'
 tags: [ 'de','ley','navidad','plata', ]

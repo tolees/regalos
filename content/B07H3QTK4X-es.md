@@ -5,7 +5,7 @@ date: 2020-05-18 19:35:44
 image: 'https://m.media-amazon.com/images/I/41njpPYT5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3QTK4X-es Dolce & Gabbana Agua de perfume para mujeres - 50 ml.'
 sku: 'B07H3QTK4X-es'
 tags: [ 'agua','de','perfume', ]

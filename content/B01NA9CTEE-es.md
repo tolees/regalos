@@ -5,7 +5,7 @@ date: 2020-01-16 15:48:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61GTivAJWcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NA9CTEE-es Lychee Solar Powered 3 5m 10 LED Luces de cuerda de hadas...'
 sku: 'B01NA9CTEE-es'
 tags: [ 'navidad', ]

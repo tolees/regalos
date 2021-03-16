@@ -5,7 +5,7 @@ date: 2020-03-08 13:32:50
 image: 'https://m.media-amazon.com/images/I/51wJlXutQkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5CFG4N-es ALLOMN Rosa Flores Artificiales 24K Chapado en Oro Rosa...'
 sku: 'B07P5CFG4N-es'
 tags: [ 'navidad', ]

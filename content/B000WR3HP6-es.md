@@ -5,7 +5,7 @@ date: 2020-05-13 04:10:12
 image: 'https://m.media-amazon.com/images/I/31L+O-Ey4gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WR3HP6-es Villeroy & Boch Piemont Cubertería Para hasta 6 personas...'
 sku: 'B000WR3HP6-es'
 tags: [ '&','boch','villeroy', ]

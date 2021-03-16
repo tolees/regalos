@@ -5,7 +5,7 @@ date: 2020-10-08 19:30:41
 image: 'https://m.media-amazon.com/images/I/41qrjlWWcfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D73DH4P-es Pendientes mujer plata de ley 925 pendientes largos con...'
 sku: 'B07D73DH4P-es'
 tags: [ 'de','ley','plata', ]

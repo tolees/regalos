@@ -5,7 +5,7 @@ date: 2020-07-09 22:56:41
 image: 'https://m.media-amazon.com/images/I/51xxqZkoG7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B48BSBH-es Juego de herramientas para parrillas para barbacoa kit de...'
 sku: 'B07B48BSBH-es'
 tags: [ 'navidad', ]

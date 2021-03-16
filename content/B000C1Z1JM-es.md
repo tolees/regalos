@@ -5,7 +5,7 @@ date: 2020-08-05 11:27:23
 image: 'https://m.media-amazon.com/images/I/41mSXSD8VTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1Z1JM-es Loris Azzaro Eau de Toilette para Hombre - 100 ml.'
 sku: 'B000C1Z1JM-es'
 tags: [ 'de','eau','toilette', ]

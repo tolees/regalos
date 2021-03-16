@@ -5,7 +5,7 @@ date: 2020-05-22 15:42:16
 image: 'https://m.media-amazon.com/images/I/41fA+U-4ULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DAUYXZA-es Paco Rabanne Invictus Agua de tocador para hombres - 50 ml.'
 sku: 'B00DAUYXZA-es'
 tags: [ 'agua','de','tocador', ]

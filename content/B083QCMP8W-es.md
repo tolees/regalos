@@ -5,7 +5,7 @@ date: 2020-09-13 22:25:18
 image: 'https://m.media-amazon.com/images/I/518qFC9Rp7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QCMP8W-es Aerb Guirnalda Luz Exterior Solar 2 Pack Cadena de Luces...'
 sku: 'B083QCMP8W-es'
 tags: [ 'navidad', ]

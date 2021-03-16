@@ -5,7 +5,7 @@ date: 2020-05-03 03:55:58
 image: 'https://m.media-amazon.com/images/I/41oYvz7DSdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYPD8L7-es LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante...'
 sku: 'B07GYPD8L7-es'
 tags: [ 'de','ley','plata', ]

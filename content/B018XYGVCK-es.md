@@ -5,7 +5,7 @@ date: 2020-07-24 06:06:00
 image: 'https://m.media-amazon.com/images/I/41cXbTLab2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018XYGVCK-es Eye Candy ECJ-ER0016 - Pendientes de mujer plata de ley...'
 sku: 'B018XYGVCK-es'
 tags: [ 'de','ley','plata', ]

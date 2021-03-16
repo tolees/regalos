@@ -5,7 +5,7 @@ date: 2020-07-24 03:50:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51nEthdT0pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPPTJBK-es FunPa Fieltro Árbol de Navidad Arbol Navidad Fieltro Pared...'
 sku: 'B07GPPTJBK-es'
 tags: [ 'navidad', ]

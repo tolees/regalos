@@ -5,7 +5,7 @@ date: 2020-02-01 00:36:10
 image: 'https://m.media-amazon.com/images/I/51PLp8NnLNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKL3YFT-es Marvelights Botella de Vino de Corcho Luz de Cadena...'
 sku: 'B07WKL3YFT-es'
 tags: [ 'navidad', ]

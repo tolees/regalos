@@ -5,7 +5,7 @@ date: 2020-02-21 13:04:36
 image: 'https://m.media-amazon.com/images/I/51wYOyEZ0SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL5C7QY-es J.Rosée Mujer Colgante Collar Plata de Ley 925 Brillante...'
 sku: 'B07DL5C7QY-es'
 tags: [ 'de','ley','plata', ]

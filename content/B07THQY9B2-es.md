@@ -5,7 +5,7 @@ date: 2020-03-06 18:45:56
 image: 'https://m.media-amazon.com/images/I/41GLP5sZO-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THQY9B2-es Cadena de Luz Demum G40 de 25FT E12 Base Guirnalda Luces...'
 sku: 'B07THQY9B2-es'
 tags: [ 'navidad', ]

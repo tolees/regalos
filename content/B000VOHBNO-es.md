@@ -5,7 +5,7 @@ date: 2020-03-08 18:26:14
 image: 'https://m.media-amazon.com/images/I/41zNfX4-ZnL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VOHBNO-es Lancome - Hypnose Homme - Eau de Toilette - 50 ml'
 sku: 'B000VOHBNO-es'
 tags: [ 'de','eau','toilette', ]

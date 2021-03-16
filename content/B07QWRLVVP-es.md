@@ -5,7 +5,7 @@ date: 2020-02-28 15:53:06
 image: 'https://m.media-amazon.com/images/I/31uWrgx7bTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWRLVVP-es Amilril Perla Collar Colgante Mujer Plata de Ley 925...'
 sku: 'B07QWRLVVP-es'
 tags: [ 'de','ley','plata', ]

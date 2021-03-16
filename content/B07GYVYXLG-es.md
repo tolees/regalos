@@ -5,7 +5,7 @@ date: 2020-08-18 12:32:15
 image: 'https://m.media-amazon.com/images/I/41KQiDfyOaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYVYXLG-es 60 LED 10M Cadena Solar de Luces IP65 Impermeable 8 Modos...'
 sku: 'B07GYVYXLG-es'
 tags: [ 'navidad', ]

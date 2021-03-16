@@ -5,7 +5,7 @@ date: 2020-01-18 20:04:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eyJogupxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YN893BS-es Dekora Calendario de Adviento para Niños de Chocolate de...'
 sku: 'B07YN893BS-es'
 tags: [ 'adviento', ]

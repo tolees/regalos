@@ -5,7 +5,7 @@ date: 2020-06-23 10:47:41
 image: 'https://m.media-amazon.com/images/I/31ipheMt8DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814YP5SX-es Swarovski Pendientes Angelic Square de Mujer con platino...'
 sku: 'B0814YP5SX-es'
 tags: [ 'swarovski', ]

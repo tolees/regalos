@@ -5,7 +5,7 @@ date: 2020-06-30 13:53:23
 image: 'https://m.media-amazon.com/images/I/31zz6G5mVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GHWST8-es Calvin Klein Euphoria Eau de Toilette Vaporizador 50 ml'
 sku: 'B000GHWST8-es'
 tags: [ 'de','eau','toilette', ]

@@ -5,7 +5,7 @@ date: 2020-02-28 00:54:46
 image: 'https://m.media-amazon.com/images/I/51yOMJQKMyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VRA66K-es Versace Yellow Diamond Agua de Colonia - 90 ml'
 sku: 'B005VRA66K-es'
 tags: [ 'agua','colonia','de', ]

@@ -5,7 +5,7 @@ date: 2020-07-20 07:29:42
 image: 'https://m.media-amazon.com/images/I/41apqmVfUNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004RETWGI-es Tuscany Silver Pulsera con plata de ley 925/1000'
 sku: 'B004RETWGI-es'
 tags: [ 'de','ley','plata', ]

@@ -5,7 +5,7 @@ date: 2020-09-17 16:06:06
 image: 'https://m.media-amazon.com/images/I/41-PwTK9dIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DHV1NT-es Thomas Sabo - Pulsera con colgante de Mujer Plata de Ley...'
 sku: 'B074DHV1NT-es'
 tags: [ 'de','ley','plata', ]

@@ -5,7 +5,7 @@ date: 2020-08-07 19:39:20
 image: 'https://m.media-amazon.com/images/I/31S67zrBn+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NF3RF2R-es Pandora Abalorios Mujer plata - 798049ENMX'
 sku: 'B07NF3RF2R-es'
 tags: [ 'pandora', ]

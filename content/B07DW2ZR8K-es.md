@@ -5,7 +5,7 @@ date: 2020-08-27 18:06:56
 image: 'https://m.media-amazon.com/images/I/41P9SMP33wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW2ZR8K-es ThxMadam Scrapbook Cuero Álbum de Fotos Libro de Visitas...'
 sku: 'B07DW2ZR8K-es'
 tags: [ 'navidad', ]

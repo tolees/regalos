@@ -5,7 +5,7 @@ date: 2020-09-03 12:23:38
 image: 'https://m.media-amazon.com/images/I/51WBgh7tuuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6G8QH3-es UBERMing 20 Piezas Regalos de Ángel de Guarda + Bolsa de...'
 sku: 'B08D6G8QH3-es'
 tags: [ 'navidad', ]

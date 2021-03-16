@@ -5,7 +5,7 @@ date: 2020-04-30 14:15:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r7vJc8j5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E2R5P1Q-es Hugo Boss 53968 - Agua de perfume'
 sku: 'B00E2R5P1Q-es'
 tags: [ 'agua','de','perfume', ]

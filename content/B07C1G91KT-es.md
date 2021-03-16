@@ -5,7 +5,7 @@ date: 2020-06-16 19:37:07
 image: 'https://m.media-amazon.com/images/I/41VljtuJt2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1G91KT-es EUMI Colgantes Mujer Joyeria Mujer Collar Plata de Ley 925...'
 sku: 'B07C1G91KT-es'
 tags: [ 'de','ley','plata', ]

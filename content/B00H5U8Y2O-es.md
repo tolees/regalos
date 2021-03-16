@@ -5,7 +5,7 @@ date: 2020-01-12 05:57:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AOttqZGNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H5U8Y2O-es Jean Patou Joy Forever Agua de Perfume - 75 ml'
 sku: 'B00H5U8Y2O-es'
 tags: [ 'agua','de','perfume', ]

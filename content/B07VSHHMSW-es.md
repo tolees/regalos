@@ -5,7 +5,7 @@ date: 2020-01-06 10:03:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41R-H58k%2BjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSHHMSW-es Amilril Collar Colgante Luna y Gato Plata de Ley 925 Moda...'
 sku: 'B07VSHHMSW-es'
 tags: [ 'de','ley','navidad','plata', ]

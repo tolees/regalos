@@ -5,7 +5,7 @@ date: 2020-06-10 16:23:04
 image: 'https://m.media-amazon.com/images/I/41B5n7Cp3FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P9L2NVO-es Swarovski Pulsera Angelic Blanco Baño de Rodio'
 sku: 'B00P9L2NVO-es'
 tags: [ 'swarovski', ]

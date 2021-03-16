@@ -5,7 +5,7 @@ date: 2020-09-02 06:20:17
 image: 'https://m.media-amazon.com/images/I/51wdMv3NCIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PTSL2Y-es Bombas de Baño Aofmee Bomba de Baño Set de Regalo Sales de...'
 sku: 'B086PTSL2Y-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-03-03 11:03:58
 image: 'https://m.media-amazon.com/images/I/31uWf7jkZIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAMTK56-es Gotas de Mayfer 62628 - Agua de colonia 1000 ml'
 sku: 'B00XAMTK56-es'
 tags: [ 'agua','colonia','de', ]

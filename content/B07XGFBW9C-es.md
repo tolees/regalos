@@ -5,7 +5,7 @@ date: 2020-02-20 08:39:04
 image: 'https://m.media-amazon.com/images/I/51pNEIlJAqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGFBW9C-es Cortina de Luces LED USB Zorara 3x3 m 300 LEDs 8 Modos...'
 sku: 'B07XGFBW9C-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-03-05 13:35:37
 image: 'https://m.media-amazon.com/images/I/41BVkKDOrwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MQXEFU-es Jaguar Agua de colonia para mujeres 1 unidad 130 g'
 sku: 'B000MQXEFU-es'
 tags: [ 'agua','colonia','de', ]

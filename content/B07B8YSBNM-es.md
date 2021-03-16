@@ -5,7 +5,7 @@ date: 2020-01-12 23:22:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BdMnRJzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8YSBNM-es J.Rosée Collar Mujer Collar Plata de Ley 925 Brillante...'
 sku: 'B07B8YSBNM-es'
 tags: [ 'de','ley','navidad','plata', ]

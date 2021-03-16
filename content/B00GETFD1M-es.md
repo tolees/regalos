@@ -5,7 +5,7 @@ date: 2020-09-22 21:50:48
 image: 'https://m.media-amazon.com/images/I/41KThokPHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GETFD1M-es American Crew Nine Agua De Perfume Hombre - 75 ml.'
 sku: 'B00GETFD1M-es'
 tags: [ 'agua','de','perfume', ]

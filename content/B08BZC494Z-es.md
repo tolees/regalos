@@ -5,7 +5,7 @@ date: 2020-07-26 09:32:27
 image: 'https://m.media-amazon.com/images/I/51PQaZ5aAFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZC494Z-es 3d led night 3d illusion light Ciclismo Night Light para...'
 sku: 'B08BZC494Z-es'
 tags: [ 'christmas', ]

@@ -5,7 +5,7 @@ date: 2020-09-13 09:12:17
 image: 'https://m.media-amazon.com/images/I/41IaDaSi5mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKQ4C8V-es Hermès Agua de perfume para hombres - 50 ml.'
 sku: 'B07FKQ4C8V-es'
 tags: [ 'agua','de','perfume', ]

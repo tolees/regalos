@@ -5,7 +5,7 @@ date: 2020-02-29 10:44:26
 image: 'https://m.media-amazon.com/images/I/41JoNXZHEwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2QHXH2-es Jesús Del Pozo Halloween Shot Man Agua de Tocador - 125 ml'
 sku: 'B01N2QHXH2-es'
 tags: [ 'agua','de','tocador', ]

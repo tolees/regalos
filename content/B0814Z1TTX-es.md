@@ -5,7 +5,7 @@ date: 2020-06-24 15:36:33
 image: 'https://m.media-amazon.com/images/I/31DFR8KBvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814Z1TTX-es Swarovski Colgante Symbol de Mujer Oro Amarillo Cristal...'
 sku: 'B0814Z1TTX-es'
 tags: [ 'swarovski', ]

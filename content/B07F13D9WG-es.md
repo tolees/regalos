@@ -5,7 +5,7 @@ date: 2020-04-24 11:47:07
 image: 'https://m.media-amazon.com/images/I/41IW-pCyixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F13D9WG-es ThxMadam Scrapbook Álbum de Fotos Libro de Visitas de Boda...'
 sku: 'B07F13D9WG-es'
 tags: [ 'navidad', ]

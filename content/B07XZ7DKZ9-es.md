@@ -5,7 +5,7 @@ date: 2020-04-14 16:56:31
 image: 'https://m.media-amazon.com/images/I/51A2aHYOf9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZ7DKZ9-es Navidad Moños y Cintas 12 PCS Christmas Gift Pull Bows...'
 sku: 'B07XZ7DKZ9-es'
 tags: [ 'christmas','navidad', ]

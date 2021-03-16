@@ -5,7 +5,7 @@ date: 2020-04-09 16:11:23
 image: 'https://m.media-amazon.com/images/I/51yq8GVYx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHQ37G3-es 12 rollos de cinta adhesiva con purpurina y 1 rollo de 10...'
 sku: 'B07XHQ37G3-es'
 tags: [ 'navidad', ]

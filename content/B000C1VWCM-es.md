@@ -5,7 +5,7 @@ date: 2020-08-09 23:06:47
 image: 'https://m.media-amazon.com/images/I/21udi0jhXTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1VWCM-es Escada Magnetism Agua de perfume Vaporizador 75 ml'
 sku: 'B000C1VWCM-es'
 tags: [ 'agua','de','perfume', ]

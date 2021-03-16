@@ -5,7 +5,7 @@ date: 2020-07-12 01:56:19
 image: 'https://m.media-amazon.com/images/I/41KobPuO0ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDCQCCM-es Zadig & Voltaire Agua de perfume para mujeres - 50 ml.'
 sku: 'B07DDCQCCM-es'
 tags: [ 'agua','de','perfume', ]

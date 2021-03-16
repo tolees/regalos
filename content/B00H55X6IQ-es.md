@@ -5,7 +5,7 @@ date: 2020-01-15 18:16:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51v7GuwOfRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H55X6IQ-es CLGarden LEDKB200 Cerezo de LED en 180 cm de altura con...'
 sku: 'B00H55X6IQ-es'
 tags: [ 'navidad', ]

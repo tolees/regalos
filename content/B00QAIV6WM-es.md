@@ -5,7 +5,7 @@ date: 2020-08-07 19:15:36
 image: 'https://m.media-amazon.com/images/I/418aS2fzvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QAIV6WM-es Versace Eros Pour Femme Agua de Perfume - 50 ml'
 sku: 'B00QAIV6WM-es'
 tags: [ 'agua','de','perfume', ]

@@ -5,7 +5,7 @@ date: 2020-02-28 16:37:18
 image: 'https://m.media-amazon.com/images/I/51t-OhHd9mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJRD36T-es AUOPLUS 30M 300 LED Guirnalda Luz Exterior Solar Cadena de...'
 sku: 'B07YJRD36T-es'
 tags: [ 'navidad', ]

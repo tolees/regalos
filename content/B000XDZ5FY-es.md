@@ -5,7 +5,7 @@ date: 2020-09-26 06:27:20
 image: 'https://m.media-amazon.com/images/I/41hZ6Ftsy7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XDZ5FY-es Grès Cabochard Women Eau De Toilette 100 Ml'
 sku: 'B000XDZ5FY-es'
 tags: [ 'de','eau','toilette', ]

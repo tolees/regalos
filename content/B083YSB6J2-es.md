@@ -5,7 +5,7 @@ date: 2020-04-16 00:02:18
 image: 'https://m.media-amazon.com/images/I/51lI8V601LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083YSB6J2-es qingqingR Christmas Deer 5D DIY Full Diamond Painting...'
 sku: 'B083YSB6J2-es'
 tags: [ 'christmas', ]

@@ -5,7 +5,7 @@ date: 2020-09-05 14:52:39
 image: 'https://m.media-amazon.com/images/I/51mNsRF5IiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCB4DP6-es GHONLZIN Máscaras LED Máscara de Halloween LED Glow Scary...'
 sku: 'B07XCB4DP6-es'
 tags: [ 'navidad', ]

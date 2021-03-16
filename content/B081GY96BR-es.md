@@ -5,7 +5,7 @@ date: 2020-04-04 08:35:26
 image: 'https://m.media-amazon.com/images/I/31JC0zn3FTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GY96BR-es Susan Y regalo del día de la madre arete mujer joyería...'
 sku: 'B081GY96BR-es'
 tags: [ 'navidad','swarovski', ]

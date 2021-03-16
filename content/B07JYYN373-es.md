@@ -5,7 +5,7 @@ date: 2020-01-05 16:44:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5105pzluCTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYYN373-es Funda mapa mundi ideal para agendas 2020 Regalo Original...'
 sku: 'B07JYYN373-es'
 tags: [ 'navidad', ]

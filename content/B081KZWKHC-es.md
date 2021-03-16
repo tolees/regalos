@@ -5,7 +5,7 @@ date: 2020-01-26 19:45:37
 image: 'https://m.media-amazon.com/images/I/312GzWWrr7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081KZWKHC-es Lydreewam Pendientes aro Colgantes De Letra X Plata de Ley...'
 sku: 'B081KZWKHC-es'
 tags: [ 'de','ley','plata', ]

@@ -5,7 +5,7 @@ date: 2020-01-11 09:17:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EAC%2Br1BkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L32Q5SU-es Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette...'
 sku: 'B00L32Q5SU-es'
 tags: [ 'de','eau','toilette', ]

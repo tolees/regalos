@@ -5,7 +5,7 @@ date: 2020-10-11 09:51:12
 image: 'https://m.media-amazon.com/images/I/41Qq77S9lmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6L7VPN-es URAQT Disfraz de Princesa Traje del Vestido Traje de...'
 sku: 'B07R6L7VPN-es'
 tags: [ 'navidad', ]

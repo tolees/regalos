@@ -5,7 +5,7 @@ date: 2020-03-03 14:30:56
 image: 'https://m.media-amazon.com/images/I/41OS8sFev1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQHM8DB-es Luz de decoración con forma de letrero de neón LED...'
 sku: 'B07BQHM8DB-es'
 tags: [ 'navidad', ]

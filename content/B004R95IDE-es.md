@@ -5,7 +5,7 @@ date: 2020-08-06 09:10:05
 image: 'https://m.media-amazon.com/images/I/31YkOw4IrFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004R95IDE-es Tuscany Silver 8.43.7594 - Cadena con colgante de plata de...'
 sku: 'B004R95IDE-es'
 tags: [ 'de','ley','plata', ]

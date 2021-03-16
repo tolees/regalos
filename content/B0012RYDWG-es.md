@@ -5,7 +5,7 @@ date: 2020-05-21 09:44:10
 image: 'https://m.media-amazon.com/images/I/31e3T7NuVwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012RYDWG-es Yves Saint Laurent Ysl L Homme Eau de Toilette Vaporizador...'
 sku: 'B0012RYDWG-es'
 tags: [ 'de','eau','toilette', ]

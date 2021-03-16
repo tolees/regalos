@@ -5,7 +5,7 @@ date: 2020-09-30 11:26:32
 image: 'https://m.media-amazon.com/images/I/61PPzCa76eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q6PEUI6-es Cesta con American Candy | Caja de caramelos y Chucherias...'
 sku: 'B00Q6PEUI6-es'
 tags: [ 'navidad', ]

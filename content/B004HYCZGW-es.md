@@ -5,7 +5,7 @@ date: 2020-04-25 06:48:15
 image: 'https://m.media-amazon.com/images/I/31YihYBbDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004HYCZGW-es Villeroy & Boch Royal Juego de mesa para 6 personas 12...'
 sku: 'B004HYCZGW-es'
 tags: [ '&','boch','villeroy', ]

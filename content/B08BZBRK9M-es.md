@@ -5,7 +5,7 @@ date: 2020-07-18 19:32:38
 image: 'https://m.media-amazon.com/images/I/51UnpmVOBtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZBRK9M-es 3d night light led illusion night Tigre Night Light para...'
 sku: 'B08BZBRK9M-es'
 tags: [ 'christmas', ]

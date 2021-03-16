@@ -5,7 +5,7 @@ date: 2020-04-16 18:17:40
 image: 'https://m.media-amazon.com/images/I/51Ozx5dgVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYQHG8Q-es TAZEMAT 30 Hojas Papel de Rascar Pulseras para Rascar...'
 sku: 'B07XYQHG8Q-es'
 tags: [ 'navidad', ]

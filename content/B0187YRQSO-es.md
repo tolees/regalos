@@ -5,7 +5,7 @@ date: 2020-01-28 18:16:25
 image: 'https://m.media-amazon.com/images/I/31oCe-w0TPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0187YRQSO-es Pandora Abalorios Mujer plata - 791443ENMX'
 sku: 'B0187YRQSO-es'
 tags: [ 'pandora', ]

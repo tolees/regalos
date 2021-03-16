@@ -5,7 +5,7 @@ date: 2020-03-04 13:31:37
 image: 'https://m.media-amazon.com/images/I/41GK7+kySPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWRC5TF-es Amilril Collar Amor Corazon Colgantes Mujer Plata de Ley...'
 sku: 'B07QWRC5TF-es'
 tags: [ 'de','ley','plata', ]

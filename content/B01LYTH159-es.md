@@ -5,7 +5,7 @@ date: 2020-05-30 17:04:10
 image: 'https://m.media-amazon.com/images/I/31+KTxWThqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYTH159-es Adolfo Dominguez Agua Fresca Azahar Agua de Tocador...'
 sku: 'B01LYTH159-es'
 tags: [ 'agua','de','tocador', ]

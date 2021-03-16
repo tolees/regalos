@@ -5,7 +5,7 @@ date: 2020-04-07 21:56:38
 image: 'https://m.media-amazon.com/images/I/51r1DL3iEHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9QRXDX-es RGBW LED Strip Super Night [Only LED Strip Lights] SMD...'
 sku: 'B07H9QRXDX-es'
 tags: [ 'christmas', ]

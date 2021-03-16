@@ -5,7 +5,7 @@ date: 2020-10-04 23:54:44
 image: 'https://m.media-amazon.com/images/I/51W8pfgwHFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFM8TSL-es CINMOK 2pcs Cinta Regalo Color Metálica Cinta Brillante...'
 sku: 'B08FFM8TSL-es'
 tags: [ 'navidad', ]

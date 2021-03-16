@@ -5,7 +5,7 @@ date: 2020-02-06 13:09:57
 image: 'https://m.media-amazon.com/images/I/51yZcvK-SoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HOAVD1I-es Cadena solar de luces LED Salcar de 5 metros 20 mariposa...'
 sku: 'B01HOAVD1I-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-08-06 14:03:54
 image: 'https://m.media-amazon.com/images/I/41a6SoepkIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWS74TK-es Axcer LED Zapatos Verano Ligero Transpirable Bajo 7...'
 sku: 'B07PWS74TK-es'
 tags: [ 'navidad', ]

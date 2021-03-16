@@ -5,7 +5,7 @@ date: 2020-05-15 12:52:25
 image: 'https://m.media-amazon.com/images/I/41dPc8FOCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZDCKF6-es EUMI Pendientes Colgantes Pendientes Plata de Ley 925...'
 sku: 'B07RZDCKF6-es'
 tags: [ 'de','ley','plata', ]

@@ -5,7 +5,7 @@ date: 2020-08-05 04:54:48
 image: 'https://m.media-amazon.com/images/I/31YiqlP9RkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XEAZ9Y-es Issey Miyake - LEAU DISSEY HOMME Eau De Toilette vapo 200 ml'
 sku: 'B000XEAZ9Y-es'
 tags: [ 'de','eau','toilette', ]

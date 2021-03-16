@@ -5,7 +5,7 @@ date: 2020-02-22 02:53:36
 image: 'https://m.media-amazon.com/images/I/416Vtw+xOWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAICC-es Estee Lauder 2617 - Agua de perfume'
 sku: 'B0009OAICC-es'
 tags: [ 'agua','de','perfume', ]

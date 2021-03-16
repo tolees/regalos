@@ -5,7 +5,7 @@ date: 2020-09-08 13:36:33
 image: 'https://m.media-amazon.com/images/I/41TeJg1CkYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076S8PZRM-es 24 Velas LED Sin Fuego - Glamouric Velas Electrónicas con...'
 sku: 'B076S8PZRM-es'
 tags: [ 'navidad', ]

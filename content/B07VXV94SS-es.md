@@ -5,7 +5,7 @@ date: 2020-02-08 09:24:25
 image: 'https://m.media-amazon.com/images/I/51KgKsYGxFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXV94SS-es Tuokay 20M 200 LED Luces de Navidad Cadena de Luces...'
 sku: 'B07VXV94SS-es'
 tags: [ 'navidad', ]

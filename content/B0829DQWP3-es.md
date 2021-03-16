@@ -5,7 +5,7 @@ date: 2020-10-05 05:41:19
 image: 'https://m.media-amazon.com/images/I/41BJX81KdIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829DQWP3-es Bolsa de agua caliente de Navidad tapa extraíble de punto...'
 sku: 'B0829DQWP3-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-06-24 08:04:19
 image: 'https://m.media-amazon.com/images/I/41h4snpeBUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08883YJGQ-es Crystals & Stones BAP39 - Pendientes de plata de ley 925...'
 sku: 'B08883YJGQ-es'
 tags: [ 'de','ley','plata','swarovski', ]

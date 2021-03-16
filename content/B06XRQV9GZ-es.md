@@ -5,7 +5,7 @@ date: 2020-09-07 16:42:36
 image: 'https://m.media-amazon.com/images/I/51wsHajoA8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRQV9GZ-es Cadena de Luces Mr.Twinklelight 6.5M 50 LED Flor Solar Luz...'
 sku: 'B06XRQV9GZ-es'
 tags: [ 'navidad', ]

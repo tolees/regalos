@@ -5,7 +5,7 @@ date: 2020-06-23 10:09:08
 image: 'https://m.media-amazon.com/images/I/418LIGtYnaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007C27HQY-es Bvlgari 36349 - Agua de colonia 25 ml'
 sku: 'B007C27HQY-es'
 tags: [ 'agua','colonia','de', ]

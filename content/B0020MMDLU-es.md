@@ -5,7 +5,7 @@ date: 2020-02-29 19:14:53
 image: 'https://m.media-amazon.com/images/I/414ZiQkJMeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0020MMDLU-es Dolce & Gabbana 20984 - Agua de colonia'
 sku: 'B0020MMDLU-es'
 tags: [ 'agua','colonia','de', ]

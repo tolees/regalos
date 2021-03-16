@@ -5,7 +5,7 @@ date: 2020-09-26 18:16:46
 image: 'https://m.media-amazon.com/images/I/41FXGxC01+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAITIFW-es Poseidon Sport Eau de Toilette para Hombre - 150 ML'
 sku: 'B00XAITIFW-es'
 tags: [ 'de','eau','toilette', ]

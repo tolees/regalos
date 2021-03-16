@@ -5,7 +5,7 @@ date: 2020-03-15 14:21:16
 image: 'https://m.media-amazon.com/images/I/41UMAg7BJ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JWMZ1OQ-es Prada L Homme Agua de Tocador - 50 ml'
 sku: 'B01JWMZ1OQ-es'
 tags: [ 'agua','de','tocador', ]

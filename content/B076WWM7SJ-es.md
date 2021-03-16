@@ -5,7 +5,7 @@ date: 2020-04-16 08:57:19
 image: 'https://m.media-amazon.com/images/I/51Qu1jtOrDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076WWM7SJ-es Amaza 150pcs Etiquetas de Papel Kraft 7cm x 2cm Gift Tags...'
 sku: 'B076WWM7SJ-es'
 tags: [ 'navidad', ]

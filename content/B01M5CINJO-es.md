@@ -5,7 +5,7 @@ date: 2020-10-12 09:34:07
 image: 'https://m.media-amazon.com/images/I/511VC2vI0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5CINJO-es Lámpara de Tira Bola Hada Noche Cadenas de Luz Ligera...'
 sku: 'B01M5CINJO-es'
 tags: [ 'navidad', ]

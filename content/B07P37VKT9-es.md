@@ -5,7 +5,7 @@ date: 2020-01-09 07:29:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GUCbtVYiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P37VKT9-es ANGEL NINA Regalos Navidad Mujer pendientes mujer plata...'
 sku: 'B07P37VKT9-es'
 tags: [ 'navidad','swarovski', ]

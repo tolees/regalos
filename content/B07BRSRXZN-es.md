@@ -5,7 +5,7 @@ date: 2020-01-21 11:17:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/616d-l0gfzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRSRXZN-es Pintura Facial Buluri 12 Colores Face Paint Crayons...'
 sku: 'B07BRSRXZN-es'
 tags: [ 'navidad', ]

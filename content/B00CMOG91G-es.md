@@ -5,7 +5,7 @@ date: 2020-02-05 13:16:37
 image: 'https://m.media-amazon.com/images/I/41XIMKD+TQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CMOG91G-es Bvlgari Aqua Eau de Toilette Para Hombre con Vaporizador...'
 sku: 'B00CMOG91G-es'
 tags: [ 'de','eau','toilette', ]

@@ -5,7 +5,7 @@ date: 2020-03-01 16:22:58
 image: 'https://m.media-amazon.com/images/I/41F2ptvFZeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M74YDVP-es Eye Candy Collar de doble collar de mujer 925 plata de ley...'
 sku: 'B01M74YDVP-es'
 tags: [ 'de','ley','plata', ]

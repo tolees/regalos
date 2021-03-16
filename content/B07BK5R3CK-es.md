@@ -5,7 +5,7 @@ date: 2020-02-07 12:26:14
 image: 'https://m.media-amazon.com/images/I/61I7P3hTGLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BK5R3CK-es Yasolote 7M Cadena de Luz Solar 8 Modos 50 LED Luces de...'
 sku: 'B07BK5R3CK-es'
 tags: [ 'navidad', ]

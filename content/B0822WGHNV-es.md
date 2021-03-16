@@ -5,7 +5,7 @@ date: 2020-01-18 10:53:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H8FdkQIcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822WGHNV-es OwlFay Disfraz Elsa Frozen Niñas Princesa Ana Vestido...'
 sku: 'B0822WGHNV-es'
 tags: [ 'navidad', ]

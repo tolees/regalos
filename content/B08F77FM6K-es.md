@@ -5,7 +5,7 @@ date: 2020-08-30 19:21:42
 image: 'https://m.media-amazon.com/images/I/51a5fxkyq2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F77FM6K-es 10M Luces de Tiras LED WiFi，Amouhom Tira de Luz se Puede...'
 sku: 'B08F77FM6K-es'
 tags: [ 'navidad', ]

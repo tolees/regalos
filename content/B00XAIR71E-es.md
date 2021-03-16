@@ -5,7 +5,7 @@ date: 2020-04-10 06:55:30
 image: 'https://m.media-amazon.com/images/I/41kOIFKQwEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAIR71E-es Aire de Sevilla Set de Belleza Edición Azul Fresh - Crema...'
 sku: 'B00XAIR71E-es'
 tags: [ 'de','eau','toilette', ]

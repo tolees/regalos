@@ -5,7 +5,7 @@ date: 2020-08-25 18:44:29
 image: 'https://m.media-amazon.com/images/I/41vcSPPZBWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8BVLY2-es OBEEII Blancanieves Disfraz con Capa Snow White Carnaval...'
 sku: 'B07L8BVLY2-es'
 tags: [ 'navidad', ]

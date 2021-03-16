@@ -5,7 +5,7 @@ date: 2020-10-01 08:58:10
 image: 'https://m.media-amazon.com/images/I/41xC5xqzfnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QD4JYX-es Pendientes de Bisutería color Oro Brillante de Regalo...'
 sku: 'B076QD4JYX-es'
 tags: [ 'navidad', ]

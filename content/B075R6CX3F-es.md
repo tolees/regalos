@@ -5,7 +5,7 @@ date: 2020-07-24 03:35:40
 image: 'https://m.media-amazon.com/images/I/41iR8j8W-tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R6CX3F-es Nos sentido decantador de vino aireador para Navidad y...'
 sku: 'B075R6CX3F-es'
 tags: [ 'navidad', ]

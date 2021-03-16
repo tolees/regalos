@@ -5,7 +5,7 @@ date: 2020-02-19 13:36:10
 image: 'https://m.media-amazon.com/images/I/312-NAGiBjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004NXLIJM-es Donna Karan DKNY Agua de tocador para mujeres - 100 ml.'
 sku: 'B004NXLIJM-es'
 tags: [ 'agua','de','tocador', ]

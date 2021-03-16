@@ -5,7 +5,7 @@ date: 2020-07-24 09:22:39
 image: 'https://m.media-amazon.com/images/I/41Tf3Uh4PML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZB5JK6Z-es Ramo Flores Rosa Chapada en Oro Ramo Rosa Artificiales de...'
 sku: 'B07ZB5JK6Z-es'
 tags: [ 'navidad', ]

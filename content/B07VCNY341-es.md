@@ -5,7 +5,7 @@ date: 2020-02-25 17:02:02
 image: 'https://m.media-amazon.com/images/I/61vwFuJ0rxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCNY341-es Guirnalda de luces solares OxyLED 2 x 30 luces LED para...'
 sku: 'B07VCNY341-es'
 tags: [ 'navidad', ]

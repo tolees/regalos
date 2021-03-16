@@ -5,7 +5,7 @@ date: 2020-03-12 11:37:20
 image: 'https://m.media-amazon.com/images/I/41XqRIxsVSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BF6YNGG-es Guerlain Agua de colonia para mujeres - 125 ml.'
 sku: 'B07BF6YNGG-es'
 tags: [ 'agua','colonia','de', ]

@@ -5,7 +5,7 @@ date: 2020-01-20 02:36:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51okmhG%2B5DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Z3ZF1Y-es Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna...'
 sku: 'B082Z3ZF1Y-es'
 tags: [ 'navidad', ]

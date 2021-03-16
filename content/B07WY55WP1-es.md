@@ -5,7 +5,7 @@ date: 2020-02-22 17:59:11
 image: 'https://m.media-amazon.com/images/I/41stxfsfPWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WY55WP1-es Lydreewam Pendientes aro Colgantes De Luna Plata de Ley...'
 sku: 'B07WY55WP1-es'
 tags: [ 'de','ley','plata', ]

@@ -5,7 +5,7 @@ date: 2020-04-28 13:04:47
 image: 'https://m.media-amazon.com/images/I/41-AmXorAnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPD1ZXJ-es Westend - Zapatillas de Navidad para Hombre patrón nórdico'
 sku: 'B07ZPD1ZXJ-es'
 tags: [ 'navidad', ]

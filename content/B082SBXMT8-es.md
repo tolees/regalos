@@ -5,7 +5,7 @@ date: 2020-01-11 22:19:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CFf1Ai2yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SBXMT8-es OBEEII Disfraz Elsa Anna Traje Frozen Niñas Princesa Ana...'
 sku: 'B082SBXMT8-es'
 tags: [ 'navidad', ]

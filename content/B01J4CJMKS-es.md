@@ -5,7 +5,7 @@ date: 2020-05-19 19:02:51
 image: 'https://m.media-amazon.com/images/I/41TtHPSBNUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J4CJMKS-es Pherofly Roll on Atrayente de las mujeres - Feromona extra...'
 sku: 'B01J4CJMKS-es'
 tags: [ 'de','eau','toilette', ]

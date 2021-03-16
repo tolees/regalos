@@ -5,7 +5,7 @@ date: 2020-01-16 18:56:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jAdkbSPmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1ZA0C-es Oscar by Oscar De La Renta Eau de Toilette para Mujer -...'
 sku: 'B000C1ZA0C-es'
 tags: [ 'de','eau','toilette', ]

@@ -5,7 +5,7 @@ date: 2020-02-18 02:27:52
 image: 'https://m.media-amazon.com/images/I/31k93sRROVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DZPHAZA-es Calvin Klein Euphoria Men - Agua de tocador vaporizador...'
 sku: 'B00DZPHAZA-es'
 tags: [ 'agua','de','tocador', ]

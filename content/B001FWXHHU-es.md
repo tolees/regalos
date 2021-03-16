@@ -5,7 +5,7 @@ date: 2020-01-22 19:04:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418xlnZVRBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FWXHHU-es Issey Miyake L Eau D Issey pour Homme Intense - Agua De...'
 sku: 'B001FWXHHU-es'
 tags: [ 'agua','de','tocador', ]

@@ -5,7 +5,7 @@ date: 2020-03-10 21:04:28
 image: 'https://m.media-amazon.com/images/I/31GFd3kb4SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IJXT58I-es Calvin Klein Endless Euphoria Agua de perfume Vaporizador...'
 sku: 'B00IJXT58I-es'
 tags: [ 'agua','de','perfume', ]

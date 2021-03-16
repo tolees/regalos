@@ -5,7 +5,7 @@ date: 2020-04-26 15:36:36
 image: 'https://m.media-amazon.com/images/I/41I6bExFaZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1Z5AW-es Estée Lauder Agua de perfume para mujeres - 100 ml.'
 sku: 'B000C1Z5AW-es'
 tags: [ 'agua','de','perfume', ]

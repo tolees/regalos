@@ -5,7 +5,7 @@ date: 2020-09-03 07:54:10
 image: 'https://m.media-amazon.com/images/I/31FvilGri2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVYX731-es Swarovski Collar Further de Mujer Blanco Baño de Rodio'
 sku: 'B07SVYX731-es'
 tags: [ 'swarovski', ]

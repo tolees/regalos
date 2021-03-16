@@ -5,7 +5,7 @@ date: 2020-02-27 01:40:20
 image: 'https://m.media-amazon.com/images/I/41Npl5Ir4TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VVSF63-es BVLGARI Omnia Pink Sapphire eau de toilette Mujeres 40 ml...'
 sku: 'B079VVSF63-es'
 tags: [ 'de','eau','toilette', ]

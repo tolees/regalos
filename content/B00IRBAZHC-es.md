@@ -5,7 +5,7 @@ date: 2020-05-14 16:05:12
 image: 'https://m.media-amazon.com/images/I/41h6WADRjoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IRBAZHC-es Cartier La Panthere Agua de perfume Vaporizador 75 ml'
 sku: 'B00IRBAZHC-es'
 tags: [ 'agua','de','perfume', ]

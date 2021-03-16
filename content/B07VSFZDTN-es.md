@@ -5,7 +5,7 @@ date: 2020-03-08 07:41:21
 image: 'https://m.media-amazon.com/images/I/41FQOCYKR8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSFZDTN-es OSHINE 50unidades LED Velas Velas CR2032 pilas velas sin...'
 sku: 'B07VSFZDTN-es'
 tags: [ 'navidad', ]

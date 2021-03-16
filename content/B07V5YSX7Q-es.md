@@ -5,7 +5,7 @@ date: 2020-01-29 17:06:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41II3inQQQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5YSX7Q-es Pendientes de plata de ley 925 de conjunto de dos piezas...'
 sku: 'B07V5YSX7Q-es'
 tags: [ 'de','ley','plata', ]

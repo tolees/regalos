@@ -5,7 +5,7 @@ date: 2020-07-23 10:03:41
 image: 'https://m.media-amazon.com/images/I/41jbpjZ0ZhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IU33VY0-es Swarovski Pulsera Angelic de Mujer verde Baño de Rodio'
 sku: 'B01IU33VY0-es'
 tags: [ 'swarovski', ]

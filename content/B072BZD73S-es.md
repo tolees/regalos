@@ -5,7 +5,7 @@ date: 2020-03-31 11:22:24
 image: 'https://m.media-amazon.com/images/I/31YO7aCstbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BZD73S-es CAROLINA HERRERA 212 eau de toilette 30ML'
 sku: 'B072BZD73S-es'
 tags: [ 'de','eau','toilette', ]

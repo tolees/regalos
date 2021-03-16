@@ -5,7 +5,7 @@ date: 2020-06-21 16:43:04
 image: 'https://m.media-amazon.com/images/I/31FMr8hv9yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FWXICE-es Bvlgari 21236 - Agua de colonia 50 ml'
 sku: 'B001FWXICE-es'
 tags: [ 'agua','colonia','de', ]

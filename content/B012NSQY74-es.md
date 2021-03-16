@@ -5,7 +5,7 @@ date: 2020-02-18 17:46:56
 image: 'https://m.media-amazon.com/images/I/31pXKOFgwpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012NSQY74-es Lacoste Agua de colonia para mujeres - 50 ml.'
 sku: 'B012NSQY74-es'
 tags: [ 'agua','colonia','de', ]

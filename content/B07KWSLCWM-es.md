@@ -5,7 +5,7 @@ date: 2020-03-18 15:02:26
 image: 'https://m.media-amazon.com/images/I/51EWI9zFPIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWSLCWM-es OxyLED Guirnalda Luces Exterior Solar 10 Metros 100 LED...'
 sku: 'B07KWSLCWM-es'
 tags: [ 'navidad', ]

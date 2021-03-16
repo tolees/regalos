@@ -5,7 +5,7 @@ date: 2020-02-24 16:54:15
 image: 'https://m.media-amazon.com/images/I/31+HKbTHydL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XD611PT-es Abercrombie & Fitch Agua de perfume para mujeres - 30 ml'
 sku: 'B06XD611PT-es'
 tags: [ 'agua','de','perfume', ]

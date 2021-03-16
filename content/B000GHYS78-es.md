@@ -5,7 +5,7 @@ date: 2020-01-15 23:33:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31kZBsrLkzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GHYS78-es Issey Miyake Pleats Please Agua de perfume Vaporizador 30 ml'
 sku: 'B000GHYS78-es'
 tags: [ 'agua','de','perfume', ]

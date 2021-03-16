@@ -5,7 +5,7 @@ date: 2020-08-15 19:30:37
 image: 'https://m.media-amazon.com/images/I/41ZkxEXZLkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036FTF7K-es Shiseido 19650 - Agua de colonia 100 ml'
 sku: 'B0036FTF7K-es'
 tags: [ 'agua','colonia','de', ]

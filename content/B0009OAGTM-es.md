@@ -5,7 +5,7 @@ date: 2020-03-31 13:22:56
 image: 'https://m.media-amazon.com/images/I/31Mcu03ezcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAGTM-es Calvin Klein Escape Agua de perfume para mujeres - 100 ml.'
 sku: 'B0009OAGTM-es'
 tags: [ 'agua','de','perfume', ]

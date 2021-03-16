@@ -5,7 +5,7 @@ date: 2020-01-04 14:29:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KYXJLT-es IWEMEK Disfraz Anna Frozen Niña Vestido de Princesa Ana...'
 sku: 'B082KYXJLT-es'
 tags: [ 'navidad', ]

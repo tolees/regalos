@@ -5,7 +5,7 @@ date: 2020-05-31 15:03:16
 image: 'https://m.media-amazon.com/images/I/51tIJ2hbT8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBYXTTD-es HI SUYI - Cojín con forma de árbol de Navidad...'
 sku: 'B07WBYXTTD-es'
 tags: [ 'navidad', ]

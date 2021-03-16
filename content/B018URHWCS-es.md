@@ -5,7 +5,7 @@ date: 2020-04-21 18:37:54
 image: 'https://m.media-amazon.com/images/I/31uYU3tRPcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018URHWCS-es Kenzo Agua de perfume para hombres - 50 ml.'
 sku: 'B018URHWCS-es'
 tags: [ 'agua','de','perfume', ]

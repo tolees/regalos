@@ -5,7 +5,7 @@ date: 2020-04-14 09:00:20
 image: 'https://m.media-amazon.com/images/I/51IzwkAVGAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772DGS9Z-es Amaza 100pcs Etiquetas de Papel Kraft Árbol de Navidad...'
 sku: 'B0772DGS9Z-es'
 tags: [ 'navidad', ]

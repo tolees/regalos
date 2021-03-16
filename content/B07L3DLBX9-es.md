@@ -5,7 +5,7 @@ date: 2020-09-02 19:29:59
 image: 'https://m.media-amazon.com/images/I/51pVcSZIjqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3DLBX9-es Susan Y Regalos día de la Madre Collar Mujer Bucci Bear-be...'
 sku: 'B07L3DLBX9-es'
 tags: [ 'swarovski', ]

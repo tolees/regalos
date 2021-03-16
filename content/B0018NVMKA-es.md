@@ -5,7 +5,7 @@ date: 2020-05-21 12:33:50
 image: 'https://m.media-amazon.com/images/I/41SYmTR+QIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0018NVMKA-es DKNY men - Eau de Toilette Energizing 100 ml'
 sku: 'B0018NVMKA-es'
 tags: [ 'de','eau','toilette', ]

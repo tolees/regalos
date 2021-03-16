@@ -5,7 +5,7 @@ date: 2020-09-30 05:29:34
 image: 'https://m.media-amazon.com/images/I/517ICvx4RUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3QZNFK-es Mopoin 24 Pcs Mini Juegos Rompecabezas Set Juego De...'
 sku: 'B07H3QZNFK-es'
 tags: [ 'navidad', ]

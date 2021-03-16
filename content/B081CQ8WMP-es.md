@@ -5,7 +5,7 @@ date: 2020-08-13 11:11:27
 image: 'https://m.media-amazon.com/images/I/31XUpUTRGkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CQ8WMP-es dressfan Animal Negro Dragón Siamese Pijamas Dragón...'
 sku: 'B081CQ8WMP-es'
 tags: [ 'navidad', ]

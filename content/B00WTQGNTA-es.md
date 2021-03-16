@@ -5,7 +5,7 @@ date: 2020-08-20 19:57:22
 image: 'https://m.media-amazon.com/images/I/514tC3byv9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WTQGNTA-es Flongo Brazalete Pulsera Pareja Novios Pulsera Acero...'
 sku: 'B00WTQGNTA-es'
 tags: [ 'navidad', ]

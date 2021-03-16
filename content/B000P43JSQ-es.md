@@ -5,7 +5,7 @@ date: 2020-09-07 14:55:47
 image: 'https://m.media-amazon.com/images/I/41-A+Q6MMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000P43JSQ-es Mandarina Duck Agua de Tocador Vaporizador - 100 ml'
 sku: 'B000P43JSQ-es'
 tags: [ 'agua','de','tocador', ]

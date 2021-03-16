@@ -5,7 +5,7 @@ date: 2020-03-30 17:35:52
 image: 'https://m.media-amazon.com/images/I/51iLlvcYmBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYQWP6V-es BACKTURE Luces Discoteca Iluminación de Escenarios...'
 sku: 'B07VYQWP6V-es'
 tags: [ 'navidad', ]

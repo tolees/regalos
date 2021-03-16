@@ -5,7 +5,7 @@ date: 2020-04-11 08:34:24
 image: 'https://m.media-amazon.com/images/I/51LykXMFGgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WG18BQP-es 5pcs 5D DIY Diamond Painting Christmas Keychain/Collar...'
 sku: 'B07WG18BQP-es'
 tags: [ 'christmas', ]

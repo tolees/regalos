@@ -5,7 +5,7 @@ date: 2020-09-14 11:53:58
 image: 'https://m.media-amazon.com/images/I/41f1-Jgmt0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDBVPBP-es TABAC ORIGINAL Agua De Colonia Para Hombres 1 Unidad 100 ml'
 sku: 'B07DDBVPBP-es'
 tags: [ 'agua','colonia','de', ]

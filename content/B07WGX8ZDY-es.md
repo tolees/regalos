@@ -5,7 +5,7 @@ date: 2020-03-02 10:37:17
 image: 'https://m.media-amazon.com/images/I/61wCRWTLbpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGX8ZDY-es 14 Pack luz de Botella Kolpop luz Corcho 20PCS Baterías...'
 sku: 'B07WGX8ZDY-es'
 tags: [ 'navidad', ]

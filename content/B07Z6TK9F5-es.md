@@ -5,7 +5,7 @@ date: 2020-05-25 11:03:37
 image: 'https://m.media-amazon.com/images/I/41RBajgC5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6TK9F5-es Álvarez Gómez Flores Mediterráneas Jazmín de Noche Agua de...'
 sku: 'B07Z6TK9F5-es'
 tags: [ 'agua','colonia','de', ]

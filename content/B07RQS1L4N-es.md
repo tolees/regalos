@@ -5,7 +5,7 @@ date: 2020-09-06 01:14:45
 image: 'https://m.media-amazon.com/images/I/61FB9fIwOfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQS1L4N-es LEADSTAR Explosion Box Álbum de Fotos Creative Scrapbook...'
 sku: 'B07RQS1L4N-es'
 tags: [ 'navidad', ]

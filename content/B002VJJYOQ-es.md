@@ -5,7 +5,7 @@ date: 2020-09-22 17:26:49
 image: 'https://m.media-amazon.com/images/I/41vy6nT9xTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VJJYOQ-es Tuscany Silver Pendientes de mujer con plata de ley 925/1000'
 sku: 'B002VJJYOQ-es'
 tags: [ 'de','ley','plata', ]

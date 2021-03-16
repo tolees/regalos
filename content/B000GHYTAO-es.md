@@ -5,7 +5,7 @@ date: 2020-01-27 09:26:25
 image: 'https://m.media-amazon.com/images/I/41M1-mHZNaL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GHYTAO-es Lancome Hypnôse Agua de perfume Vaporizador 30 ml'
 sku: 'B000GHYTAO-es'
 tags: [ 'agua','de','perfume', ]

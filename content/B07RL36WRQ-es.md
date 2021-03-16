@@ -5,7 +5,7 @@ date: 2020-03-04 07:41:56
 image: 'https://m.media-amazon.com/images/I/31KEAZ8nCOL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL36WRQ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 Circonita...'
 sku: 'B07RL36WRQ-es'
 tags: [ 'de','ley','plata', ]

@@ -5,7 +5,7 @@ date: 2020-01-10 11:55:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/519%2B2UmyeEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD52M1J-es Luces de Navidad para Decoración Diseño de Muñeco de Nieve...'
 sku: 'B07YD52M1J-es'
 tags: [ 'navidad', ]

@@ -5,7 +5,7 @@ date: 2020-04-21 05:26:03
 image: 'https://m.media-amazon.com/images/I/51n2s4wY-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792QCT3J-es LEGO Friends - Calendario De Adviento para Amigos 41353'
 sku: 'B0792QCT3J-es'
 tags: [ 'adviento', ]

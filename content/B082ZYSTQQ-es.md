@@ -5,7 +5,7 @@ date: 2020-03-29 08:28:56
 image: 'https://m.media-amazon.com/images/I/41ZxIDoMvKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082ZYSTQQ-es Guirnaldas luminosas Solar de Exterior OxyLED G40 10.35M...'
 sku: 'B082ZYSTQQ-es'
 tags: [ 'navidad', ]

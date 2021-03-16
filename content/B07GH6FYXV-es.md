@@ -5,7 +5,7 @@ date: 2020-09-01 10:10:21
 image: 'https://m.media-amazon.com/images/I/51wjnQOFnBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GH6FYXV-es The Nightmare Before Christmas - Notebook Premium...'
 sku: 'B07GH6FYXV-es'
 tags: [ 'christmas', ]

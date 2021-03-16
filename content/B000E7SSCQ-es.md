@@ -5,7 +5,7 @@ date: 2020-04-30 19:32:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KKQG-0g3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E7SSCQ-es Moschino Cheap & Chic Agua de tocador para hombres - 100 ml.'
 sku: 'B000E7SSCQ-es'
 tags: [ 'agua','de','tocador', ]

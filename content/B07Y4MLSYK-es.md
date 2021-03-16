@@ -5,7 +5,7 @@ date: 2020-02-12 19:35:05
 image: 'https://m.media-amazon.com/images/I/51y6hkc9GLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4MLSYK-es Luces de Proyector de Navidad Luz de Proyección 2 in 1...'
 sku: 'B07Y4MLSYK-es'
 tags: [ 'navidad', ]

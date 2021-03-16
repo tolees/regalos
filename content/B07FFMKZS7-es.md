@@ -5,7 +5,7 @@ date: 2020-09-24 17:41:16
 image: 'https://m.media-amazon.com/images/I/41HP3pf+tSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFMKZS7-es Pulsera de mujer pulsera con cuentas en plata de ley 925...'
 sku: 'B07FFMKZS7-es'
 tags: [ 'de','ley','plata', ]

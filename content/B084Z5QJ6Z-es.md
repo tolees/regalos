@@ -5,7 +5,7 @@ date: 2020-07-09 15:31:27
 image: 'https://m.media-amazon.com/images/I/51n6jcAWfeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Z5QJ6Z-es DEESOSPRO® [Tarjeta de Cumpleaños] [Tarjeta de...'
 sku: 'B084Z5QJ6Z-es'
 tags: [ 'navidad', ]

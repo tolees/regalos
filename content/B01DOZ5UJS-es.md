@@ -5,7 +5,7 @@ date: 2020-01-16 21:03:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DOZ5UJS-es Burberry Agua de colonia para hombres - 150 gr.'
 sku: 'B01DOZ5UJS-es'
 tags: [ 'agua','colonia','de', ]

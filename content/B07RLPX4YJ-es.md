@@ -5,7 +5,7 @@ date: 2020-03-08 18:50:23
 image: 'https://m.media-amazon.com/images/I/51Nzd-rk1iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLPX4YJ-es J.Rosée Pendientes Mujer Plata de Ley 925 Regalo de San...'
 sku: 'B07RLPX4YJ-es'
 tags: [ 'de','ley','plata', ]

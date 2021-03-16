@@ -5,7 +5,7 @@ date: 2020-08-07 01:20:44
 image: 'https://m.media-amazon.com/images/I/31fmqx8jwyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1HWT48-es Landove Pijama Unicornio Niña Niño Mono Franela Kigurumi...'
 sku: 'B07J1HWT48-es'
 tags: [ 'navidad', ]

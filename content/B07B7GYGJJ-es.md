@@ -5,7 +5,7 @@ date: 2020-01-13 09:05:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DR5aP5w0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7GYGJJ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 [Alas de...'
 sku: 'B07B7GYGJJ-es'
 tags: [ 'de','ley','navidad','plata', ]

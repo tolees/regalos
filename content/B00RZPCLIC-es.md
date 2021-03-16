@@ -5,7 +5,7 @@ date: 2020-06-23 19:54:09
 image: 'https://m.media-amazon.com/images/I/417ezSmPTlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RZPCLIC-es Swarovski Pendientes Solitaire de Mujer chapado en tono...'
 sku: 'B00RZPCLIC-es'
 tags: [ 'swarovski', ]

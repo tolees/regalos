@@ -5,7 +5,7 @@ date: 2020-04-16 18:32:20
 image: 'https://m.media-amazon.com/images/I/51NIJu2Xw-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NRLPP3-es Juegos Consola de Videojuegos - Pandora Box 11 3001 in 1...'
 sku: 'B085NRLPP3-es'
 tags: [ 'pandora', ]

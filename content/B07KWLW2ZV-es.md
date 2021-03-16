@@ -5,7 +5,7 @@ date: 2020-06-14 12:20:04
 image: 'https://m.media-amazon.com/images/I/31RDpqxw07L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWLW2ZV-es Swarovski Anillo One Heart para Mujer Rojo Baño de Rodio'
 sku: 'B07KWLW2ZV-es'
 tags: [ 'swarovski', ]
