@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1WC58G-es EKKONG Explosion Box Christmas Explosion Box Creativo DIY...'
 sku: 'B07Y1WC58G-es'
-tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','christmas','navidad', ]
+tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X4YFFLS-es Guerlain L Homme Ideal agua de colonia Vaporizador 100 ml'
 sku: 'B00X4YFFLS-es'
-tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','agua','colonia','de', ]
+tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

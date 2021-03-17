@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0741DVM9X-es Swarovski Timeless Remix Collection Azul baño de rodio'
 sku: 'B0741DVM9X-es'
-tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','swarovski', ]
+tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

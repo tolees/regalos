@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WR3HP6-es Villeroy & Boch Piemont Cubertería Para hasta 6 personas...'
 sku: 'B000WR3HP6-es'
-tags: [ '&','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','boch','villeroy', ]
+tags: [ '&','Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','boch','villeroy', ]
 actualPrice: 53.0 EUR
 currency: EUR
 price: 53.0

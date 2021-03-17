@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNHVRDM-es Villeroy & Boch Cuencos de cereales 0.6 litros Porcelana...'
 sku: 'B07PNHVRDM-es'
-tags: [ '&','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','boch','villeroy', ]
+tags: [ '&','Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','boch','villeroy', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

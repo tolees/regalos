@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002Z7FTA2-es Issey Miyake - L Eau D Issey Agua de Perfume Recambio 75 ml'
 sku: 'B002Z7FTA2-es'
-tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','agua','de','perfume', ]
+tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 55.12 EUR
 currency: EUR
 price: 55.12
