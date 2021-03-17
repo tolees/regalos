@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG7KV6Y-es WOSTOO Guirnalda Luces Luces LED Pilas USB 2 en 1 Blanco...'
 sku: 'B07HG7KV6Y-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

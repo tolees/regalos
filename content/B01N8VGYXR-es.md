@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8VGYXR-es Elli Pendientes para dama forma geométrica con cristales...'
 sku: 'B01N8VGYXR-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 26.06 EUR
 currency: EUR
 price: 26.06

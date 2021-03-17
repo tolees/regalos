@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6W4HSL-es Guirnalda Luces Exterior Blanco Cálido Guirnalda de Luces...'
 sku: 'B07V6W4HSL-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

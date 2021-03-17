@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6TK9F5-es Álvarez Gómez Flores Mediterráneas Jazmín de Noche Agua de...'
 sku: 'B07Z6TK9F5-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

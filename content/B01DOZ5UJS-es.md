@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DOZ5UJS-es Burberry Agua de colonia para hombres - 150 gr.'
 sku: 'B01DOZ5UJS-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 55.04 EUR
 currency: EUR
 price: 55.04

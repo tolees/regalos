@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPBV8G6-es RYLOS - Pendientes de plata chapada en oro amarillo de 14...'
 sku: 'B07PPBV8G6-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 111.18 EUR
 currency: EUR
 price: 111.18

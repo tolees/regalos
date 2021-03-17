@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9R6JDH-es Angelady Collar de Pendientes Juego de Joyas de para Mujer...'
 sku: 'B07M9R6JDH-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata','swarovski', ]
+tags: [ 'de','ley','plata','swarovski', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

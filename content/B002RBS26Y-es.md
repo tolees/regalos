@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002RBS26Y-es Acqua Di Parma Magnolia Nobile Agua de Perfume - 50 ml'
 sku: 'B002RBS26Y-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 54.05 EUR
 currency: EUR
 price: 54.05

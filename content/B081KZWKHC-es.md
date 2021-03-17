@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KZWKHC-es Lydreewam Pendientes aro Colgantes De Letra X Plata de Ley...'
 sku: 'B081KZWKHC-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

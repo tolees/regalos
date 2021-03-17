@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C6LRTRF-es Perfume para hombres marca Jaguar fragancia Eau de...'
 sku: 'B07C6LRTRF-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012RYDWG-es Yves Saint Laurent Ysl L Homme Eau de Toilette Vaporizador...'
 sku: 'B0012RYDWG-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

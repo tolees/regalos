@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QO9EZH0-es Guirnaldas Solares Luminosas de 50 LEDs Multicolor en...'
 sku: 'B00QO9EZH0-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VM5JCK-es Thomas Sabo - Colgante de Mujer "Cráneo de Toro Étnico...'
 sku: 'B079VM5JCK-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756CHVQ2-es Buluri 12 colores Set de tiza para el cabello Tinte para...'
 sku: 'B0756CHVQ2-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

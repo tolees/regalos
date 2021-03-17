@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VP68LPF-es Amilril Collar Estrella Mujer Plata de Ley 925 Joyería...'
 sku: 'B07VP68LPF-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','navidad','plata', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 68.98 EUR
 currency: EUR
 price: 68.98

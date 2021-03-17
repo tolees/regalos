@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828QLCVV-es SHEGRACE plata de ley'
 sku: 'B0828QLCVV-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

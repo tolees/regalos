@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0E9KXD-es Halloween Jesus Del Pozo Halloween Kiss Sexy Agua De...'
 sku: 'B01N0E9KXD-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPT26D2-es GoMaihe Hiedra Artificial Guirnalda Planta 24pcs Plantas...'
 sku: 'B07VPT26D2-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0187YRQSO-es Pandora Abalorios Mujer plata - 791443ENMX'
 sku: 'B0187YRQSO-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','pandora', ]
+tags: [ 'pandora', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

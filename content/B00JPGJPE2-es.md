@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JPGJPE2-es Villeroy & Boch Artesano Original Estantería 4 piezas...'
 sku: 'B00JPGJPE2-es'
-tags: [ '&','Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','boch','villeroy', ]
+tags: [ '&','boch','villeroy', ]
 actualPrice: 137.55 EUR
 currency: EUR
 price: 137.55

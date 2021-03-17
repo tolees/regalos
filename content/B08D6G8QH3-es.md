@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6G8QH3-es UBERMing 20 Piezas Regalos de Ángel de Guarda + Bolsa de...'
 sku: 'B08D6G8QH3-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

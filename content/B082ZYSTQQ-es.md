@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082ZYSTQQ-es Guirnaldas luminosas Solar de Exterior OxyLED G40 10.35M...'
 sku: 'B082ZYSTQQ-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

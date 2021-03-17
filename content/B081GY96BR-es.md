@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GY96BR-es Susan Y regalo del día de la madre arete mujer joyería...'
 sku: 'B081GY96BR-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad','swarovski', ]
+tags: [ 'navidad','swarovski', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

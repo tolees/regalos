@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NM7QB6-es IWEMEK Disfraz de Princesa Anna Vestido Frozen Niñas Reina...'
 sku: 'B082NM7QB6-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM5MXVS-es OBEEII Vestidos Princesa Niña Traje del Vestido Princesa...'
 sku: 'B07VM5MXVS-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

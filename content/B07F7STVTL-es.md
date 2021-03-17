@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7STVTL-es Pendientes de plata de ley con diseño de calavera'
 sku: 'B07F7STVTL-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

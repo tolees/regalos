@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2R8XNH-es URAQT Disfraces de Carnaval Lady Bug Disfraz de Cat Noir...'
 sku: 'B07S2R8XNH-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

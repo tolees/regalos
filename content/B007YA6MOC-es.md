@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007YA6MOC-es Shiseido 70518 - Agua de colonia'
 sku: 'B007YA6MOC-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E2R5P1Q-es Hugo Boss 53968 - Agua de perfume'
 sku: 'B00E2R5P1Q-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

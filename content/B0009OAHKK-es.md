@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAHKK-es Carolina Herrera 212 Men Agua de Tocador - 50 ml'
 sku: 'B0009OAHKK-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

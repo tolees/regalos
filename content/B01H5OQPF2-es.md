@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H5OQPF2-es Angel Schlesser Bergamota Agua de Colonia Vaporizador -...'
 sku: 'B01H5OQPF2-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

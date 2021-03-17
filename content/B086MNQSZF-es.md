@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086MNQSZF-es YO-HAPPY Kids Photo Use Medias Navidad Cosplay Party Use...'
 sku: 'B086MNQSZF-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

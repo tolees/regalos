@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DELEJ7C-es Nenuco Pack Agua de Colonia Infantil Bebé Minnie con...'
 sku: 'B00DELEJ7C-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

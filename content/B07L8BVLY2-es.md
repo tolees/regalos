@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8BVLY2-es OBEEII Blancanieves Disfraz con Capa Snow White Carnaval...'
 sku: 'B07L8BVLY2-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

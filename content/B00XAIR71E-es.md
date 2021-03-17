@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIR71E-es Aire de Sevilla Set de Belleza Edición Azul Fresh - Crema...'
 sku: 'B00XAIR71E-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

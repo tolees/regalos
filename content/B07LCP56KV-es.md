@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCP56KV-es amzdeal Pintura Facial con 14 Colores Pintura Cara para la...'
 sku: 'B07LCP56KV-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

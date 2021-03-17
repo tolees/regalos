@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G6ZM9X8-es Infinite U Simple Wave de plata de ley 925 con circonita...'
 sku: 'B01G6ZM9X8-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WTQGNTA-es Flongo Brazalete Pulsera Pareja Novios Pulsera Acero...'
 sku: 'B00WTQGNTA-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

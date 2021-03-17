@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0066TGLSY-es Boucheron Agua de perfume para hombres - 100 gr.'
 sku: 'B0066TGLSY-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

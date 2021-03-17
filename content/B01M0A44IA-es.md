@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0A44IA-es Collar Mujer J.Rosée Plata de Ley 925 Brillante...'
 sku: 'B01M0A44IA-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

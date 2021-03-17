@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5CINJO-es Lámpara de Tira Bola Hada Noche Cadenas de Luz Ligera...'
 sku: 'B01M5CINJO-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

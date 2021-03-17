@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYD2V7A-es Calvin Klein CK All Agua de Tocador - 200 ml'
 sku: 'B01MYD2V7A-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDD7ZQW-es Lámpara Infantiles Proyector Estrella+Proyector LED+Timer...'
 sku: 'B07DDD7ZQW-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

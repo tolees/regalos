@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWSLCWM-es OxyLED Guirnalda Luces Exterior Solar 10 Metros 100 LED...'
 sku: 'B07KWSLCWM-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

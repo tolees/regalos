@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRSRXZN-es Pintura Facial Buluri 12 Colores Face Paint Crayons...'
 sku: 'B07BRSRXZN-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

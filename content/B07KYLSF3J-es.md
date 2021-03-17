@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYLSF3J-es Kami Idea Regalos dia de la Madre Mujer Pendientes de...'
 sku: 'B07KYLSF3J-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

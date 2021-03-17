@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9QRXDX-es RGBW LED Strip Super Night [Only LED Strip Lights] SMD...'
 sku: 'B07H9QRXDX-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

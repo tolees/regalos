@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYYFQ8M-es Feketeuki Colorido árbol de Navidad de Navidad Luz LED...'
 sku: 'B07ZYYFQ8M-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 0.71 EUR
 currency: EUR
 price: 0.71

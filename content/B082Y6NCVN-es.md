@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Y6NCVN-es Oihxse Case Compatible con Realme 3 Pro Funda Transparente...'
 sku: 'B082Y6NCVN-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

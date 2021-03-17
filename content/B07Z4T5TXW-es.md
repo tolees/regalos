@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4T5TXW-es OwlFay Disfraz Sofia Traje de Princesa Rapunzel Disfraz...'
 sku: 'B07Z4T5TXW-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

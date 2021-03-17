@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GRFW84I-es Adolfo Dominguez - Agua de Bambú agua de tocador...'
 sku: 'B00GRFW84I-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

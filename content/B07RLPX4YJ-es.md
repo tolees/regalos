@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLPX4YJ-es J.Rosée Pendientes Mujer Plata de Ley 925 Regalo de San...'
 sku: 'B07RLPX4YJ-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

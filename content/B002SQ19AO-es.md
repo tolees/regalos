@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SQ19AO-es Issey Miyake A Scent by Issey Miyake - Agua de tocador...'
 sku: 'B002SQ19AO-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

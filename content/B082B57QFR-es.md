@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082B57QFR-es OBEEII Blancanieves Disfraz con Capa 9 Piezas Carnaval...'
 sku: 'B082B57QFR-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

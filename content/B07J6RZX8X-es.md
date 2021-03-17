@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6RZX8X-es UTTORA Kit de Exploración para Niños 17 en 1 Juego de...'
 sku: 'B07J6RZX8X-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

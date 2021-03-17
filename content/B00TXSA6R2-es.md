@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TXSA6R2-es Boucheron Quatre Agua de Perfume - 100 ml'
 sku: 'B00TXSA6R2-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

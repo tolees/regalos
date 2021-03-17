@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFNH17X-es Crystals&Stones Mujer plata de ley 925 plata'
 sku: 'B07TFNH17X-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

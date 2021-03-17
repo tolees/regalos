@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3X6T2R-es Raya Jerséis Mujer 2019 Invierno Blanco Tumblr Moda Casual...'
 sku: 'B07G3X6T2R-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

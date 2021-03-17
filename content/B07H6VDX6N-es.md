@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H6VDX6N-es mysunny Album de Fotos Libro de Recuerdos de Cuero página...'
 sku: 'B07H6VDX6N-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

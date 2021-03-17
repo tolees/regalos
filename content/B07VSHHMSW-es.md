@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSHHMSW-es Amilril Collar Colgante Luna y Gato Plata de Ley 925 Moda...'
 sku: 'B07VSHHMSW-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','navidad','plata', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

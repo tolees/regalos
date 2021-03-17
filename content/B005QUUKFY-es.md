@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005QUUKFY-es Alvarez Gomez - Agua de Colonia Concentrada - 750 ml.'
 sku: 'B005QUUKFY-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

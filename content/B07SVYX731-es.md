@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVYX731-es Swarovski Collar Further de Mujer Blanco Baño de Rodio'
 sku: 'B07SVYX731-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Z6KNCK-es Disfraz Elsa Frozen Niñas con Capa Princesa Ana Vestido...'
 sku: 'B081Z6KNCK-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1W5LE-es Thierry Mugler 16863 - Agua de colonia 30 ml'
 sku: 'B000C1W5LE-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

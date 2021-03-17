@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G34CC5T-es Luces de Proyector de Navidad Proyector de Nieve LED con...'
 sku: 'B07G34CC5T-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

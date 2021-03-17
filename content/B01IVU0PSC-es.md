@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVU0PSC-es Colgante J.Rosée Collares Mujer Plata de Ley 925 Brillante...'
 sku: 'B01IVU0PSC-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

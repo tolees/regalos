@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJB6FG1-es Nenuco Agua de Colonia recomendado para bebés fragancia...'
 sku: 'B07MJB6FG1-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

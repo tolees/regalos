@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ALZASAA-es UTOQIA Collar Drop Plata de Ley 925 milésimas'
 sku: 'B01ALZASAA-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 45.43 EUR
 currency: EUR
 price: 45.43

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001BP0GW-es Guerlain - Eau de Toilette Mitsouko'
 sku: 'B0001BP0GW-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

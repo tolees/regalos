@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRJ8DR6-es Bolsa de Almacenamiento de Tela para árbol de Navidad 125...'
 sku: 'B01MRJ8DR6-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

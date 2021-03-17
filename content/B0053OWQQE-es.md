@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053OWQQE-es Tuscany Silver Pulsera de mujer con plata de ley 925/1000...'
 sku: 'B0053OWQQE-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

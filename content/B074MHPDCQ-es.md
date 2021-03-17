@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MHPDCQ-es Swarovski Conjunto de Collares Symbolic Moon Multicolor...'
 sku: 'B074MHPDCQ-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 90.95 EUR
 currency: EUR
 price: 90.95

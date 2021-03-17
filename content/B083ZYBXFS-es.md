@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZYBXFS-es DCC FIONNI Collar Mujer Corazon Colgante Plata de Ley 925...'
 sku: 'B083ZYBXFS-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

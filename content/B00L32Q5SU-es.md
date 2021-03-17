@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L32Q5SU-es Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette...'
 sku: 'B00L32Q5SU-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 31.89 EUR
 currency: EUR
 price: 31.89

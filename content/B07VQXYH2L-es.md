@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQXYH2L-es Traje de la Casa de Papel con Mascara Mono Cosplay Trajes...'
 sku: 'B07VQXYH2L-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

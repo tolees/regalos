@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002VJJYOQ-es Tuscany Silver Pendientes de mujer con plata de ley 925/1000'
 sku: 'B002VJJYOQ-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

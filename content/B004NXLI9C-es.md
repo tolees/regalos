@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004NXLI9C-es Donna Karan 31803 - Agua de colonia 50.0 ml'
 sku: 'B004NXLI9C-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 28.06 EUR
 currency: EUR
 price: 28.06

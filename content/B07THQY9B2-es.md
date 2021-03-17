@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THQY9B2-es Cadena de Luz Demum G40 de 25FT E12 Base Guirnalda Luces...'
 sku: 'B07THQY9B2-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HOAVEMQ-es Cadena solar de luces LED Salcar de 5 metros 20 mariposa...'
 sku: 'B01HOAVEMQ-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

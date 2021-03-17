@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SBZJMK-es WEMEK Niñas Disfraz de Princesa Elsa con Capa Frozen Anna...'
 sku: 'B082SBZJMK-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

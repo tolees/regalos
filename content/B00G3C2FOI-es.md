@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G3C2FOI-es Armani 53992 - Agua de perfume'
 sku: 'B00G3C2FOI-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 36.3 EUR
 currency: EUR
 price: 36.3

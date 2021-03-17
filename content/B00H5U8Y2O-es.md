@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H5U8Y2O-es Jean Patou Joy Forever Agua de Perfume - 75 ml'
 sku: 'B00H5U8Y2O-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 76.98 EUR
 currency: EUR
 price: 76.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN2VV1V-es EKKONG Explosion Box Scrapbook Creative DIY Photo Album de...'
 sku: 'B07GN2VV1V-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

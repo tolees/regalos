@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NI4ZLE-es Adidas Fruity Rhythm Eau De Toilette Woda toaletowa dla...'
 sku: 'B000NI4ZLE-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GH6FYXV-es The Nightmare Before Christmas - Notebook Premium...'
 sku: 'B07GH6FYXV-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

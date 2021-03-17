@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWS74TK-es Axcer LED Zapatos Verano Ligero Transpirable Bajo 7...'
 sku: 'B07PWS74TK-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

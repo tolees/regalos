@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DY5N8CT-es Swarovski Reloj Crystal Lake brazalete de metal cristal...'
 sku: 'B07DY5N8CT-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 164.5 EUR
 currency: EUR
 price: 164.5

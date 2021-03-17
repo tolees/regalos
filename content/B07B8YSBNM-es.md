@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8YSBNM-es J.Rosée Collar Mujer Collar Plata de Ley 925 Brillante...'
 sku: 'B07B8YSBNM-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','navidad','plata', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 16.33 EUR
 currency: EUR
 price: 16.33

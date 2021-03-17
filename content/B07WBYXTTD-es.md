@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WBYXTTD-es HI SUYI - Cojín con forma de árbol de Navidad...'
 sku: 'B07WBYXTTD-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

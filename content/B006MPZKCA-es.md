@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006MPZKCA-es Roberto Cavalli Agua de Perfume - 75 ml'
 sku: 'B006MPZKCA-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

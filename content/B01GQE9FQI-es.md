@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GQE9FQI-es Star Wars Eau de Toilette en Estuche - 30 ml'
 sku: 'B01GQE9FQI-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

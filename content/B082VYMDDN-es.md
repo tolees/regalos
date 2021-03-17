@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VYMDDN-es OwlFay Disfraz de Princesa Carnival para Niñas Vestidos de...'
 sku: 'B082VYMDDN-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HX1SFG2-es Tiras LED Alexa WiFi 5M Tira LED RGB Inteligente con...'
 sku: 'B08HX1SFG2-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

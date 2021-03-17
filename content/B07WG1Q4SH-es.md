@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WG1Q4SH-es Yasolote 22M Guirnalda de Luces Solares 8 Modos 200 LED...'
 sku: 'B07WG1Q4SH-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

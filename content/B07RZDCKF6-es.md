@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZDCKF6-es EUMI Pendientes Colgantes Pendientes Plata de Ley 925...'
 sku: 'B07RZDCKF6-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

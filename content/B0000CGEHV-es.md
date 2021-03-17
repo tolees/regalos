@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000CGEHV-es Villeroy & Boch Petite Fleur Ensaladera 25 cm Porcelana...'
 sku: 'B0000CGEHV-es'
-tags: [ '&','Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','boch','villeroy', ]
+tags: [ '&','boch','villeroy', ]
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YD52M1J-es Luces de Navidad para Decoración Diseño de Muñeco de Nieve...'
 sku: 'B07YD52M1J-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

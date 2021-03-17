@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYZL585-es Rotuladores Acrílicos de 12 Colores Rotuladores Acrílicos...'
 sku: 'B07YYZL585-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

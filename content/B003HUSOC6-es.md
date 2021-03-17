@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HUSOC6-es Carolina Herrera 212 Men NYC Agua de Tocador Vaporizador -...'
 sku: 'B003HUSOC6-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BR9J1MX-es Beforya Paris** – Pendientes largos Square – * Moonlight *...'
 sku: 'B08BR9J1MX-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

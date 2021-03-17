@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFMKZS7-es Pulsera de mujer pulsera con cuentas en plata de ley 925...'
 sku: 'B07FFMKZS7-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

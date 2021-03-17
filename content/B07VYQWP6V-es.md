@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYQWP6V-es BACKTURE Luces Discoteca Iluminación de Escenarios...'
 sku: 'B07VYQWP6V-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

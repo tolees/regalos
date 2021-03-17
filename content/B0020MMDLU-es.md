@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0020MMDLU-es Dolce & Gabbana 20984 - Agua de colonia'
 sku: 'B0020MMDLU-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

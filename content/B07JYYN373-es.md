@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYYN373-es Funda mapa mundi ideal para agendas 2020 Regalo Original...'
 sku: 'B07JYYN373-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

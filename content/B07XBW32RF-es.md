@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBW32RF-es ENGSWA Collar Mujer Plata de Ley 925 Colgante Corazón con...'
 sku: 'B07XBW32RF-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

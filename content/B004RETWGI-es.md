@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004RETWGI-es Tuscany Silver Pulsera con plata de ley 925/1000'
 sku: 'B004RETWGI-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 43.0 EUR
 currency: EUR
 price: 43.0

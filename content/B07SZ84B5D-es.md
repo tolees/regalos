@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ84B5D-es Tobillera Infinito para mujeres niñas plata de ley 925...'
 sku: 'B07SZ84B5D-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

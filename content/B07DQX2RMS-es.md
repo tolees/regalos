@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQX2RMS-es EUMI Colgantes Mujer Joyeria Mujer Collar Plata de Ley 925...'
 sku: 'B07DQX2RMS-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

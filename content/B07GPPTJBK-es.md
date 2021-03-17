@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPPTJBK-es FunPa Fieltro Árbol de Navidad Arbol Navidad Fieltro Pared...'
 sku: 'B07GPPTJBK-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

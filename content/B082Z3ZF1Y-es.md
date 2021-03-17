@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Z3ZF1Y-es Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna...'
 sku: 'B082Z3ZF1Y-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

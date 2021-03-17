@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6RB6TK-es Colgante con perlas de plata de ley 925 Abalorio...'
 sku: 'B07D6RB6TK-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

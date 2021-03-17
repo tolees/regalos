@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGGRFBY-es Gorro Bluetooth Gorro Bluetooth Inalámbrico Gorro de...'
 sku: 'B07VGGRFBY-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

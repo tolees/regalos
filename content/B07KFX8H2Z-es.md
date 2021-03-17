@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFX8H2Z-es Adidas Get Ready Set para Mujer Contiene: Neceser Adidas +...'
 sku: 'B07KFX8H2Z-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

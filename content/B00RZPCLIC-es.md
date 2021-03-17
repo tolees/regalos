@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RZPCLIC-es Swarovski Pendientes Solitaire de Mujer chapado en tono...'
 sku: 'B00RZPCLIC-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

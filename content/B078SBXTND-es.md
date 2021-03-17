@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SBXTND-es Swarovski Anillo Attract Blanco Baño de Rodio'
 sku: 'B078SBXTND-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 54.12 EUR
 currency: EUR
 price: 54.12

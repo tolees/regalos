@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WKL3YFT-es Marvelights Botella de Vino de Corcho Luz de Cadena...'
 sku: 'B07WKL3YFT-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

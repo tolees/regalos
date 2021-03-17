@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1VWCM-es Escada Magnetism Agua de perfume Vaporizador 75 ml'
 sku: 'B000C1VWCM-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

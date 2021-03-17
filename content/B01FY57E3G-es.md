@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FY57E3G-es Mont Blanc Legend Eau de Toilette para hombres - 200 ml.'
 sku: 'B01FY57E3G-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

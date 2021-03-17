@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0083WWRIK-es Dior Eau Sauvage Agua de perfume Vaporizador 100 ml'
 sku: 'B0083WWRIK-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

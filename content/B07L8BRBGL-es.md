@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8BRBGL-es OBEEII Cenicienta Disfraz Cinderella Carnaval Traje de...'
 sku: 'B07L8BRBGL-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

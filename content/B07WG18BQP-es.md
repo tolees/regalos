@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WG18BQP-es 5pcs 5D DIY Diamond Painting Christmas Keychain/Collar...'
 sku: 'B07WG18BQP-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

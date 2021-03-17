@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WDN17D-es Carolina Herrera 212 Men Agua de Tocador Vaporizador - 50 ml'
 sku: 'B075WDN17D-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

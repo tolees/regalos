@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IYC71Q6-es Prada 17294 - Agua de Colonia L Homme 100 ml'
 sku: 'B01IYC71Q6-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 52.85 EUR
 currency: EUR
 price: 52.85

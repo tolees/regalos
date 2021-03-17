@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KXKFPQ-es Pendientes Mariposa Brillante Blancos de Regalo de Navidad'
 sku: 'B071KXKFPQ-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

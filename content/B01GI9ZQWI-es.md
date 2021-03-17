@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GI9ZQWI-es Chloe Fleur de Parfum Agua de Perfume - 75 ml'
 sku: 'B01GI9ZQWI-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDHGQ3N-es Conjunto camiseta padre hijo gamer personalizado Regalo...'
 sku: 'B07PDHGQ3N-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

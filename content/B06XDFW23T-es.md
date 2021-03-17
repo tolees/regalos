@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDFW23T-es Mont Blanc Agua de tocador para mujeres - 200 ml.'
 sku: 'B06XDFW23T-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

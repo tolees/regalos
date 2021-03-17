@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQQKQ13-es J.Endéar Tobillera de plata de ley 925 con símbolo de amor...'
 sku: 'B07PQQKQ13-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

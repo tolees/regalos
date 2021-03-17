@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q6XLV1Y-es Amilril Collar Collar Colgante de Corazón Mujer Plata de...'
 sku: 'B07Q6XLV1Y-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','navidad','plata', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

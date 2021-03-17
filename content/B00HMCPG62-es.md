@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HMCPG62-es Boucheron 54030 - Agua de perfume'
 sku: 'B00HMCPG62-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 43.98 EUR
 currency: EUR
 price: 43.98

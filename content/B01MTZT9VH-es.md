@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTZT9VH-es Guirnalda Cadena de Luces de LED Alambre de Cobre...'
 sku: 'B01MTZT9VH-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

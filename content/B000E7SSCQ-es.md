@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E7SSCQ-es Moschino Cheap & Chic Agua de tocador para hombres - 100 ml.'
 sku: 'B000E7SSCQ-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 32 EUR
 currency: EUR
 price: 32

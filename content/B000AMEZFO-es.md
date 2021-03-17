@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AMEZFO-es Narciso Rodriguez 140435 - Agua de tocador vaporizador...'
 sku: 'B000AMEZFO-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

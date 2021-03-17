@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BR41KH7-es ANAZOZ Pendientes Mujer Plata Pendientes Aro Mujer Plata...'
 sku: 'B08BR41KH7-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

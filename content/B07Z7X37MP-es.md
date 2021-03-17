@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7X37MP-es Álvarez Gómez 100154 Flores Mediterráneas Magnolia Blanca...'
 sku: 'B07Z7X37MP-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

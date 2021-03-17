@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XD38KWL-es Yves Saint Laurent L Homme Agua de Colonia - 200 ml'
 sku: 'B06XD38KWL-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 59.96 EUR
 currency: EUR
 price: 59.96

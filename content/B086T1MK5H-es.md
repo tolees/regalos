@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086T1MK5H-es Musk Fresh Agua de Colonia para Hombre 200ml Avon'
 sku: 'B086T1MK5H-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99
