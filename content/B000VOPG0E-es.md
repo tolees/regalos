@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOPG0E-es Dolce & Gabbana 18358 - Agua de colonia'
 sku: 'B000VOPG0E-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

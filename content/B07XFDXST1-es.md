@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFDXST1-es AvoSeedo Kit Jardineria para Aguacate - Gadget Decoracion...'
 sku: 'B07XFDXST1-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

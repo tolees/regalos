@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004HYCZGW-es Villeroy & Boch Royal Juego de mesa para 6 personas 12...'
 sku: 'B004HYCZGW-es'
-tags: [ '&','boch','villeroy', ]
+tags: [ '&','Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','boch','villeroy', ]
 actualPrice: 222.89 EUR
 currency: EUR
 price: 222.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2XDJ7F-es SGILE 1:14 Coche Teledirigido 2.4 GHz 4WD RC Camión...'
 sku: 'B07C2XDJ7F-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 28.43 EUR
 currency: EUR
 price: 28.43

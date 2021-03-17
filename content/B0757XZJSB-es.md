@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757XZJSB-es Swarovski Pendientes Luckily Evil Eye de Mujer multicolor...'
 sku: 'B0757XZJSB-es'
-tags: [ 'swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 41.55 EUR
 currency: EUR
 price: 41.55

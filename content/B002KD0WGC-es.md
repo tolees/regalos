@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002KD0WGC-es Paco Rabanne Ultraviolet Agua de perfume Vaporizador 50 ml'
 sku: 'B002KD0WGC-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 43.97 EUR
 currency: EUR
 price: 43.97

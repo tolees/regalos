@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8Q5GTJ-es Guirnalda navidad de luz 300 LED Blanco 30M cálido 8 Modo...'
 sku: 'B07S8Q5GTJ-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

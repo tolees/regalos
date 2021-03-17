@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKBVVHN-es Pendientes de plata de ley 925 con diseño de caballo de...'
 sku: 'B07XKBVVHN-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

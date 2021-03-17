@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWLW2ZV-es Swarovski Anillo One Heart para Mujer Rojo Baño de Rodio'
 sku: 'B07KWLW2ZV-es'
-tags: [ 'swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 34.4 EUR
 currency: EUR
 price: 34.4

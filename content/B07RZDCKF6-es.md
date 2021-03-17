@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZDCKF6-es EUMI Pendientes Colgantes Pendientes Plata de Ley 925...'
 sku: 'B07RZDCKF6-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IRBAX42-es Cartier Agua de perfume para mujeres - 30 gr.'
 sku: 'B00IRBAX42-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 40.89 EUR
 currency: EUR
 price: 40.89

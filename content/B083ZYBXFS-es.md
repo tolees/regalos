@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZYBXFS-es DCC FIONNI Collar Mujer Corazon Colgante Plata de Ley 925...'
 sku: 'B083ZYBXFS-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

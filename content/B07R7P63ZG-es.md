@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7P63ZG-es SISMIURRA Ajustable Collar Mujer Grabado Plata de Ley 925...'
 sku: 'B07R7P63ZG-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

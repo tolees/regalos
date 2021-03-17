@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q6XLV1Y-es Amilril Collar Collar Colgante de Corazón Mujer Plata de...'
 sku: 'B07Q6XLV1Y-es'
-tags: [ 'de','ley','navidad','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','navidad','plata', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

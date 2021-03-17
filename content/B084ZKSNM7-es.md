@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZKSNM7-es Gorros suaves gruesos y cálidos Sombreros de invierno...'
 sku: 'B084ZKSNM7-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZC494Z-es 3d led night 3d illusion light Ciclismo Night Light para...'
 sku: 'B08BZC494Z-es'
-tags: [ 'christmas', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

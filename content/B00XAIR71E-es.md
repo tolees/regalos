@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIR71E-es Aire de Sevilla Set de Belleza Edición Azul Fresh - Crema...'
 sku: 'B00XAIR71E-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

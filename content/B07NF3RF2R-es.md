@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF3RF2R-es Pandora Abalorios Mujer plata - 798049ENMX'
 sku: 'B07NF3RF2R-es'
-tags: [ 'pandora', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','pandora', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

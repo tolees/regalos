@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FGZ1Z8-es IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa Reina de...'
 sku: 'B082FGZ1Z8-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

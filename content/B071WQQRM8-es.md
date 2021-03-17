@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WQQRM8-es Pandora Brazalete Mujer plata - 596438CZ-1'
 sku: 'B071WQQRM8-es'
-tags: [ 'pandora', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','pandora', ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

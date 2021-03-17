@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012NSQY74-es Lacoste Agua de colonia para mujeres - 50 ml.'
 sku: 'B012NSQY74-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 19.86 EUR
 currency: EUR
 price: 19.86

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9R6JDH-es Angelady Collar de Pendientes Juego de Joyas de para Mujer...'
 sku: 'B07M9R6JDH-es'
-tags: [ 'de','ley','plata','swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata','swarovski', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

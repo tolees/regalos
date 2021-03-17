@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A2KCIKS-es DOLCE & GABBANA POUR FEMME - Agua de perfume vaporizador...'
 sku: 'B00A2KCIKS-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 32.24 EUR
 currency: EUR
 price: 32.24

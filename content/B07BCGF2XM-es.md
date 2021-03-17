@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BCGF2XM-es Tobilleras mujer plata de ley dulce romántico círculos...'
 sku: 'B07BCGF2XM-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

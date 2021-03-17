@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9QRXDX-es RGBW LED Strip Super Night [Only LED Strip Lights] SMD...'
 sku: 'B07H9QRXDX-es'
-tags: [ 'christmas', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

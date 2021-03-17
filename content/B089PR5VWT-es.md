@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089PR5VWT-es Pendientes Mujer con piedra de nacimiento Plata de Ley 925...'
 sku: 'B089PR5VWT-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

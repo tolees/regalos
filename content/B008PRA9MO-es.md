@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008PRA9MO-es Hugo Boss 38882 - Agua de perfume'
 sku: 'B008PRA9MO-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

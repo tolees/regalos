@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFX8H2Z-es Adidas Get Ready Set para Mujer Contiene: Neceser Adidas +...'
 sku: 'B07KFX8H2Z-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

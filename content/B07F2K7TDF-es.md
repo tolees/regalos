@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2K7TDF-es Adolfo Dominguez Agua de colonia para hombres - 60 ml.'
 sku: 'B07F2K7TDF-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 15.05 EUR
 currency: EUR
 price: 15.05

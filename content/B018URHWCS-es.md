@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018URHWCS-es Kenzo Agua de perfume para hombres - 50 ml.'
 sku: 'B018URHWCS-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

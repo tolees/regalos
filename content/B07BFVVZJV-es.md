@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFVVZJV-es Hielo anal plug Christmas Tree silicona tierna...'
 sku: 'B07BFVVZJV-es'
-tags: [ 'christmas', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

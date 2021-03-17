@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GY96BR-es Susan Y regalo del día de la madre arete mujer joyería...'
 sku: 'B081GY96BR-es'
-tags: [ 'navidad','swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad','swarovski', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

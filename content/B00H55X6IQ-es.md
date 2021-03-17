@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H55X6IQ-es CLGarden LEDKB200 Cerezo de LED en 180 cm de altura con...'
 sku: 'B00H55X6IQ-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

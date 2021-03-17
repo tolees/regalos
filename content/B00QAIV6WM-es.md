@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QAIV6WM-es Versace Eros Pour Femme Agua de Perfume - 50 ml'
 sku: 'B00QAIV6WM-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

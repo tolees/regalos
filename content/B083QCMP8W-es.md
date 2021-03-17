@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QCMP8W-es Aerb Guirnalda Luz Exterior Solar 2 Pack Cadena de Luces...'
 sku: 'B083QCMP8W-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

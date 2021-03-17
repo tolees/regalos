@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Y6NCVN-es Oihxse Case Compatible con Realme 3 Pro Funda Transparente...'
 sku: 'B082Y6NCVN-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

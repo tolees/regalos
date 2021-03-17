@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002JVJ2C-es Armani Acqua Di Gio Homme Agua de Colonia 200 ml'
 sku: 'B0002JVJ2C-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 58.75 EUR
 currency: EUR
 price: 58.75

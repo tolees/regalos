@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZG6NZ9-es J.Rosée Pendientes Mujer Plata de Ley 925 Brillante"...'
 sku: 'B07BZG6NZ9-es'
-tags: [ 'de','ley','navidad','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','navidad','plata', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

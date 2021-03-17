@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HXGMDRT-es vivo Villeroy & Boch Group New Fresh Basic Cubertería...'
 sku: 'B07HXGMDRT-es'
-tags: [ '&','boch','villeroy', ]
+tags: [ '&','Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','boch','villeroy', ]
 actualPrice: 50.33 EUR
 currency: EUR
 price: 50.33

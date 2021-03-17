@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VRA66K-es Versace Yellow Diamond Agua de Colonia - 90 ml'
 sku: 'B005VRA66K-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

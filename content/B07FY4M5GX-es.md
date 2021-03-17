@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY4M5GX-es Swarovski Collar Louison de Mujer Blanco Baño de Rodio'
 sku: 'B07FY4M5GX-es'
-tags: [ 'swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 149.5 EUR
 currency: EUR
 price: 149.5

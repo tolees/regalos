@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DY5N8CT-es Swarovski Reloj Crystal Lake brazalete de metal cristal...'
 sku: 'B07DY5N8CT-es'
-tags: [ 'swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 164.5 EUR
 currency: EUR
 price: 164.5

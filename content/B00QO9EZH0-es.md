@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QO9EZH0-es Guirnaldas Solares Luminosas de 50 LEDs Multicolor en...'
 sku: 'B00QO9EZH0-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

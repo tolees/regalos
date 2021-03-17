@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DSZ49ZB-es Swarovski Pendientes Symbolic Evil Eye de Mujer chapados...'
 sku: 'B07DSZ49ZB-es'
-tags: [ 'swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

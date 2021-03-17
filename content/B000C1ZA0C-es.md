@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1ZA0C-es Oscar by Oscar De La Renta Eau de Toilette para Mujer -...'
 sku: 'B000C1ZA0C-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

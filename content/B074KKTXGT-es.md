@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KKTXGT-es Swarovski Remix Collection Strand Infinity baño en Tono...'
 sku: 'B074KKTXGT-es'
-tags: [ 'swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

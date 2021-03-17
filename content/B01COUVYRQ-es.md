@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01COUVYRQ-es BAMOER Plata de ley 925/1000'
 sku: 'B01COUVYRQ-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

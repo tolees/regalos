@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004NXLI9C-es Donna Karan 31803 - Agua de colonia 50.0 ml'
 sku: 'B004NXLI9C-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 28.06 EUR
 currency: EUR
 price: 28.06

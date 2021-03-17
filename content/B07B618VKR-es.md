@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B618VKR-es VIPMOON 2x5m/32.8ft 2pcs 6803 IC Dream Magic Tira de LED...'
 sku: 'B07B618VKR-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

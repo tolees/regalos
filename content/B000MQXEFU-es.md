@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MQXEFU-es Jaguar Agua de colonia para mujeres 1 unidad 130 g'
 sku: 'B000MQXEFU-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

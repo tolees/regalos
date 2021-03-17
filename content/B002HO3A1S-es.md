@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002HO3A1S-es Thierry Mugler Angel Agua de perfume Vaporizador...'
 sku: 'B002HO3A1S-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 68.95 EUR
 currency: EUR
 price: 68.95

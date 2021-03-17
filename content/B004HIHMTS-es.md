@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004HIHMTS-es Boucheron Agua de colonia para mujeres - 30 gr.'
 sku: 'B004HIHMTS-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 10.33 EUR
 currency: EUR
 price: 10.33

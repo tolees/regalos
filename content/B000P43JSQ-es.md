@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000P43JSQ-es Mandarina Duck Agua de Tocador Vaporizador - 100 ml'
 sku: 'B000P43JSQ-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

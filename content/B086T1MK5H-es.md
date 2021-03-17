@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086T1MK5H-es Musk Fresh Agua de Colonia para Hombre 200ml Avon'
 sku: 'B086T1MK5H-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

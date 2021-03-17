@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AZJ30G6-es Swarovski Colgante Creativity Circle de Mujer Chapado en...'
 sku: 'B01AZJ30G6-es'
-tags: [ 'swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

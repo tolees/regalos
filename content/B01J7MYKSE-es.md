@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J7MYKSE-es Ankway Guirnalda luz Solar 8 Modos 5M 30 LED Guirnalda...'
 sku: 'B01J7MYKSE-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

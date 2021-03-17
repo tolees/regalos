@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000IOSJ42-es Calvin Klein Contradiction - Agua de perfume para mujeres...'
 sku: 'B000IOSJ42-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 26.62 EUR
 currency: EUR
 price: 26.62

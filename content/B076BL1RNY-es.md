@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BL1RNY-es Peluche Amor Pájaros En Un Corazón Bead Charm – para...'
 sku: 'B076BL1RNY-es'
-tags: [ 'de','ley','pandora','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','pandora','plata', ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

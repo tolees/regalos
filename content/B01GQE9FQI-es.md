@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GQE9FQI-es Star Wars Eau de Toilette en Estuche - 30 ml'
 sku: 'B01GQE9FQI-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

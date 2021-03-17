@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3DLBX9-es Susan Y Regalos día de la Madre Collar Mujer Bucci Bear-be...'
 sku: 'B07L3DLBX9-es'
-tags: [ 'swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

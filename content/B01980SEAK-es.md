@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01980SEAK-es MENFORSAN Agua de Colonia Fresa para Gatos - 125 ml'
 sku: 'B01980SEAK-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

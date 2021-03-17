@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001BP0GW-es Guerlain - Eau de Toilette Mitsouko'
 sku: 'B0001BP0GW-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

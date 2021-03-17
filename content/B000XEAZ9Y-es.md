@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XEAZ9Y-es Issey Miyake - LEAU DISSEY HOMME Eau De Toilette vapo 200 ml'
 sku: 'B000XEAZ9Y-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

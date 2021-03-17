@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ELS9ZUI-es Estee Lauder 56889 - Agua de perfume'
 sku: 'B00ELS9ZUI-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 65.73 EUR
 currency: EUR
 price: 65.73

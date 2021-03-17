@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GHVIGM-es KENZO L EAU eau de toilette Mujeres 100 ml - Eau de...'
 sku: 'B000GHVIGM-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 42.56 EUR
 currency: EUR
 price: 42.56

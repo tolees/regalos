@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SBXMT8-es OBEEII Disfraz Elsa Anna Traje Frozen Niñas Princesa Ana...'
 sku: 'B082SBXMT8-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

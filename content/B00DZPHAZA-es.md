@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DZPHAZA-es Calvin Klein Euphoria Men - Agua de tocador vaporizador...'
 sku: 'B00DZPHAZA-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004R95IDE-es Tuscany Silver 8.43.7594 - Cadena con colgante de plata de...'
 sku: 'B004R95IDE-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

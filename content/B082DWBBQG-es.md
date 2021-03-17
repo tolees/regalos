@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082DWBBQG-es OBEEII Anna Frozen Disfraz Princesa Ana Elsa Cosplay...'
 sku: 'B082DWBBQG-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

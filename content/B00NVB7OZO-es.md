@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NVB7OZO-es XMASKING Estrella Cometa de 95 cm en Tubo Luminoso 108 LED...'
 sku: 'B00NVB7OZO-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

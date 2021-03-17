@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08883YJGQ-es Crystals & Stones BAP39 - Pendientes de plata de ley 925...'
 sku: 'B08883YJGQ-es'
-tags: [ 'de','ley','plata','swarovski', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata','swarovski', ]
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

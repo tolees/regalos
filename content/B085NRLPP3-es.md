@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NRLPP3-es Juegos Consola de Videojuegos - Pandora Box 11 3001 in 1...'
 sku: 'B085NRLPP3-es'
-tags: [ 'pandora', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','pandora', ]
 actualPrice: 128.0 EUR
 currency: EUR
 price: 128.0

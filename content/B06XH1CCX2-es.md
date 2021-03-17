@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XH1CCX2-es FCB Eau de Toilette para Hombre 100 ml'
 sku: 'B06XH1CCX2-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

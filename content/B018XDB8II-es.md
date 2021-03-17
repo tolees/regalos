@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018XDB8II-es Victorio & Lucchino Nº2 Agua de Colonia - 150 ml'
 sku: 'B018XDB8II-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005SZLO3O-es Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador...'
 sku: 'B005SZLO3O-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 22.28 EUR
 currency: EUR
 price: 22.28

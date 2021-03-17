@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3ZMY6Q-es PLAYMOBIL Calendario de Adviento Navidad en el Bosque A...'
 sku: 'B07B3ZMY6Q-es'
-tags: [ 'adviento','navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','adviento','navidad', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

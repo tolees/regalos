@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JJZL34-es Shiseido Ever Bloom Agua de Perfume - 50 ml'
 sku: 'B075JJZL34-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 30.14 EUR
 currency: EUR
 price: 30.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WRTQ6H8-es Pack Disney The Nightmare Before Christmas - Chapas...'
 sku: 'B06WRTQ6H8-es'
-tags: [ 'christmas', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6L7VPN-es URAQT Disfraz de Princesa Traje del Vestido Traje de...'
 sku: 'B07R6L7VPN-es'
-tags: [ 'navidad', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29
