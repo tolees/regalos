@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5X3M9T-es The Nightmare Before Christmas Nightmare Before Christmas:...'
 sku: 'B07M5X3M9T-es'
-tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','christmas', ]
+tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','christmas', ]
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

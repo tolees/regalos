@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAMTK56-es Gotas de Mayfer 62628 - Agua de colonia 1000 ml'
 sku: 'B00XAMTK56-es'
-tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','agua','colonia','de', ]
+tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','agua','colonia','de', ]
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B4TR3KG-es Versace Eros Eau de Toilette Vaporizador 100 ml'
 sku: 'B00B4TR3KG-es'
-tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','de','eau','toilette', ]
+tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','de','eau','toilette', ]
 actualPrice: 48.39 EUR
 currency: EUR
 price: 48.39

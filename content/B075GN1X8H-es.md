@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GN1X8H-es Pendientes J.Rosée Pendiente Mujer Perla de Agua Dulce...'
 sku: 'B075GN1X8H-es'
-tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','de','ley','plata', ]
+tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','de','ley','plata', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

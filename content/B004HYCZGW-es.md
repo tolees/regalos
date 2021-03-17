@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004HYCZGW-es Villeroy & Boch Royal Juego de mesa para 6 personas 12...'
 sku: 'B004HYCZGW-es'
-tags: [ '&','Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','boch','villeroy', ]
+tags: [ '&','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','boch','villeroy', ]
 actualPrice: 222.89 EUR
 currency: EUR
 price: 222.89

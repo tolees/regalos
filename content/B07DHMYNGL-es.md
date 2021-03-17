@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHMYNGL-es Adolfo Dominguez Agua de tocador para mujeres - 60 ml.'
 sku: 'B07DHMYNGL-es'
-tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Perfumes y fragancias','adolfo dominguez','agua','de','tocador', ]
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Perfumes y fragancias','Velas eléctricas y LED','adolfo dominguez','agua','de','tocador', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95
@@ -28,8 +28,8 @@ Ahora mismo tienes [Adolfo Dominguez  Agua de tocador para mujeres - 60 ml.](htt
 
 🔎:
 
-- Oler bien
 - De la marca: Adolfo Dominguez
 - De alta calidad
+- Oler bien
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DHMYNGL/?tag=tolees-21)
