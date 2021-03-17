@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013FKSIA-es Boucheron Jaipur Homme Eau de Toilette Vaporizador 100 ml'
 sku: 'B0013FKSIA-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1Z6DS-es Hugo Boss 14294 - Agua de perfume'
 sku: 'B000C1Z6DS-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 22.85 EUR
 currency: EUR
 price: 22.85

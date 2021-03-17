@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTZT9VH-es Guirnalda Cadena de Luces de LED Alambre de Cobre...'
 sku: 'B01MTZT9VH-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

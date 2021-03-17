@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HX1SFG2-es Tiras LED Alexa WiFi 5M Tira LED RGB Inteligente con...'
 sku: 'B08HX1SFG2-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

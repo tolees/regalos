@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GHYS78-es Issey Miyake Pleats Please Agua de perfume Vaporizador 30 ml'
 sku: 'B000GHYS78-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

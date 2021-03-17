@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3Y3W4P-es Eye Candy ECJ-NL0067 - Collar para mujer colgante en plata...'
 sku: 'B01M3Y3W4P-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 41.14 EUR
 currency: EUR
 price: 41.14

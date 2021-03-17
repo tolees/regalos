@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPV1PRT-es Yvsoo Calendario Adviento Juguetes Set 3Pcs Rompecabezas...'
 sku: 'B07KPV1PRT-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','adviento', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','adviento', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

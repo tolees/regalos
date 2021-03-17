@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7Z0ZO-es COURREGES EAU DE COURRÈGES agua de tocador vaporizador 50 ml'
 sku: 'B00BN7Z0ZO-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPDP15H-es OBEEII Disfraz Sofia Princesa Vestido de Fiesta Disfraz...'
 sku: 'B07VPDP15H-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XU8KIVA-es Burberry My Burberry Eau De Toilette 50Ml Vapo.'
 sku: 'B00XU8KIVA-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 31.51 EUR
 currency: EUR
 price: 31.51

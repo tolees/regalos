@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002RBS26Y-es Acqua Di Parma Magnolia Nobile Agua de Perfume - 50 ml'
 sku: 'B002RBS26Y-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 54.05 EUR
 currency: EUR
 price: 54.05

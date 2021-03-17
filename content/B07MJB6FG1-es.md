@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJB6FG1-es Nenuco Agua de Colonia recomendado para bebés fragancia...'
 sku: 'B07MJB6FG1-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

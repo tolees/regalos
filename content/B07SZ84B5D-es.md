@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ84B5D-es Tobillera Infinito para mujeres niñas plata de ley 925...'
 sku: 'B07SZ84B5D-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

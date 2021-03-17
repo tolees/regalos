@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0822WGHNV-es OwlFay Disfraz Elsa Frozen Niñas Princesa Ana Vestido...'
 sku: 'B0822WGHNV-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

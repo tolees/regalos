@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NUZVEG6-es Tous Love Moments Agua de Colonia - 30 ml'
 sku: 'B00NUZVEG6-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

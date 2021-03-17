@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F2DMBCT-es Bolsas Papel Kraft Regalo Bolsas bolsas para chuches para...'
 sku: 'B08F2DMBCT-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MG9GJQ0-es SOUFEEL Abalorio Charm Pulsera de Foto Personalizado Plata...'
 sku: 'B01MG9GJQ0-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','navidad','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','navidad','plata', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

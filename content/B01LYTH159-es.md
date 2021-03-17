@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYTH159-es Adolfo Dominguez Agua Fresca Azahar Agua de Tocador...'
 sku: 'B01LYTH159-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

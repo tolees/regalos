@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F6YF60I-es Old Spice Whitewater Vaporizador Agua de Colonia - 100 ml'
 sku: 'B01F6YF60I-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

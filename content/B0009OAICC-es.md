@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAICC-es Estee Lauder 2617 - Agua de perfume'
 sku: 'B0009OAICC-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 49.75 EUR
 currency: EUR
 price: 49.75

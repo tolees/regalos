@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VNDZRJ-es Thomas Sabo Colgante para Mujer "Flor de LisCharm Club"...'
 sku: 'B079VNDZRJ-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

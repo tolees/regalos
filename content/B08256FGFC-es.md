@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08256FGFC-es OBEEII 6PCS Disfraz de Princesa Elsa Niñas Carnaval Traje...'
 sku: 'B08256FGFC-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0822VCS8Z-es OwlFay Disfraz de Princesa Frozen Elsa Vestido Ana Reino...'
 sku: 'B0822VCS8Z-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

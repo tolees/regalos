@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B2Q2WSV-es Yasolote 22M Guirnalda de Luces Solares 8 Modos 200 LED...'
 sku: 'B07B2Q2WSV-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

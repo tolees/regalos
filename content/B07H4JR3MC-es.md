@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4JR3MC-es FTVOGUE Navidad de Madera Merry-Go-Round Caballo...'
 sku: 'B07H4JR3MC-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

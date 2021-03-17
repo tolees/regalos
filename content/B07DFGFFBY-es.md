@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFGFFBY-es Funko- Mystery Mini Blind Box: Disney: NBX: PDQ CDU 12 The...'
 sku: 'B07DFGFFBY-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

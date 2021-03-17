@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HBGMOEK-es BUYERTIME 5M/16.4Ft 50 LEDs Cadena de Luces Impermeable...'
 sku: 'B01HBGMOEK-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

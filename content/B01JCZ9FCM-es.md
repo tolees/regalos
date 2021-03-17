@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JCZ9FCM-es Coach Agua de perfume para mujeres - 90 gr.'
 sku: 'B01JCZ9FCM-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

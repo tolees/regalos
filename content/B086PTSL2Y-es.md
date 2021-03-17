@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PTSL2Y-es Bombas de Baño Aofmee Bomba de Baño Set de Regalo Sales de...'
 sku: 'B086PTSL2Y-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGFBW9C-es Cortina de Luces LED USB Zorara 3x3 m 300 LEDs 8 Modos...'
 sku: 'B07XGFBW9C-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

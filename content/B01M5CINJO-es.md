@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5CINJO-es Lámpara de Tira Bola Hada Noche Cadenas de Luz Ligera...'
 sku: 'B01M5CINJO-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

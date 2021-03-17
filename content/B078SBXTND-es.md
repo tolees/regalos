@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SBXTND-es Swarovski Anillo Attract Blanco Baño de Rodio'
 sku: 'B078SBXTND-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 54.12 EUR
 currency: EUR
 price: 54.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P9L2NVO-es Swarovski Pulsera Angelic Blanco Baño de Rodio'
 sku: 'B00P9L2NVO-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

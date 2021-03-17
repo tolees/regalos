@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834XL2ZR-es WEMEK Niñas Disfraz de Princesa Elsa con Capa Anna Vestido...'
 sku: 'B0834XL2ZR-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

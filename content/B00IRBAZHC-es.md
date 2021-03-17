@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IRBAZHC-es Cartier La Panthere Agua de perfume Vaporizador 75 ml'
 sku: 'B00IRBAZHC-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

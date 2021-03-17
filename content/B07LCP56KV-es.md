@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCP56KV-es amzdeal Pintura Facial con 14 Colores Pintura Cara para la...'
 sku: 'B07LCP56KV-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

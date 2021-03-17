@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000S1KS8U-es Tuscany Silver - Pendientes para mujer con plata de ley...'
 sku: 'B000S1KS8U-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZMW9FZ-es Alex Perry Regalo Día de la Madre pendientes mujer...'
 sku: 'B07KZMW9FZ-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

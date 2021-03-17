@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CNKC62-es Cartier Declaration Eau de Toilette Vaporizador 100 ml'
 sku: 'B000CNKC62-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 43.2 EUR
 currency: EUR
 price: 43.2

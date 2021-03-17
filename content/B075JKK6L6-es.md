@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JKK6L6-es Bom Bom Bebe Navidad Pelele para Dormir Monos Bodies Manga...'
 sku: 'B075JKK6L6-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

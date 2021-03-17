@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCNQ2SD-es Square Enix Bring Arts - Kingdom Hearts II Sora Christmas...'
 sku: 'B07HCNQ2SD-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
 actualPrice: 64.87 EUR
 currency: EUR
 price: 64.87

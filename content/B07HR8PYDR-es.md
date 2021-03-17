@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HR8PYDR-es Dolamen Niños Unisexo Onesies Kigurumi Pijamas Niña Traje...'
 sku: 'B07HR8PYDR-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLDT79P-es Felly Juguetes Bebes Puzzles de Madera Educativos para...'
 sku: 'B07VLDT79P-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

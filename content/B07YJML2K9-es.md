@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJML2K9-es Cortina de Baño de Navidad Cortina de Ducha Blanca Tema...'
 sku: 'B07YJML2K9-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

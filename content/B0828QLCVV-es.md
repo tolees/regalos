@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828QLCVV-es SHEGRACE plata de ley'
 sku: 'B0828QLCVV-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D73DH4P-es Pendientes mujer plata de ley 925 pendientes largos con...'
 sku: 'B07D73DH4P-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

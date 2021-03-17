@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2GY63K-es Unigoods 24 Piezas Bolas de Navidad 6 cm Bolas de árbol de...'
 sku: 'B07X2GY63K-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DW2ZR8K-es ThxMadam Scrapbook Cuero Álbum de Fotos Libro de Visitas...'
 sku: 'B07DW2ZR8K-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

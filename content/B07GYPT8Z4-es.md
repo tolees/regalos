@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYPT8Z4-es 60 LED 10M Cadena Solar de Luces IP65 Impermeable 8 Modos...'
 sku: 'B07GYPT8Z4-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

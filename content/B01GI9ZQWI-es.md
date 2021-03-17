@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GI9ZQWI-es Chloe Fleur de Parfum Agua de Perfume - 75 ml'
 sku: 'B01GI9ZQWI-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

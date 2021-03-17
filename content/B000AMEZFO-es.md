@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AMEZFO-es Narciso Rodriguez 140435 - Agua de tocador vaporizador...'
 sku: 'B000AMEZFO-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WTY84R-es OwlFay Disfraz de Princesa Carnaval Vestido Reino de Hielo...'
 sku: 'B082WTY84R-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

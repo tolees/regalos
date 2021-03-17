@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XDZ5FY-es Grès Cabochard Women Eau De Toilette 100 Ml'
 sku: 'B000XDZ5FY-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

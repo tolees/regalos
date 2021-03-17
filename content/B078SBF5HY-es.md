@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SBF5HY-es Swarovski Colgante Anillo Stone Round Ring baño de rodio...'
 sku: 'B078SBF5HY-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

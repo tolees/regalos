@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWCJZWV-es Vicloon 8 Piezas Conjunto con Accesorios de Princesa del...'
 sku: 'B07NWCJZWV-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

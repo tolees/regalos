@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2R8XNH-es URAQT Disfraces de Carnaval Lady Bug Disfraz de Cat Noir...'
 sku: 'B07S2R8XNH-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

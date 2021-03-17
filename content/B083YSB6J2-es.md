@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083YSB6J2-es qingqingR Christmas Deer 5D DIY Full Diamond Painting...'
 sku: 'B083YSB6J2-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

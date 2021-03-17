@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQS1L4N-es LEADSTAR Explosion Box Álbum de Fotos Creative Scrapbook...'
 sku: 'B07RQS1L4N-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

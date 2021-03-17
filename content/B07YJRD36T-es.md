@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJRD36T-es AUOPLUS 30M 300 LED Guirnalda Luz Exterior Solar Cadena de...'
 sku: 'B07YJRD36T-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

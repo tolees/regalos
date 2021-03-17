@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814YP5SX-es Swarovski Pendientes Angelic Square de Mujer con platino...'
 sku: 'B0814YP5SX-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','swarovski', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

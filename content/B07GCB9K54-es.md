@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCB9K54-es AmzBarley Disfraz Princesa Vestido de Traje Niñas de...'
 sku: 'B07GCB9K54-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

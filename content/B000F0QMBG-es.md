@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000F0QMBG-es Cross Classic Century Bolígrafo - plata de ley'
 sku: 'B000F0QMBG-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 111.97 EUR
 currency: EUR
 price: 111.97

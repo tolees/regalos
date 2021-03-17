@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082B57QFR-es OBEEII Blancanieves Disfraz con Capa 9 Piezas Carnaval...'
 sku: 'B082B57QFR-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

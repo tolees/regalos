@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WTQGNTA-es Flongo Brazalete Pulsera Pareja Novios Pulsera Acero...'
 sku: 'B00WTQGNTA-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM5QHM5-es OBEEII Rapunzel Disfraz Niña Carnaval Vestido de Princesa...'
 sku: 'B07VM5QHM5-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

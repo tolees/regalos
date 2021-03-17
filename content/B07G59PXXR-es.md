@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G59PXXR-es SeeKool Consola de Videojuegos 3D Pandora X Multijugador...'
 sku: 'B07G59PXXR-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','pandora', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','pandora', ]
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

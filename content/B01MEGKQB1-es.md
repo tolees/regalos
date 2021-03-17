@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MEGKQB1-es Guerlain Homme Agua de Perfume para Hombres - 100 gr'
 sku: 'B01MEGKQB1-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

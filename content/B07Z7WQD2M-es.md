@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7WQD2M-es Álvarez Gómez - Flores Mediterráneas Verbena y Azahar Agua...'
 sku: 'B07Z7WQD2M-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

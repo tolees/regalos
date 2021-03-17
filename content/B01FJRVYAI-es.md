@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FJRVYAI-es Cadena solar de luces LED Salcar de 5 metros 20 gotas de...'
 sku: 'B01FJRVYAI-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

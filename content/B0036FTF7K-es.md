@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036FTF7K-es Shiseido 19650 - Agua de colonia 100 ml'
 sku: 'B0036FTF7K-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

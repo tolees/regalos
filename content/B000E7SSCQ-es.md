@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E7SSCQ-es Moschino Cheap & Chic Agua de tocador para hombres - 100 ml.'
 sku: 'B000E7SSCQ-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
 actualPrice: 32 EUR
 currency: EUR
 price: 32

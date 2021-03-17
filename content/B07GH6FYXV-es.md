@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GH6FYXV-es The Nightmare Before Christmas - Notebook Premium...'
 sku: 'B07GH6FYXV-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

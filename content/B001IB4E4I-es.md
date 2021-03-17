@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001IB4E4I-es Bvlgari BLV POUR HOMME 47028 - Eau de toilette para hombre...'
 sku: 'B001IB4E4I-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

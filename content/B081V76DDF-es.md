@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081V76DDF-es FKANT Monederos Mujer Billetera Piel Bloqueo RFID Monedero...'
 sku: 'B081V76DDF-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

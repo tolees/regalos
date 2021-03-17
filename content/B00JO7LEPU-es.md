@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JO7LEPU-es Montblanc Emblem Agua de Tocador - 100 ml'
 sku: 'B00JO7LEPU-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

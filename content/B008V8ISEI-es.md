@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008V8ISEI-es Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio...'
 sku: 'B008V8ISEI-es'
-tags: [ '&','Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','boch','villeroy', ]
+tags: [ '&','Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','boch','villeroy', ]
 actualPrice: 52.75 EUR
 currency: EUR
 price: 52.75

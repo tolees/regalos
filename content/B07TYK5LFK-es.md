@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYK5LFK-es Qings Aros Pendientes Plata de Ley 925 Mujer Pendientes...'
 sku: 'B07TYK5LFK-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','navidad','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','navidad','plata', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

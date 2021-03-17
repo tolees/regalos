@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DHV1NT-es Thomas Sabo - Pulsera con colgante de Mujer Plata de Ley...'
 sku: 'B074DHV1NT-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

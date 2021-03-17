@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002VJJYOQ-es Tuscany Silver Pendientes de mujer con plata de ley 925/1000'
 sku: 'B002VJJYOQ-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

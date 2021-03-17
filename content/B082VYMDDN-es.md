@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VYMDDN-es OwlFay Disfraz de Princesa Carnival para Niñas Vestidos de...'
 sku: 'B082VYMDDN-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1C7XHG-es Satkago Set Peluqueria Juguete Niña Belleza con Secador de...'
 sku: 'B08G1C7XHG-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

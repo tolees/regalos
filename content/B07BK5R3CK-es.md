@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BK5R3CK-es Yasolote 7M Cadena de Luz Solar 8 Modos 50 LED Luces de...'
 sku: 'B07BK5R3CK-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

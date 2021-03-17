@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGX8ZDY-es 14 Pack luz de Botella Kolpop luz Corcho 20PCS Baterías...'
 sku: 'B07WGX8ZDY-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NI4ZLE-es Adidas Fruity Rhythm Eau De Toilette Woda toaletowa dla...'
 sku: 'B000NI4ZLE-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

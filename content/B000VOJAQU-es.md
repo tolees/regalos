@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOJAQU-es Guerlain Insolence Eau de Toilette Vaporizador 50 ml'
 sku: 'B000VOJAQU-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
 actualPrice: 40.98 EUR
 currency: EUR
 price: 40.98

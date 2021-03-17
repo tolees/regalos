@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GMTBZP-es Pendientes Mujer J.Rosée Pendientes Mujer Perla de Agua...'
 sku: 'B075GMTBZP-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXFT9X2-es dPois Disfraz Princesa para Niña Bebé Vestido Princesa...'
 sku: 'B07KXFT9X2-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

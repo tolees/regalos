@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZVCN1S-es Pulsera con Collar para Parejas 2 Pcs Acero Inoxidable...'
 sku: 'B077ZVCN1S-es'
-tags: [ 'Belleza','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
