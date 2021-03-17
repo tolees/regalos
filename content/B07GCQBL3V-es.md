@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCQBL3V-es TEDD - Pijama de dinosaurio de algodón para niños ropa de...'
 sku: 'B07GCQBL3V-es'
-tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','navidad', ]
+tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','navidad', ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

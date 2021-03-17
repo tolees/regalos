@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LCYP8V-es Narciso Rodriguez Agua de perfume para hombres - 50 ml.'
 sku: 'B079LCYP8V-es'
-tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','agua','de','perfume', ]
+tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','agua','de','perfume', ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

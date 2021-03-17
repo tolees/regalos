@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Z3ZF1Y-es Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna...'
 sku: 'B082Z3ZF1Y-es'
-tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','navidad', ]
+tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','navidad', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

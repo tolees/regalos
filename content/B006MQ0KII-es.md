@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006MQ0KII-es Roberto Cavalli Agua de Perfume - 30 ml'
 sku: 'B006MQ0KII-es'
-tags: [ 'Agua de perfume para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Videojuegos para niños','agua','de','perfume','roberto cavalli', ]
+tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Videojuegos para niños','agua','de','perfume','roberto cavalli', ]
 actualPrice: 15.61 EUR
 currency: EUR
 price: 15.61
@@ -28,8 +28,8 @@ Tienes [Roberto Cavalli Agua de Perfume - 30 ml](https://www.amazon.es/dp/B006MQ
 
 ℹ️:
 
-- Notas de corazón: flor de azahar del naranjo.
 - Familia olfativa: Floral Oriental.
+- Notas de corazón: flor de azahar del naranjo.
 - Notas de salida: pimienta rosa.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21)

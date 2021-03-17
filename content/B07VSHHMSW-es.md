@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSHHMSW-es Amilril Collar Colgante Luna y Gato Plata de Ley 925 Moda...'
 sku: 'B07VSHHMSW-es'
-tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','de','ley','navidad','plata', ]
+tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','de','ley','navidad','plata', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98
