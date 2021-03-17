@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GMTBZP-es Pendientes Mujer J.Rosée Pendientes Mujer Perla de Agua...'
 sku: 'B075GMTBZP-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

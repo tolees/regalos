@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DAUYQX4-es Paco Rabanne Invictus Eau de Toilette Vaporizador 100 ml'
 sku: 'B00DAUYQX4-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

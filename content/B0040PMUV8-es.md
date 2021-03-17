@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0040PMUV8-es MONT BLANC Presence - Agua de Tocador para Hombre con...'
 sku: 'B0040PMUV8-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LCZEJK-es Jimmy Choo Jimmy Choo Agua de perfume Vaporizador 100 ml'
 sku: 'B004LCZEJK-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
 actualPrice: 40.06 EUR
 currency: EUR
 price: 40.06

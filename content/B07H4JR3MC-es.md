@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4JR3MC-es FTVOGUE Navidad de Madera Merry-Go-Round Caballo...'
 sku: 'B07H4JR3MC-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

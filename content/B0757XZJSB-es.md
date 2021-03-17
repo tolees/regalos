@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757XZJSB-es Swarovski Pendientes Luckily Evil Eye de Mujer multicolor...'
 sku: 'B0757XZJSB-es'
-tags: [ 'swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
 actualPrice: 41.55 EUR
 currency: EUR
 price: 41.55

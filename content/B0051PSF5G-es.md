@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0051PSF5G-es Atkinsons English Lavender Agua de Tocador - 620 ml...'
 sku: 'B0051PSF5G-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BZD73S-es CAROLINA HERRERA 212 eau de toilette 30ML'
 sku: 'B072BZD73S-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

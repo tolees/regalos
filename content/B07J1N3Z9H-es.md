@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J1N3Z9H-es Landove Pijama Unicornio Niña Niño Mono Franela Kigurumi...'
 sku: 'B07J1N3Z9H-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FHBOJHQ-es URAQT Disfraz de Princesa Frozen Elsa Traje de Princesa de...'
 sku: 'B01FHBOJHQ-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007C27HQY-es Bvlgari 36349 - Agua de colonia 25 ml'
 sku: 'B007C27HQY-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

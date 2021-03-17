@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BR3KVNT-es Beforya Paris** – Pendientes largos de plata de ley 925 –...'
 sku: 'B08BR3KVNT-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

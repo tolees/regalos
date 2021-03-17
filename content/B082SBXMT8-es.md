@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SBXMT8-es OBEEII Disfraz Elsa Anna Traje Frozen Niñas Princesa Ana...'
 sku: 'B082SBXMT8-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

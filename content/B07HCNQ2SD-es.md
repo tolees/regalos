@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCNQ2SD-es Square Enix Bring Arts - Kingdom Hearts II Sora Christmas...'
 sku: 'B07HCNQ2SD-es'
-tags: [ 'christmas', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','christmas', ]
 actualPrice: 64.87 EUR
 currency: EUR
 price: 64.87

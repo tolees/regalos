@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RL36WRQ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 Circonita...'
 sku: 'B07RL36WRQ-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

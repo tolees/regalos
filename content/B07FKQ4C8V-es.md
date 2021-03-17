@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKQ4C8V-es Hermès Agua de perfume para hombres - 50 ml.'
 sku: 'B07FKQ4C8V-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

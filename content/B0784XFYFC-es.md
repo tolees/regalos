@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0784XFYFC-es Regalo de navidad para hombre amigo cervezas del mundo...'
 sku: 'B0784XFYFC-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

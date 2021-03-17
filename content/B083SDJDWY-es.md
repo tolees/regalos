@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SDJDWY-es ETEREAUTY Rosa de Oro 24K Artificial Gold Rose con...'
 sku: 'B083SDJDWY-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

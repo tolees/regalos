@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F13D9WG-es ThxMadam Scrapbook Álbum de Fotos Libro de Visitas de Boda...'
 sku: 'B07F13D9WG-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

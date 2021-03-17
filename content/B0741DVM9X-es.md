@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0741DVM9X-es Swarovski Timeless Remix Collection Azul baño de rodio'
 sku: 'B0741DVM9X-es'
-tags: [ 'swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

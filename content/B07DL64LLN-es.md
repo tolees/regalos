@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DL64LLN-es J.Rosée Pendientes Mujer aro de Plata de Ley 925...'
 sku: 'B07DL64LLN-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

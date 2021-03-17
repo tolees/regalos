@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR7CZ8Y-es Cable electroluminiscente El Wire Podazz de 10 pies de...'
 sku: 'B07WR7CZ8Y-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

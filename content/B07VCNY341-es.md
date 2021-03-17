@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCNY341-es Guirnalda de luces solares OxyLED 2 x 30 luces LED para...'
 sku: 'B07VCNY341-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

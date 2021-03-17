@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P9L2NVO-es Swarovski Pulsera Angelic Blanco Baño de Rodio'
 sku: 'B00P9L2NVO-es'
-tags: [ 'swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

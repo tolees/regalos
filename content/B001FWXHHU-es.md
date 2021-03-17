@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FWXHHU-es Issey Miyake L Eau D Issey pour Homme Intense - Agua De...'
 sku: 'B001FWXHHU-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

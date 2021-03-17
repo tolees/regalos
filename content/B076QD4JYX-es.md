@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QD4JYX-es Pendientes de Bisutería color Oro Brillante de Regalo...'
 sku: 'B076QD4JYX-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

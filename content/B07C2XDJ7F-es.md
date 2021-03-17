@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2XDJ7F-es SGILE 1:14 Coche Teledirigido 2.4 GHz 4WD RC Camión...'
 sku: 'B07C2XDJ7F-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 28.43 EUR
 currency: EUR
 price: 28.43

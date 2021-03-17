@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2QHXH2-es Jesús Del Pozo Halloween Shot Man Agua de Tocador - 125 ml'
 sku: 'B01N2QHXH2-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
 actualPrice: 22.27 EUR
 currency: EUR
 price: 22.27

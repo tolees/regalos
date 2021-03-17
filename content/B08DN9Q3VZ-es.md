@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DN9Q3VZ-es 3mm x 100m Cuerda Algodó Cordel Natural para Macramé...'
 sku: 'B08DN9Q3VZ-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

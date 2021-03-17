@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNHVRDM-es Villeroy & Boch Cuencos de cereales 0.6 litros Porcelana...'
 sku: 'B07PNHVRDM-es'
-tags: [ '&','boch','villeroy', ]
+tags: [ '&','Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','boch','villeroy', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

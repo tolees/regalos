@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WTY84R-es OwlFay Disfraz de Princesa Carnaval Vestido Reino de Hielo...'
 sku: 'B082WTY84R-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

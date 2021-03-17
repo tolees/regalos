@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IMU0RDA-es Elizabeth Arden Agua de colonia para mujeres - 100 ml.'
 sku: 'B00IMU0RDA-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

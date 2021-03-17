@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018XDB8II-es Victorio & Lucchino Nº2 Agua de Colonia - 150 ml'
 sku: 'B018XDB8II-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

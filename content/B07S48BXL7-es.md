@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S48BXL7-es BelleStyle Caja de Regalo Creativo de Bricolaje Libro de...'
 sku: 'B07S48BXL7-es'
-tags: [ 'navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
