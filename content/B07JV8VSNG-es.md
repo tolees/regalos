@@ -28,10 +28,10 @@ En este momento está [TOPLIFE - Cadena de Luces 10M 100 LED Guirnalda de Luces 
 
 🔎:
 
-- ✅ Certificación y garantía: tienen certificados FCC y CE y cumplen con la garantía de seguridad RoHS respetuosa con el medio ambiente. Y tiene una garantía de 12 meses. Si no está satisfecho con el producto, no dude en contactarnos en cualquier momento, intentaremos resolver su problema.
 - ✅ Ahorro de energía, sin problemas de calor: larga vida útil de las bombillas LED y bajos costos de energía. El cable de cobre aislado mantiene las luces a baja temperatura para que sean seguros al tocarlas después de muchas horas de uso.
-- ✅ Larga vida útil de la cadena de luces: la vida útil de la linterna es de 50,000 horas. La energía de las luces de cadena proviene de baterías AA (no incluidas), si la iluminación es deficiente, cambie la batería.
-- ✅ Light Luz estrellada para interiores y exteriores: el cable de cobre flexible también puede plegarse y adaptarse fácilmente a la forma que necesita. Las cadenas de mini LEDs de color amarillo cálido crean un ambiente cálido, alegre y festivo para deleitar la fiesta, las vacaciones o la boda.
 - ✅ Cadena de luces LED de 33 pies con control remoto: 100 LED impermeables súper brillantes en 10 metros de cable de cobre, con el control remoto de 13 teclas, puede ajustar el brillo y cambiar de 8 modos (la combinación, onda, agitar, perseguir / parpadear, desvanecerse lentamente, parpadear y una luz constante).
+- ✅ Certificación y garantía: tienen certificados FCC y CE y cumplen con la garantía de seguridad RoHS respetuosa con el medio ambiente. Y tiene una garantía de 12 meses. Si no está satisfecho con el producto, no dude en contactarnos en cualquier momento, intentaremos resolver su problema.
+- ✅ Light Luz estrellada para interiores y exteriores: el cable de cobre flexible también puede plegarse y adaptarse fácilmente a la forma que necesita. Las cadenas de mini LEDs de color amarillo cálido crean un ambiente cálido, alegre y festivo para deleitar la fiesta, las vacaciones o la boda.
+- ✅ Larga vida útil de la cadena de luces: la vida útil de la linterna es de 50,000 horas. La energía de las luces de cadena proviene de baterías AA (no incluidas), si la iluminación es deficiente, cambie la batería.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JV8VSNG/?tag=tolees-21)
