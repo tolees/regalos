@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B48BSBH-es Juego de herramientas para parrillas para barbacoa kit de...'
 sku: 'B07B48BSBH-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

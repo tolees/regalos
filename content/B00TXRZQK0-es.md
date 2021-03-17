@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TXRZQK0-es Boucheron Agua de colonia para hombres - 100 gr.'
 sku: 'B00TXRZQK0-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
 actualPrice: 27.1 EUR
 currency: EUR
 price: 27.1

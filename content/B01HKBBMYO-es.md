@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HKBBMYO-es Versace Eros Femme Agua de Colonia - 30 ml'
 sku: 'B01HKBBMYO-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

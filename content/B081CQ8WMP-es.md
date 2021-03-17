@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CQ8WMP-es dressfan Animal Negro Dragón Siamese Pijamas Dragón...'
 sku: 'B081CQ8WMP-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

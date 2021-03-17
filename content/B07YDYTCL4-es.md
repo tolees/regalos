@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'PANDORA Kit de Cuidado y Limpieza al 17.39 % de rebaja'
-date: 2021-03-16 05:31:51
+date: 2021-03-17 16:32:23
 image: 'https://m.media-amazon.com/images/I/41lR2kInQ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDYTCL4-es PANDORA Kit de Cuidado y Limpieza'
 sku: 'B07YDYTCL4-es'
-tags: [ 'pandora', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','pandora', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B07YDYTCL4/?tag=tolees-21'
 descuento: '17.39'
-average: '20.5454545454547'
+average: '20.5223880597016'
 ---
 
 Tienes [PANDORA Kit de Cuidado y Limpieza](https://www.amazon.es/dp/B07YDYTCL4/?tag=tolees-21) con precio final de  19.0 EUR (original: 23.0 EUR) (17.39 %  de rebaja) aqui!

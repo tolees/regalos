@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CT09TU-es Bvlgari Petits et Mamans Eau de Toilette - 100 ml'
 sku: 'B001CT09TU-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
 actualPrice: 28.6 EUR
 currency: EUR
 price: 28.6

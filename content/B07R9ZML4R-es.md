@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R9ZML4R-es Guirnalda Luces LED Tomshine 6.5m/21.33ft Cadena de Luz...'
 sku: 'B07R9ZML4R-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

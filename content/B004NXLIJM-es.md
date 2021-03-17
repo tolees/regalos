@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004NXLIJM-es Donna Karan DKNY Agua de tocador para mujeres - 100 ml.'
 sku: 'B004NXLIJM-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
 actualPrice: 43.72 EUR
 currency: EUR
 price: 43.72

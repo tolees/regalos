@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E2R5P1Q-es Hugo Boss 53968 - Agua de perfume'
 sku: 'B00E2R5P1Q-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

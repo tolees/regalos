@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M74YDVP-es Eye Candy Collar de doble collar de mujer 925 plata de ley...'
 sku: 'B01M74YDVP-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','ley','plata', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','ley','plata', ]
 actualPrice: 71.85 EUR
 currency: EUR
 price: 71.85

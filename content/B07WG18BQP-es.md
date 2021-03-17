@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WG18BQP-es 5pcs 5D DIY Diamond Painting Christmas Keychain/Collar...'
 sku: 'B07WG18BQP-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','christmas', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','christmas', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

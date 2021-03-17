@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005GKVQ70-es PLAYBOY LONDON agua de tocador vaporizador 100 ml'
 sku: 'B005GKVQ70-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

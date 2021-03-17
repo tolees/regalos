@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756CHVQ2-es Buluri 12 colores Set de tiza para el cabello Tinte para...'
 sku: 'B0756CHVQ2-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

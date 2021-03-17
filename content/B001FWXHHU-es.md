@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FWXHHU-es Issey Miyake L Eau D Issey pour Homme Intense - Agua De...'
 sku: 'B001FWXHHU-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

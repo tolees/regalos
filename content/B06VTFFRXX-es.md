@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VTFFRXX-es Salvatore Ferragamo Signorina In Fiore Agua de Tocador...'
 sku: 'B06VTFFRXX-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
 actualPrice: 32.55 EUR
 currency: EUR
 price: 32.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JA990NY-es Prada La Femme Prada Agua de Perfume Vaporizador - 50 ml'
 sku: 'B01JA990NY-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','perfume', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','perfume', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

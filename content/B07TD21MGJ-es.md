@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TD21MGJ-es AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas...'
 sku: 'B07TD21MGJ-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','navidad', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

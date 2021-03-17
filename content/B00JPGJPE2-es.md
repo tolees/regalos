@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JPGJPE2-es Villeroy & Boch Artesano Original Estantería 4 piezas...'
 sku: 'B00JPGJPE2-es'
-tags: [ '&','Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','boch','villeroy', ]
+tags: [ '&','Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','boch','villeroy', ]
 actualPrice: 137.55 EUR
 currency: EUR
 price: 137.55

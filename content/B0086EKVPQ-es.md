@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0086EKVPQ-es Alyssa Ashley green Tea Essence Eau de Toilette...'
 sku: 'B0086EKVPQ-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

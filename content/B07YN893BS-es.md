@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YN893BS-es Dekora Calendario de Adviento para Niños de Chocolate de...'
 sku: 'B07YN893BS-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','adviento', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','adviento', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

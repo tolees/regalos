@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I8LCM90-es Adidas Get Ready Eau de Toilette para Mujer - 50 ml'
 sku: 'B00I8LCM90-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','de','eau','toilette', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

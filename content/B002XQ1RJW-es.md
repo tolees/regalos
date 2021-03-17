@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002XQ1RJW-es Diesel Only The Brave - Agua de tocador vaporizador 125 ml'
 sku: 'B002XQ1RJW-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','de','tocador', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','de','tocador', ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

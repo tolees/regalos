@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0187YRQSO-es Pandora Abalorios Mujer plata - 791443ENMX'
 sku: 'B0187YRQSO-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','pandora', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','pandora', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

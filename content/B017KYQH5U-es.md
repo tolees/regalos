@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017KYQH5U-es Heno De Pravia Original Agua de Colonia - 650 ml'
 sku: 'B017KYQH5U-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','agua','colonia','de', ]
+tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','agua','colonia','de', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25
