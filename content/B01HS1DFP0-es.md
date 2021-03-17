@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HS1DFP0-es Instituto Español Poseidon Hombre Edición Indómito - Eau...'
 sku: 'B01HS1DFP0-es'
-tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','de','eau','toilette', ]
+tags: [ 'Agua de perfume para mujeres','Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','de','eau','toilette', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95
