@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Pandora Abalorios Mujer plata - 791966 al 17.14 % de descuento'
-date: 2021-03-15 17:02:16
+date: 2021-03-16 23:09:04
 image: 'https://m.media-amazon.com/images/I/4155W98ZCXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KMQMAAO-es Pandora Abalorios Mujer plata - 791966'
 sku: 'B01KMQMAAO-es'
 tags: [ 'pandora', ]
