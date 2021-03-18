@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAITIFW-es Poseidon Sport Eau de Toilette para Hombre - 150 ML'
 sku: 'B00XAITIFW-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

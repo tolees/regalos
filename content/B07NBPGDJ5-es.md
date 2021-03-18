@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBPGDJ5-es Anillo de plata labradorita anillo de plata labradorita...'
 sku: 'B07NBPGDJ5-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

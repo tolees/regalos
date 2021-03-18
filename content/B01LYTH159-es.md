@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYTH159-es Adolfo Dominguez Agua Fresca Azahar Agua de Tocador...'
 sku: 'B01LYTH159-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','tocador', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

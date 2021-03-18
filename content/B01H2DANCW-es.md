@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H2DANCW-es Yves Saint Laurent Mon Paris Agua de Perfume - 50 ml'
 sku: 'B01H2DANCW-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 52.95 EUR
 currency: EUR
 price: 52.95

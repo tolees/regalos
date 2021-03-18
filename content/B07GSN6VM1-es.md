@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSN6VM1-es LOFTer Guirnalda Luces Cadena de Luces 120 LED 15M Tira...'
 sku: 'B07GSN6VM1-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

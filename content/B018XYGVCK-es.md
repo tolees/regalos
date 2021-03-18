@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018XYGVCK-es Eye Candy ECJ-ER0016 - Pendientes de mujer plata de ley...'
 sku: 'B018XYGVCK-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 31.18 EUR
 currency: EUR
 price: 31.18

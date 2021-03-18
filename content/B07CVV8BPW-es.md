@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVV8BPW-es 48 PCS 3D Nail Art Decoration Glitter Powder Sequins Set...'
 sku: 'B07CVV8BPW-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

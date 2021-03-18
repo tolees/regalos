@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJZFCBH-es Yasolote 7M Cadena de Luz Solar 8 Modos 50 LED Luces de...'
 sku: 'B07BJZFCBH-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

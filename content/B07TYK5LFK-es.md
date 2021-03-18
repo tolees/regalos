@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYK5LFK-es Qings Aros Pendientes Plata de Ley 925 Mujer Pendientes...'
 sku: 'B07TYK5LFK-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','navidad','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','navidad','plata', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

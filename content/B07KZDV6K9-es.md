@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZDV6K9-es Alex Perry Regalo Día de la Madre pendientes mujer...'
 sku: 'B07KZDV6K9-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

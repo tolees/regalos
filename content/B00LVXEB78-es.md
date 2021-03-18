@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LVXEB78-es Creed Iris Tubereuse Agua de Perfume - 100 ml'
 sku: 'B00LVXEB78-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 57.88 EUR
 currency: EUR
 price: 57.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYG77CF-es Elizabeth Arden Agua de perfume para mujeres - 30 ml.'
 sku: 'B07CYG77CF-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

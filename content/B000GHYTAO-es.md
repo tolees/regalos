@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GHYTAO-es Lancome Hypnôse Agua de perfume Vaporizador 30 ml'
 sku: 'B000GHYTAO-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 29.55 EUR
 currency: EUR
 price: 29.55

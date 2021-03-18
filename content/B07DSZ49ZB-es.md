@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DSZ49ZB-es Swarovski Pendientes Symbolic Evil Eye de Mujer chapados...'
 sku: 'B07DSZ49ZB-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

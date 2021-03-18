@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HUJNN0-es Carolina Herrera 212 Vip Men Agua de Tocador Vaporizador -...'
 sku: 'B003HUJNN0-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','tocador', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

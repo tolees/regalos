@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004UO1EW0-es Tous Touch Eau de Toilette Vaporizador 30 ml'
 sku: 'B004UO1EW0-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

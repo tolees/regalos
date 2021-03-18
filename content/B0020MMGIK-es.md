@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0020MMGIK-es Tous Agua de Colonia - 30 ml'
 sku: 'B0020MMGIK-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

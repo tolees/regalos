@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFDXST1-es AvoSeedo Kit Jardineria para Aguacate - Gadget Decoracion...'
 sku: 'B07XFDXST1-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

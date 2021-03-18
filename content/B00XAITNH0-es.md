@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAITNH0-es Poseidon The Black Eau de Toilette para Hombre - 150 ML'
 sku: 'B00XAITNH0-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

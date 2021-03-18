@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004HIHMTS-es Boucheron Agua de colonia para mujeres - 30 gr.'
 sku: 'B004HIHMTS-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
 actualPrice: 10.33 EUR
 currency: EUR
 price: 10.33

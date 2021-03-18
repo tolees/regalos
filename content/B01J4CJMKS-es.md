@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J4CJMKS-es Pherofly Roll on Atrayente de las mujeres - Feromona extra...'
 sku: 'B01J4CJMKS-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

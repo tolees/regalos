@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G59PXXR-es SeeKool Consola de Videojuegos 3D Pandora X Multijugador...'
 sku: 'B07G59PXXR-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','pandora', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','pandora', ]
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

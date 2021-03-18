@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4Q4DXV-es J.Endéar Pulsera Forma de Inicial R Plata de Ley 925...'
 sku: 'B07V4Q4DXV-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

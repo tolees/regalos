@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DYW5DTI-es Vera Wang Embrace Rosebuds & Vanilla Eau de Toilette para...'
 sku: 'B01DYW5DTI-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

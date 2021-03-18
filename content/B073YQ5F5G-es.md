@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073YQ5F5G-es Regalo De Navidad Abalorio Pulsera Mujer Plateado De Plata...'
 sku: 'B073YQ5F5G-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

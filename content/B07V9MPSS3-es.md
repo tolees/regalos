@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9MPSS3-es AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas...'
 sku: 'B07V9MPSS3-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

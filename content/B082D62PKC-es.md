@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082D62PKC-es Original Perfume Para Mujer 10ml Lady Natural Light...'
 sku: 'B082D62PKC-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

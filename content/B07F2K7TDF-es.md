@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2K7TDF-es Adolfo Dominguez Agua de colonia para hombres - 60 ml.'
 sku: 'B07F2K7TDF-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
 actualPrice: 15.05 EUR
 currency: EUR
 price: 15.05

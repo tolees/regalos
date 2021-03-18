@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AV68JXC-es Montblanc Agua de perfume para mujeres - 50 gr.'
 sku: 'B01AV68JXC-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

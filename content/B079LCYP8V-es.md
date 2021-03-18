@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LCYP8V-es Narciso Rodriguez Agua de perfume para hombres - 50 ml.'
 sku: 'B079LCYP8V-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

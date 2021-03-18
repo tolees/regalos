@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZZXYMY-es Hi Young - Colgante de plata de ley 925 bañado en oro...'
 sku: 'B07CZZXYMY-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

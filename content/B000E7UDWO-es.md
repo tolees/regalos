@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E7UDWO-es Dior - Hypnotic Poison - Eau de toilette para mujer - 100 ml'
 sku: 'B000E7UDWO-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 85.95 EUR
 currency: EUR
 price: 85.95

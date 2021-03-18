@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B48BSBH-es Juego de herramientas para parrillas para barbacoa kit de...'
 sku: 'B07B48BSBH-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

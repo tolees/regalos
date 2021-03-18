@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AZJ30G6-es Swarovski Colgante Creativity Circle de Mujer Chapado en...'
 sku: 'B01AZJ30G6-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

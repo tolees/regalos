@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792QCT3J-es LEGO Friends - Calendario De Adviento para Amigos 41353'
 sku: 'B0792QCT3J-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','adviento', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','adviento', ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

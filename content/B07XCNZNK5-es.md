@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCNZNK5-es Pintura Corporal y Facial Kit de Pintura Facial Face Body...'
 sku: 'B07XCNZNK5-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QAIYM6O-es Roberto Cavalli Paradiso Agua de Perfume - 75 ml'
 sku: 'B00QAIYM6O-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 34.89 EUR
 currency: EUR
 price: 34.89

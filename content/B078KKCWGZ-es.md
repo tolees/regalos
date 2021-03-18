@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078KKCWGZ-es Dinosaurio Luz de la noche 3D LED lámpara Ilusión óptica...'
 sku: 'B078KKCWGZ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

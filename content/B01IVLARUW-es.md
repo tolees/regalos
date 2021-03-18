@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVLARUW-es Paco Rabanne 1 Million Privé Agua de Perfume Spray - 50 ml'
 sku: 'B01IVLARUW-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

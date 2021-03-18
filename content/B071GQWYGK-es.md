@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GQWYGK-es Collar Mujer J.Rosée Plata de Ley 925 Brillante...'
 sku: 'B071GQWYGK-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

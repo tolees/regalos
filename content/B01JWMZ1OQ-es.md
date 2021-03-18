@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JWMZ1OQ-es Prada L Homme Agua de Tocador - 50 ml'
 sku: 'B01JWMZ1OQ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','tocador', ]
 actualPrice: 51.19 EUR
 currency: EUR
 price: 51.19

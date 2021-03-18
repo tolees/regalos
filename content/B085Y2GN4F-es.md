@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Y2GN4F-es Milacolato 8 Pares de Aretes de Plata de ley 925 Circle...'
 sku: 'B085Y2GN4F-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

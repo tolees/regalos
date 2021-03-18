@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1ZA0C-es Oscar by Oscar De La Renta Eau de Toilette para Mujer -...'
 sku: 'B000C1ZA0C-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

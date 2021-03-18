@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q8GWAOY-es Lacoste 65873 - Agua de colonia 100 ml'
 sku: 'B00Q8GWAOY-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

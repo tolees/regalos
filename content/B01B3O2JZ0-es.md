@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B3O2JZ0-es Victoria Secret Temptation Agua de perfume para mujeres...'
 sku: 'B01B3O2JZ0-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

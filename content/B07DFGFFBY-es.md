@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFGFFBY-es Funko- Mystery Mini Blind Box: Disney: NBX: PDQ CDU 12 The...'
 sku: 'B07DFGFFBY-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','christmas', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','christmas', ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KV22ZVH-es Neon Moon-Nursery Night Lamp Gift-Wall Decor Lights para...'
 sku: 'B07KV22ZVH-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

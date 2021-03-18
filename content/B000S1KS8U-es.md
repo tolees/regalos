@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000S1KS8U-es Tuscany Silver - Pendientes para mujer con plata de ley...'
 sku: 'B000S1KS8U-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

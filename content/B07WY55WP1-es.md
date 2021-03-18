@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WY55WP1-es Lydreewam Pendientes aro Colgantes De Luna Plata de Ley...'
 sku: 'B07WY55WP1-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

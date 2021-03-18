@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IU33VY0-es Swarovski Pulsera Angelic de Mujer verde Baño de Rodio'
 sku: 'B01IU33VY0-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

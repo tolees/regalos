@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814YP5SX-es Swarovski Pendientes Angelic Square de Mujer con platino...'
 sku: 'B0814YP5SX-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

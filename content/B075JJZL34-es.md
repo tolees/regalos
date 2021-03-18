@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JJZL34-es Shiseido Ever Bloom Agua de Perfume - 50 ml'
 sku: 'B075JJZL34-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 30.14 EUR
 currency: EUR
 price: 30.14

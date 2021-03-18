@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5X3M9T-es The Nightmare Before Christmas Nightmare Before Christmas:...'
 sku: 'B07M5X3M9T-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','christmas', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','christmas', ]
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

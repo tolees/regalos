@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAGTM-es Calvin Klein Escape Agua de perfume para mujeres - 100 ml.'
 sku: 'B0009OAGTM-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

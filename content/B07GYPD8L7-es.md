@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYPD8L7-es LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante...'
 sku: 'B07GYPD8L7-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FGQYQ2-es IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa Reina de...'
 sku: 'B082FGQYQ2-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

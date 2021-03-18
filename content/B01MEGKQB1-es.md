@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MEGKQB1-es Guerlain Homme Agua de Perfume para Hombres - 100 gr'
 sku: 'B01MEGKQB1-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

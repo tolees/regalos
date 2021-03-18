@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834XL2ZR-es WEMEK Niñas Disfraz de Princesa Elsa con Capa Anna Vestido...'
 sku: 'B0834XL2ZR-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

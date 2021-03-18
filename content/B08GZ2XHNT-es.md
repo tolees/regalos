@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GZ2XHNT-es YUCCH 24pcs Bolsas de regalo de Navidad de Papel Incluye...'
 sku: 'B08GZ2XHNT-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

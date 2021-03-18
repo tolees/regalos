@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPDP15H-es OBEEII Disfraz Sofia Princesa Vestido de Fiesta Disfraz...'
 sku: 'B07VPDP15H-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPV1PRT-es Yvsoo Calendario Adviento Juguetes Set 3Pcs Rompecabezas...'
 sku: 'B07KPV1PRT-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','adviento', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','adviento', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

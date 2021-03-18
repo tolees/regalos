@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XEATY0-es Dolce & Gabbana Light Blue Agua de tocador para mujeres -...'
 sku: 'B000XEATY0-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','tocador', ]
 actualPrice: 39.93 EUR
 currency: EUR
 price: 39.93

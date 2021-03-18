@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCQBL3V-es TEDD - Pijama de dinosaurio de algodón para niños ropa de...'
 sku: 'B07GCQBL3V-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

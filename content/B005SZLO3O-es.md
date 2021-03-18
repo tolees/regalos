@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005SZLO3O-es Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador...'
 sku: 'B005SZLO3O-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 22.28 EUR
 currency: EUR
 price: 22.28

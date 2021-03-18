@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814YM7JD-es Swarovski Collar Swan de Mujer con Rodio Plateado Cristal...'
 sku: 'B0814YM7JD-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 89.1 EUR
 currency: EUR
 price: 89.1

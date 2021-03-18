@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOHBNO-es Lancome - Hypnose Homme - Eau de Toilette - 50 ml'
 sku: 'B000VOHBNO-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

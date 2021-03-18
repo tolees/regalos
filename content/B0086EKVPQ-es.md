@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0086EKVPQ-es Alyssa Ashley green Tea Essence Eau de Toilette...'
 sku: 'B0086EKVPQ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

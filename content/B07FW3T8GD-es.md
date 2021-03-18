@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FW3T8GD-es Swarovski Conjunto Vintage Rosa Baño en Tono Oro Rosa'
 sku: 'B07FW3T8GD-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

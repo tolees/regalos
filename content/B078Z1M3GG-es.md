@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078Z1M3GG-es Swarovski Ear jackets Latisha acabado con combinación de...'
 sku: 'B078Z1M3GG-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

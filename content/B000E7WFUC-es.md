@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E7WFUC-es ESTÉE LAUDER WHITE LINEN agua de perfume vaporizador 60 ml'
 sku: 'B000E7WFUC-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 33 EUR
 currency: EUR
 price: 33

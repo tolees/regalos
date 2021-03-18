@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8Q5GTJ-es Guirnalda navidad de luz 300 LED Blanco 30M cálido 8 Modo...'
 sku: 'B07S8Q5GTJ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZRPN1EA-es Bvlgari Au The Blanc - Agua de colonia 75 ml'
 sku: 'B00ZRPN1EA-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

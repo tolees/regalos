@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HMKVXGA-es Calvin Klein Deep Euphoria Agua de Perfume - 50 ml'
 sku: 'B01HMKVXGA-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','perfume', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NUZVEG6-es Tous Love Moments Agua de Colonia - 30 ml'
 sku: 'B00NUZVEG6-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

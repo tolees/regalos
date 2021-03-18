@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XH1CCX2-es FCB Eau de Toilette para Hombre 100 ml'
 sku: 'B06XH1CCX2-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSOKXEY-es Swarovski Reloj Crystalline Oval 5181008'
 sku: 'B01BSOKXEY-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

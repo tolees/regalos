@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PTSL2Y-es Bombas de Baño Aofmee Bomba de Baño Set de Regalo Sales de...'
 sku: 'B086PTSL2Y-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXPWT41-es Luces de cadena LED copo de nieve Iluminación LED...'
 sku: 'B07KXPWT41-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

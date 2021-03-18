@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0731Q7VDQ-es Adidas Uefa Champions Edition Eau de Toilette para Hombre...'
 sku: 'B0731Q7VDQ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

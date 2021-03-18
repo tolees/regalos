@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLDT79P-es Felly Juguetes Bebes Puzzles de Madera Educativos para...'
 sku: 'B07VLDT79P-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

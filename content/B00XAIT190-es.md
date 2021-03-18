@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIT190-es Instituto Español Gotas Frescas agua de colonia...'
 sku: 'B00XAIT190-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','colonia','de', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

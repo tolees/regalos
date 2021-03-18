@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F77FM6K-es 10M Luces de Tiras LED WiFi，Amouhom Tira de Luz se Puede...'
 sku: 'B08F77FM6K-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

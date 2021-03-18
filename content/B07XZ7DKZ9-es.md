@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZ7DKZ9-es Navidad Moños y Cintas 12 PCS Christmas Gift Pull Bows...'
 sku: 'B07XZ7DKZ9-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','christmas','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','christmas','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

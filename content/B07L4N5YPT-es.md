@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4N5YPT-es NINAQUEEN Charm Encaja con Pandora Regalo del día de la...'
 sku: 'B07L4N5YPT-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','ley','pandora','plata', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','pandora','plata', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

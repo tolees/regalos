@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQS1L4N-es LEADSTAR Explosion Box Álbum de Fotos Creative Scrapbook...'
 sku: 'B07RQS1L4N-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

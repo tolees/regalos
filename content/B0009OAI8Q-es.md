@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAI8Q-es Elizabeth Taylor White Diamond Eau De Toilette 100 ml'
 sku: 'B0009OAI8Q-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

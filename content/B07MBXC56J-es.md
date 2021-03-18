@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBXC56J-es OxyLED Guirnaldas luminosas de exterior [LED Versión]G40 7...'
 sku: 'B07MBXC56J-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

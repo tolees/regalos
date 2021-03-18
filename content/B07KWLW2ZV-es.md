@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWLW2ZV-es Swarovski Anillo One Heart para Mujer Rojo Baño de Rodio'
 sku: 'B07KWLW2ZV-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 34.4 EUR
 currency: EUR
 price: 34.4

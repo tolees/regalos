@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PY1RDA-es First American Brands Love Is just The Two Of Us Eau De...'
 sku: 'B000PY1RDA-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

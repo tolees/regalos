@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5WTN1J-es Adolfo Dominguez Agua Fresca Vetiver Eau de Toilette - 230 ml'
 sku: 'B01N5WTN1J-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','de','eau','toilette', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

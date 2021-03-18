@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPD1ZXJ-es Westend - Zapatillas de Navidad para Hombre patrón nórdico'
 sku: 'B07ZPD1ZXJ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

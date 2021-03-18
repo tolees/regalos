@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000YRLU76-es Adolfo Dominguez - Agua Fresca Agua De Tocador Vaporizador...'
 sku: 'B000YRLU76-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','agua','de','tocador', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','tocador', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

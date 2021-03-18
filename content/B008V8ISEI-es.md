@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008V8ISEI-es Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio...'
 sku: 'B008V8ISEI-es'
-tags: [ '&','Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','boch','villeroy', ]
+tags: [ '&','Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','boch','villeroy', ]
 actualPrice: 52.75 EUR
 currency: EUR
 price: 52.75

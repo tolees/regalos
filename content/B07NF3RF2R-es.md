@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF3RF2R-es Pandora Abalorios Mujer plata - 798049ENMX'
 sku: 'B07NF3RF2R-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','pandora', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','pandora', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

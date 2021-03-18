@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQ9NBQ9-es Gifts Treat Navidad Botella de Vino Tinto Bolsas de...'
 sku: 'B07KQ9NBQ9-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

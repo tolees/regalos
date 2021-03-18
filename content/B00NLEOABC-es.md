@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NLEOABC-es NYK1 Designer Swarovski Crystal & Glass Nail File Handmade...'
 sku: 'B00NLEOABC-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','swarovski', ]
+tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79
