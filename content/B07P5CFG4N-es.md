@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5CFG4N-es ALLOMN Rosa Flores Artificiales 24K Chapado en Oro Rosa...'
 sku: 'B07P5CFG4N-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

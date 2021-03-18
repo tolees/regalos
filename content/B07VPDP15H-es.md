@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPDP15H-es OBEEII Disfraz Sofia Princesa Vestido de Fiesta Disfraz...'
 sku: 'B07VPDP15H-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7ZY3ZS-es Amilril Collar Plata de Ley 925 Moda Joyería Navidad Joyas...'
 sku: 'B07Q7ZY3ZS-es'
-tags: [ 'de','ley','navidad','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','navidad','plata', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

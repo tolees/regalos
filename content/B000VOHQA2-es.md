@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOHQA2-es Vanderbilt Eau De Toilette Con Vaporizador 100 ml'
 sku: 'B000VOHQA2-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

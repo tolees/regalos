@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I8LCCNG-es Adidas Get Ready Eau De Toilette para Hombre - 50 ml'
 sku: 'B00I8LCCNG-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

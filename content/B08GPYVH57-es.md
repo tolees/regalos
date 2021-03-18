@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPYVH57-es Bolsas Regalo CumpleañOs Bolsa Merienda Infantil Bolsas...'
 sku: 'B08GPYVH57-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

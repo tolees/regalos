@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6TK9F5-es Álvarez Gómez Flores Mediterráneas Jazmín de Noche Agua de...'
 sku: 'B07Z6TK9F5-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

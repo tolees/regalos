@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJML2K9-es Cortina de Baño de Navidad Cortina de Ducha Blanca Tema...'
 sku: 'B07YJML2K9-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVDS1XB-es 7 Bolsas de Regalo Marrón y Papel de Seda de Purple...'
 sku: 'B07PVDS1XB-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

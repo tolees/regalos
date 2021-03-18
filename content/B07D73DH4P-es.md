@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D73DH4P-es Pendientes mujer plata de ley 925 pendientes largos con...'
 sku: 'B07D73DH4P-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

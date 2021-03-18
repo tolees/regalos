@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2THWJB-es Calvin Klein Agua de perfume para mujeres - 30 ml.'
 sku: 'B07G2THWJB-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
 actualPrice: 32.42 EUR
 currency: EUR
 price: 32.42

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9R6JDH-es Angelady Collar de Pendientes Juego de Joyas de para Mujer...'
 sku: 'B07M9R6JDH-es'
-tags: [ 'de','ley','plata','swarovski', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata','swarovski', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

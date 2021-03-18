@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WG18BQP-es 5pcs 5D DIY Diamond Painting Christmas Keychain/Collar...'
 sku: 'B07WG18BQP-es'
-tags: [ 'christmas', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','christmas', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

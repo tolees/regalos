@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOHCPQ-es Hermes Un Jardin Sur Le Nil Eau de Toilette Vaporizador...'
 sku: 'B000VOHCPQ-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
 actualPrice: 77.35 EUR
 currency: EUR
 price: 77.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F6YF60I-es Old Spice Whitewater Vaporizador Agua de Colonia - 100 ml'
 sku: 'B01F6YF60I-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

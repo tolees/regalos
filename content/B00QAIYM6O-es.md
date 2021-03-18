@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QAIYM6O-es Roberto Cavalli Paradiso Agua de Perfume - 75 ml'
 sku: 'B00QAIYM6O-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
 actualPrice: 34.89 EUR
 currency: EUR
 price: 34.89

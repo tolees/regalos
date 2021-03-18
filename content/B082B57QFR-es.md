@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082B57QFR-es OBEEII Blancanieves Disfraz con Capa 9 Piezas Carnaval...'
 sku: 'B082B57QFR-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

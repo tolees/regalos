@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LVXEB78-es Creed Iris Tubereuse Agua de Perfume - 100 ml'
 sku: 'B00LVXEB78-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
 actualPrice: 57.88 EUR
 currency: EUR
 price: 57.88

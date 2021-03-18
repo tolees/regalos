@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MG9GJQ0-es SOUFEEL Abalorio Charm Pulsera de Foto Personalizado Plata...'
 sku: 'B01MG9GJQ0-es'
-tags: [ 'de','ley','navidad','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','navidad','plata', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

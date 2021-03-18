@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIT190-es Instituto Español Gotas Frescas agua de colonia...'
 sku: 'B00XAIT190-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

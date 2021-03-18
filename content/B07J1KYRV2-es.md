@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J1KYRV2-es Landove Pijama Unicornio Niña Niño Mono Franela Kigurumi...'
 sku: 'B07J1KYRV2-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPBV8G6-es RYLOS - Pendientes de plata chapada en oro amarillo de 14...'
 sku: 'B07PPBV8G6-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
 actualPrice: 111.18 EUR
 currency: EUR
 price: 111.18

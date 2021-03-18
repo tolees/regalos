@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAITNH0-es Poseidon The Black Eau de Toilette para Hombre - 150 ML'
 sku: 'B00XAITNH0-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2R8XNH-es URAQT Disfraces de Carnaval Lady Bug Disfraz de Cat Noir...'
 sku: 'B07S2R8XNH-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

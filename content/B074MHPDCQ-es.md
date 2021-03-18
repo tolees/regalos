@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MHPDCQ-es Swarovski Conjunto de Collares Symbolic Moon Multicolor...'
 sku: 'B074MHPDCQ-es'
-tags: [ 'swarovski', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
 actualPrice: 90.95 EUR
 currency: EUR
 price: 90.95

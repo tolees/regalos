@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBXC56J-es OxyLED Guirnaldas luminosas de exterior [LED Versión]G40 7...'
 sku: 'B07MBXC56J-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005MQO53A-es Trussardi Uomo Eau de Toilette Vaporizador 100 ml'
 sku: 'B005MQO53A-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

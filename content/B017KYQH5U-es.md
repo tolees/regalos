@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017KYQH5U-es Heno De Pravia Original Agua de Colonia - 650 ml'
 sku: 'B017KYQH5U-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

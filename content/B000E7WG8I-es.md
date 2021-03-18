@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E7WG8I-es Cartier 19201 - Agua de colonia 100 ml'
 sku: 'B000E7WG8I-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 45.2 EUR
 currency: EUR
 price: 45.2

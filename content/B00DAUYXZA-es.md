@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DAUYXZA-es Paco Rabanne Invictus Agua de tocador para hombres - 50 ml.'
 sku: 'B00DAUYXZA-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','tocador', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

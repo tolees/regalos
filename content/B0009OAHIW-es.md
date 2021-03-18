@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAHIW-es Dolce & Gabbana Light Blue Eau de Toilette Vaporizador 50 ml'
 sku: 'B0009OAHIW-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
 actualPrice: 28.55 EUR
 currency: EUR
 price: 28.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRXYYG5-es Traje de la Casa de Papel con Mascara Mono Cosplay Trajes...'
 sku: 'B07VRXYYG5-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

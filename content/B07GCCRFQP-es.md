@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCCRFQP-es AmzBarley Disfraz Princesa Vestido de Traje Niñas de...'
 sku: 'B07GCCRFQP-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

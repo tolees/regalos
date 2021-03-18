@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYTH159-es Adolfo Dominguez Agua Fresca Azahar Agua de Tocador...'
 sku: 'B01LYTH159-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','tocador', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

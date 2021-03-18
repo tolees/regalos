@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXV94SS-es Tuokay 20M 200 LED Luces de Navidad Cadena de Luces...'
 sku: 'B07VXV94SS-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HR8PYDR-es Dolamen Niños Unisexo Onesies Kigurumi Pijamas Niña Traje...'
 sku: 'B07HR8PYDR-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

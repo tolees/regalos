@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000P20RPQ-es Bulgari Agua de tocador para hombres Soir - 100 ml.'
 sku: 'B000P20RPQ-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','tocador', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

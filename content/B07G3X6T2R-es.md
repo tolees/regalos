@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3X6T2R-es Raya Jerséis Mujer 2019 Invierno Blanco Tumblr Moda Casual...'
 sku: 'B07G3X6T2R-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

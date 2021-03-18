@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KZWKHC-es Lydreewam Pendientes aro Colgantes De Letra X Plata de Ley...'
 sku: 'B081KZWKHC-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

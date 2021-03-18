@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM5MXVS-es OBEEII Vestidos Princesa Niña Traje del Vestido Princesa...'
 sku: 'B07VM5MXVS-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

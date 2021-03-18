@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QO9EZH0-es Guirnaldas Solares Luminosas de 50 LEDs Multicolor en...'
 sku: 'B00QO9EZH0-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

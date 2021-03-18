@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q82C9LS-es Amilril Collar árbol de la Vida Colgante Plata de Ley 925...'
 sku: 'B07Q82C9LS-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

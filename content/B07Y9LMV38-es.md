@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9LMV38-es Linterna Solar Exterior GolWof LED Luz Solar Colgando...'
 sku: 'B07Y9LMV38-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0822WGHNV-es OwlFay Disfraz Elsa Frozen Niñas Princesa Ana Vestido...'
 sku: 'B0822WGHNV-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

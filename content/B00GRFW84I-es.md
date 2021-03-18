@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GRFW84I-es Adolfo Dominguez - Agua de Bambú agua de tocador...'
 sku: 'B00GRFW84I-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','tocador', ]
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

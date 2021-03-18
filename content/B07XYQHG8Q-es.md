@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYQHG8Q-es TAZEMAT 30 Hojas Papel de Rascar Pulseras para Rascar...'
 sku: 'B07XYQHG8Q-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

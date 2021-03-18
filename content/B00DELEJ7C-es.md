@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DELEJ7C-es Nenuco Pack Agua de Colonia Infantil Bebé Minnie con...'
 sku: 'B00DELEJ7C-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYLSF3J-es Kami Idea Regalos dia de la Madre Mujer Pendientes de...'
 sku: 'B07KYLSF3J-es'
-tags: [ 'swarovski', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

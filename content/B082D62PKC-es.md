@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082D62PKC-es Original Perfume Para Mujer 10ml Lady Natural Light...'
 sku: 'B082D62PKC-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

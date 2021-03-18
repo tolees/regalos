@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAGS8-es Paco Rabanne Paco Rabanne Homme Eau de Toilette...'
 sku: 'B0009OAGS8-es'
-tags: [ 'de','eau','toilette', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

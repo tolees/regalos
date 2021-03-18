@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDCQCCM-es Zadig & Voltaire Agua de perfume para mujeres - 50 ml.'
 sku: 'B07DDCQCCM-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
 actualPrice: 45.8 EUR
 currency: EUR
 price: 45.8

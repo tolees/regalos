@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088SWSVFL-es fgdjfhsdfgsdfh 29 * 19Cm Fun Kids Baby Añadir Agua...'
 sku: 'B088SWSVFL-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

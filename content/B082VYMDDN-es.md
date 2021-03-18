@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VYMDDN-es OwlFay Disfraz de Princesa Carnival para Niñas Vestidos de...'
 sku: 'B082VYMDDN-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

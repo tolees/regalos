@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVJJF7B-es 10 Hojas Papel de Regalo CHALA Papel de Regalo Diseño de...'
 sku: 'B08CVJJF7B-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

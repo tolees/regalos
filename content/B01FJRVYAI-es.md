@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FJRVYAI-es Cadena solar de luces LED Salcar de 5 metros 20 gotas de...'
 sku: 'B01FJRVYAI-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NWXRSM-es Grandma Shark Bambú Tabla de Quesos Bandeja de Queso y...'
 sku: 'B087NWXRSM-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

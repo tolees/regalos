@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCP56KV-es amzdeal Pintura Facial con 14 Colores Pintura Cara para la...'
 sku: 'B07LCP56KV-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZRPN1EA-es Bvlgari Au The Blanc - Agua de colonia 75 ml'
 sku: 'B00ZRPN1EA-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

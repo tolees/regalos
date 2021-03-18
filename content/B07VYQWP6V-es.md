@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYQWP6V-es BACKTURE Luces Discoteca Iluminación de Escenarios...'
 sku: 'B07VYQWP6V-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

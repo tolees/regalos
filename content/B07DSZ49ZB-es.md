@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DSZ49ZB-es Swarovski Pendientes Symbolic Evil Eye de Mujer chapados...'
 sku: 'B07DSZ49ZB-es'
-tags: [ 'swarovski', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

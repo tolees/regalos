@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08256FGFC-es OBEEII 6PCS Disfraz de Princesa Elsa Niñas Carnaval Traje...'
 sku: 'B08256FGFC-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

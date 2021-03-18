@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R9ZML4R-es Guirnalda Luces LED Tomshine 6.5m/21.33ft Cadena de Luz...'
 sku: 'B07R9ZML4R-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

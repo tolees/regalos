@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLPX4YJ-es J.Rosée Pendientes Mujer Plata de Ley 925 Regalo de San...'
 sku: 'B07RLPX4YJ-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYK5LFK-es Qings Aros Pendientes Plata de Ley 925 Mujer Pendientes...'
 sku: 'B07TYK5LFK-es'
-tags: [ 'de','ley','navidad','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','navidad','plata', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

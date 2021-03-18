@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IYC71Q6-es Prada 17294 - Agua de Colonia L Homme 100 ml'
 sku: 'B01IYC71Q6-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 52.85 EUR
 currency: EUR
 price: 52.85

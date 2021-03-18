@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AMEZFO-es Narciso Rodriguez 140435 - Agua de tocador vaporizador...'
 sku: 'B000AMEZFO-es'
-tags: [ 'agua','de','tocador', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','tocador', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

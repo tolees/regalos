@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FWXICE-es Bvlgari 21236 - Agua de colonia 50 ml'
 sku: 'B001FWXICE-es'
-tags: [ 'agua','colonia','de', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
 actualPrice: 40.59 EUR
 currency: EUR
 price: 40.59

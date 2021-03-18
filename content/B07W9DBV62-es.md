@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W9DBV62-es IREGRO Luces de Proyector Navidad Copos de Nieve Luz de...'
 sku: 'B07W9DBV62-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

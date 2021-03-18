@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WR3HP6-es Villeroy & Boch Piemont Cubertería Para hasta 6 personas...'
 sku: 'B000WR3HP6-es'
-tags: [ '&','boch','villeroy', ]
+tags: [ '&','Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','boch','villeroy', ]
 actualPrice: 53.0 EUR
 currency: EUR
 price: 53.0

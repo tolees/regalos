@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075ZNF93P-es B.Catcher Collar Mujer Colgante Mariposas 925 Plata de Ley...'
 sku: 'B075ZNF93P-es'
-tags: [ 'de','ley','plata', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P37VKT9-es ANGEL NINA Regalos Navidad Mujer pendientes mujer plata...'
 sku: 'B07P37VKT9-es'
-tags: [ 'navidad','swarovski', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad','swarovski', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

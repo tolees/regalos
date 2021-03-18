@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBDSB2K-es URAQT Disfraz de Princesa Frozen Elsa Traje del Vestido...'
 sku: 'B07LBDSB2K-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

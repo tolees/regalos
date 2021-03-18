@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G3C2FOI-es Armani 53992 - Agua de perfume'
 sku: 'B00G3C2FOI-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
 actualPrice: 36.3 EUR
 currency: EUR
 price: 36.3

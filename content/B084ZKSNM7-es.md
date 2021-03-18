@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZKSNM7-es Gorros suaves gruesos y cálidos Sombreros de invierno...'
 sku: 'B084ZKSNM7-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

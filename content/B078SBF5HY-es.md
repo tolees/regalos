@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SBF5HY-es Swarovski Colgante Anillo Stone Round Ring baño de rodio...'
 sku: 'B078SBF5HY-es'
-tags: [ 'swarovski', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

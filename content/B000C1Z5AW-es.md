@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1Z5AW-es Estée Lauder Agua de perfume para mujeres - 100 ml.'
 sku: 'B000C1Z5AW-es'
-tags: [ 'agua','de','perfume', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
 actualPrice: 50.24 EUR
 currency: EUR
 price: 50.24

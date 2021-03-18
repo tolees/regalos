@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVCYNP2-es 2 Piezas Coches Juguete Flyfun Coches para Niños Tire...'
 sku: 'B07WVCYNP2-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJZMX74-es Yasolote Luz Solar 22M 200 LED Guirnalda de Luces 8 Modos...'
 sku: 'B07BJZMX74-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

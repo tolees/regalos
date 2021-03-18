@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD75KMB-es AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas...'
 sku: 'B07VD75KMB-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

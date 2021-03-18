@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTZT9VH-es Guirnalda Cadena de Luces de LED Alambre de Cobre...'
 sku: 'B01MTZT9VH-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

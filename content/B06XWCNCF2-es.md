@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWCNCF2-es ThxMadam Album de Fotos DIY Álbum de Fotos Libros de...'
 sku: 'B06XWCNCF2-es'
-tags: [ 'navidad', ]
+tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
