@@ -29,7 +29,7 @@ Está [Carolina Herrera Agua de perfume para mujeres - 30 ml](https://www.amazon
 ℹ️:
 
 - Spray perfumador para el cabello
-- Agua de perfume
 - Contenido 30 ml
+- Agua de perfume
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FYMZX1S/?tag=tolees-21)
