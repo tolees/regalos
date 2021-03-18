@@ -28,8 +28,8 @@ Ahora mismo tienes [Adolfo Dominguez  Agua de tocador para mujeres - 60 ml.](htt
 
 🔎:
 
-- De alta calidad
 - De la marca: Adolfo Dominguez
 - Oler bien
+- De alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DHMYNGL/?tag=tolees-21)
