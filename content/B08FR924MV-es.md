@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FR924MV-es Guirnalda Luces GolWof 10M 100 LED Cadena de Luces...'
 sku: 'B08FR924MV-es'
-tags: [ 'navidad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

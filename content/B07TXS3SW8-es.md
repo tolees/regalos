@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXS3SW8-es Swarovski Collar Attract blanco Baño de Rodio'
 sku: 'B07TXS3SW8-es'
-tags: [ 'swarovski', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

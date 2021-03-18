@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F799SMX-es Tiras LED Alexa WiFi 5M - Nobent Luces Led Habitacion...'
 sku: 'B08F799SMX-es'
-tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00END3XL8-es Police Policía de ser el rey Eau De Toilette 1er Pack 1 x...'
 sku: 'B00END3XL8-es'
-tags: [ 'eau','de','toilette', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JTMTGZH-es LLH - Lote de 106 globos de Navidad 18 "12" 5 " diseño de...'
 sku: 'B08JTMTGZH-es'
-tags: [ 'navidad', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

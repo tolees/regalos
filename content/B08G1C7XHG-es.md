@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1C7XHG-es Satkago Set Peluqueria Juguete Niña Belleza con Secador de...'
 sku: 'B08G1C7XHG-es'
-tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

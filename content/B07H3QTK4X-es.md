@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3QTK4X-es Dolce & Gabbana Agua de perfume para mujeres - 50 ml.'
 sku: 'B07H3QTK4X-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 51.7 EUR
 currency: EUR
 price: 51.7

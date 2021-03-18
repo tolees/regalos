@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BC7YTPG-es TAPDRA 4018 en 1 Pandora Consola de Juegos 3D Arcade Kit...'
 sku: 'B08BC7YTPG-es'
-tags: [ 'pandora', ]
 actualPrice: 185.99 EUR
 currency: EUR
 price: 185.99

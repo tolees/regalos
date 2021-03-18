@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YCF2RQN-es SeeKool Pandora s 9D Juegos clásicos Consola de...'
 sku: 'B07YCF2RQN-es'
-tags: [ 'pandora', ]
 actualPrice: 132.59 EUR
 currency: EUR
 price: 132.59

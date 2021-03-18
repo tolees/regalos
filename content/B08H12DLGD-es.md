@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H12DLGD-es CMJL - Pegatinas de Pared Copo de Nieve Alce Decoración de...'
 sku: 'B08H12DLGD-es'
-tags: [ 'navidad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

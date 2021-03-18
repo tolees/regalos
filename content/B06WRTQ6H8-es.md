@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WRTQ6H8-es Pack Disney The Nightmare Before Christmas - Chapas...'
 sku: 'B06WRTQ6H8-es'
-tags: [ 'christmas', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

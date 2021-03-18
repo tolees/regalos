@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B3Z2HDD-es Playmobil- Reyes Magos Juguete Multicolor tu Geobra...'
 sku: 'B07B3Z2HDD-es'
-tags: [ 'reyes','magos', ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

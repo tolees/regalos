@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NWLLCW9-es Boao - 2 Fundas de Cojín de Juego Funda de Almohada...'
 sku: 'B08NWLLCW9-es'
-tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

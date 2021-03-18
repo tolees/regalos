@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WLS9RSM-es CHUCHES - Caja de Dulces Años 80s y 90s. Regalo de...'
 sku: 'B08WLS9RSM-es'
-tags: [ 'navidad', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

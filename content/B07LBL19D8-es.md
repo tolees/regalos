@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LBL19D8-es Guirnalda Luces Exterior Tomshine Cadena Luz 13M 100LED...'
 sku: 'B07LBL19D8-es'
-tags: [ 'navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

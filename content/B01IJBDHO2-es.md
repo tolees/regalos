@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IJBDHO2-es TAPDRA Classic Arcade Video Game Machine 2 jugadores...'
 sku: 'B01IJBDHO2-es'
-tags: [ 'Agua de tocador para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Velas eléctricas y LED','Videojuegos para niños','pandora','tapdra', ]
 actualPrice: 121.99 EUR
 currency: EUR
 price: 121.99

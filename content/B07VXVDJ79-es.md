@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXVDJ79-es Tuokay 10M 100 LED Luces de Navidad Cadena de Luces...'
 sku: 'B07VXVDJ79-es'
-tags: [ 'navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

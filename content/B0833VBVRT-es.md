@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0833VBVRT-es Guirnaldas Luces Exterior Solar [2 Pack] Kolpop 3M 30LED...'
 sku: 'B0833VBVRT-es'
-tags: [ 'kolpop','navidad', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

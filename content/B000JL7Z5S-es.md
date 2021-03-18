@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000JL7Z5S-es Juicy Couture 24321 - Agua de perfume 100 ml'
 sku: 'B000JL7Z5S-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 37.73 EUR
 currency: EUR
 price: 37.73

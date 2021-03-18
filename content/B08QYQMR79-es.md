@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QYQMR79-es Baztoy Araña Teledirigida Araña Radiocontrol para Coche de...'
 sku: 'B08QYQMR79-es'
-tags: [ 'navidad', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

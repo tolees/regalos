@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYQTMP3-es TAZEMAT 24 Hojas Máscaras de Animales Papel para Rascar...'
 sku: 'B07XYQTMP3-es'
-tags: [ 'navidad', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

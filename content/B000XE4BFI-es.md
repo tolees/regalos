@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000XE4BFI-es Kenzo 17284 - Agua de perfume 100 ml'
 sku: 'B000XE4BFI-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

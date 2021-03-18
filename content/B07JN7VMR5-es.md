@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JN7VMR5-es Pandora Abalorios Mujer plata - 797516'
 sku: 'B07JN7VMR5-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','pandora', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

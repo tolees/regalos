@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HNTTK67-es Kami Idea Collar Mi Fatídico Amor Colgante de Corazón a...'
 sku: 'B07HNTTK67-es'
-tags: [ 'swarovski', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000IEQQCE-es Versace Bright Crystal Agua de Colonia - 50 ml'
 sku: 'B000IEQQCE-es'
-tags: [ 'agua','de','colonia', ]
 actualPrice: 33.26 EUR
 currency: EUR
 price: 33.26

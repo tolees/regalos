@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JCZ9FCM-es Coach Agua de perfume para mujeres - 90 gr.'
 sku: 'B01JCZ9FCM-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

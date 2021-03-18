@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFVVZJV-es Hielo anal plug Christmas Tree silicona tierna...'
 sku: 'B07BFVVZJV-es'
-tags: [ 'christmas', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

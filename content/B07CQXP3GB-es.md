@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CQXP3GB-es Axcer LED Zapatos Verano Ligero Transpirable Bajo 7...'
 sku: 'B07CQXP3GB-es'
-tags: [ 'navidad', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

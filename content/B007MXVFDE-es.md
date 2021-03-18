@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007MXVFDE-es Marc Jacobs Daisy Eau So Fresh Eau de Toilette Vaporizador...'
 sku: 'B007MXVFDE-es'
-tags: [ 'eau','de','toilette', ]
 actualPrice: 44.69 EUR
 currency: EUR
 price: 44.69

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HGV7C81-es Guirnalda Luces Pilas [2 * 12M] TOPYIYI Luces LED...'
 sku: 'B08HGV7C81-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad','topyiyi', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

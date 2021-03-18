@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFDXST1-es AvoSeedo Kit Jardineria para Aguacate - Gadget Decoracion...'
 sku: 'B07XFDXST1-es'
-tags: [ 'navidad', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

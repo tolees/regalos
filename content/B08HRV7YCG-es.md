@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HRV7YCG-es Guirnalda de Luces LED Navidad KEEHOM Cadena Tira Luminosa...'
 sku: 'B08HRV7YCG-es'
-tags: [ 'keehom','navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

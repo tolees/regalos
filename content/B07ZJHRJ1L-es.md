@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJHRJ1L-es ITSHINY - Camara Fotos Infantil - Cámara Fotos Niños con...'
 sku: 'B07ZJHRJ1L-es'
-tags: [ 'navidad', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

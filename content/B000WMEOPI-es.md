@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WMEOPI-es PANDORA 590702HV Moments - Pulsera de Plata de Ley 925 con...'
 sku: 'B000WMEOPI-es'
-tags: [ 'de','ley','pandora','plata', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

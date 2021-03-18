@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N23IIJN-es B.Catcher Collar Mujer Plata de Ley 925 Eres la luz de mis...'
 sku: 'B01N23IIJN-es'
-tags: [ 'plata','de','ley', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

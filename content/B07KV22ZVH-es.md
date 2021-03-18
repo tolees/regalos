@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KV22ZVH-es Neon Moon-Nursery Night Lamp Gift-Wall Decor Lights para...'
 sku: 'B07KV22ZVH-es'
-tags: [ 'navidad', ]
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

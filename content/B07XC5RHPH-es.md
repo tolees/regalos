@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XC5RHPH-es PROTAURI Falda de árbol de Navidad Estera de árbol - Lana...'
 sku: 'B07XC5RHPH-es'
-tags: [ 'navidad', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

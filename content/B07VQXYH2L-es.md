@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQXYH2L-es Traje de la Casa de Papel con Mascara Mono Cosplay Trajes...'
 sku: 'B07VQXYH2L-es'
-tags: [ 'navidad', ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

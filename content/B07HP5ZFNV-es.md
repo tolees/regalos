@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HP5ZFNV-es Lékué Set 3 Plantillas Cookies Navidad'
 sku: 'B07HP5ZFNV-es'
-tags: [ 'navidad', ]
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

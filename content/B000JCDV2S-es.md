@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000JCDV2S-es CALVIN KLEIN CK ONE agua de tocador vaporizador 50 ml'
 sku: 'B000JCDV2S-es'
-tags: [ 'agua','de','tocador', ]
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

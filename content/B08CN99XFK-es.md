@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CN99XFK-es Gifort Explosion Box Creative DIY Photo Album de...'
 sku: 'B08CN99XFK-es'
-tags: [ 'navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087NS68VF-es Tiras LED L8star Luz de Tira LED Smart 5050 Control APP...'
 sku: 'B087NS68VF-es'
-tags: [ 'navidad', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

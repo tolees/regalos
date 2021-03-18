@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L3Y3FDT-es Quadiva G! - Collar para mujer con colgante de trébol...'
 sku: 'B07L3Y3FDT-es'
-tags: [ 'swarovski', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

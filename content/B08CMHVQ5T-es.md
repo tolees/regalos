@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMHVQ5T-es Gifort 20 Piezas Bolas de plástico Transparente 8cm Bolas...'
 sku: 'B08CMHVQ5T-es'
-tags: [ 'navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

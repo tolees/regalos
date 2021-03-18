@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NNP8CC-es YMing - 600 LED Cortina de Luces 6m*3m Luces de Hadas...'
 sku: 'B089NNP8CC-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','navidad','yming', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

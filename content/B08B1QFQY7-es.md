@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B1QFQY7-es Joyjoz Juego de Arte Manualidades para Niños - Juguetes de...'
 sku: 'B08B1QFQY7-es'
-tags: [ 'navidad', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

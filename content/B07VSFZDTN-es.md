@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSFZDTN-es OSHINE 50unidades LED Velas Velas CR2032 pilas velas sin...'
 sku: 'B07VSFZDTN-es'
-tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

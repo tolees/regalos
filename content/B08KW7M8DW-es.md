@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KW7M8DW-es YUENA CARE Arbol de Navidad de Fieltro Árbol de Navidad de...'
 sku: 'B08KW7M8DW-es'
-tags: [ 'navidad', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

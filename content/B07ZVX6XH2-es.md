@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVX6XH2-es Tweal - 3D Decoración del árbol de Navidad 9 Piezas Adorno...'
 sku: 'B07ZVX6XH2-es'
-tags: [ 'navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

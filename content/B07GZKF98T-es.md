@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZKF98T-es Guirnalda Luces 12M 120 LED OMERIL Cadena de Luces...'
 sku: 'B07GZKF98T-es'
-tags: [ 'navidad', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

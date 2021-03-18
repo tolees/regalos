@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JVF6SPN-es TATAFUN Árbol de Navidad de Fieltro Árbol Navidad con 26...'
 sku: 'B08JVF6SPN-es'
-tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

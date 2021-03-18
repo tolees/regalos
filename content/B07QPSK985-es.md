@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QPSK985-es Velas LED velas sin llama 4"5"6"Set de 3 de cera real...'
 sku: 'B07QPSK985-es'
-tags: [ 'navidad', ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

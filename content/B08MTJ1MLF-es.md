@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTJ1MLF-es Amlion - Llaveros Personalizados con Foto Película Álbum...'
 sku: 'B08MTJ1MLF-es'
-tags: [ 'navidad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

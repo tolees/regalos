@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVKR7NM-es Aibrou Pijamas de Navidad Familia Conjunto Pantalon y Top...'
 sku: 'B07ZVKR7NM-es'
-tags: [ 'navidad', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

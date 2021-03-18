@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085VR29NQ-es Baztoy Coche Teledirigido Coche RC Acrobacia Rotación...'
 sku: 'B085VR29NQ-es'
-tags: [ 'navidad', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

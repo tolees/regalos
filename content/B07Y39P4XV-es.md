@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y39P4XV-es XiXi Personalizado Pulsera para Hombre Cuero Pulsera con...'
 sku: 'B07Y39P4XV-es'
-tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

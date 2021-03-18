@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CSPPXJY-es Luces Discoteca OMERIL Bola Discoteca con 4M Cable USB LED...'
 sku: 'B07CSPPXJY-es'
-tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

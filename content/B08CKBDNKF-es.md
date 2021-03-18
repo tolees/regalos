@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CKBDNKF-es LAVUMO - Collar de Mujer Amor Colgante de Corazón Oro Rosa...'
 sku: 'B08CKBDNKF-es'
-tags: [ 'navidad','plata','de','ley', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

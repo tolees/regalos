@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT3VHYK-es Herefun 50 Piezas Globos de LED Colores Luces para...'
 sku: 'B07PT3VHYK-es'
-tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

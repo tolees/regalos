@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NF1ZXVM-es Pandora Mujer plata Abalorios 798009EN16'
 sku: 'B07NF1ZXVM-es'
-tags: [ 'pandora', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

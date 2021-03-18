@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFM8TSL-es CINMOK 2pcs Cinta Regalo Color Metálica Cinta Brillante...'
 sku: 'B08FFM8TSL-es'
-tags: [ 'navidad', ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

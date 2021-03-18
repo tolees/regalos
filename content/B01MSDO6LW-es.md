@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSDO6LW-es Jimmy Choo Agua de perfume para mujeres - 90 gr.'
 sku: 'B01MSDO6LW-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

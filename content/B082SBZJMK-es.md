@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SBZJMK-es WEMEK Niñas Disfraz de Princesa Elsa con Capa Frozen Anna...'
 sku: 'B082SBZJMK-es'
-tags: [ 'navidad', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

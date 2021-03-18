@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000C1UF1G-es Armani-Emporio Emporio Ella Agua de perfume Vaporizador...'
 sku: 'B000C1UF1G-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

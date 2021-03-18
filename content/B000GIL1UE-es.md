@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GIL1UE-es Versace Crystal Noir Agua de Tocador Vaporizador - 90 ml'
 sku: 'B000GIL1UE-es'
-tags: [ 'agua','de','tocador', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

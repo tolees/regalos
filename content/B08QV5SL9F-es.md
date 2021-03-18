@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QV5SL9F-es ANVAVA Proyector Estrellas Lámpara Proyector Infantil LED...'
 sku: 'B08QV5SL9F-es'
-tags: [ 'navidad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

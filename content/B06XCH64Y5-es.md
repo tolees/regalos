@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCH64Y5-es B.Catcher Pendientes Mujer Plata de Ley 925 Eres la luz de...'
 sku: 'B06XCH64Y5-es'
-tags: [ 'Joyería','Joyería para mujer','Pendientes para mujer','b.catcher','de','ley','plata', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

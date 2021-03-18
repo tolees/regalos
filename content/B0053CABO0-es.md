@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0053CABO0-es Pesadilla Antes De Navidad - Edición Coleccionista [Blu-ray]'
 sku: 'B0053CABO0-es'
-tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

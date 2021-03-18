@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089ZWQTHK-es Fivejoy Juguetes de Construcción para Jardín de Flores...'
 sku: 'B089ZWQTHK-es'
-tags: [ 'navidad', ]
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

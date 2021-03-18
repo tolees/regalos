@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSB8F1M-es Natural 8mm piedras preciosas MetJakt Curación Crystal...'
 sku: 'B07GSB8F1M-es'
-tags: [ 'plata','de','ley', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGHM3G3-es Hawiton Pijamas Navidad para Familias Pijama Mujer Hombre...'
 sku: 'B07XGHM3G3-es'
-tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

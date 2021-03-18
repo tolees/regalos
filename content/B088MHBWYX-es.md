@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MHBWYX-es Sundaymot Coche Teledirigido 2.4 GHz Coche de Control...'
 sku: 'B088MHBWYX-es'
-tags: [ 'navidad', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086HFKDLN-es Baztoy Agua Dibujo Pintura Pizarra Doodle Alfombra Mágica...'
 sku: 'B086HFKDLN-es'
-tags: [ 'navidad', ]
 actualPrice: 16.58 EUR
 currency: EUR
 price: 16.58

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000GHWSG6-es Calvin Klein Euphoria - Agua de perfume para mujer 100 ml'
 sku: 'B000GHWSG6-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

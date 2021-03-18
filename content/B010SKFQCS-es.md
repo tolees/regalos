@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010SKFQCS-es Prada Infusion D Iris Agua de Perfume - 100 ml'
 sku: 'B010SKFQCS-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 66.33 EUR
 currency: EUR
 price: 66.33

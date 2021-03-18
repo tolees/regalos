@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DN9HT83-es Rolimate Juguetes Rompecabezas de Cubos de Madera Bloques...'
 sku: 'B07DN9HT83-es'
-tags: [ 'navidad', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

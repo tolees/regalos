@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086ZHLVL7-es Tiras LED Wifi JESLED 5M Tira de LED RGB Compatible con...'
 sku: 'B086ZHLVL7-es'
-tags: [ 'navidad', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

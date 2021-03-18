@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0819CHRTY-es TOFU - Velas Perfumadas de Regalo Regalos Originales para...'
 sku: 'B0819CHRTY-es'
-tags: [ 'navidad', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

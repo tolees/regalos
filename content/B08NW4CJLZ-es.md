@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NW4CJLZ-es TOPYIYI Guirnalda Luces [2 Pack] 120 LED 12M Cadena de...'
 sku: 'B08NW4CJLZ-es'
-tags: [ 'navidad', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

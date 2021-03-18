@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BVO9L8G-es Rochas - Eau de toilette femme 100 ml'
 sku: 'B00BVO9L8G-es'
-tags: [ 'eau','de','toilette', ]
 actualPrice: 42.4 EUR
 currency: EUR
 price: 42.4

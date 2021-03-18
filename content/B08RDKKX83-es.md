@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RDKKX83-es Jewelora Relojes para Parejas 2 Piezas de Relojes Relojes...'
 sku: 'B08RDKKX83-es'
-tags: [ 'navidad', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

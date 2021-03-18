@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JM6BN2B-es Oumakiku - Bolsas de regalo navidad 30pcs Bolsas Kraft...'
 sku: 'B08JM6BN2B-es'
-tags: [ 'navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

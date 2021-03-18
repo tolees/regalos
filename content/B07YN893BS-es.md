@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YN893BS-es Dekora Calendario de Adviento para Niños de Chocolate de...'
 sku: 'B07YN893BS-es'
-tags: [ 'adviento', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

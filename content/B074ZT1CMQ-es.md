@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074ZT1CMQ-es Pandora Aros Mujer plata - 196316CZ-54'
 sku: 'B074ZT1CMQ-es'
-tags: [ 'pandora', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

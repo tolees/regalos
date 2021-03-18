@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085VV4TC2-es Betheaces Bolas Voladoras RC Helicopteros Teledirigidos...'
 sku: 'B085VV4TC2-es'
-tags: [ 'navidad', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

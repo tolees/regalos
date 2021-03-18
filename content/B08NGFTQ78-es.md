@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NGFTQ78-es Better-Life - Peluche de Pulpo Reversible-Bonitos Juguetes...'
 sku: 'B08NGFTQ78-es'
-tags: [ 'navidad', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

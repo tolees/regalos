@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FX8TCL8-es CHORTAU Árbol de Navidad 180cm con piñas y Bayas 800...'
 sku: 'B08FX8TCL8-es'
-tags: [ 'navidad', ]
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

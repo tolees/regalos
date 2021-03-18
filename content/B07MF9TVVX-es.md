@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MF9TVVX-es SeeKool Pandora 11 Juegos clásicos Consola de Videojuegos...'
 sku: 'B07MF9TVVX-es'
-tags: [ 'pandora','seekool', ]
 actualPrice: 123.24 EUR
 currency: EUR
 price: 123.24

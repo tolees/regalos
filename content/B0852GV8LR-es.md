@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852GV8LR-es Buyger 63 Piezas Cocina Alimentos de Juguete Bricolaje...'
 sku: 'B0852GV8LR-es'
-tags: [ 'buyger','navidad', ]
 actualPrice: 21.86 EUR
 currency: EUR
 price: 21.86

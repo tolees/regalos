@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M3WR6F6-es Bsopem - Lámpara de árbol de Navidad con luz de árbol de...'
 sku: 'B08M3WR6F6-es'
-tags: [ 'navidad', ]
 actualPrice: 18.85 EUR
 currency: EUR
 price: 18.85

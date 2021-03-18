@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1Z6KG-es Jennifer Lopez Glow - Eau de toilette 100 ml'
 sku: 'B000C1Z6KG-es'
-tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Perfumes y fragancias','de','eau','jennifer lopez','toilette', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HMRY8NG-es AGPTEK Smartwatch Mujer Reloj Inteligente Deportivo 1.3...'
 sku: 'B08HMRY8NG-es'
-tags: [ 'navidad', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

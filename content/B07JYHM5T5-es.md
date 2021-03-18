@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYHM5T5-es D.Perlla Pendientes Perla Mujer Circonita Joyas Diamante...'
 sku: 'B07JYHM5T5-es'
-tags: [ 'navidad', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

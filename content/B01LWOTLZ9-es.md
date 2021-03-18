@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWOTLZ9-es Carolina Herrera 212 Vip Rosé Agua de Perfume Vaporizador...'
 sku: 'B01LWOTLZ9-es'
-tags: [ 'agua','de','perfume', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

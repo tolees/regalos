@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MW3HCWF-es Swarovski Women s Subtle Bracelet Brilliant White Crystals...'
 sku: 'B07MW3HCWF-es'
-tags: [ 'swarovski', ]
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

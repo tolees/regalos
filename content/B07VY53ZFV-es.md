@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VY53ZFV-es Bolsa de Pandora 16x16x6 . Lazo rosa y cordón negro'
 sku: 'B07VY53ZFV-es'
-tags: [ 'pandora', ]
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

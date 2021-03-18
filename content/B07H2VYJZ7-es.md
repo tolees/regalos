@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H2VYJZ7-es iiniim Conjunto de Disfraz Body de Algodón + Falda +...'
 sku: 'B07H2VYJZ7-es'
-tags: [ 'navidad', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

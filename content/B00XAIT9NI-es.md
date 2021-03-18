@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIT9NI-es Instituto Español - Poseidon Gold Eau de Toilette para...'
 sku: 'B00XAIT9NI-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Perfumes y fragancias','de','eau','instituto español','toilette', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

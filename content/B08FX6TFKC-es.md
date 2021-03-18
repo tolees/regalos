@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FX6TFKC-es Bedsure Cama Gato Cueva Navidad Suave - Casa Gato Mediano...'
 sku: 'B08FX6TFKC-es'
-tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

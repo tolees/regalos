@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075XDJ3ZP-es IEFIEL Vestidos Princesa de Fiesta Bebés Niñas Vestido...'
 sku: 'B075XDJ3ZP-es'
-tags: [ 'navidad', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

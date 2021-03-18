@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SW7ZJQR-es Annmors Abalorios Charms Colgantes de Star Wars Darth...'
 sku: 'B08SW7ZJQR-es'
-tags: [ 'pandora','plata','de','ley', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

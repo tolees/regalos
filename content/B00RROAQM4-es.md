@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RROAQM4-es Instituto Español Poseidon Gold Eau de Toilette para...'
 sku: 'B00RROAQM4-es'
-tags: [ 'eau','de','toilette', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

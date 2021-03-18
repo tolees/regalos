@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC17J4T-es Lékué - Kit Cookies Navidad Acero Inoxidable'
 sku: 'B07NC17J4T-es'
-tags: [ 'navidad', ]
 actualPrice: 12.67 EUR
 currency: EUR
 price: 12.67

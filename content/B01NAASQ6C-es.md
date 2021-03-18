@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAASQ6C-es Swarovski Colgante Iconic Swan multicolor Baño de Rodio'
 sku: 'B01NAASQ6C-es'
-tags: [ 'swarovski', ]
 actualPrice: 45.54 EUR
 currency: EUR
 price: 45.54

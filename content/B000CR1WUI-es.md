@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000CR1WUI-es Aramis 2567 - Agua de colonia 110 ml'
 sku: 'B000CR1WUI-es'
-tags: [ 'agua','de','colonia', ]
 actualPrice: 28.08 EUR
 currency: EUR
 price: 28.08

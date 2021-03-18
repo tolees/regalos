@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KMQMAAO-es Pandora Abalorios Mujer plata - 791966'
 sku: 'B01KMQMAAO-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','pandora', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

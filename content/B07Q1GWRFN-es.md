@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q1GWRFN-es YMing 8 Juegos Velas Aromáticas Vidrio Mate Cera de Soja...'
 sku: 'B07Q1GWRFN-es'
-tags: [ 'navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

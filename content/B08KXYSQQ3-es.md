@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KXYSQQ3-es Jojoin 24 Pcs Juguetes Instrumentos Musicales 14 Tipos de...'
 sku: 'B08KXYSQQ3-es'
-tags: [ 'Agua de perfume para mujeres','Almacenaje de adornos festivos','Almacenamiento y organización','Belleza','Fragancias para mujeres','Hogar y cocina','Instrumentos de percusión para niños','Instrumentos musicales para niños','Juguetes','Juguetes electrónicos','Juguetes y juegos','Perfumes y fragancias','Productos para el cuidado de la piel','Sets y juegos para el cuidado de la piel','Videojuegos para niños','jojoin','navidad', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

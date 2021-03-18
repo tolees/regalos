@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B4VR2MJ-es Yizhet 2 Piezas Guirnaldas Luces Exterior Solar 10M 100...'
 sku: 'B08B4VR2MJ-es'
-tags: [ 'navidad', ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

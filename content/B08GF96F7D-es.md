@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GF96F7D-es Árbol de Navidad 180cm CHORTAU 800 puntas Árbol de Navidad...'
 sku: 'B08GF96F7D-es'
-tags: [ 'navidad', ]
 actualPrice: 76.98 EUR
 currency: EUR
 price: 76.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C2K6TLH-es YIWER - Velas LED con pilas y sin llama: Luces reales de...'
 sku: 'B08C2K6TLH-es'
-tags: [ 'Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Velas eléctricas y LED','navidad','yiwer', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

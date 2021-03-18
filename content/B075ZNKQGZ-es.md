@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075ZNKQGZ-es B.Catcher Pendientes Mujer 925 Plata de Ley Sueños de...'
 sku: 'B075ZNKQGZ-es'
-tags: [ 'Joyería','Joyería para mujer','Pendientes para mujer','b.catcher','de','ley','plata', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

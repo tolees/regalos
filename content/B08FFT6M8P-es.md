@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FFT6M8P-es FIDECH Masajeador Portátil 5 EN 1 Para Mujeres y Hombres...'
 sku: 'B08FFT6M8P-es'
-tags: [ 'navidad', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

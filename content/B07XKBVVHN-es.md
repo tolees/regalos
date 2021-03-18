@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKBVVHN-es Pendientes de plata de ley 925 con diseño de caballo de...'
 sku: 'B07XKBVVHN-es'
-tags: [ 'de','ley','plata', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

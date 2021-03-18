@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRHXZ7G-es Vannico Camara de Fotos para Niños Camara Fotos Infantil 8...'
 sku: 'B07WRHXZ7G-es'
-tags: [ 'navidad', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

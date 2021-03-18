@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LKV2XK8-es Anself Santa Claus Figurita Decoración Navidad Adorno...'
 sku: 'B08LKV2XK8-es'
-tags: [ 'navidad', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GK7WXMC-es Tomaibaby 3 Piezas Calcetines de Navidad Medias de Navidad...'
 sku: 'B08GK7WXMC-es'
-tags: [ 'navidad', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

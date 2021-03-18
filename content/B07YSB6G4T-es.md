@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YSB6G4T-es TECKIN Tiras LED RGB Wifi 5M 5050 SMD Tira de Luces...'
 sku: 'B07YSB6G4T-es'
-tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

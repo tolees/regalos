@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W42BYH9-es BJ-SHOP Bolsas de Botellas de Vino de Navidad Regalo...'
 sku: 'B07W42BYH9-es'
-tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

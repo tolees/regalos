@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GFR1BQG-es GRDE Lámpara Proyector Luz Nocturna Infantil Estrellas &...'
 sku: 'B08GFR1BQG-es'
-tags: [ 'navidad', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

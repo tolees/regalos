@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKTZF2W-es VZATT Árbol de Navidad de Fieltro Árbol Navidad Fieltro...'
 sku: 'B08GKTZF2W-es'
-tags: [ 'navidad', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

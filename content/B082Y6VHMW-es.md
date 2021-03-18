@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Y6VHMW-es Oihxse Case Compatible con Xiaomi Mi Max2 Funda...'
 sku: 'B082Y6VHMW-es'
-tags: [ 'navidad', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

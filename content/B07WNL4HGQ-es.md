@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNL4HGQ-es Cortina de Luces Luz Cadena Luz de Cortina LED Guirnaldas...'
 sku: 'B07WNL4HGQ-es'
-tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

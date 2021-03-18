@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KM28ZZI-es Semillas Batlle - Semillas Hortícolas - Coliflor Grande...'
 sku: 'B00KM28ZZI-es'
-tags: [ 'navidad', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

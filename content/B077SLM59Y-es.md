@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SLM59Y-es Moredig Proyector Estrellas Bebé Lámpara Proyector...'
 sku: 'B077SLM59Y-es'
-tags: [ 'navidad', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

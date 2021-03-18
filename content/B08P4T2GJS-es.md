@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P4T2GJS-es Babacom Luces Navidad Interior Guirnalda Luces Exterior...'
 sku: 'B08P4T2GJS-es'
-tags: [ 'navidad', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

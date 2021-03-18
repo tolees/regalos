@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JV8VSNG-es TOPLIFE - Cadena de Luces 10M 100 LED Guirnalda de Luces...'
 sku: 'B07JV8VSNG-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Iluminación','navidad','toplife', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

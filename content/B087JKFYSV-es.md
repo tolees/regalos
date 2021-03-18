@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JKFYSV-es Baztoy Juguete de Hockey Flotante Pelota de Hockey AéREO...'
 sku: 'B087JKFYSV-es'
-tags: [ 'navidad', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4FFKBK-es AGAKY Árbol de Navidad Plegable Árbol de Navidad Verde 120...'
 sku: 'B08G4FFKBK-es'
-tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

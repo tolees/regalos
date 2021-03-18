@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082W1G7LQ-es Guirnalda Luces Exterior Solare BrizLabs 13.8M 60 LED...'
 sku: 'B082W1G7LQ-es'
-tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

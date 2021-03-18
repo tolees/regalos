@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J4CJMKS-es Pherofly Roll on Atrayente de las mujeres - Feromona extra...'
 sku: 'B01J4CJMKS-es'
-tags: [ 'de','eau','toilette', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

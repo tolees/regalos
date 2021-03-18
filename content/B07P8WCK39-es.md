@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8WCK39-es Chanson D Eau Original Eau De Toilette para mujer - 200 ml'
 sku: 'B07P8WCK39-es'
-tags: [ 'chanson deau','de','eau','toilette', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

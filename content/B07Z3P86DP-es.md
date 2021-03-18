@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z3P86DP-es Ptsaying - El árbol de Navidad del Fieltro de los 3.3FT...'
 sku: 'B07Z3P86DP-es'
-tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

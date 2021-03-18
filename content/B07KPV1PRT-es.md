@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPV1PRT-es Yvsoo Calendario Adviento Juguetes Set 3Pcs Rompecabezas...'
 sku: 'B07KPV1PRT-es'
-tags: [ 'adviento', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

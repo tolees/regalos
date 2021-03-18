@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QJRT29-es YINUO LIGHT - Juego de Regalo de Velas Aromáticas 8 Piezas...'
 sku: 'B089QJRT29-es'
-tags: [ 'navidad', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

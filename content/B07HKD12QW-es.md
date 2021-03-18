@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKD12QW-es TAGVO Gorro Bluetooth V5.0 con Conjunto de Guantes con...'
 sku: 'B07HKD12QW-es'
-tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

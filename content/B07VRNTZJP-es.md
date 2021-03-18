@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VRNTZJP-es Aitsite 24PCS Bolas de Navidad 4 cm Bolas de árbol de...'
 sku: 'B07VRNTZJP-es'
-tags: [ 'navidad', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

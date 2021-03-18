@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N3CJN9C-es Swarovski Collar Swarovski Sparkling Dance Round blanco...'
 sku: 'B01N3CJN9C-es'
-tags: [ 'swarovski', ]
 actualPrice: 77.19 EUR
 currency: EUR
 price: 77.19

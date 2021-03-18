@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HYD57C-es SANRF - Calendario de Adviento para rellenar 24 bolsas de...'
 sku: 'B081HYD57C-es'
-tags: [ 'adviento','navidad', ]
 actualPrice: 10.64 EUR
 currency: EUR
 price: 10.64

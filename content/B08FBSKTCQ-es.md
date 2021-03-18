@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FBSKTCQ-es OUTCAMER Patinete Niño y Niña 2 a 10 Años Patinete 3...'
 sku: 'B08FBSKTCQ-es'
-tags: [ 'navidad', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

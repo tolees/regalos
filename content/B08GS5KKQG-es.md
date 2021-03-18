@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GS5KKQG-es N/C 3D Colgante Navideño de Madera DIY Madera Colgante...'
 sku: 'B08GS5KKQG-es'
-tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

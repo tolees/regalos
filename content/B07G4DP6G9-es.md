@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4DP6G9-es Antonio Banderas - Agua de tocador Power of Seduction 100 ml'
 sku: 'B07G4DP6G9-es'
-tags: [ 'agua','de','tocador', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

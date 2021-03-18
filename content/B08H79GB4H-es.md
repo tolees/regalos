@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H79GB4H-es ACDE 10 Piezas 13cm Decoraciones de Flores Navideñas...'
 sku: 'B08H79GB4H-es'
-tags: [ 'navidad', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

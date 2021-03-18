@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQG7TNQ-es Azhna - Juego de 10 huevos de madera para decoración del...'
 sku: 'B08HQG7TNQ-es'
-tags: [ 'navidad', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

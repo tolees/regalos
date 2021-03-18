@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000E7WGFG-es Nikos Sculpture Homme Eau de Toilette Vaporizador 100 ml'
 sku: 'B000E7WGFG-es'
-tags: [ 'eau','de','toilette', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

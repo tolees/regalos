@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814XL3RY-es Swarovski Colgante Eternal Flower Amarillo Combinación de...'
 sku: 'B0814XL3RY-es'
-tags: [ 'swarovski', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001CT0AGC-es Náutica Blue Eau de Toilette para Hombre - 100 ml.'
 sku: 'B001CT0AGC-es'
-tags: [ 'eau','de','toilette', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

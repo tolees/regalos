@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JZMALD4-es Christmas Concepts® 21 Pulgadas Azul y Plata Falda de...'
 sku: 'B01JZMALD4-es'
-tags: [ 'christmas','navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

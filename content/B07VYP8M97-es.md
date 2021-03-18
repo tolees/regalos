@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VYP8M97-es hongred - regalos originales para hombre navidad regla...'
 sku: 'B07VYP8M97-es'
-tags: [ 'navidad', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

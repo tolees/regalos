@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NVWMT4C-es SZXCX Decoraciones navideñas Lentejuelas Diadema Aro de...'
 sku: 'B08NVWMT4C-es'
-tags: [ 'navidad', ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

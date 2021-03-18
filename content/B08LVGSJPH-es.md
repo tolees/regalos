@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LVGSJPH-es ETHEL Árbol de Navidad Fieltro Naarbol Navideno de Fieltro...'
 sku: 'B08LVGSJPH-es'
-tags: [ 'navidad', ]
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

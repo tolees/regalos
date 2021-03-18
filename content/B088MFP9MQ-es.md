@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MFP9MQ-es Swarovski Collar Angelic Rectangular verde baño de rodio'
 sku: 'B088MFP9MQ-es'
-tags: [ 'swarovski', ]
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

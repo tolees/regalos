@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B92GBSP-es yoptote - Maletin Medicos Juguete - Doctora Juguetes con...'
 sku: 'B07B92GBSP-es'
-tags: [ 'navidad', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

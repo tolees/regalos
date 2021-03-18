@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8LKLND-es Libro Lámpara Tomshine Mini Lámpara Lectura Libro 12...'
 sku: 'B07W8LKLND-es'
-tags: [ 'navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

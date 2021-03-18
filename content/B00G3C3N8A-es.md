@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00G3C3N8A-es Adidas Ice Dive Eau De Toilette 100 ml'
 sku: 'B00G3C3N8A-es'
-tags: [ 'eau','de','toilette', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

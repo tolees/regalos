@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L8WSGJY-es Baztoy Batallas Robot Juguete Robotica Robot para Niños...'
 sku: 'B08L8WSGJY-es'
-tags: [ 'navidad', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

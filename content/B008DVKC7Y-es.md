@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008DVKC7Y-es CAROLINA HERRERA CH MEN - Agua de tocador vaporizador 100 ml'
 sku: 'B008DVKC7Y-es'
-tags: [ 'agua','carolina herrera','de','tocador', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFHL9KP-es GRDE - Guirnaldas Luces Exterior Solar PVC Led Solares...'
 sku: 'B08BFHL9KP-es'
-tags: [ 'navidad', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

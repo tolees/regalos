@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGBSKPL-es OBEEII Disfraz Rapunzel Niña Carnaval Vestido de Princesa...'
 sku: 'B07VGBSKPL-es'
-tags: [ 'navidad', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

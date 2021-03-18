@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DL5C7QY-es J.Rosée Mujer Colgante Collar Plata de Ley 925 Brillante...'
 sku: 'B07DL5C7QY-es'
-tags: [ 'de','ley','plata', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

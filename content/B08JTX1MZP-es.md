@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JTX1MZP-es Fontee® Caja de Música Clásico Madera Piano Mecanismo...'
 sku: 'B08JTX1MZP-es'
-tags: [ 'navidad', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

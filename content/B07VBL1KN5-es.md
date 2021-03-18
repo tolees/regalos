@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VBL1KN5-es NINAQUEEN Charm Pandora Charms Amor de Corazon Regalos...'
 sku: 'B07VBL1KN5-es'
-tags: [ 'pandora', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EU351VG-es Tuscany Silver 8.24.7042 - Pulsera de plata de ley...'
 sku: 'B00EU351VG-es'
-tags: [ 'de','ley','plata', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

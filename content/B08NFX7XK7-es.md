@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NFX7XK7-es flintronic Bolsos de Mujer Bolso Bandolera Bolso Señora...'
 sku: 'B08NFX7XK7-es'
-tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

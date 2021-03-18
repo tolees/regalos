@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074ZRMRPT-es Pandora Pendientes de aro Mujer plata - 296317CZ'
 sku: 'B074ZRMRPT-es'
-tags: [ 'pandora', ]
 actualPrice: 44.08 EUR
 currency: EUR
 price: 44.08

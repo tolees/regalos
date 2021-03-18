@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0769F7XXV-es CompraFun Máscara LED Halloween Máscara Disfraz Luminosa...'
 sku: 'B0769F7XXV-es'
-tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

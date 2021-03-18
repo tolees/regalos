@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000MJZOPK-es Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador...'
 sku: 'B000MJZOPK-es'
-tags: [ 'agua','de','tocador', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

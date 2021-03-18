@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF3RF2R-es Pandora Abalorios Mujer plata - 798049ENMX'
 sku: 'B07NF3RF2R-es'
-tags: [ 'pandora', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

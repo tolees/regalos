@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDYTCL4-es PANDORA Kit de Cuidado y Limpieza'
 sku: 'B07YDYTCL4-es'
-tags: [ 'Accesorios de joyería','Guirnaldas luminosas','Guirnaldas luminosas de interior','Iluminación','Joyería','Limpieza y cuidado de joyas','pandora', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

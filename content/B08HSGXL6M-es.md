@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HSGXL6M-es Yucch24 bolsas de regalo de Navidad con 24 etiquetas de...'
 sku: 'B08HSGXL6M-es'
-tags: [ 'adviento','navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

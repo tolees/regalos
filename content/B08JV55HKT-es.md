@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JV55HKT-es PINPOXE Adornos navideños Colgantes para árboles de...'
 sku: 'B08JV55HKT-es'
-tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

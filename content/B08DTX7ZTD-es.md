@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DTX7ZTD-es Baztoy Coche Teledirigido Alta Velocidad Coche RC 2.4GHz...'
 sku: 'B08DTX7ZTD-es'
-tags: [ 'navidad', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99
