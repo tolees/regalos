@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C6LRTRF-es Perfume para hombres marca Jaguar fragancia Eau de...'
 sku: 'B07C6LRTRF-es'
+tags: [ 'de','eau','toilette', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

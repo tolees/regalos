@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WR7KB8-es Villeroy & Boch Piemont Cubertería Para hasta 6 personas...'
 sku: 'B000WR7KB8-es'
+tags: [ '&','boch','villeroy', ]
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

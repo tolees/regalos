@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829DQWP3-es Bolsa de agua caliente de Navidad tapa extraíble de punto...'
 sku: 'B0829DQWP3-es'
+tags: [ 'navidad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

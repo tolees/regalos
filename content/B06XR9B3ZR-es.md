@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XR9B3ZR-es Cadena de Luces Mr.Twinklelight 4.5M 30 LED Solar Bola de...'
 sku: 'B06XR9B3ZR-es'
+tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

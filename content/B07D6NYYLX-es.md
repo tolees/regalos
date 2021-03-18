@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6NYYLX-es Morkka Portátil Máquina de Burbujas Soplador de Pompas de...'
 sku: 'B07D6NYYLX-es'
+tags: [ 'navidad', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

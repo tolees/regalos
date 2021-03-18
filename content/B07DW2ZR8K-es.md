@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DW2ZR8K-es ThxMadam Scrapbook Cuero Álbum de Fotos Libro de Visitas...'
 sku: 'B07DW2ZR8K-es'
+tags: [ 'navidad', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

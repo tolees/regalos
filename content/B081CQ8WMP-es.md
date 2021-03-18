@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CQ8WMP-es dressfan Animal Negro Dragón Siamese Pijamas Dragón...'
 sku: 'B081CQ8WMP-es'
+tags: [ 'navidad', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

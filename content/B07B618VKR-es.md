@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B618VKR-es VIPMOON 2x5m/32.8ft 2pcs 6803 IC Dream Magic Tira de LED...'
 sku: 'B07B618VKR-es'
+tags: [ 'navidad', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

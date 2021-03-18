@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6RB6TK-es Colgante con perlas de plata de ley 925 Abalorio...'
 sku: 'B07D6RB6TK-es'
+tags: [ 'de','ley','plata', ]
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TD21MGJ-es AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas...'
 sku: 'B07TD21MGJ-es'
+tags: [ 'navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

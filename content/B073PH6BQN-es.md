@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073PH6BQN-es Swarovski Colgante Zodiac Tauro Lila de Mujer Baño de Rodio'
 sku: 'B073PH6BQN-es'
+tags: [ 'swarovski', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

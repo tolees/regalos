@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BK34NG9-es AmzBarley Princesa Vestido Disfraz Traje Reina de Nieve...'
 sku: 'B07BK34NG9-es'
+tags: [ 'navidad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

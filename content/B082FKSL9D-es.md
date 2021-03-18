@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FKSL9D-es IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa con...'
 sku: 'B082FKSL9D-es'
+tags: [ 'navidad', ]
 actualPrice: 11.15 EUR
 currency: EUR
 price: 11.15

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G34CC5T-es Luces de Proyector de Navidad Proyector de Nieve LED con...'
 sku: 'B07G34CC5T-es'
+tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

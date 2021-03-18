@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGFBW9C-es Cortina de Luces LED USB Zorara 3x3 m 300 LEDs 8 Modos...'
 sku: 'B07XGFBW9C-es'
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

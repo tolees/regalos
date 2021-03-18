@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R6CX3F-es Nos sentido decantador de vino aireador para Navidad y...'
 sku: 'B075R6CX3F-es'
+tags: [ 'navidad', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

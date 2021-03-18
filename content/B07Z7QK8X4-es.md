@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7QK8X4-es Finether Luz de Proyector LED Océano Decoración Interiores...'
 sku: 'B07Z7QK8X4-es'
+tags: [ 'navidad', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

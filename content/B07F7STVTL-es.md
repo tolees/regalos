@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7STVTL-es Pendientes de plata de ley con diseño de calavera'
 sku: 'B07F7STVTL-es'
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

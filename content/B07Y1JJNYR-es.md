@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1JJNYR-es Luces de Cadena de Cortina 3M x2M Cortina de Luces LED 198...'
 sku: 'B07Y1JJNYR-es'
+tags: [ 'navidad', ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814Z1TTX-es Swarovski Colgante Symbol de Mujer Oro Amarillo Cristal...'
 sku: 'B0814Z1TTX-es'
+tags: [ 'swarovski', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

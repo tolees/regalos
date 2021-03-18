@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BAG38G-es Jean Paul Gaultier Le Male Eau De Toilette Spray 125 ml'
 sku: 'B001BAG38G-es'
+tags: [ 'de','eau','toilette', ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

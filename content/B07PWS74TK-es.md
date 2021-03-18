@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWS74TK-es Axcer LED Zapatos Verano Ligero Transpirable Bajo 7...'
 sku: 'B07PWS74TK-es'
+tags: [ 'navidad', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0822VCS8Z-es OwlFay Disfraz de Princesa Frozen Elsa Vestido Ana Reino...'
 sku: 'B0822VCS8Z-es'
+tags: [ 'navidad', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

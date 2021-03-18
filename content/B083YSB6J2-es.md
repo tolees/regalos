@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083YSB6J2-es qingqingR Christmas Deer 5D DIY Full Diamond Painting...'
 sku: 'B083YSB6J2-es'
+tags: [ 'christmas', ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

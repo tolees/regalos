@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFMKZS7-es Pulsera de mujer pulsera con cuentas en plata de ley 925...'
 sku: 'B07FFMKZS7-es'
+tags: [ 'de','ley','plata', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

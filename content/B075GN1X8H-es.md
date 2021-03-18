@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GN1X8H-es Pendientes J.Rosée Pendiente Mujer Perla de Agua Dulce...'
 sku: 'B075GN1X8H-es'
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

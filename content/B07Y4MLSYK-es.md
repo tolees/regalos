@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4MLSYK-es Luces de Proyector de Navidad Luz de Proyección 2 in 1...'
 sku: 'B07Y4MLSYK-es'
+tags: [ 'navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

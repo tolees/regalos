@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WVWNXF-es OwlFay Disfraz Niñas Princesa Vestidos de Carnaval Fiesta...'
 sku: 'B082WVWNXF-es'
+tags: [ 'navidad', ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L32Q5SU-es Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette...'
 sku: 'B00L32Q5SU-es'
+tags: [ 'de','eau','toilette', ]
 actualPrice: 31.89 EUR
 currency: EUR
 price: 31.89

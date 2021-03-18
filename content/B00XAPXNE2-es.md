@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAPXNE2-es POLIL colgador antipolillas aroma agua de colonia paquete...'
 sku: 'B00XAPXNE2-es'
+tags: [ 'agua','colonia','de', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075V1TQPB-es Cadena de Luces YWTESCH Luz Solar de Cadena 12 LEDs...'
 sku: 'B075V1TQPB-es'
+tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

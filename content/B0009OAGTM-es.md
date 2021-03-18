@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAGTM-es Calvin Klein Escape Agua de perfume para mujeres - 100 ml.'
 sku: 'B0009OAGTM-es'
+tags: [ 'agua','de','perfume', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

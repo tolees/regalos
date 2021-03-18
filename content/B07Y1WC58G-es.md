@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1WC58G-es EKKONG Explosion Box Christmas Explosion Box Creativo DIY...'
 sku: 'B07Y1WC58G-es'
+tags: [ 'christmas','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

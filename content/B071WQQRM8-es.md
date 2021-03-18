@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WQQRM8-es Pandora Brazalete Mujer plata - 596438CZ-1'
 sku: 'B071WQQRM8-es'
+tags: [ 'pandora', ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

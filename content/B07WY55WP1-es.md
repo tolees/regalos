@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WY55WP1-es Lydreewam Pendientes aro Colgantes De Luna Plata de Ley...'
 sku: 'B07WY55WP1-es'
+tags: [ 'de','ley','plata', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

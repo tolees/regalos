@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1ZFKW-es Yves Saint Laurent Paris Eau de Toilette Vaporizador 75 ml'
 sku: 'B000C1ZFKW-es'
+tags: [ 'de','eau','toilette', ]
 actualPrice: 49.17 EUR
 currency: EUR
 price: 49.17
