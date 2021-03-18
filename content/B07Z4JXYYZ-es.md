@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4JXYYZ-es WisFox Explosion Box Creativo DIY Hecho a Mano Sorpresa...'
 sku: 'B07Z4JXYYZ-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

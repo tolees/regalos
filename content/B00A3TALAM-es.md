@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3TALAM-es Thierry Mugler Angel Agua de perfume Vaporizador...'
 sku: 'B00A3TALAM-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

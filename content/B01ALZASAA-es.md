@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ALZASAA-es UTOQIA Collar Drop Plata de Ley 925 milésimas'
 sku: 'B01ALZASAA-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 45.43 EUR
 currency: EUR
 price: 45.43

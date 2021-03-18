@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013FKSIA-es Boucheron Jaipur Homme Eau de Toilette Vaporizador 100 ml'
 sku: 'B0013FKSIA-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

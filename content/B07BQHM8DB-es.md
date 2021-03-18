@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQHM8DB-es Luz de decoración con forma de letrero de neón LED...'
 sku: 'B07BQHM8DB-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

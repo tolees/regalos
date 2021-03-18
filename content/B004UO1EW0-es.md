@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004UO1EW0-es Tous Touch Eau de Toilette Vaporizador 30 ml'
 sku: 'B004UO1EW0-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

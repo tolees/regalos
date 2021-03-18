@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGGPS8G-es Papel Transparante de Regalo Rollo de Celofán de 20m x...'
 sku: 'B08CGGPS8G-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

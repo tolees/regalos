@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RVBR7L2-es Lictin 5 Pares Pendientes en Oro Largos Pendientes Mujer...'
 sku: 'B07RVBR7L2-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

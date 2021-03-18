@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZ7DKZ9-es Navidad Moños y Cintas 12 PCS Christmas Gift Pull Bows...'
 sku: 'B07XZ7DKZ9-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','christmas','navidad', ]
+tags: [ 'christmas','navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

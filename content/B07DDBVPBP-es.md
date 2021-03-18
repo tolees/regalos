@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDBVPBP-es TABAC ORIGINAL Agua De Colonia Para Hombres 1 Unidad 100 ml'
 sku: 'B07DDBVPBP-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

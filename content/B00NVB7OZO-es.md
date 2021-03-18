@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NVB7OZO-es XMASKING Estrella Cometa de 95 cm en Tubo Luminoso 108 LED...'
 sku: 'B00NVB7OZO-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

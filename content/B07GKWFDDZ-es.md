@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKWFDDZ-es NUÜR Luz de Neón Estrella Lunar LED Señales Luminosas Neón...'
 sku: 'B07GKWFDDZ-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

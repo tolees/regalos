@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FW3T8GD-es Swarovski Conjunto Vintage Rosa Baño en Tono Oro Rosa'
 sku: 'B07FW3T8GD-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

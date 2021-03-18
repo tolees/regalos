@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYYFQ8M-es Feketeuki Colorido árbol de Navidad de Navidad Luz LED...'
 sku: 'B07ZYYFQ8M-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 0.71 EUR
 currency: EUR
 price: 0.71

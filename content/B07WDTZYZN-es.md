@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDTZYZN-es Proyector Navidad LED FOCHEA Luces de Proyector Interior y...'
 sku: 'B07WDTZYZN-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

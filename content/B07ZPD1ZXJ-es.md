@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPD1ZXJ-es Westend - Zapatillas de Navidad para Hombre patrón nórdico'
 sku: 'B07ZPD1ZXJ-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

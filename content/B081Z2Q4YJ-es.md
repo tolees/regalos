@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Z2Q4YJ-es Disfraz Elsa Frozen Niñas con Capa Princesa Ana Vestido...'
 sku: 'B081Z2Q4YJ-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

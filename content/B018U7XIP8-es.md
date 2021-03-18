@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018U7XIP8-es LE Cortina de Luces LED con Enchufe 3x3m 306 LED Luz...'
 sku: 'B018U7XIP8-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

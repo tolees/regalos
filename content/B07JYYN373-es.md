@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYYN373-es Funda mapa mundi ideal para agendas 2020 Regalo Original...'
 sku: 'B07JYYN373-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

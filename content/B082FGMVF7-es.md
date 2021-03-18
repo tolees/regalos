@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FGMVF7-es IWEMEK Disfraz Elsa Frozen 2 Vestido de Princesa con...'
 sku: 'B082FGMVF7-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 22.55 EUR
 currency: EUR
 price: 22.55

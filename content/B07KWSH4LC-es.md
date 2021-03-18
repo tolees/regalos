@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWSH4LC-es PROACC Juego de 8 Coches Dinosaurios plástico Tire hacia...'
 sku: 'B07KWSH4LC-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

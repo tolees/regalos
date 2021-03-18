@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PY1RDA-es First American Brands Love Is just The Two Of Us Eau De...'
 sku: 'B000PY1RDA-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

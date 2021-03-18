@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN2VV1V-es EKKONG Explosion Box Scrapbook Creative DIY Photo Album de...'
 sku: 'B07GN2VV1V-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

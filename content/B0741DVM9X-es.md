@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0741DVM9X-es Swarovski Timeless Remix Collection Azul baño de rodio'
 sku: 'B0741DVM9X-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

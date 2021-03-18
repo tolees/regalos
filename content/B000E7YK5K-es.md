@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E7YK5K-es Armani Acqua Di Gio Homme Eau de Toilette Vaporizador 100 ml'
 sku: 'B000E7YK5K-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

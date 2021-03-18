@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2QHXH2-es Jesús Del Pozo Halloween Shot Man Agua de Tocador - 125 ml'
 sku: 'B01N2QHXH2-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 22.27 EUR
 currency: EUR
 price: 22.27

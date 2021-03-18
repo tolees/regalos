@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IU33VY0-es Swarovski Pulsera Angelic de Mujer verde Baño de Rodio'
 sku: 'B01IU33VY0-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

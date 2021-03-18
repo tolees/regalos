@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5X3M9T-es The Nightmare Before Christmas Nightmare Before Christmas:...'
 sku: 'B07M5X3M9T-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

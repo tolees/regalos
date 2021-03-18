@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3ZMY6Q-es PLAYMOBIL Calendario de Adviento Navidad en el Bosque A...'
 sku: 'B07B3ZMY6Q-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','adviento','navidad', ]
+tags: [ 'adviento','navidad', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZA9W2ZC-es Lancôme La Vie Est Belle Intense Agua de Perfume - 30 ml'
 sku: 'B00ZA9W2ZC-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 32.75 EUR
 currency: EUR
 price: 32.75

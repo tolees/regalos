@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKQ4C8V-es Hermès Agua de perfume para hombres - 50 ml.'
 sku: 'B07FKQ4C8V-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

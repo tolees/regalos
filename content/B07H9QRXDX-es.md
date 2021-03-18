@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9QRXDX-es RGBW LED Strip Super Night [Only LED Strip Lights] SMD...'
 sku: 'B07H9QRXDX-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

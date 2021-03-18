@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWRLVVP-es Amilril Perla Collar Colgante Mujer Plata de Ley 925...'
 sku: 'B07QWRLVVP-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

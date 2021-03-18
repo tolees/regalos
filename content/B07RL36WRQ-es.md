@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RL36WRQ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 Circonita...'
 sku: 'B07RL36WRQ-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

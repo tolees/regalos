@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7TBBXG-es 5M Luces de neón el Alambre con Controlador Box Alambre...'
 sku: 'B07K7TBBXG-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

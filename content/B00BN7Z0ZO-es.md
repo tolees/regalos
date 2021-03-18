@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7Z0ZO-es COURREGES EAU DE COURRÈGES agua de tocador vaporizador 50 ml'
 sku: 'B00BN7Z0ZO-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008V8ISEI-es Villeroy & Boch Toy s Delight "Breakfast for Two" Servicio...'
 sku: 'B008V8ISEI-es'
-tags: [ '&','Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','boch','villeroy', ]
+tags: [ '&','boch','villeroy', ]
 actualPrice: 52.75 EUR
 currency: EUR
 price: 52.75

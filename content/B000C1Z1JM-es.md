@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1Z1JM-es Loris Azzaro Eau de Toilette para Hombre - 100 ml.'
 sku: 'B000C1Z1JM-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

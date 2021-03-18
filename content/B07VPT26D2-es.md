@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPT26D2-es GoMaihe Hiedra Artificial Guirnalda Planta 24pcs Plantas...'
 sku: 'B07VPT26D2-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

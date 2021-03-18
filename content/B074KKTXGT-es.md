@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KKTXGT-es Swarovski Remix Collection Strand Infinity baño en Tono...'
 sku: 'B074KKTXGT-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

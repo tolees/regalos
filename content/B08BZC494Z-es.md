@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZC494Z-es 3d led night 3d illusion light Ciclismo Night Light para...'
 sku: 'B08BZC494Z-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

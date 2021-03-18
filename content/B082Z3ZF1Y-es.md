@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Z3ZF1Y-es Princesa Disfraz Ana Elsa Frozen Niña Princesa Anna...'
 sku: 'B082Z3ZF1Y-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JKK6L6-es Bom Bom Bebe Navidad Pelele para Dormir Monos Bodies Manga...'
 sku: 'B075JKK6L6-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

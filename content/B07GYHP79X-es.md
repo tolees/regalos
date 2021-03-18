@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYHP79X-es LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante...'
 sku: 'B07GYHP79X-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SQ19AO-es Issey Miyake A Scent by Issey Miyake - Agua de tocador...'
 sku: 'B002SQ19AO-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

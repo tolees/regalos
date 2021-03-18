@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GH6FYXV-es The Nightmare Before Christmas - Notebook Premium...'
 sku: 'B07GH6FYXV-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

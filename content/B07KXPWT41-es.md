@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXPWT41-es Luces de cadena LED copo de nieve Iluminación LED...'
 sku: 'B07KXPWT41-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

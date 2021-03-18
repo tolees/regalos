@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJRD36T-es AUOPLUS 30M 300 LED Guirnalda Luz Exterior Solar Cadena de...'
 sku: 'B07YJRD36T-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

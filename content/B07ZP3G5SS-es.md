@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP3G5SS-es LuckyGirls Calcetines de algodón Estampados de Dibujos...'
 sku: 'B07ZP3G5SS-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

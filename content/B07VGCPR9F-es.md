@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGCPR9F-es OBEEII Disfraz Princesa para Niñas Costume Princesa Reino...'
 sku: 'B07VGCPR9F-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZG6SJG-es J.Rosée Pendientes Mujer Plata de Ley 925 [Buena Suerte]...'
 sku: 'B07BZG6SJG-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','navidad','plata', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

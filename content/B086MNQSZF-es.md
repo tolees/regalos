@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086MNQSZF-es YO-HAPPY Kids Photo Use Medias Navidad Cosplay Party Use...'
 sku: 'B086MNQSZF-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L49TFD7-es Carpa De Ensueño Carpa Para Cama，Carpa Cojin Molon，Carpa...'
 sku: 'B07L49TFD7-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

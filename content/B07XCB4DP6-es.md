@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCB4DP6-es GHONLZIN Máscaras LED Máscara de Halloween LED Glow Scary...'
 sku: 'B07XCB4DP6-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLKY3HK-es Swarovski Pendientes de botón Attract de Mujer rojo Baño...'
 sku: 'B07SLKY3HK-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

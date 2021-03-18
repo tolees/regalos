@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZB5JK6Z-es Ramo Flores Rosa Chapada en Oro Ramo Rosa Artificiales de...'
 sku: 'B07ZB5JK6Z-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

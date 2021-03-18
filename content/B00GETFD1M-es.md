@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GETFD1M-es American Crew Nine Agua De Perfume Hombre - 75 ml.'
 sku: 'B00GETFD1M-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

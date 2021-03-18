@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HMVDQQX-es Juego de pluma de cristal para firmar y escribir en...'
 sku: 'B07HMVDQQX-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

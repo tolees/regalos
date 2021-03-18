@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAIR71E-es Aire de Sevilla Set de Belleza Edición Azul Fresh - Crema...'
 sku: 'B00XAIR71E-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

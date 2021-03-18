@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0784XFYFC-es Regalo de navidad para hombre amigo cervezas del mundo...'
 sku: 'B0784XFYFC-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

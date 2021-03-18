@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBX13MB-es Amaza 36 Pcs Globos Led Decoracion Cumpleaños Boda Fiesta...'
 sku: 'B07DBX13MB-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

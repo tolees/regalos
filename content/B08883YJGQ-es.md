@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08883YJGQ-es Crystals & Stones BAP39 - Pendientes de plata de ley 925...'
 sku: 'B08883YJGQ-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','ley','plata','swarovski', ]
+tags: [ 'de','ley','plata','swarovski', ]
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SCDK73-es WEMEK Niñas Disfraz de Princesa Elsa con Capa Frozen Anna...'
 sku: 'B082SCDK73-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

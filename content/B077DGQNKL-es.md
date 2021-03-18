@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077DGQNKL-es Diy pintura al óleo por número Kit pintura Paintworks Sea...'
 sku: 'B077DGQNKL-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WTQGNTA-es Flongo Brazalete Pulsera Pareja Novios Pulsera Acero...'
 sku: 'B00WTQGNTA-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

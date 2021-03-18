@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BZD73S-es CAROLINA HERRERA 212 eau de toilette 30ML'
 sku: 'B072BZD73S-es'
-tags: [ 'Abalorios para mujer','Dijes para mujer','Joyería','Joyería para mujer','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95
