@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WC8ZV4-es feihao Velas Perfumadas Velas Aromaticas Cera de Soja...'
 sku: 'B089WC8ZV4-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

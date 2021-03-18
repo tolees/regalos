@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDCQCCM-es Zadig & Voltaire Agua de perfume para mujeres - 50 ml.'
 sku: 'B07DDCQCCM-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 45.8 EUR
 currency: EUR
 price: 45.8

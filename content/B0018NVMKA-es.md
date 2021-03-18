@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0018NVMKA-es DKNY men - Eau de Toilette Energizing 100 ml'
 sku: 'B0018NVMKA-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

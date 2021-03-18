@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000P20RPQ-es Bulgari Agua de tocador para hombres Soir - 100 ml.'
 sku: 'B000P20RPQ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

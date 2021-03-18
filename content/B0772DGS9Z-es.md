@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0772DGS9Z-es Amaza 100pcs Etiquetas de Papel Kraft Árbol de Navidad...'
 sku: 'B0772DGS9Z-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

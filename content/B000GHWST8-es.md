@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GHWST8-es Calvin Klein Euphoria Eau de Toilette Vaporizador 50 ml'
 sku: 'B000GHWST8-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 35.36 EUR
 currency: EUR
 price: 35.36

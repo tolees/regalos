@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZM4LSQR-es Botella calefactora de microondas Bolsa de agua caliente...'
 sku: 'B07ZM4LSQR-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

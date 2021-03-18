@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGX8ZDY-es 14 Pack luz de Botella Kolpop luz Corcho 20PCS Baterías...'
 sku: 'B07WGX8ZDY-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

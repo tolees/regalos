@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MNYBPP-es DREAMWIN Capa de Superhéroe 5 Capa y Máscaras y Pulseras...'
 sku: 'B082MNYBPP-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

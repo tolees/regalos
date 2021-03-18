@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7PVRGH-es Thomas Sabo Colgante Charm con Cierre para Mujer " Vintage...'
 sku: 'B07F7PVRGH-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

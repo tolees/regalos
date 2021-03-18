@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKZ7ZF4-es OBEEII Disfraz Rapunzel Niña Carnaval Vestido de Princesa...'
 sku: 'B07VKZ7ZF4-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

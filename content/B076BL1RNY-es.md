@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BL1RNY-es Peluche Amor Pájaros En Un Corazón Bead Charm – para...'
 sku: 'B076BL1RNY-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','pandora','plata', ]
+tags: [ 'de','ley','pandora','plata', ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

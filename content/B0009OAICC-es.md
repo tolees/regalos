@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAICC-es Estee Lauder 2617 - Agua de perfume'
 sku: 'B0009OAICC-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 49.75 EUR
 currency: EUR
 price: 49.75

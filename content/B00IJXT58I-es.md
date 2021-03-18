@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IJXT58I-es Calvin Klein Endless Euphoria Agua de perfume Vaporizador...'
 sku: 'B00IJXT58I-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 66.19 EUR
 currency: EUR
 price: 66.19

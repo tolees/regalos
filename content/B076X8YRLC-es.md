@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X8YRLC-es Cacharel Agua de perfume para mujeres - 30 ml.'
 sku: 'B076X8YRLC-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

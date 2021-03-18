@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DZPHAZA-es Calvin Klein Euphoria Men - Agua de tocador vaporizador...'
 sku: 'B00DZPHAZA-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

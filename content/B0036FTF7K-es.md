@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036FTF7K-es Shiseido 19650 - Agua de colonia 100 ml'
 sku: 'B0036FTF7K-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

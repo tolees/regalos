@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K9QZW2A-es Swarovski Colgante Iconic Swan Baño de Rodio'
 sku: 'B01K9QZW2A-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 56.33 EUR
 currency: EUR
 price: 56.33

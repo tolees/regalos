@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAGS8-es Paco Rabanne Paco Rabanne Homme Eau de Toilette...'
 sku: 'B0009OAGS8-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

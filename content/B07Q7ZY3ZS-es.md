@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7ZY3ZS-es Amilril Collar Plata de Ley 925 Moda Joyería Navidad Joyas...'
 sku: 'B07Q7ZY3ZS-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','navidad','plata', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

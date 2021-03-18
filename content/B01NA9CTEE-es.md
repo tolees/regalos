@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NA9CTEE-es Lychee Solar Powered 3 5m 10 LED Luces de cuerda de hadas...'
 sku: 'B01NA9CTEE-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

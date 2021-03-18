@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHCQ5Z1-es 3D Lámpara de Escritorio Win-Y LED 7 del tacto del color...'
 sku: 'B07DHCQ5Z1-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

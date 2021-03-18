@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFVVZJV-es Hielo anal plug Christmas Tree silicona tierna...'
 sku: 'B07BFVVZJV-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

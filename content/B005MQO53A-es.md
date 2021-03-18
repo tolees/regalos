@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005MQO53A-es Trussardi Uomo Eau de Toilette Vaporizador 100 ml'
 sku: 'B005MQO53A-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYHM5T5-es D.Perlla Pendientes Perla Mujer Circonita Joyas Diamante...'
 sku: 'B07JYHM5T5-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

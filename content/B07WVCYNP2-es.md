@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVCYNP2-es 2 Piezas Coches Juguete Flyfun Coches para Niños Tire...'
 sku: 'B07WVCYNP2-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

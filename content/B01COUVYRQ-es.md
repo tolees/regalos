@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01COUVYRQ-es BAMOER Plata de ley 925/1000'
 sku: 'B01COUVYRQ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

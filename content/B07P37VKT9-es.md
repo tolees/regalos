@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P37VKT9-es ANGEL NINA Regalos Navidad Mujer pendientes mujer plata...'
 sku: 'B07P37VKT9-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad','swarovski', ]
+tags: [ 'navidad','swarovski', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

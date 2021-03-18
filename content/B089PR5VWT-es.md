@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089PR5VWT-es Pendientes Mujer con piedra de nacimiento Plata de Ley 925...'
 sku: 'B089PR5VWT-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

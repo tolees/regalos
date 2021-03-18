@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVKM1N4-es Sony Pack Navidad 2019 BD - 20 discos [Blu-ray]'
 sku: 'B07YVKM1N4-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NRLPP3-es Juegos Consola de Videojuegos - Pandora Box 11 3001 in 1...'
 sku: 'B085NRLPP3-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','pandora', ]
+tags: [ 'pandora', ]
 actualPrice: 128.0 EUR
 currency: EUR
 price: 128.0

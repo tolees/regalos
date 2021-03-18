@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAGX8-es Ralph Lauren 2706 - Agua de colonia'
 sku: 'B0009OAGX8-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

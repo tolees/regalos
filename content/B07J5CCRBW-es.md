@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5CCRBW-es AmzBarley Disfraz Princesa Vestido de Traje Niñas de...'
 sku: 'B07J5CCRBW-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

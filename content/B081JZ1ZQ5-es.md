@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JZ1ZQ5-es Camara Fotos Infantil Cámara de Fotos para Niños con HD...'
 sku: 'B081JZ1ZQ5-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

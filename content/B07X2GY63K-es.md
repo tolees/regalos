@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2GY63K-es Unigoods 24 Piezas Bolas de Navidad 6 cm Bolas de árbol de...'
 sku: 'B07X2GY63K-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

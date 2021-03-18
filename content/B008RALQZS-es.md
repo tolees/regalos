@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008RALQZS-es Ted Lapidus Black Extreme Eau de Toilette Vaporizador 100 ml'
 sku: 'B008RALQZS-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IBGUF2I-es Tuscany Silver 8.43.6544 - Cadena con colgante de plata de...'
 sku: 'B00IBGUF2I-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CNKC62-es Cartier Declaration Eau de Toilette Vaporizador 100 ml'
 sku: 'B000CNKC62-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 43.2 EUR
 currency: EUR
 price: 43.2

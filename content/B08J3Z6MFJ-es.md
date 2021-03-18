@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08J3Z6MFJ-es Decdeal Adornos Árbol Navidad Colgantes Muñeco de Nieve...'
 sku: 'B08J3Z6MFJ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

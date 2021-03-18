@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JO7LEPU-es Montblanc Emblem Agua de Tocador - 100 ml'
 sku: 'B00JO7LEPU-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','tocador', ]
+tags: [ 'agua','de','tocador', ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NVB7OZO-es XMASKING Estrella Cometa de 95 cm en Tubo Luminoso 108 LED...'
 sku: 'B00NVB7OZO-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

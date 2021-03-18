@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WIB28C-es Elli Collares de Tanque con Colgante Tortuga en plata de...'
 sku: 'B007WIB28C-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RVBR7L2-es Lictin 5 Pares Pendientes en Oro Largos Pendientes Mujer...'
 sku: 'B07RVBR7L2-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

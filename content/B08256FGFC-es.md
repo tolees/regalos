@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08256FGFC-es OBEEII 6PCS Disfraz de Princesa Elsa Niñas Carnaval Traje...'
 sku: 'B08256FGFC-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

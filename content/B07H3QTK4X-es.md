@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3QTK4X-es Dolce & Gabbana Agua de perfume para mujeres - 50 ml.'
 sku: 'B07H3QTK4X-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 51.7 EUR
 currency: EUR
 price: 51.7

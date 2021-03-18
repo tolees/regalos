@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFSPGBR-es DazSpirit 24 Calendario De Adviento Navidad Bolsa De...'
 sku: 'B08DFSPGBR-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','adviento','navidad', ]
+tags: [ 'adviento','navidad', ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

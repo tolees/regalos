@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074C3THZN-es Jean Paul Gaultier Classique Agua de Perfume - 100 ml'
 sku: 'B074C3THZN-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

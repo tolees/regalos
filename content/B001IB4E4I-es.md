@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001IB4E4I-es Bvlgari BLV POUR HOMME 47028 - Eau de toilette para hombre...'
 sku: 'B001IB4E4I-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

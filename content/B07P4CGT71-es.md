@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4CGT71-es TOJEAN Amor Maternal Colgantes Joyeria Mujer Plata de ley...'
 sku: 'B07P4CGT71-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

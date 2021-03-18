@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJN1XB9-es Polvo Acrilico para Uñas Purpurina Cara Glitter para Uñas...'
 sku: 'B07DJN1XB9-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

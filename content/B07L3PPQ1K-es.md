@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3PPQ1K-es luz nocturna infantil Tianhaixing LED Silicona blanda...'
 sku: 'B07L3PPQ1K-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

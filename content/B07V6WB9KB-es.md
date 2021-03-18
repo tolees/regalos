@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6WB9KB-es J.Endéar Pulsera Forma de Inicial A Plata de Ley 925...'
 sku: 'B07V6WB9KB-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

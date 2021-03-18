@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPVDQVF-es Pintura Cara Lenbest Pintura Facial Pintura Facial y...'
 sku: 'B07RPVDQVF-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

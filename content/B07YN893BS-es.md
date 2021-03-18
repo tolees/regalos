@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YN893BS-es Dekora Calendario de Adviento para Niños de Chocolate de...'
 sku: 'B07YN893BS-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','adviento', ]
+tags: [ 'adviento', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

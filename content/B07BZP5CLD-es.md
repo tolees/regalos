@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZP5CLD-es J.Rosée Collares Mujer Colgante Plata de Ley 925 La...'
 sku: 'B07BZP5CLD-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','navidad','plata', ]
+tags: [ 'de','ley','navidad','plata', ]
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

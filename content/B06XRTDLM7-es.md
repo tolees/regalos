@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRTDLM7-es Cadena de Luces Mr.Twinklelight 4.5M 30 LED Solar Bola de...'
 sku: 'B06XRTDLM7-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

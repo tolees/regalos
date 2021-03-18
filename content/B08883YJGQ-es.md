@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08883YJGQ-es Crystals & Stones BAP39 - Pendientes de plata de ley 925...'
 sku: 'B08883YJGQ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata','swarovski', ]
+tags: [ 'de','ley','plata','swarovski', ]
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

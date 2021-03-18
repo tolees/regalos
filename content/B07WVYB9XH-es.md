@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVYB9XH-es Zorara Cortina de Luces LED Navidad 3m x 3m Cortina Luces...'
 sku: 'B07WVYB9XH-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

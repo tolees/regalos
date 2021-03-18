@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6L7VPN-es URAQT Disfraz de Princesa Traje del Vestido Traje de...'
 sku: 'B07R6L7VPN-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

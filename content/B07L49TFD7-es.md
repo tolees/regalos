@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L49TFD7-es Carpa De Ensueño Carpa Para Cama，Carpa Cojin Molon，Carpa...'
 sku: 'B07L49TFD7-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

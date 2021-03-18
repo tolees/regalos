@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018URHWCS-es Kenzo Agua de perfume para hombres - 50 ml.'
 sku: 'B018URHWCS-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

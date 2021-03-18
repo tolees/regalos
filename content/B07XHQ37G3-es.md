@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHQ37G3-es 12 rollos de cinta adhesiva con purpurina y 1 rollo de 10...'
 sku: 'B07XHQ37G3-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

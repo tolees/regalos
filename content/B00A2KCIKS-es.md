@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A2KCIKS-es DOLCE & GABBANA POUR FEMME - Agua de perfume vaporizador...'
 sku: 'B00A2KCIKS-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 32.24 EUR
 currency: EUR
 price: 32.24

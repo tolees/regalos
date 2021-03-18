@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KYXJLT-es IWEMEK Disfraz Anna Frozen Niña Vestido de Princesa Ana...'
 sku: 'B082KYXJLT-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000IOSJ42-es Calvin Klein Contradiction - Agua de perfume para mujeres...'
 sku: 'B000IOSJ42-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 26.62 EUR
 currency: EUR
 price: 26.62

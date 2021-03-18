@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X57JPR1-es Rotuladores Acrílicos de Pintura Piedras Rotuladores de...'
 sku: 'B07X57JPR1-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

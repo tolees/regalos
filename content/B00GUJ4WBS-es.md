@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GUJ4WBS-es Michael Kors 55703 - Agua de perfume 100 ml'
 sku: 'B00GUJ4WBS-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 51.43 EUR
 currency: EUR
 price: 51.43

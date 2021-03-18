@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOHQA2-es Vanderbilt Eau De Toilette Con Vaporizador 100 ml'
 sku: 'B000VOHQA2-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKBVVHN-es Pendientes de plata de ley 925 con diseño de caballo de...'
 sku: 'B07XKBVVHN-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','ley','plata', ]
+tags: [ 'de','ley','plata', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNKZZ7D-es Aitsite Bolas de Navidad 6 cm Bolas de árbol de Navidad...'
 sku: 'B07VNKZZ7D-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

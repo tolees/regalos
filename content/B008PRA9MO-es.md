@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008PRA9MO-es Hugo Boss 38882 - Agua de perfume'
 sku: 'B008PRA9MO-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','de','perfume', ]
+tags: [ 'agua','de','perfume', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

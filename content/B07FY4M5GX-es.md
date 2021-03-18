@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY4M5GX-es Swarovski Collar Louison de Mujer Blanco Baño de Rodio'
 sku: 'B07FY4M5GX-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','swarovski', ]
+tags: [ 'swarovski', ]
 actualPrice: 149.5 EUR
 currency: EUR
 price: 149.5

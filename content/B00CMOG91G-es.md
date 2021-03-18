@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CMOG91G-es Bvlgari Aqua Eau de Toilette Para Hombre con Vaporizador...'
 sku: 'B00CMOG91G-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 71.43 EUR
 currency: EUR
 price: 71.43

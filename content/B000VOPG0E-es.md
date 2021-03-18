@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOPG0E-es Dolce & Gabbana 18358 - Agua de colonia'
 sku: 'B000VOPG0E-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

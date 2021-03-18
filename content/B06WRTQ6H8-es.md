@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WRTQ6H8-es Pack Disney The Nightmare Before Christmas - Chapas...'
 sku: 'B06WRTQ6H8-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','christmas', ]
+tags: [ 'christmas', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

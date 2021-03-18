@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082DW7NP6-es OBEEII Anna Frozen Disfraz Princesa Ana Elsa Cosplay...'
 sku: 'B082DW7NP6-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

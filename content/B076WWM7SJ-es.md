@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076WWM7SJ-es Amaza 150pcs Etiquetas de Papel Kraft 7cm x 2cm Gift Tags...'
 sku: 'B076WWM7SJ-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','navidad', ]
+tags: [ 'navidad', ]
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

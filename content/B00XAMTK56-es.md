@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAMTK56-es Gotas de Mayfer 62628 - Agua de colonia 1000 ml'
 sku: 'B00XAMTK56-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','agua','colonia','de', ]
+tags: [ 'agua','colonia','de', ]
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

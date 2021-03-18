@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JGO1J74-es Tocade Rochas - Eau de toilette vaporizador para mujer 100 ml'
 sku: 'B00JGO1J74-es'
-tags: [ 'Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Guirnaldas luminosas de interior','Iluminación','de','eau','toilette', ]
+tags: [ 'de','eau','toilette', ]
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25
