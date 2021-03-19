@@ -28,10 +28,10 @@ Tienes [B.Catcher Pendientes Mujer Plata de Ley 925   Eres la luz de mis ojos   
 
 ℹ️:
 
-- ♥Regalos ideales para las Mujeres♥ Grandes regalos para las mujeres, regalos para la mamá, regalos para la suegra, regalos para la esposa, regalos para la hija, regalos para la tía, regalos para el mejor amigo, etc. Regalos de cumpleaños ideales, regalos del aniversario, regalos de la Navidad, regalos de la graduación, regalos del día de madre, el etc.
-- ♥Garantía♥ Si cualquier problema de la calidad, puede intercambiar el nuevo con el mismo tipo, dentro de los 180 días después de la recepción de ella.
-- ♥Tamaño♥ Material:Plata de Ley 925, Zirconia cúbica. Pendientes dimensión: 1.22*1.22 cm.
 - ♥Atención♥ B.Catcher lanza nuevas colecciones atrevidos, glamurosos y modernos, ofreciendo así alternativas para todas las necesidades y gustos. mientras tanto, por favor amablemente comprobar el tamaño antes de comprar.
+- ♥Tamaño♥ Material:Plata de Ley 925, Zirconia cúbica. Pendientes dimensión: 1.22*1.22 cm.
+- ♥Regalos ideales para las Mujeres♥ Grandes regalos para las mujeres, regalos para la mamá, regalos para la suegra, regalos para la esposa, regalos para la hija, regalos para la tía, regalos para el mejor amigo, etc. Regalos de cumpleaños ideales, regalos del aniversario, regalos de la Navidad, regalos de la graduación, regalos del día de madre, el etc.
 - ♥Diseñar♥ Te envío B.Catcher Doble Estrella Pendientes de tus ojos son las estrellas más bellas .
+- ♥Garantía♥ Si cualquier problema de la calidad, puede intercambiar el nuevo con el mismo tipo, dentro de los 180 días después de la recepción de ella.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XCH64Y5/?tag=tolees-21)
