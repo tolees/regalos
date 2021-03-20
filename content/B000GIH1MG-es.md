@@ -29,8 +29,8 @@ Está [Narcisio Rodriguez - Narciso Rodriguez 140434 - Agua de tocador vaporizad
 ℹ️:
 
 - De la marca Narciso Rodriguez.
-- Las notas olfativas principales de este producto son floral y afrutado.
 - Este producto está indicado para mujeres.
 - Contiene 100 ml.
+- Las notas olfativas principales de este producto son floral y afrutado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000GIH1MG/?tag=tolees-21)
