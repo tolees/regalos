@@ -28,10 +28,10 @@ Está [BRIMAX G40 Cadena de Luces Impermeable IP45 50ft  Guirnaldas Luminosas de
 
 ℹ️:
 
+- 【Múltiples Hilos Conectables】Cada luz de cadena está equipada con interfaces al principio y al final, puede conectar directamente varias cadenas de luces en la misma cadena, máximo 10 cuerdas , siéntase libre de personalizar sus arreglos.
+- 【Ahorro de Enería】BRIMAX G40 luces de gadena ahorra más del 90% de energía sobre la lámpara incandescente. La larga vida útil de las últimas 30,000 horas puede reducir los costos de mantenimiento al cambiar las bombillas con frecuencia.
 - 【Fácil de instalar】Cada bombilla tiene un clip, simplemente colóquelo en su lugar sobre árboles, vallas de estacas o barandillas de escaleras usando los clips en cada zócalo.
 - 【Bombillas de Repuesto】 50Ft / 15M en total. Cable de 50ft con 46 enchufes, bombillas LED de 50 incluidas, pantalla de vidrio de alta definición de alta calidad con bombillas de filamento LED de vidrio blanco cálido de 2200K estilo Edison, lo que la hace lo suficientemente larga para usar en interior o exterior.
-- 【Ahorro de Enería】BRIMAX G40 luces de gadena ahorra más del 90% de energía sobre la lámpara incandescente. La larga vida útil de las últimas 30,000 horas puede reducir los costos de mantenimiento al cambiar las bombillas con frecuencia.
-- 【Múltiples Hilos Conectables】Cada luz de cadena está equipada con interfaces al principio y al final, puede conectar directamente varias cadenas de luces en la misma cadena, máximo 10 cuerdas , siéntase libre de personalizar sus arreglos.
 - 【Servicio de Calidad】2 años de garantía y 24 horas de post-venta professional ,Si tiene cualesquiera problemas, por favor no dude en contactar con nosotros.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G41RDBZ/?tag=tolees-21)
