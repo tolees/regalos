@@ -29,7 +29,7 @@ Tienes [Desigual Dark Man  Agua de tocador para hombres - 15 ml.](https://www.am
 ℹ️:
 
 - Desigual Dark Man agua de tocador 15 ml vaporizador (50417)
-- Perfume desigual
 - Perfume perfumería hombre
+- Perfume desigual
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DP8RWE0/?tag=tolees-21)
