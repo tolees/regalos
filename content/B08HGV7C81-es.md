@@ -28,10 +28,10 @@ Está [Guirnalda Luces Pilas  [2 * 12M] TOPYIYI Luces LED Habitacion 240 LED Imp
 
 ℹ️:
 
-- 【120 Luces LED de Hadas】 2 Piezas * 12M 120 Cadena de Luces LED con Control Remoto y Temporizador, Estas cálidas luces LED blancas son ideales para crear una atmósfera suave y delicada en su hogar. Ideal para decoración de mesa, dormitorio, boda, fiesta, navidad, año nuevo.
-- 【Lo que obtienes】 Paquete de 120 luces LED de hadas, garantía de devolución de dinero de 30 días, garantía sin complicaciones de 1 año, servicio al cliente amigable las 24 horas.
 - 【Ahorro de energía e IP65 a prueba de agua】 Alta eficiencia y larga vida, no es fácil de calentar, alambre de cobre ultrafino, flexible y resistente.Solo se necesitan 3 pilas AA (no incluidas). La batería portátil también la hace ideal para cualquier toma de corriente de difícil acceso, incluso se puede poner en el agua.
-- 【Con cadena de luces LED de control remoto】 Control remoto para ajustar el brillo y cambiar a 8 modos según diferentes ocasiones. Elija sus modos favoritos según las diferentes ocasiones. Ideal para uso en interiores y al aire libre.
+- 【120 Luces LED de Hadas】 2 Piezas * 12M 120 Cadena de Luces LED con Control Remoto y Temporizador, Estas cálidas luces LED blancas son ideales para crear una atmósfera suave y delicada en su hogar. Ideal para decoración de mesa, dormitorio, boda, fiesta, navidad, año nuevo.
 - 【Calidad superior y flexible】 El alambre de cobre es lo suficientemente flexible, se puede doblar fácilmente en cualquier forma que desee, se puede doblar y dar forma fácilmente alrededor de sus plantas, carteles, muebles y casi cualquier otra cosa.
+- 【Lo que obtienes】 Paquete de 120 luces LED de hadas, garantía de devolución de dinero de 30 días, garantía sin complicaciones de 1 año, servicio al cliente amigable las 24 horas.
+- 【Con cadena de luces LED de control remoto】 Control remoto para ajustar el brillo y cambiar a 8 modos según diferentes ocasiones. Elija sus modos favoritos según las diferentes ocasiones. Ideal para uso en interiores y al aire libre.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HGV7C81/?tag=tolees-21)
