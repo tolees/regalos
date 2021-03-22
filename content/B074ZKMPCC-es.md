@@ -28,8 +28,8 @@ Tienes [Pandora Brazalete Mujer plata - 596268-19](https://www.amazon.es/dp/B074
 
 🔎:
 
-- Tipo de metal: plata
 - Tipo de gema: sin gema
+- Tipo de metal: plata
 - Ajustable: sí
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074ZKMPCC/?tag=tolees-21)

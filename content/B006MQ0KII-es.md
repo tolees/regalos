@@ -28,8 +28,8 @@ Tienes [Roberto Cavalli Agua de Perfume - 30 ml](https://www.amazon.es/dp/B006MQ
 
 ℹ️:
 
-- Notas de salida: pimienta rosa.
-- Notas de corazón: flor de azahar del naranjo.
 - Familia olfativa: Floral Oriental.
+- Notas de corazón: flor de azahar del naranjo.
+- Notas de salida: pimienta rosa.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006MQ0KII/?tag=tolees-21)
