@@ -28,9 +28,9 @@ Ahora mismo tienes [WC luz nocturna  Adoric LED Luz de Inodoro Luz con Detecció
 
 🔎:
 
-- [CON LA RANURA DE AROMATERAPIA] - Hacer pleno uso del calor de la placa de circuito para purificar el olor ambiental con fragancia duradera, hacer aire fresco. El paquete también incluyó 2 piezas de aromaterapia. 3xAAA con pilas para proporcionar alimentación (no incluido).
-- [DETECTOR DE MOVIMIENTO] - Se enciende automáticamente cuando ingresas y te deshabilita cuando te vas, decora el baño oscuro y te ilumina el camino, protegiendo a los niños de caer en la oscuridad, ¡ya no tropezando en la oscuridad.
 - [DESINFECCIÓN DE LA LUZ ULTRAVIOLETA] - Cuando la luz del LED apagado 5 segundos y ninguÌ n movimiento dentro de la gama de 3m, luz ultravioleta independiente comienza a trabajar y dura 2 minutos, mata el 99,9% de moho, bacterias, gérmenes, y virus, tazón de fuente limpio del tocador. Manera segura y natural de matar los gérmenes sin el uso de productos químicos.
+- [DETECTOR DE MOVIMIENTO] - Se enciende automáticamente cuando ingresas y te deshabilita cuando te vas, decora el baño oscuro y te ilumina el camino, protegiendo a los niños de caer en la oscuridad, ¡ya no tropezando en la oscuridad.
+- [CON LA RANURA DE AROMATERAPIA] - Hacer pleno uso del calor de la placa de circuito para purificar el olor ambiental con fragancia duradera, hacer aire fresco. El paquete también incluyó 2 piezas de aromaterapia. 3xAAA con pilas para proporcionar alimentación (no incluido).
 - [FÁCIL DE INSTALAR] - El brazo de PVC blando es ajustable para adaptarse a cualquier tipo de inodoro y es fácil de quitar. Después de instalar las baterías, la luz parpadea y luego se apaga, lo que indica que la luz puede funcionar en la oscuridad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TWGJMDB/?tag=tolees-21)
