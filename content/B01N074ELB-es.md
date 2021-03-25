@@ -29,8 +29,8 @@ Tienes [Elves Behavin  Badly - Duendes Que se comportan Mal - Juguete de Felpa S
 🔎:
 
 - Adecuado como regalo o decoración.
-- Este adorable elfo de felpa se sienta y cuida tu hogar en Navidad.
 - ¡Le informa a santa para decirle si has sido travieso o agradable!
+- Este adorable elfo de felpa se sienta y cuida tu hogar en Navidad.
 - Tiene un cuerpo de felpa suave y una cabeza de vinilo.
 - apto para mayores de 3 años
 
