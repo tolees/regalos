@@ -28,9 +28,9 @@ Tienes [Roberto Cavalli Paradiso Agua de Perfume - 50 ml](https://www.amazon.es/
 
 ℹ️:
 
-- Producto de la marca Roberto Cavalli
 - De alta calidad
-- Tipo de producto: Agua de Perfume
 - Género: Mujer
+- Producto de la marca Roberto Cavalli
+- Tipo de producto: Agua de Perfume
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00QAIYKWK/?tag=tolees-21)
