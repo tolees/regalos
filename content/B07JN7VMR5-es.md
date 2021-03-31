@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 24.00 % en Pandora Abalorios Mujer plata - 797516'
-date: 2021-03-30 06:39:26
+date: 2021-03-31 15:27:45
 image: 'https://m.media-amazon.com/images/I/31B2jAT6r9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B07JN7VMR5/?tag=tolees-21'
 descuento: '24.00'
-average: '18.9358426966292'
+average: '18.9372527472527'
 ---
 
 Tienes [Pandora Abalorios Mujer plata - 797516](https://www.amazon.es/dp/B07JN7VMR5/?tag=tolees-21) con un 24.00 % de descuento con precio de oferta de 19.0 EUR (original: 25.0 EUR) en el siguiente enlace!
