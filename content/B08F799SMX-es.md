@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tiras LED Alexa WiFi 5M - Nobent Luces L al 15.01 % de rebaja'
-date: 2021-03-31 01:41:23
+date: 2021-04-01 06:51:19
 image: 'https://m.media-amazon.com/images/I/51UWqIKv4oL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nobent'
 buyurl: 'https://www.amazon.es/dp/B08F799SMX/?tag=tolees-21'
 descuento: '15.01'
-average: '19.3033333333332'
+average: '19.1587499999998'
 ---
 
 Tienes [Tiras LED Alexa WiFi 5M - Nobent Luces Led Habitacion Funciona con Amazon Echo Google Home  Sync con Música  RGB Smart 5050 Tira Led para Navidad  Techo  Armario  Dormitorio](https://www.amazon.es/dp/B08F799SMX/?tag=tolees-21) con precio final de  16.99 EUR (original: 19.99 EUR) (15.01 %  de rebaja) aqui!
@@ -29,9 +29,9 @@ Tienes [Tiras LED Alexa WiFi 5M - Nobent Luces Led Habitacion Funciona con Amazo
 🔎:
 
 - Luz de ambiente perfecta: Nuestras tiras de luz están hechas de luces LED 5050 de alta calidad. NO es impermeable, lo que puede adherirse más firmemente. Decora tu dormitorio, techo, escaleras, gabinete de cocina, porche, escritorio y sala de estar, especialmente es genial para las fiestas como la Navidad, Halloween, Fiestas etc.
-- Control por voz a través de Alexa y Google Assistant: Luces led habitación de Nobent pueden liberar tus manos para controlar la luz. Utiliza sencillos iniciadores de conversación para encender y apagar las luces, fijar los colores o cambiar su brillo. Actualmente es compatible con Echo & Google Home.(Nota: Sólo se admite el WiFi 2.4G, admite conexión automática disponible en la aplicación POPOTAN)
-- Luces LED de música: Hay un micrófono incorporado que se sincronizará con cualquier sonido alrededor de la cinta de luz y los colores de las luces bailarán junto con los ritmos de la música (o los aplausos). Esta función está disponible tanto en la aplicación como en el mando, ¡utilízala para dar vida a tu entorno!
 - Fácil de instalar: Nobent tiene como objetivo proporcionar una forma sencilla de comenzar a diseñar su hogar conectado, por lo que recibirá un kit TODO EN UNO que viene con un adaptador listado en CE RoHS, un controlador de 3 botones, un control remoto de 40 teclas, una tira de luz de 5 metros; Conectores de 4x4 pines, 5 clips de soporte y cinta adhesiva reforzada de 5 metros para la pared.
+- Luces LED de música: Hay un micrófono incorporado que se sincronizará con cualquier sonido alrededor de la cinta de luz y los colores de las luces bailarán junto con los ritmos de la música (o los aplausos). Esta función está disponible tanto en la aplicación como en el mando, ¡utilízala para dar vida a tu entorno!
 - Control de WiFi/Bluetooth a través de la aplicación: La aplicación "POPOTAN" hace lo que las luces pueden hacer (encender y apagar/cambiar los colores y el brillo). Puede hacer bricolaje con sus colores favoritos mezclando varios colores y guardarlos para su uso posterior. La función de temporizador le permite ejecutar el sistema de iluminación de su hogar de manera inteligente. También viene con un controlador de 3 botones e IR remoto de 40 teclas.
+- Control por voz a través de Alexa y Google Assistant: Luces led habitación de Nobent pueden liberar tus manos para controlar la luz. Utiliza sencillos iniciadores de conversación para encender y apagar las luces, fijar los colores o cambiar su brillo. Actualmente es compatible con Echo & Google Home.(Nota: Sólo se admite el WiFi 2.4G, admite conexión automática disponible en la aplicación POPOTAN)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F799SMX/?tag=tolees-21)
