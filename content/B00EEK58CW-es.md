@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PANDORA Moments - Abalorio de Plata de L con un 25.64 % de descuento'
-date: 2021-03-27 14:22:24
+date: 2021-04-01 11:33:42
 image: 'https://m.media-amazon.com/images/I/41JqaRHnXjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B00EEK58CW/?tag=tolees-21'
 descuento: '25.64'
-average: '30.0'
+average: '29.6666666666667'
 ---
 
 En este momento está [PANDORA Moments - Abalorio de Plata de Ley](https://www.amazon.es/dp/B00EEK58CW/?tag=tolees-21) a 29.0 EUR (original: 39.0 EUR) (25.64 %  de descuento) en el siguiente enlace!
