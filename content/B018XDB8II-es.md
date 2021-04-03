@@ -28,8 +28,8 @@ En este momento está [Victorio & Lucchino Nº2 Agua de Colonia - 150 ml](https:
 
 🔎:
 
-- Marca: VICTORIO & LUCCHINO
-- Género: Mujer
 - Tipo de producto: Agua de colonia
+- Género: Mujer
+- Marca: VICTORIO & LUCCHINO
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B018XDB8II/?tag=tolees-21)
