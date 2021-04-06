@@ -29,9 +29,9 @@ Tienes [PANDORA Mujer plata Abalorios 797853](https://www.amazon.es/dp/B07NF2N25
 ℹ️:
 
 - Colgante
-- Plata de ley
-- Charms
 - Sin otros materiales
+- Charms
+- Plata de ley
 - Moments (Charm Concept)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NF2N25S/?tag=tolees-21)
