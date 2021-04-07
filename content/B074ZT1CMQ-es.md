@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Pandora Aros Mujer plata - 196316CZ-54 al 17.95 % de descuento'
-date: 2021-03-07 21:51:03
+date: 2021-04-07 13:22:53
 image: 'https://m.media-amazon.com/images/I/31deNej7jLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZT1CMQ-es Pandora Aros Mujer plata - 196316CZ-54'
 sku: 'B074ZT1CMQ-es'
+tags: [ 'Anillos para mujer','Joyería','Joyería para mujer','pandora', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0
@@ -27,9 +28,9 @@ Está [Pandora Aros Mujer plata - 196316CZ-54](https://www.amazon.es/dp/B074ZT1C
 
 ℹ️:
 
-- Talla del anillo: 14
-- Fabricado en plata de ley
 - Adornado con circonitas cúbicas transparentes
+- Talla del anillo: 14
 - Anillo para mujer marca Pandora
+- Fabricado en plata de ley
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074ZT1CMQ/?tag=tolees-21)
