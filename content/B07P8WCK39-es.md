@@ -28,10 +28,10 @@ Tienes [Chanson D Eau Original Eau De Toilette para mujer - 200 ml](https://www.
 
 🔎:
 
+- Esencia fresca y floral
 - Con notas de mandarina, lavanda y menta de albahaca
 - Una fragancia fresca y delicada, como una canción divertida con un aroma dulce
 - Aroma agradable, juvenil y a la vez muy elegante
 - Eau de toilette para mujer - 200 ml
-- Esencia fresca y floral
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P8WCK39/?tag=tolees-21)
