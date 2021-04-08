@@ -28,8 +28,8 @@ En este momento está [Helan Monoi De Tahiti Eau de Toilette - 50 ml](https://ww
 
 🔎:
 
+- En lengua polinesiana "monoï" significa "aceite perfumado" y de hecho se obtiene de la feliz unión entre dos productos característicos de las islas: la nuez de coco (cocos nucifera) y la flor de tiaré (gardenia tahitensis).
 - Familia olfativa: floral exótico, floral dulce ámbar.
 - Del trópico de los deseos
-- En lengua polinesiana "monoï" significa "aceite perfumado" y de hecho se obtiene de la feliz unión entre dos productos característicos de las islas: la nuez de coco (cocos nucifera) y la flor de tiaré (gardenia tahitensis).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XWVR98Y/?tag=tolees-21)
