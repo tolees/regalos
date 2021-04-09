@@ -28,9 +28,9 @@ Está [Lanvin Eclat de Fleurs Agua de Perfume Vaporizador  100 ml](https://www.a
 
 ℹ️:
 
-- Notas de corazón de fresia, rose y jazmín
 - Flagrancia adecuada para mujeres
-- Notas de base de almizcle blanco y sándalo
 - Notas altas de pera
+- Notas de base de almizcle blanco y sándalo
+- Notas de corazón de fresia, rose y jazmín
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B013TQ4C6E/?tag=tolees-21)
