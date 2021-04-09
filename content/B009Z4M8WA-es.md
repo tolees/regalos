@@ -28,8 +28,8 @@ En este momento está [Geoffrey Beene Grey Flannel Agua de Tocador - 120 ml](htt
 
 🔎:
 
-- Para que cada dia te sientas unica.
 - Grey flannel edt vapo 120 ml
+- Para que cada dia te sientas unica.
 - Tu imagen nos importa, por eso te ofrecemos los mejores productos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B009Z4M8WA/?tag=tolees-21)
