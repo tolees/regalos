@@ -29,8 +29,8 @@ En este momento está [AXE Pack Dark Temptation Neceser Duo - Desodorante 150 ml
 🔎:
 
 - El Bodyspray de AXE ofrece una aplicación rápida que ayudará a mantenerte fresco y seco durante todo el día, sea cual sea la ocasión
-- Descubre este pack de AXE: contiene Bodyspray 150ml + Eau De Toilette 100ml + Neceser Axe
-- Disfruta de la fragancia Dark Temptation, dulce y sutil con una mezcla de chocolate caliente, ámbar, pimienta roja y un toque de especias que te ayudará a volverte tan irresistible como el chocolate
 - Axe Eau de Toilette es una fragancia ganadora que añade un toque a tu estilo desenfadado.
+- Disfruta de la fragancia Dark Temptation, dulce y sutil con una mezcla de chocolate caliente, ámbar, pimienta roja y un toque de especias que te ayudará a volverte tan irresistible como el chocolate
+- Descubre este pack de AXE: contiene Bodyspray 150ml + Eau De Toilette 100ml + Neceser Axe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FXZZ3FW/?tag=tolees-21)
