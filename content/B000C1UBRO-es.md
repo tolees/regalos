@@ -28,9 +28,9 @@ Está [Calvin Klein Eternity Moment - Agua de perfume vaporizador  100 ml](https
 
 ℹ️:
 
-- Las notas olfativas principales de este producto son floral y afrutado.
-- Contiene 100 ml.
 - Este producto está indicado para mujeres.
 - De la marca Calvin Klein.
+- Contiene 100 ml.
+- Las notas olfativas principales de este producto son floral y afrutado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1UBRO/?tag=tolees-21)
