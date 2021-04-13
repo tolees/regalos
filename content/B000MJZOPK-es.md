@@ -28,12 +28,12 @@ Tienes [Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador  100 ml](http
 
 ℹ️:
 
-- Nombre de la fragancia: Floral
 - Tipo de piel: Normal
-- Marca - issey miyake
-- Ingredientes: Aqua, Alcohol Denat, Parfum
-- Tipo de producto - agua de colonia
 - Para el cabello: Normal
+- Ingredientes: Aqua, Alcohol Denat, Parfum
 - Producto pensado para mujeres
+- Nombre de la fragancia: Floral
+- Marca - issey miyake
+- Tipo de producto - agua de colonia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)
