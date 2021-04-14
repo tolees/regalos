@@ -28,9 +28,9 @@ Está [Loris Azzaro  Eau de Toilette para Hombre - 100 ml.](https://www.amazon.e
 
 ℹ️:
 
-- La nota olfativa principal de este producto es especiado.
 - Este producto está indicado para hombres.
-- De la marca Azzaro.
 - Contiene 100 ml.
+- De la marca Azzaro.
+- La nota olfativa principal de este producto es especiado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1Z1JM/?tag=tolees-21)
