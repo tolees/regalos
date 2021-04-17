@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.44 % en Versace Bright Crystal Agua de Colonia -'
-date: 2021-04-13 11:34:08
+date: 2021-04-17 11:04:44
 image: 'https://m.media-amazon.com/images/I/417nygRrrhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Versace'
 buyurl: 'https://www.amazon.es/dp/B000IEQQCE/?tag=tolees-21'
 descuento: '55.44'
-average: '34.7'
+average: '34.4975'
 ---
 
 Tienes [Versace Bright Crystal Agua de Colonia - 50 ml](https://www.amazon.es/dp/B000IEQQCE/?tag=tolees-21) con un 55.44 % de descuento con precio de oferta de 33.08 EUR (original: 74.24 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [Versace Bright Crystal Agua de Colonia - 50 ml](https://www.amazon.es/dp
 ℹ️:
 
 - Familia olfativa: Floral Frutal.
-- Notas de salida: yuzu, granada y notas acuáticas.
 - Notas de corazón: flor de loto, magnolia y peonía.
+- Notas de salida: yuzu, granada y notas acuáticas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000IEQQCE/?tag=tolees-21)
