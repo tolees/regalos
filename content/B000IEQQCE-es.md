@@ -28,8 +28,8 @@ Tienes [Versace Bright Crystal Agua de Colonia - 50 ml](https://www.amazon.es/dp
 
 ℹ️:
 
-- Familia olfativa: Floral Frutal.
 - Notas de corazón: flor de loto, magnolia y peonía.
 - Notas de salida: yuzu, granada y notas acuáticas.
+- Familia olfativa: Floral Frutal.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000IEQQCE/?tag=tolees-21)
