@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden 1031 - Agua de perfume   con un 48.80 % de descuento'
-date: 2021-04-17 11:36:31
+date: 2021-04-18 18:03:05
 image: 'https://m.media-amazon.com/images/I/31DLt-bMgQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.es/dp/B000C1VW3G/?tag=tolees-21'
 descuento: '48.80'
-average: '12.1'
+average: '12.3333333333333'
 ---
 
 En este momento está [Elizabeth Arden 1031 - Agua de perfume  100 ml](https://www.amazon.es/dp/B000C1VW3G/?tag=tolees-21) a 12.8 EUR (original: 25.0 EUR) (48.80 %  de descuento) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [Elizabeth Arden 1031 - Agua de perfume  100 ml](https://w
 🔎:
 
 - Productos de belleza y el cuidado personal
-- Tipo de producto: Agua de perfume
 - Marca: Elizabeth Arden
+- Tipo de producto: Agua de perfume
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000C1VW3G/?tag=tolees-21)
