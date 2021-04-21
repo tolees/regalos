@@ -28,10 +28,10 @@ Ahora mismo tienes [LaMenars Letras Colgantes de Alfabeto A-Z Abalorios Charms O
 
 🔎:
 
+- Tamaño: El tamaño del orificio es de aproximadamente 4,8 - 5 mm. Compatible con pulseras Pandora, Trollbeads, Chamilia y Biagi, y con las principales marcas europeas de pulseras y collares de abalorios.
 - Diseño: Las 26 letras representan el significado del amor.
 - - -
 - Material: Auténtica plata de ley 925 con chapado en platino y circonitas cúbicas engastadas. No contiene níquel, plomo ni cadmio y es hipoalergénico, 100 % seguro para pieles sensibles.
-- Tamaño: El tamaño del orificio es de aproximadamente 4,8 - 5 mm. Compatible con pulseras Pandora, Trollbeads, Chamilia y Biagi, y con las principales marcas europeas de pulseras y collares de abalorios.
 - Ocasiones: Este abalorio es un regalo ideal para tu esposa, novia, madre, abuela, tía, hija, hermana, amiga, mejor amiga o incluso para ti. Lo puedes regalar en cualquier ocasión, ya sea Año Nuevo, Día de la Madre, graduación, cumpleaños, aniversario, boda o Día de San Valentín.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VG2JY2K/?tag=tolees-21)
