@@ -28,8 +28,8 @@ Tienes [Ferrari Scuderia Ferrari Black Agua de Colonia - 75 ml](https://www.amaz
 
 ℹ️:
 
-- Marca: Ferrari
-- Género: Hombre
 - Familias Olfativas: Fougère, Aromática
+- Género: Hombre
+- Marca: Ferrari
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DEZZDKU/?tag=tolees-21)

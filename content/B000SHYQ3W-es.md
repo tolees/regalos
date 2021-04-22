@@ -28,8 +28,8 @@ En este momento está [Générique Bormioli Rocco Pandora Jarrón Tapa Metalizad
 
 🔎:
 
-- Artículos de vidrio
-- Estilo Italiano
 - Apto para el lavavajillas
+- Estilo Italiano
+- Artículos de vidrio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000SHYQ3W/?tag=tolees-21)
