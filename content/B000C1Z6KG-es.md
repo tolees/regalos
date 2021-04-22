@@ -28,11 +28,11 @@ Está [Jennifer Lopez Glow - Eau de toilette  100 ml](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Corazón: rosa, ámbar, madera de sándalo
-- La joyería de la botella está inspirada en el estilo personal de J.Lo
 - Notas de fondo: jazmín y vainilla
-- Notas altas: pomelo y flor de azahar
 - El halcón, con suaves líneas curvas, recuerda al cuerpo de una mujer
 - Fragancia de la casa de diseño de Jennifer Lopez
+- Corazón: rosa, ámbar, madera de sándalo
+- La joyería de la botella está inspirada en el estilo personal de J.Lo
+- Notas altas: pomelo y flor de azahar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1Z6KG/?tag=tolees-21)
