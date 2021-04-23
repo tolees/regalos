@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.52 % en Ferrari Scuderia Ferrari Black Agua de C'
-date: 2021-04-22 14:38:42
+date: 2021-04-23 15:01:44
 image: 'https://m.media-amazon.com/images/I/411JG+LSgmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ferrari'
 buyurl: 'https://www.amazon.es/dp/B00DEZZDKU/?tag=tolees-21'
 descuento: '25.52'
-average: '11.625'
+average: '11.46'
 ---
 
 Tienes [Ferrari Scuderia Ferrari Black Agua de Colonia - 75 ml](https://www.amazon.es/dp/B00DEZZDKU/?tag=tolees-21) con un 25.52 % de descuento con precio de oferta de 10.8 EUR (original: 14.5 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Ferrari Scuderia Ferrari Black Agua de Colonia - 75 ml](https://www.amaz
 
 ℹ️:
 
-- Familias Olfativas: Fougère, Aromática
-- Género: Hombre
 - Marca: Ferrari
+- Género: Hombre
+- Familias Olfativas: Fougère, Aromática
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DEZZDKU/?tag=tolees-21)
