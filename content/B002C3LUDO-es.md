@@ -28,8 +28,8 @@ En este momento está [Hermes Concentre D Orange Verte Eau de Toilette Vaporizad
 
 🔎:
 
+- De la marca Hermes.
 - Contiene 50 ml.
 - Este producto está indicado tanto para mujeres como para hSombras.
-- De la marca Hermes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002C3LUDO/?tag=tolees-21)
