@@ -28,10 +28,10 @@ Tienes [DisneyShowcase - Disney Showcase  Figura de Cenicienta con adornos de Na
 
 🔎:
 
-- Colores resistentes al agua
 - Adecuado para regalo
-- Material: resina
 - Nombre de línea: Disney Show Case
+- Colores resistentes al agua
+- Material: resina
 - Producto adecuado para regalar, decorar o coleccionar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4OTJSY/?tag=tolees-21)
