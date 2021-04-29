@@ -28,10 +28,10 @@ Tienes [Unendlich U - Infinito U - Colgante Pareja de Plata de Ley 925 Colgante 
 
 🔎:
 
-- El mejor regalo para el día de San Valentín, cumpleaños, aniversarios, Navidad y Año Nuevo.Bolsita de regalo con la marca Infinite U Jewellery
+- Infinito U ofrece 6 meses de garantía. Si tiene algún problema, no dude en contactar con nosotros, y le daremos una solución satisfactoria en 24 horas.
 - Tamaño del colgante: 1.9*1.3 /2.3*1.4 cm, longitud de la cadena: 45/55 cm, peso del colgante: 1.2/2.2 g.
+- El mejor regalo para el día de San Valentín, cumpleaños, aniversarios, Navidad y Año Nuevo.Bolsita de regalo con la marca Infinite U Jewellery
 - Ideal para el uso diario, te sentará de maravilla en cualquier ocasión.
 - Las cadenas son regalos gratuitos. La cadena de mujer es de plata, y la de hombre, de acero inoxidable.
-- Infinito U ofrece 6 meses de garantía. Si tiene algún problema, no dude en contactar con nosotros, y le daremos una solución satisfactoria en 24 horas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N2N64TK/?tag=tolees-21)
