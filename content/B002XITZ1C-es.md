@@ -28,10 +28,10 @@ Está [Davidoff Cool Water Agua de colonia para Hombre 200 ml](https://www.amazo
 
 ℹ️:
 
-- Colonia Cool Water en spray de Davidoff para hombre.
-- Flores frescas en el corazón de la fragancia: violeta, jazmín, madreselva y flor de azahar.
 - Entre ellos se incluyen fusiones de menta fresca y bergamota, lavanda y romero aromáticos, piña afrutada y gábano verde.
 - Colonia Cool Water para hombre de Davidoff es una fragancia masculina fresca y sensual que combina el océano con el cuerpo y espíritu del hombre.
+- Colonia Cool Water en spray de Davidoff para hombre.
+- Flores frescas en el corazón de la fragancia: violeta, jazmín, madreselva y flor de azahar.
 - Los ingredientes clásicos de Cool Water se combinan en proporciones innovadoras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002XITZ1C/?tag=tolees-21)
