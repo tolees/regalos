@@ -28,10 +28,10 @@ Está [WHISKY DOUBLE • Eau de Toilette 100 ml • Vaporizador • Perfume para
 
 ℹ️:
 
-- NOTAS DE SALIDA: manzana, almizcle, mandarina NOTAS DE CORAZÓN: madera de cedro, clavo de olor NOTAS DE FONDO : sándalo, pachuli, almizcle
-- Este hombre carismático, de irresistible encanto, define la virilidad. DOUBLE WHISKY, es la fragrancia perfecta para un gentleman.
-- El regalo ideal a un precio económico que hará feliz
 - Sin parabenos / No testado en animales/ MADE IN FRANCE
+- El regalo ideal a un precio económico que hará feliz
+- Este hombre carismático, de irresistible encanto, define la virilidad. DOUBLE WHISKY, es la fragrancia perfecta para un gentleman.
+- NOTAS DE SALIDA: manzana, almizcle, mandarina NOTAS DE CORAZÓN: madera de cedro, clavo de olor NOTAS DE FONDO : sándalo, pachuli, almizcle
 - Para ustedes, los hombres, EVAFLOR ha creado especialmente una fragancia irresistible que perdura a lo largo del día.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00AXZNB76/?tag=tolees-21)
