@@ -29,8 +29,8 @@ Está [Sellot Collar de Mujer Regalos Originales Collar con Colgante de Corazón
 ℹ️:
 
 - ♥Servicio al Cliente: Sellot ofrece una service de devolución de dinero de 30 días y un servicio de 12 meses. Su mensaje será respondido dentro de las 24 horas. Este producto pertenece a Sellot. Envío realizado por Amazon. Haremos todo lo posible para brindarle una experiencia de compra rápida y agradable.
-- ♥Momento Especial: Regalo ideal para cumpleaños, aniversarios, graduaciones, San Valentín, día de la madre, Navidad, fiestas, bailes y cualquier ocasión que pueda usarse con vestidos o trajes de todos los días.Caja de joyas incluída.
 - ♥Material de Alta Calidad: Este collar está hecho de cristales tallados de alta calidad y una cadena de plata 925. Que sea una decoración sencilla y elegante.
+- ♥Momento Especial: Regalo ideal para cumpleaños, aniversarios, graduaciones, San Valentín, día de la madre, Navidad, fiestas, bailes y cualquier ocasión que pueda usarse con vestidos o trajes de todos los días.Caja de joyas incluída.
 - ♥Concepto de Diseño: El amor lo es todo. El collar con colgante de corazón representa su amor por su familia, amigos y esposa. Déjalos llevar este collar y sentir tu amor. Este collar representa amor, felicidad y bendición.
 - ♥Tamaño: Cadena 46 cm + 5 cm / 18,1 pulgadas + 1,96 pulgadas; Peso: 3,57 g / 0,126 oz, Cristal de Austria, cadena de plata de ley 925 hecha a tu medida.
 
