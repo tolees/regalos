@@ -28,9 +28,9 @@ Tienes [CALVIN KLEIN ETERNITY MEN Eau de Toilette para Hombre  Vaporizador  100 
 
 🔎:
 
+- Este producto está indicado para hombres.
 - Contiene 100 ml.
 - Las notas olfativas principales de este producto son amaderado y cítrico.
-- Este producto está indicado para hombres.
 - De la marca Calvin Klein.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000C1UBR4/?tag=tolees-21)
