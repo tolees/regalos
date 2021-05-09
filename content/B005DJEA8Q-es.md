@@ -28,9 +28,9 @@ En este momento está [Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador 
 
 🔎:
 
-- De la marca Armand Basi.
 - Las notas olfativas principales de este producto son especiado y oriental.
-- Este producto está indicado para hombres.
+- De la marca Armand Basi.
 - Contiene 125 ml.
+- Este producto está indicado para hombres.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005DJEA8Q/?tag=tolees-21)
