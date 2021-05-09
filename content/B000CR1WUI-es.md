@@ -28,9 +28,9 @@ Está [Aramis 2567 - Agua de colonia  110 ml](https://www.amazon.es/dp/B000CR1WU
 
 ℹ️:
 
-- Este producto está indicado para hombres.
-- De la marca Aramis.
-- Contiene 110 ml.
 - La nota olfativa principal de este producto es especiado.
+- Este producto está indicado para hombres.
+- Contiene 110 ml.
+- De la marca Aramis.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000CR1WUI/?tag=tolees-21)
