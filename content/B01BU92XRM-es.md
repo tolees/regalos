@@ -28,8 +28,8 @@ Ahora mismo tienes [Salvatore Ferragamo Signorina Misteriosa Agua de Perfume - 1
 
 🔎:
 
-- Tipo de producto: Agua de Perfume
 - Marca: Salvatore Ferragamo
 - Género: Mujer
+- Tipo de producto: Agua de Perfume
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BU92XRM/?tag=tolees-21)
