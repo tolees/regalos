@@ -28,8 +28,8 @@ Está [Jesus del Pozo Halloween Kiss Agua de Colonia - 50 ml  310-46014 ](https:
 
 ℹ️:
 
-- Tipo de producto: Agua de colonia
 - Género: Mujer
 - Marca: Jesus del Pozo
+- Tipo de producto: Agua de colonia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001JJMOZK/?tag=tolees-21)
