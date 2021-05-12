@@ -28,9 +28,9 @@ Está [Diesel Only The Brave - Agua de tocador vaporizador  125 ml](https://www.
 
 ℹ️:
 
-- De la marca Diesel.
+- Contiene 125 ml.
 - Las notas olfativas principales de este producto son especiado y cítrico.
 - Este producto está indicado para hSombras.
-- Contiene 125 ml.
+- De la marca Diesel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002XQ1RJW/?tag=tolees-21)
