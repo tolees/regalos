@@ -28,8 +28,8 @@ Tienes [Swarovski Colgante Swarovski Symbolic  multicolor  Baño en tono Oro Ros
 
 🔎:
 
-- El colgante incluye una cadena
 - Esta temporada, inspira tu estilo en el cielo nocturno con este colgante moderno pero clásico
+- El colgante incluye una cadena
 - Este diseño con baño en tono oro rosa luce una delicada gradación elaborada con cristales azules en engaste pavé, y lleva motivos con la luna y las estrellas, que simbolizan los sueños y esperanzas
 - Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa. Su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios.
 - Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional. El metal es enchapado y cada cristal se engarza de forma individual. Debido a ello necesitan un cuidado especial.
