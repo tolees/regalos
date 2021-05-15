@@ -28,10 +28,10 @@ Está [ENYU - Pendientes de Filigrana para Mujer  pequeños aro  chapado en oro 
 
 ℹ️:
 
-- <b>IDEA DE REGALO PERFECTA</b>:Regalos ideales para cumpleaños, aniversario, día de San Valentín, boda, día de la madre, día de acción de gracias, Navidad, año nuevo, temporada de graduación y fiesta para su esposa, novia, amigos, mamá, hermana, tía, sobrina, hija y amigas.
-- <b>DIMENSIÓN</b>:Los hermosos aretes de filigrana de oro son una moda exquisita.La mejor opción para usar aretes todos los días, la experiencia más cómoda.Pendientes de aro para mujeres: 18 mm * 11 mm (6 g)
 - <b>HIPOALERGÉNICO</b>:Latón + Oro amarillo.Ideas ecológicas libres de plomo y níquel para proteger su piel
 - <b>GARANTÍA</b>:Si hay algún problema de calidad, podría intercambiar uno nuevo con el mismo tipo, o ofrecer un reembolso directamente
+- <b>DIMENSIÓN</b>:Los hermosos aretes de filigrana de oro son una moda exquisita.La mejor opción para usar aretes todos los días, la experiencia más cómoda.Pendientes de aro para mujeres: 18 mm * 11 mm (6 g)
+- <b>IDEA DE REGALO PERFECTA</b>:Regalos ideales para cumpleaños, aniversario, día de San Valentín, boda, día de la madre, día de acción de gracias, Navidad, año nuevo, temporada de graduación y fiesta para su esposa, novia, amigos, mamá, hermana, tía, sobrina, hija y amigas.
 - <b>PAQUETE</b>:Estos delicados aretes de oro rosa con flor hueca vienen con una hermosa joyería fina, caja de regalo, embalaje
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FY6RMGN/?tag=tolees-21)
