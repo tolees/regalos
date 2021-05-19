@@ -29,9 +29,9 @@ Ahora mismo tienes [Crossmen and Co - Crossmen Eau de Toilette para Hombre - 200
 🔎:
 
 - Eau de toilette para hombre - 200 ml
-- En la nota de entrada, el pomelo, la bergamota y la piña proporcionan una agradable frescura
-- Crossmen, la colonia de toda la vida
 - Perfecto para el hombre seductor y original
+- Crossmen, la colonia de toda la vida
+- En la nota de entrada, el pomelo, la bergamota y la piña proporcionan una agradable frescura
 - Un perfume clásico con aroma fresco y perdurable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07R2DDH32/?tag=tolees-21)
