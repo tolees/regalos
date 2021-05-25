@@ -28,10 +28,10 @@ Tienes [Anpro 16 Colores Lámpara Proyector Estrellas  Luz Nocturna Infantil par
 
 🔎:
 
-- ALTAVOZ BLUETOOTH:La lámpara proyector estrellas equipado con altavoces de alta calidad de 5 W, la voz es súper clara. Conéctese a su movil y reproduzca la canción que desee.
-- LáMPARA DE PROYECCIóN:Hay dos piezas de proyeccion (cielo estrella y océano),Cada uno tiene 16 colores, puede cambiar los diferentes colores de proyección y la velocidad de la lámpara de proyección a través del control remoto.
 - FáCIL DE USAR: Hay una batería de litio 600MA para una vida útil más prolongada.Se carga por un cargador USB,interfaz de computadora o energía móvil, etc.
 - TAMAñO PEQUEñO:Tiene un pequeño tamaño y fácil de transportar. Se puede usar como estéreo o luz nocturna durante actividades al aire libre. También es un regalo original para niños en fiestas, cumpleaños y Navidad.
+- ALTAVOZ BLUETOOTH:La lámpara proyector estrellas equipado con altavoces de alta calidad de 5 W, la voz es súper clara. Conéctese a su movil y reproduzca la canción que desee.
+- LáMPARA DE PROYECCIóN:Hay dos piezas de proyeccion (cielo estrella y océano),Cada uno tiene 16 colores, puede cambiar los diferentes colores de proyección y la velocidad de la lámpara de proyección a través del control remoto.
 - LUZ NOCTURNA INFANTIL:Es adecuada como luz nocturna infantil para niños y bebés.Al ajustar los diferentes colores y brillo,es conveniente para alimentar al bebé y dormir por la noche. Con un control remoto, no se move para cambiar las luces.También hay una función de temporización, que se puede apagar automáticamente presionando 1H 2H 4H 6H.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082VZV3Q9/?tag=tolees-21)
