@@ -28,10 +28,10 @@ Está [PANDORA - Star Wars C-3PO](https://www.amazon.es/dp/B08KHN89N1/?tag=tolee
 
 ℹ️:
 
-- El artículo no se envía en una caja. Este debe comprarse por separado.
-- El droide de protocolo está decorado con ojos de cuadrícula y esmalte negro y es un fiel compañero
-- El colgante tiene una cabeza grande y un cuerpo más pequeño con piernas y brazos móviles decorados con detalles de robot
 - Este abalorio dorado de Pandora es uno de los personajes más populares de la galaxia porque representa C-3PO de Star Wars
+- El droide de protocolo está decorado con ojos de cuadrícula y esmalte negro y es un fiel compañero
+- El artículo no se envía en una caja. Este debe comprarse por separado.
 - Esta joya refinada a mano se compone de Pandora Shine, una aleación de metal chapada en oro de 18 quilates
+- El colgante tiene una cabeza grande y un cuerpo más pequeño con piernas y brazos móviles decorados con detalles de robot
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KHN89N1/?tag=tolees-21)
