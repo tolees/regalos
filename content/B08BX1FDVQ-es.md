@@ -28,10 +28,10 @@ Está [Titto Bluni - Profumo Seduzione Estuche de Regalo para Mujer  Eau de Toil
 
 ℹ️:
 
-- Cautivadora esencia, toda una declaración de intenciones de este aroma floral. Un primer coqueteo con distintivas notas cítricas y el afrodisíaco chocolate se entrelaza con un sugerente aroma frutal de manzana y frambuesas y la feminidad de la rosa. Como broche final, llegamos a un fondo con elegantes y dulces notas de vainilla y cachemir que hacen de esta fragancia una experiencia inolvidable.
 - Floral afrutada
-- Notas de fondo: vainilla, cachemir, musgo y ámbar.
 - Notas de salida: bergamota, naranja, peonía y cacao
+- Cautivadora esencia, toda una declaración de intenciones de este aroma floral. Un primer coqueteo con distintivas notas cítricas y el afrodisíaco chocolate se entrelaza con un sugerente aroma frutal de manzana y frambuesas y la feminidad de la rosa. Como broche final, llegamos a un fondo con elegantes y dulces notas de vainilla y cachemir que hacen de esta fragancia una experiencia inolvidable.
+- Notas de fondo: vainilla, cachemir, musgo y ámbar.
 - Notas de corazón: frambuesa, cassis, manzana y rosa.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BX1FDVQ/?tag=tolees-21)
