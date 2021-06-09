@@ -28,9 +28,9 @@ En este momento está [Axe Pack Leather & Cookies Neceser Duo - Desodorante 150 
 
 🔎:
 
-- Axe Leather & Cookies es una mezcla inesperada de cuero y galleta, con toques de mandarina, cardamomo y cuero
-- Axe Eau de Toilette es una fragancia ganadora que añade un toque a tu estilo desenfadado.
 - Descubre este pack de AXE: contiene Bodyspray 150ml + Eau De Toilette 100ml + Neceser Axe
 - El Bodyspray de AXE ofrece una aplicación rápida que ayudará a mantenerte fresco y seco durante todo el día, sea cual sea la ocasión
+- Axe Leather & Cookies es una mezcla inesperada de cuero y galleta, con toques de mandarina, cardamomo y cuero
+- Axe Eau de Toilette es una fragancia ganadora que añade un toque a tu estilo desenfadado.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DRRJHBV/?tag=tolees-21)
