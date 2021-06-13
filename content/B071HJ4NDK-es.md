@@ -28,10 +28,10 @@ Tienes [Hollister Wave 2 for him eau de toilette spray 100ml](https://www.amazon
 
 🔎:
 
-- Representa a un hombre con mucha presencia y fuerte personalidad
-- Descibe a un hombre viril
 - Fragancia intrigante que atrae a la mujer moderna
+- Descibe a un hombre viril
 - Es una fragancia ideal para todos los días
+- Representa a un hombre con mucha presencia y fuerte personalidad
 - Absorción rápida que ofrece a a la piel hidratación y nutrición
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071HJ4NDK/?tag=tolees-21)
