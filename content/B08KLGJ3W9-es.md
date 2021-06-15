@@ -28,10 +28,10 @@ Tienes [Andoer Mini cámara digital de 44 MP 2 7 K pantalla IPS de 2 7 pulgadas 
 
 🔎:
 
-- Batería recargable: alimentado por batería recargable incorporada, la cámara se puede recargar a través de adaptador de corriente incluido o cable USB desde el ordenador o banco de energía. Apagado automático hace que sea más ahorro de energía
-- Cámara digital de 44 megapíxeles: con 44 megapíxeles, tamaño de película de 2,7 K, F/3,2 y zoom de 16x, la cámara con pantalla IPS de 2,8 pulgadas es una unidad potente pero compacta como la palma.
 - Detección inteligente: equipada con detección de cara y función de detección de sonrisas, la cámara puede rastrear de forma inteligente la cara y disparar de forma inteligente cuando se detecta la cara sonriente. El modo de belleza puede hacerte más atractiva.
+- Cámara digital de 44 megapíxeles: con 44 megapíxeles, tamaño de película de 2,7 K, F/3,2 y zoom de 16x, la cámara con pantalla IPS de 2,8 pulgadas es una unidad potente pero compacta como la palma.
 - Ligera y montable: la cámara solo pesa 93 g, con correa de mano para un transporte cómodo. Rosca de 0,63 cm en la parte inferior que proporciona compatibilidad universal con trípode y monopié.
+- Batería recargable: alimentado por batería recargable incorporada, la cámara se puede recargar a través de adaptador de corriente incluido o cable USB desde el ordenador o banco de energía. Apagado automático hace que sea más ahorro de energía
 - Potentes funciones: con temporizador selfie 2S/5S/10s y modo antivibración, la cámara es más fácil de usar para tomar fotos y vídeos, la tarjeta de memoria externa de 128 GB es compatible para un mayor almacenamiento de archivos HD.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KLGJ3W9/?tag=tolees-21)
