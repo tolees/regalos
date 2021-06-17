@@ -28,10 +28,10 @@ Tienes [Guirnalda Luces Exterior Solar  Kolpop Cadena de Luces 26 Metros 240 LED
 
 🔎:
 
-- ✅ [240 LED Blanco Frío]: 26 metros 240 LED son perfectas para la decoración de Jardín, balcón, fiesta de cumpleaños, en patio, celebración entre familiares y amigos.
-- ✅ [Energy efficiency y conveniencia]: Alimentado por energía solar, no se requiere batería o cable adicional, trabajando hasta 10 horas después de la carga completa. Se ilumina automáticamente por la noche y apagado durante el día.
-- ✅[Lo que obtienes]: 240 luces de LED de energía solar con cable de cobre, garantía de devolución de 30 días, 1 año de garantía sin preocupaciones, servicio de atención al cliente las 24 horas.
-- ✅[8 Modes de Trabajo]: Magníficos modos de iluminación que incluyen combinación, luciérnagas, olas, desvanecimiento, persecución, desvanecimiento lento, centelleo y encendido constante. Elige tus modos favoritos en función de las diferentes ocasiones
 - ✅ [IP55 una prueba de agua y resistencia al calor]: la luz solar de Kolpop es resistente al calor y a la intemperie IP55, por lo que es perfecta tanto para uso en interiores como en exteriores sin preocuparse por la humedad ni por el mal tiempo.
+- ✅ [240 LED Blanco Frío]: 26 metros 240 LED son perfectas para la decoración de Jardín, balcón, fiesta de cumpleaños, en patio, celebración entre familiares y amigos.
+- ✅[8 Modes de Trabajo]: Magníficos modos de iluminación que incluyen combinación, luciérnagas, olas, desvanecimiento, persecución, desvanecimiento lento, centelleo y encendido constante. Elige tus modos favoritos en función de las diferentes ocasiones
+- ✅[Lo que obtienes]: 240 luces de LED de energía solar con cable de cobre, garantía de devolución de 30 días, 1 año de garantía sin preocupaciones, servicio de atención al cliente las 24 horas.
+- ✅ [Energy efficiency y conveniencia]: Alimentado por energía solar, no se requiere batería o cable adicional, trabajando hasta 10 horas después de la carga completa. Se ilumina automáticamente por la noche y apagado durante el día.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FC95YH4/?tag=tolees-21)
