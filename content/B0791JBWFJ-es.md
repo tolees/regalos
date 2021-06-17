@@ -29,8 +29,8 @@ Está [Perla Pendientes Mujer Plata de Ley 925 Cuelga Los Pendientes D.Perlla Pe
 ℹ️:
 
 - ♥Regalos ideales para las Mujeres♥Grandes regalos para las mujeres, regalos para la mamá, regalos para la suegra, regalos para la esposa, regalos para la hija, regalos para la tía, regalos para el mejor amigo, etc.
-- ♥Atención♥D.Perlla lanza nuevas colecciones atrevidos, glamurosos y modernos, ofreciendo así alternativas para todas las necesidades y gustos. mientras tanto, por favor amablemente comprobar el tamaño antes de comprar.
 - ♥Garantía♥ Si cualquier problema de la calidad, puede intercambiar el nuevo con el mismo tipo, dentro de los 180 días después de la recepción de ella.
+- ♥Atención♥D.Perlla lanza nuevas colecciones atrevidos, glamurosos y modernos, ofreciendo así alternativas para todas las necesidades y gustos. mientras tanto, por favor amablemente comprobar el tamaño antes de comprar.
 - ♥Material:Plata de Ley 925,Perla.
 - ♥Pendientes dimensión: 22*8 mm; Perlas diámetro: 8mm.
 
