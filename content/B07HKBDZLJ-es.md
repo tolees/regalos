@@ -28,10 +28,10 @@ Ahora mismo tienes [Alex Perry 6mm Pendientes Plata de Ley 925 Regalos de Crista
 
 🔎:
 
-- ♥ El material de los aretes de diamantes está formado por cristales transparentes de Austria y cuenta con numerosas facetas que brillan con una luz brillante en todos los ángulos. El detalle del proceso de corte de los pendientes de plata de ley 925 mostró perfectamente la belleza de la combinación del cristal y la luz. Presenta un estilo sutil y glamuroso.
+- ♥ Tamaño de los pendientes: 0,6 cm * 0,6 cm / 0,24 pulgadas * 0,24 pulgadas. Peso de los pendientes de los pendientes: 0,57 g * 2 / 0,02 oz * 2.
 - ♥ Cada joya de Alex Perry tiene su propio personaje único. Ofrecemos un servicio postventa de 12 meses. Si hay algún problema con la compra, no dude en contactarnos. Su mensaje será respondido dentro de las 24 horas. Envíos realizados por Amazon, disfrute de una entrega rápida y segura.
 - ♥ Aretes de plata de ley: el lenguaje de diseño es Mundo fantástico: para los sueños del futuro, así como para el amor inolvidable, incluso si no puedo pintarlo, tengo tales expectativas.
 - ♥ Con un exquisito empaque de caja de regalo. Adecuado como regalos del día de San Valentín, regalos del día de la madre para mamá, regalos de Navidad, regalos de aniversario, regalos de cumpleaños, regalos de boda, regalos de fiesta, regalos de graduación, regalos de regreso a la escuela para ella, esposa, novia. La distancia social nunca nos separará, solo fortalecerá nuestro amor.
-- ♥ Tamaño de los pendientes: 0,6 cm * 0,6 cm / 0,24 pulgadas * 0,24 pulgadas. Peso de los pendientes de los pendientes: 0,57 g * 2 / 0,02 oz * 2.
+- ♥ El material de los aretes de diamantes está formado por cristales transparentes de Austria y cuenta con numerosas facetas que brillan con una luz brillante en todos los ángulos. El detalle del proceso de corte de los pendientes de plata de ley 925 mostró perfectamente la belleza de la combinación del cristal y la luz. Presenta un estilo sutil y glamuroso.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HKBDZLJ/?tag=tolees-21)
