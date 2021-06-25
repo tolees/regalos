@@ -28,10 +28,10 @@ Ahora mismo tienes [Swarovski Pendientes Luckily Evil Eye  azul  baño en tono o
 
 🔎:
 
-- Puede combinarse y mezclarse con otras piezas Crystal Wishes para completar el look
 - Está inspirado en el amuleto del ojo turco, que se cree que aporta suerte y protege a quien lo lleva, por lo que es ideal como regalo para un amigo o pareja
-- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa. Su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios.
+- Puede combinarse y mezclarse con otras piezas Crystal Wishes para completar el look
 - Este sencillo pero elegante par de pendientes con baño de oro rosa y pavé en color mantiene la suerte de nuestro lado
+- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa. Su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios.
 - Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional. El metal es enchapado y cada cristal se engarza de forma individual. Debido a ello necesitan un cuidado especial.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0757XZJSB/?tag=tolees-21)
