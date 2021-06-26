@@ -28,10 +28,10 @@ En este momento está [Swarovski Anillo Attract  Blanco  Baño de Rodio](https:/
 
 🔎:
 
-- Su elegancia atemporal combina un baño de rodio con el radiante brillo de Swarovski y resulta fácil de llevar en cualquier ocasión
-- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa; su constante pasión por la innovación y el diseño hizo de Swarovski la marca en bisutería y accesorios
-- Un anillo exquisito para decir Te quiero
-- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional; el metal es enchapado y cada cristal se engarza de forma individual; debido a ello necesitan un cuidado adecuado
 - Adecuados para combinar y mezclar con otras piezas de bisutería y crear una historia de estilo personalizada
+- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa; su constante pasión por la innovación y el diseño hizo de Swarovski la marca en bisutería y accesorios
+- Su elegancia atemporal combina un baño de rodio con el radiante brillo de Swarovski y resulta fácil de llevar en cualquier ocasión
+- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional; el metal es enchapado y cada cristal se engarza de forma individual; debido a ello necesitan un cuidado adecuado
+- Un anillo exquisito para decir Te quiero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078XNTCCC/?tag=tolees-21)
