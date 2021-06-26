@@ -28,15 +28,15 @@ Ahora mismo tienes [PANDORA Mujer plata Abalorios 797999ENMX](https://www.amazon
 
 🔎:
 
-- Charms.
-- No se envía con estuche. Este debe adquirirse por separado.
-- Moments (Charm Concept)
 - Tamaño: 12 x 11 mm.
+- Mujer.
+- Moments (Charm Concept)
+- Enamel
 - Material: plata de ley 925/esmalte multicolor.
-- Grabado en la parte posterior "Let your dreams blossom", decorado con flores y mariposas, parcialmente ennegrecido.
 - Plata de ley.
 - Color: plateado, con detalles coloridos / piedras: con circonitas blancas.
-- Enamel
-- Mujer.
+- Charms.
+- Grabado en la parte posterior "Let your dreams blossom", decorado con flores y mariposas, parcialmente ennegrecido.
+- No se envía con estuche. Este debe adquirirse por separado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NF2WLJC/?tag=tolees-21)
