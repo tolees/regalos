@@ -28,8 +28,8 @@ Tienes [adidas Dynamic Pulse Eau de Toilette - 100 ml](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Tipo de producto - Eau de Toilette
 - Marca - Adidas
 - Producto pensado para hombres
-- Tipo de producto - Eau de Toilette
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21)
