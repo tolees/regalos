@@ -28,10 +28,10 @@ En este momento está [Pandora Abalorios Mujer plata - 797618](https://www.amazo
 
 🔎:
 
+- Plata de ley
+- Icon of Nature
 - Colgante
 - Grains of Life
 - Charms
-- Icon of Nature
-- Plata de ley
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G52P8QD/?tag=tolees-21)
