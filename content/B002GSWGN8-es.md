@@ -28,8 +28,8 @@ En este momento está [Calvin Klein en de 2 de U for Him Homme/Men  Eau de Toil
 
 🔎:
 
-- Un aroma de caballero muy versátil, con una nota principal de aroma a madera.
 - 100 ml Eau de Toilette (EdT) en spray.
 - Fragancias:Fresco, floral, oriental.
+- Un aroma de caballero muy versátil, con una nota principal de aroma a madera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002GSWGN8/?tag=tolees-21)
