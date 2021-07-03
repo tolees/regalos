@@ -28,10 +28,10 @@ En este momento está [PANDORA Abalorios Mujer plata - 797866CZ](https://www.ama
 
 🔎:
 
-- Moments (charm concept).
-- Plata de ley.
 - Colgantes.
-- Colgante.
 - Sin otros materiales.
+- Moments (charm concept).
+- Colgante.
+- Plata de ley.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NF1C98D/?tag=tolees-21)
