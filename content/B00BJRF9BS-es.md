@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOUS L Eau Agua de Perfume Vaporizador - al 66.45 % de rebaja'
-date: 2021-07-02 12:17:35
+date: 2021-07-03 14:03:19
 image: 'https://m.media-amazon.com/images/I/31PMgsxtMyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [TOUS L Eau Agua de Perfume Vaporizador - 90 ml](https://www.amazon.es/dp
 🔎:
 
 - Familias Olfativas: Amaderada, Floral
-- Diseñadora: Nathalie Lorson
 - Fecha Lanzamiento: 2011
+- Diseñadora: Nathalie Lorson
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BJRF9BS/?tag=tolees-21)
