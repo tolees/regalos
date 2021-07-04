@@ -28,11 +28,11 @@ En este momento está [Bvlgari - Omnia Amethyste Woman - Eau de toilette - 65 ml
 
 🔎:
 
-- Ingredientes: Aqua, Alcohol Denat, Parfum
-- De la marca bvlgari
-- Contiene 65 ml
-- La nota olfativa principal de este producto es floral
 - Para el cabello: Normal
+- Contiene 65 ml
+- De la marca bvlgari
+- La nota olfativa principal de este producto es floral
 - Este producto está indicado para mujeres
+- Ingredientes: Aqua, Alcohol Denat, Parfum
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000WZP3WI/?tag=tolees-21)
