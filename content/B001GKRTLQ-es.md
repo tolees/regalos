@@ -28,9 +28,9 @@ Está [Biotherm Eau Pure Agua de Tocador Vaporizador - 100 ml](https://www.amazo
 
 ℹ️:
 
-- Tipo de cabello: Normal
 - Diseñado para ofrecer una excelente experiencia al cliente
-- Creado siguiendo los más altos estándares de la marca Biotherm
 - Diseño funcional
+- Creado siguiendo los más altos estándares de la marca Biotherm
+- Tipo de cabello: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001GKRTLQ/?tag=tolees-21)

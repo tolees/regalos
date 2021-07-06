@@ -28,10 +28,10 @@ En este momento está [PANDORA - Unicornio mágico](https://www.amazon.es/dp/B08
 
 🔎:
 
-- La placa frontal de este colgante de plata de ley refinado a mano muestra un caballo abierto inspirado en el animal mítico Pegaso de la mitología griega
 - Este abalorio mágico de unicornio de Pandora representa la realización de sueños
-- El disco trasero está decorado con corazones y estrellas en relieve bajo esmalte transparente aplicado a mano
 - El artículo no se envía en una caja. Este debe comprarse por separado.
+- La placa frontal de este colgante de plata de ley refinado a mano muestra un caballo abierto inspirado en el animal mítico Pegaso de la mitología griega
 - En la parte posterior lleva el grabado «Love is the closest thing to magic» y el anillo de conexión está decorado con corazones y estrellas con piedras preciosas en un brillante efecto arcoíris
+- El disco trasero está decorado con corazones y estrellas en relieve bajo esmalte transparente aplicado a mano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KHHXSJK/?tag=tolees-21)
