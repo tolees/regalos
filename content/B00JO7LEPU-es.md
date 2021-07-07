@@ -30,7 +30,7 @@ Ahora mismo tienes [Montblanc Emblem Agua de Tocador - 100 ml](https://www.amazo
 
 - Las hojas crujientes verdes violetas heladas envueltas en hojas de canela
 - La base cuenta con maderas intensas y haba tonka
-- Comienza con un toque de pomelo aromático y cardamomo mixto
 - Emblem es una fragancia fresca, amaderada y aromática
+- Comienza con un toque de pomelo aromático y cardamomo mixto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00JO7LEPU/?tag=tolees-21)
