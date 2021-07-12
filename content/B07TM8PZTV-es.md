@@ -29,9 +29,9 @@ En este momento está [Guirnalda Luces Exterior Solares  BrizLabs 6.5M 30 LED Ca
 🔎:
 
 - ♥ 【8 Modos de Iluminación】 Hay 8 tipos de efectos de iluminación para su elección: combinación, prensa, secuencia, estrabismo, flash, desvanecimiento, parpadeo, continuo.
-- ♥ 【Encendido / Apagado Automático】 las luces solares de hadas se apagan automáticamente durante el día para absorber la luz solar y se encienden automáticamente al anochecer.
-- ♥ 【Resistente al Agua】 IP44 Totalmente resistente al agua, no te preocupes por la lluvia o la nieve. Esta luz solar crea una atmósfera romántica y fantástica por la noche.
 - ♥ 【Energía Solar】 Cadena de luz de bola solar con colector solar de 2V 200mA, batería recargable incorporada de 1.2V 1000 mAh Ni-MH. 6.5m total (la longitud de la luz es de 4.5m + el cable conductor es de 2m) de cable verde oscuro y 30 bolas de cristal LED de alta calidad. Perfecto para celebraciones y fiestas en verano, que formarán un hermoso mundo de hadas.
+- ♥ 【Resistente al Agua】 IP44 Totalmente resistente al agua, no te preocupes por la lluvia o la nieve. Esta luz solar crea una atmósfera romántica y fantástica por la noche.
+- ♥ 【Encendido / Apagado Automático】 las luces solares de hadas se apagan automáticamente durante el día para absorber la luz solar y se encienden automáticamente al anochecer.
 - ♥ 【Uso Amplio】 el cable flexible se puede doblar fácilmente y es perfecto para árboles, césped, jardín, cerca, etc. Ideal para Navidad, bodas, fiestas, habitaciones, San Valentín, celebraciones y otras ocasiones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TM8PZTV/?tag=tolees-21)
