@@ -30,8 +30,8 @@ Tienes [Alex Perry 8mm Pendientes Plata 925 Regalos para Mujeres para niñas Pen
 
 - ♥ El deslumbrante y elegante par de pendientes está hecho de cristales austriacos y tiene muchas facetas, que brilla con luz desde todos los ángulos. El detalle del proceso de corte de los pendientes de plata de ley 925 mostró a la perfección la belleza de la combinación de cristal y luz. Presenta un estilo sutil y glamoroso.
 - ♥ Cada joya de Alex Perry tiene su propio personaje único. Ofrecemos un servicio postventa de 12 meses. Si hay algún problema con la compra, no dude en contactarnos. Su mensaje será respondido dentro de las 24 horas. Envíos realizados por Amazon, disfrute de una entrega rápida y segura.
-- ♥ Tamaño de los pendientes: 0.8cm * 0.8cm / 0.32in * 0.32in. Peso de los pendientes: 1,98 g * 2 / 0,07 oz * 2.
-- ♥ Aretes de plata de ley: el lenguaje de diseño es Mundo fantástico: para los sueños del futuro, así como para el amor inolvidable, incluso si no puedo pintarlo, tengo tales expectativas.
 - ♥ Con un exquisito empaque de caja de regalo. Adecuado como regalos del día de San Valentín, regalos del día de la madre para mamá, regalos de Navidad, regalos de aniversario, regalos de cumpleaños, regalos de boda, regalos de fiesta, regalos de graduación, regalos de regreso a la escuela para ella, esposa, novia. La distancia social nunca nos separará, solo fortalecerá nuestro amor.
+- ♥ Aretes de plata de ley: el lenguaje de diseño es Mundo fantástico: para los sueños del futuro, así como para el amor inolvidable, incluso si no puedo pintarlo, tengo tales expectativas.
+- ♥ Tamaño de los pendientes: 0.8cm * 0.8cm / 0.32in * 0.32in. Peso de los pendientes: 1,98 g * 2 / 0,07 oz * 2.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GQ8V24D/?tag=tolees-21)
