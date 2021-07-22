@@ -28,10 +28,10 @@ En este momento está [Swarovski Colgante Eternal Flower  amarillo  combinación
 
 🔎:
 
-- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa. Su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios.
 - Un regalo encantador para muchas ocasiones distintas
-- El colgante incluye una cadena
 - Lleva varios pétalos distribuidos alrededor de un único cristal amarillo
 - Este colgante de Swarovski, de nuestra Colección Eternal Flower, está inspirado por la belleza natural de las margaritas
+- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa. Su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios.
+- El colgante incluye una cadena
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0814XL3RY/?tag=tolees-21)
