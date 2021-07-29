@@ -28,9 +28,9 @@ Está [CALVIN KLEIN CK BE - Agua de tocador vaporizador  200 ml](https://www.ama
 
 ℹ️:
 
-- Las notas olfativas principales de este producto son amaderado, fresco naturaleza y floral.
-- Este producto está indicado tanto para mujeres como para hombres.
 - De la marca Calvin Klein.
 - Contiene 200 ml.
+- Este producto está indicado tanto para mujeres como para hombres.
+- Las notas olfativas principales de este producto son amaderado, fresco naturaleza y floral.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1VTIY/?tag=tolees-21)
