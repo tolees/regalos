@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Versace Yellow Diamond Agua de Colonia - al 55.64 % de descuento'
-date: 2021-08-29 18:56:42
+date: 2021-09-08 11:26:57
 image: 'https://m.media-amazon.com/images/I/512nThHWqYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Versace'
 buyurl: 'https://www.amazon.es/dp/B005VRA66K/?tag=tolees-21'
 descuento: '55.64'
-average: '46.206'
+average: '45.7383333333333'
 ---
 
 Está [Versace Yellow Diamond Agua de Colonia - 90 ml](https://www.amazon.es/dp/B005VRA66K/?tag=tolees-21) con 55.64 de descuento por 43.4 EUR (original: 97.84 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Versace Yellow Diamond Agua de Colonia - 90 ml](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Notas de salida: neroli, bergamota, limón de Amalfi y pera.
 - Familia olfativa: Floral.
 - Notas de corazón: flor del naranjo africano, nenúfar, fresia y mimosa.
+- Notas de salida: neroli, bergamota, limón de Amalfi y pera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005VRA66K/?tag=tolees-21)
