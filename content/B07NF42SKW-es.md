@@ -28,10 +28,10 @@ Ahora mismo tienes [PANDORA Brilliant Bicycle Charm de plata de ley 925 - 797858
 
 🔎:
 
-- Colgante
-- Sin otros materiales
-- Charms
-- Plata de ley
 - Moments (Charm Concept)
+- Sin otros materiales
+- Plata de ley
+- Colgante
+- Charms
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NF42SKW/?tag=tolees-21)
