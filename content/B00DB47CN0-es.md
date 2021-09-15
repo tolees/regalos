@@ -28,10 +28,10 @@ Tienes [Adidas Team Five Agua de Tocador para Hombres 100 ml](https://www.amazon
 
 ℹ️:
 
-- Para hombres que aman competir y jugar a su manera
-- Inspirada en el estilo libre del futbol, amantes de la competición y de crear nuestras propias reglas
-- Notas principales: limón; notas de corazón: salvia; notas base: maderas ambarinas
-- Eau de Toilette para hombre 100 ml
 - Fragancia aromática amaderada
+- Eau de Toilette para hombre 100 ml
+- Para hombres que aman competir y jugar a su manera
+- Notas principales: limón; notas de corazón: salvia; notas base: maderas ambarinas
+- Inspirada en el estilo libre del futbol, amantes de la competición y de crear nuestras propias reglas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DB47CN0/?tag=tolees-21)
