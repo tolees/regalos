@@ -28,8 +28,8 @@ Tienes [Old Spice Original Eau De Toilette 100 ml](https://www.amazon.es/dp/B01
 
 ℹ️:
 
+- Familias Olfativas: Especiada, Oriental
 - Marca: Old Spice
 - Género: Hombre
-- Familias Olfativas: Especiada, Oriental
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010SLISYU/?tag=tolees-21)
