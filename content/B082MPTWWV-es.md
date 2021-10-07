@@ -28,9 +28,9 @@ Ahora mismo tienes [SINGULARU ® - Pendientes Star Punk Plata para Mujer Plata d
 
 🔎:
 
+- Baño de Rodio.
+- Acabado: Pulido Brillo.
 - Plata de Ley 925 contrastada en un Laboratorio Oficial en España.
 - Producto servido directamente desde los almacenes de la marca SINGULARU. Incluye Estuche y Bolsa SINGULARU.
-- Acabado: Pulido Brillo.
-- Baño de Rodio.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082MPTWWV/?tag=tolees-21)
