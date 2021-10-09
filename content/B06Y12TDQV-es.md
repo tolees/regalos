@@ -28,9 +28,9 @@ Ahora mismo tienes [Carolina Herrera 212 Sexy Agua de Perfume Vaporizador  105-6
 
 🔎:
 
+- Diseño funcional
 - Tipo de producto: agua de perfume
 - Marca: Carolina Herrera
 - Género: mujer
-- Diseño funcional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y12TDQV/?tag=tolees-21)
