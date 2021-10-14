@@ -28,10 +28,10 @@ En este momento está [LEGO 76390 Harry Potter Calendario de Adviento de 2021  J
 
 🔎:
 
+- Este calendario de Adviento para niños incluye 2 ladrillos de cromos aleatorios de magos (16 en total para coleccionar) para hacer que la cuenta hasta la Navidad sea mágica
+- Los peques podrán revivir la llegada de las cartas de Hogwarts a través de la chimenea, la entrada en la cámara de Gringotts, el encuentro con la lechuza Hedwig y mucho más
 - Un regalo de Navidad ideal para jóvenes magos y brujas a partir de 7 años; este encantador calendario de Harry Potter se combina fácilmente con otros sets de LEGO
 - Incluye 6 minifiguras LEGO: Harry Potter, Ron Weasley, Hermione Granger, Draco Malfoy, Dudley Dursley y Griphook, además de varios accesorios
-- Los peques podrán revivir la llegada de las cartas de Hogwarts a través de la chimenea, la entrada en la cámara de Gringotts, el encuentro con la lechuza Hedwig y mucho más
 - Tras la puerta 24 se esconde una colorida peonza que permite disfrutar de la emoción del divertido juego de mesa impreso en el calendario
-- Este calendario de Adviento para niños incluye 2 ladrillos de cromos aleatorios de magos (16 en total para coleccionar) para hacer que la cuenta hasta la Navidad sea mágica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WWKZK88/?tag=tolees-21)
