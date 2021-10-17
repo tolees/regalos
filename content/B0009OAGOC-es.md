@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Christian Dior - Dior  Fahrenheit Agua d al 32.55 % de rebaja'
-date: 2021-10-16 12:14:34
+date: 2021-10-17 14:48:42
 image: 'https://m.media-amazon.com/images/I/41r+yXVEpkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Christian Dior - Dior  Fahrenheit Agua de Colonia para Hombre- 100 ml.](
 
 🔎:
 
+- Producto pensado para hombres
 - Marca - Christian Dior
 - Tipo de producto - Agua de colonia
-- Producto pensado para hombres
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0009OAGOC/?tag=tolees-21)
