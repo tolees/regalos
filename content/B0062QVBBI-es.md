@@ -28,8 +28,8 @@ Ahora mismo tienes [Christian Dior - Dior 34560 - Agua de perfume](https://www.a
 
 🔎:
 
+- Productos de belleza y el cuidado personal
 - Marca: Dior
 - Tipo de producto: Agua de perfume
-- Productos de belleza y el cuidado personal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0062QVBBI/?tag=tolees-21)
