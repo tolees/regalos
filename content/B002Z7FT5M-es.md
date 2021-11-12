@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 30.50 % en adidas Dynamic Pulse Eau de Toilette - 1'
-date: 2021-11-08 17:34:27
-image: 'https://m.media-amazon.com/images/I/51mGHVzTBZL._SL500_._SL400_.jpg'
+date: 2021-11-12 06:36:46
+image: 'https://m.media-amazon.com/images/I/31j08MvDDaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21'
 descuento: '30.50'
-average: '5.40083333333333'
+average: '5.41303149606299'
 ---
 
 Tienes [adidas Dynamic Pulse Eau de Toilette - 100 ml](https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21) con un 30.50 % de descuento con precio de oferta de 6.95 EUR (original: 10.0 EUR) en el siguiente enlace!
 
-[![adidas Dynamic Pulse Eau de Toilette - 1](https://m.media-amazon.com/images/I/51mGHVzTBZL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21)
+[![adidas Dynamic Pulse Eau de Toilette - 1](https://m.media-amazon.com/images/I/31j08MvDDaL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21)
 
 ℹ️:
 
 - Marca - Adidas
-- Tipo de producto - Eau de Toilette
 - Producto pensado para hombres
+- Tipo de producto - Eau de Toilette
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21)
