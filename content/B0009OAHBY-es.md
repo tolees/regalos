@@ -28,9 +28,9 @@ Tienes [DAVIDOFF Cool Water Eau de Toilette 75ml](https://www.amazon.es/dp/B0009
 
 🔎:
 
+- Este producto está indicado para hombre
 - De la marca Davidoff
 - Contiene 75 ml
 - Las notas olfativas principales de este producto son especiado, fresco acuático y fresco naturaleza
-- Este producto está indicado para hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0009OAHBY/?tag=tolees-21)
