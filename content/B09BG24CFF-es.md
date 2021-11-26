@@ -28,13 +28,13 @@ Tienes [Garnier Calendario Adviento Tissue Masks - Colección De Navidad De 12 M
 
 🔎:
 
-- Tissue Mask Energizante: Mascarilla de tejido super hidratante impregnada con una fórmula que te aporta el equivalente de una semana de sérum, apta para todo tipo de pieles, incluso las sensibles.
-- Tissue Mask Nutribomb Almendra: Dale un gustazo a tu piel con una mascarilla de tejido impregnada en leche hidratante para nutrir y reparar intensamente tu piel en 15 minutos.
-- Tissue Mask Matificante: La Mascarilla de Tejido Hidratante Matificante contiene té verde y ácido hialurónico y está indicada para pieles normales a mixtas.
-- Tissue Mask Nutribomb Almendra: Dale un gustazo a tu piel con una mascarilla de tejido impregnada en leche hidratante para nutrir y reparar intensamente tu piel en 15 minutos.
 - Tissue Mask Ojos Vitamina C: Mascarilla para el contorno de ojos de aspecto cansado o apagado.
 - Ampoule Mask Piña: Mascarilla de Tejido Anti Fatiga de acción rápida con 1% de Vitamina Cg ayuda a iluminar y restaurar el brillo natural de la piel.
-- Tissue Mask Ojos Revitalizante: Mascarilla para el contorno de ojos con aspecto cansado y con primeros signos de la edad. Su fórmula ultra fresca está enriquecida con agua de coco y ácido hialurónico para un contorno de ojos luminoso, fresco y con menos líneas.
+- Tissue Mask Nutribomb Almendra: Dale un gustazo a tu piel con una mascarilla de tejido impregnada en leche hidratante para nutrir y reparar intensamente tu piel en 15 minutos.
+- Tissue Mask Nutribomb Almendra: Dale un gustazo a tu piel con una mascarilla de tejido impregnada en leche hidratante para nutrir y reparar intensamente tu piel en 15 minutos.
+- Tissue Mask Matificante: La Mascarilla de Tejido Hidratante Matificante contiene té verde y ácido hialurónico y está indicada para pieles normales a mixtas.
 - Ampoule Mask Sandia: Mascarilla de Tejido con Ácido Hialurónico, conocido por retener hasta 1000x su peso en agua y extracto de Sandía conocida por su frescura y su efecto saciante.
+- Tissue Mask Ojos Revitalizante: Mascarilla para el contorno de ojos con aspecto cansado y con primeros signos de la edad. Su fórmula ultra fresca está enriquecida con agua de coco y ácido hialurónico para un contorno de ojos luminoso, fresco y con menos líneas.
+- Tissue Mask Energizante: Mascarilla de tejido super hidratante impregnada con una fórmula que te aporta el equivalente de una semana de sérum, apta para todo tipo de pieles, incluso las sensibles.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B09BG24CFF/?tag=tolees-21)
