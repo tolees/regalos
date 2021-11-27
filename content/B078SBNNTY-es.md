@@ -28,9 +28,9 @@ En este momento está [Swarovski Pendientes de aro Stone  blanco  Baño de Rodio
 
 🔎:
 
-- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa; su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios
-- Encuentre el regalo optimo para el Día de la Madre o cualquier otra ocasión con este par de aros de estilo atemporal, decorados con cristal pavé que les confiere ese lustro especial de Swarovski
 - Optimo para regalar, y una elección elegante para una boda
+- Encuentre el regalo optimo para el Día de la Madre o cualquier otra ocasión con este par de aros de estilo atemporal, decorados con cristal pavé que les confiere ese lustro especial de Swarovski
+- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa; su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios
 - Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional; el metal es enchapado y cada cristal se engarza de forma individual; debido a ello necesitan un cuidado especial
 - Su diseño delicado con baño de rodio resulta fácil de combinar con cualquier atuendo, de la mañana a la noche
 
