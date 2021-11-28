@@ -28,9 +28,9 @@ En este momento está [VAHDAM  Surtido de Té Clásico | 40 Bolsitas Piramidales
 
 🔎:
 
-- GENTE VERDADERA, AMOR VERDADERO – A la gente de más de 100 países les encanta nuestra gran y variada gama de infusiones, lattes, tés fríos, mezclas instantáneas y elixires de gran calidad, todos repletos de las bondades que aportan los superalimentos saludables y las especias puras de la India.
 - NOS IMPORTA LA GENTE Y EL PLANETA – Nos enorgullece ser una marca certificada por su neutralidad tanto en carbono como en plástico. Para ello, medimos nuestra huella total de carbono y plástico y la compensamos con inversiones de iniciativas de sostenibilidad ambiental en la India.
 - ÉTICO, DIRECTO Y DE COMERCIO JUSTO – Nuestro innovador modelo de cadena de producción garantiza que puedas tomarte el té más fresco y que nuestros agricultores consigan un mejor precio por sus productos. Como parte de nuestra campaña social TEAch ME, el 1% de nuestros ingresos se destinan a la educación de los hijos de nuestros agricultores.
+- GENTE VERDADERA, AMOR VERDADERO – A la gente de más de 100 países les encanta nuestra gran y variada gama de infusiones, lattes, tés fríos, mezclas instantáneas y elixires de gran calidad, todos repletos de las bondades que aportan los superalimentos saludables y las especias puras de la India.
 - REGALOS DE NAVIDAD Y FIESTAS – Regala bienestar y buena salud a tus seres queridos. Deliciosos tés en un embalaje majestuoso y lujoso, ideal para la época de fiestas.
 - SURTIDO DE TÉ REGALO: CLÁSICO – Este muestrario contiene 40 variedades de nuestros mejores tés chai, infusiones, tés negros, verdes, blancos y oolong. 1 bolsita de té de cada.
 
