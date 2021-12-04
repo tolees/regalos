@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.41 % en adidas Dynamic Pulse Eau de Toilette - 1'
-date: 2021-12-03 02:41:57
+date: 2021-12-04 02:46:39
 image: 'https://m.media-amazon.com/images/I/31j08MvDDaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21'
 descuento: '36.41'
-average: '5.44849999999999'
+average: '5.45425287356321'
 ---
 
 Tienes [adidas Dynamic Pulse Eau de Toilette - 100 ml](https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21) con un 36.41 % de descuento con precio de oferta de 6.95 EUR (original: 10.93 EUR) en el siguiente enlace!
