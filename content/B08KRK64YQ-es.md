@@ -28,9 +28,9 @@ Tienes [Emporio Armani Pendientes de botón para mujer de plata de ley en tono o
 
 🔎:
 
-- Material: plata de ley
 - Acabado: pulido
 - Color: oro rosa
+- Material: plata de ley
 - Tipo de cierre: cierre posterior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KRK64YQ/?tag=tolees-21)
