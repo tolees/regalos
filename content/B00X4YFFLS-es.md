@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guerlain L Homme Ideal agua de colonia V al 53.49 % de rebaja'
+title: 'Guerlain L Homme Ideal agua de colonia Vaporizador 100 ml'
 date: 2020-01-01 04:45:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EpnghbiOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.49'
 average: '39.95'
 ---
 
-Tienes [Guerlain L Homme Ideal agua de colonia Vaporizador 100 ml](https://www.amazon.es/dp/B00X4YFFLS/?tag=tolees-21) con precio final de  41.3 EUR (original: 88.8 EUR) (53.49 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Guerlain L Homme Ideal agua de colonia V](https://images-eu.ssl-images-amazon.com/images/I/41EpnghbiOL._SL400_.jpg)](https://www.amazon.es/dp/B00X4YFFLS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B00X4YFFLS/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})
