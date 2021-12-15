@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PANDORA Damen-Joyero Blanco - P4026-P4027'
-date: 2021-12-14 17:22:49
+date: 2021-12-15 17:25:29
 image: 'https://m.media-amazon.com/images/I/11n03pKKueL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B00TQRD3IY/?tag=tolees-21'
 descuento: '15.16'
-average: '7.88670000000001'
+average: '7.90227722772278'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
