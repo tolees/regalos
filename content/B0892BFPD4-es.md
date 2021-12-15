@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'jerryvon Juguetes Niños 1 2 3 año Juguetes Montessori Juguetes de Madera Banco de Martillo Madera con Xilófono Laberinto 3 en 1 Educativos Juegos Navidad Halloween Regalos para Niños Niñas 1 2 3 Años'
-date: 2021-12-12 10:15:47
+date: 2021-12-15 05:09:18
 image: 'https://m.media-amazon.com/images/I/51ZLukSzWqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'jerryvon'
 buyurl: 'https://www.amazon.es/dp/B0892BFPD4/?tag=tolees-21'
 descuento: '17.40'
-average: '24.667517006803'
+average: '24.7575337837841'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
