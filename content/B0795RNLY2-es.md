@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mujeres Yves Saint Laurent
-- Agua de colonia para mujeres Perfumes y fragancias Hombre
 - (3614271990013)
+- Agua de colonia para mujeres Perfumes y fragancias Hombre
+- Mujeres Yves Saint Laurent
 
 [🛒 Visítala!!!]({{< param buyurl >}})

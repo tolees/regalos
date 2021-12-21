@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Agua de Perfume Hugo Boss
 - Agua de Perfume Perfumería Mujer
+- Agua de Perfume Hugo Boss
 - Hugo Boss Deep RedEDP W50; referencia 737052683522
 
 [🛒 Visítala!!!]({{< param buyurl >}})
