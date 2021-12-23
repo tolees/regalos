@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LAVUMO Collares Mujer Amor Colgante de Corazón Oro Rosa Plata de Ley 925 Collares de Mujer Joyas Regalos para Esposa  Mamá  Novia  Cumpleaños Navidad Aniversario día de San Valentín Regalo RG-05 '
-date: 2021-12-21 00:59:31
+date: 2021-12-23 08:24:47
 image: 'https://m.media-amazon.com/images/I/41njv+O+iaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LAVUMO'
 buyurl: 'https://www.amazon.es/dp/B09CYDYQ75/?tag=tolees-21'
 descuento: '15.00'
-average: '57.8025000000003'
+average: '57.6634693877554'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
