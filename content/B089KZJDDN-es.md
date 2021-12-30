@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Pro 2 2500 Design Edition - Cepillo eléctrico recargable  2 modos de cepillado  funda de viaje  color negro  ideal como regalo de Navidad'
-date: 2021-12-27 09:16:48
+date: 2021-12-30 10:36:48
 image: 'https://m.media-amazon.com/images/I/31Gt3h0s0tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oral-B'
 buyurl: 'https://www.amazon.es/dp/B089KZJDDN/?tag=tolees-21'
 descuento: '20.01'
-average: '36.354'
+average: '35.6266666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
