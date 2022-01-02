@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dolce & Gabbana 18039 - Agua de perfume'
-date: 2021-12-27 12:56:08
+date: 2022-01-02 14:15:37
 image: 'https://m.media-amazon.com/images/I/31JWi7BpnOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dolce & Gabbana'
 buyurl: 'https://www.amazon.es/dp/B0017JRFN8/?tag=tolees-21'
 descuento: '54.27'
-average: '32.4375'
+average: '31.6083333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de producto: Agua de perfume
-- Productos de belleza y el cuidado personal
 - Marca: Dolce & Gabbana
+- Productos de belleza y el cuidado personal
+- Tipo de producto: Agua de perfume
 
 [🛒 Aquí!!!]({{< param buyurl >}})
