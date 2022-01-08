@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pesadilla Antes De Navidad - Edición Coleccionista [Blu-ray]'
-date: 2022-01-06 09:32:43
+date: 2022-01-08 04:18:51
 image: 'https://m.media-amazon.com/images/I/61gaLWH4v5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0053CABO0-es Pesadilla Antes De Navidad - Edición Coleccionista [Blu-ray]'
 sku: 'B0053CABO0-es'
 tags: [ 'Animación','Blu-ray','Featured Categories','Musical','Películas','Películas y TV','navidad', ]
-actualPrice: 5.0 EUR
+actualPrice: 7.0 EUR
 currency: EUR
-price: 5.0
-comparePrice: 8.99 EUR
+price: 7.0
+comparePrice: 9.0 EUR
 prodname: 'Pesadilla Antes De Navidad - Edición Coleccionista [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053CABO0/?tag=tolees-21'
-descuento: '44.38'
-average: '9.08591093117412'
+descuento: '22.22'
+average: '9.07750000000003'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
