@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Abalorios Mujer plata - 791567EN80'
-date: 2022-01-07 19:03:08
+date: 2022-01-08 23:21:06
 image: 'https://m.media-amazon.com/images/I/51xZjDxrkiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
