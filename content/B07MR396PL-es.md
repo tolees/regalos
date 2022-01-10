@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Mujer plata Pendientes de botón 297813CZ'
-date: 2022-01-07 09:07:07
+date: 2022-01-10 17:09:42
 image: 'https://m.media-amazon.com/images/I/318wHc73qIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
