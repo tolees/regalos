@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pesadilla Antes De Navidad - Edición Coleccionista [DVD]'
-date: 2022-01-09 04:28:27
+date: 2022-01-10 04:36:31
 image: 'https://m.media-amazon.com/images/I/51U2DNS6XcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z7SIJU/?tag=tolees-21'
 descuento: '42.78'
-average: '6.91888888888888'
+average: '6.90276243093922'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
