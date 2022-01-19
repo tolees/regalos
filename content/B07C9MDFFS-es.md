@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Abalorios Mujer plata - 797059NSP'
-date: 2022-01-07 18:35:59
+date: 2022-01-19 10:01:22
 image: 'https://m.media-amazon.com/images/I/417ZnfL-4jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B07C9MDFFS/?tag=tolees-21'
 descuento: '35.56'
-average: '38.5833333333333'
+average: '37.2142857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo: Perfect Mum
-- Material: plata de ley 925
 - Piedras: cristal rosa/morado
-- Con colgante de letras MOM
 - Tamaño: 23 mm
+- Material: plata de ley 925
+- Con colgante de letras MOM
+- Modelo: Perfect Mum
 
 [🛒 Comprar!!!]({{< param buyurl >}})
