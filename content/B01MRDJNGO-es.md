@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adolfo Dominguez Agua Fresca Azahar Agua de Tocador Vaporizador - 200 ml'
-date: 2022-01-22 18:18:20
+date: 2022-01-23 21:26:56
 image: 'https://m.media-amazon.com/images/I/41NWvaEUirL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Adolfo Dominguez'
 buyurl: 'https://www.amazon.es/dp/B01MRDJNGO/?tag=tolees-21'
 descuento: '42.10'
-average: '30.95'
+average: '29.2833333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de producto: agua de colonia
 - Marca : ADOLFO DOMINGUEZ
 - Género : mujer
-- Tipo de producto: agua de colonia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

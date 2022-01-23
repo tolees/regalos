@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Abalorios Mujer plata - 797609'
-date: 2022-01-10 09:42:07
+date: 2022-01-23 21:02:11
 image: 'https://m.media-amazon.com/images/I/31fnkiOoMsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B07G4QZ3D5/?tag=tolees-21'
 descuento: '45.71'
-average: '27.7983333333333'
+average: '24.8655555555555'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Abalorio para mujer marca Pandora
-- Con una forma de unicornio
 - Tiene un peso total de 5 gramos
+- Con una forma de unicornio
 - Fabricado en plata fina de ley
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
