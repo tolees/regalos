@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spagnolo  Sport  Eau de Toilette  Hombre  30 ml'
-date: 2022-01-20 19:27:30
+date: 2022-01-28 20:03:00
 image: 'https://m.media-amazon.com/images/I/310VYTlgeNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Eau de Toilette Sport de Spagnolo para hombre en formato de 30 ml
+- Eau de Toilette Sport de Spagnolo para hombre en formato de 30 ml
 - Notas de salida: Mandarina, Naranja dulce, Notas acuosas y Aldehído; Notas de corazón: Madera de cedro, Pimienta y Neroli; Notas de fondo: Vetiver, Almizcle, Haba tonka y Ámbar
 - Eau de Toilette Sport de Spagnolo para hombre en formato de 30 ml
 - Con tendencia olfativa Especiada Amaderada, una fragancia atemporal
-- Eau de Toilette Sport de Spagnolo para hombre en formato de 30 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
