@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joyjoz adornos de madera de navidad 50 piezas+8 marcadores+60cascabeles  decoraciones de bricolaje para árboles de navidad para el hogar adornos colgantes de navidad manualidades para niños'
-date: 2022-02-02 18:02:42
+date: 2022-02-04 18:46:50
 image: 'https://m.media-amazon.com/images/I/51FSEmK4baL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Joyjoz'
 buyurl: 'https://www.amazon.es/dp/B07YZ2G3WX/?tag=tolees-21'
 descuento: '37.52'
-average: '10.74'
+average: '10.6566666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
