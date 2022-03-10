@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'B.Catcher Collar Mujer Plata de Ley 925   Eres la luz de mis Ojos   con para Regalo San Valentín Originales Cadena 45cm Longitud'
-date: 2022-03-09 12:09:29
+date: 2022-03-10 18:50:08
 image: 'https://m.media-amazon.com/images/I/51s6mTQGGHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'B.Catcher'
 buyurl: 'https://www.amazon.es/dp/B01N23IIJN/?tag=tolees-21'
 descuento: '50.01'
-average: '25.080909090909'
+average: '24.9899999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars YodaSet de ConstrucciónRegalos de Navidad para Niños 10 Años OriginalesModelo Coleccionable'
-date: 2022-03-09 18:12:02
+date: 2022-03-10 18:16:41
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con elaborados detalles, cabeza y cejas articuladas, dedos de las manos y los pies móviles, la espada láser verde de Yoda y, además, una placa de características con información sobre el Maestro Jedi y una base para exponer la minifigura de Yoda incluida con su espada láser
-- La figura LEGO Star Wars de Yoda con la espada láser mide más de 41 cm de altura
-- Este modelo coleccionable inspirado en Star Wars: El Ataque de los Clones es fantástico como un regalo original de Navidad, de cumpleaños o cualquier otra ocasión para niños a partir de 10 años, en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars
-- ¡Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set!
+- The Star Wars buildable model of powerful Jedi master Yoda looks great on display at home or in the office, impressing any fan of Star Wars!
+- Also, features a fact plaque with details about the Jedi master and a stand for the included Yoda minifigure and Lightsaber to impress any fan
+- Display LEGO Star Wars figure of Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
+- This version of Jedi Master Yoda, Star Wars collectable figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any collection
+- This Star Wars: Attack of the Clones collectable makes a great birthday gift, Christmas present or just a Star Wars present for any occasion
+- Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
 
 [🛒 Visítala!!!]({{< param buyurl >}})
