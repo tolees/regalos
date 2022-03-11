@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter Torre del Reloj de Hogwarts  Juguete de Construcción con 8 Mini Figuras y Decoración de Baile de Navidad'
-date: 2022-03-08 01:46:52
+date: 2022-03-11 12:56:38
 image: 'https://m.media-amazon.com/images/I/516O6mbvkqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07G3S3M9J/?tag=tolees-21'
 descuento: '15.00'
-average: '85.3782841328413'
+average: '85.3833027522935'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - El vestíbulo de entrada incluye un arcón y el Cáliz de Fuego.
 - Cuenta con un mecanismo para que los peques puedan cambiar la hora del reloj e imaginar aventuras de viajes en el tiempo con el Giratiempo, ¡y una función de “baile” para animar el Baile de Navidad!
-- El ala de la enfermería incluye 2 camas y 2 lámparas para construir.
-- Este set de juguetes LEGO Harry Potter contiene la Torre del Reloj de Hogwarts, de 3 plantas, con el vestíbulo de entrada, el aula donde se imparte la clase de Defensa Contra las Artes Oscuras, el ala de la enfermería, el baño de prefectos, el despacho de Dumbledore y una sección decorada con glaciales adornos para el Baile de Navidad.
 - Incluye 8 minifiguras inspiradas en el mundo de Harry Potter (novedad en junio de 2019): Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore y Madame Maxime.
+- El ala de la enfermería incluye 2 camas y 2 lámparas para construir.
 - El aula donde se imparte la clase de Defensa Contra las Artes Oscuras incluye una mesa, una silla, pociones, una vitrina, un libro, un escritorio con tintero y pluma, una lámpara para construir y una pizarra.
+- Este set de juguetes LEGO Harry Potter contiene la Torre del Reloj de Hogwarts, de 3 plantas, con el vestíbulo de entrada, el aula donde se imparte la clase de Defensa Contra las Artes Oscuras, el ala de la enfermería, el baño de prefectos, el despacho de Dumbledore y una sección decorada con glaciales adornos para el Baile de Navidad.
 - Todas las figuras llevan varitas y están ataviadas para asistir al Baile de Navidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
