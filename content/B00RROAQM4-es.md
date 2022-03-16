@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Disfruta de un aroma sofisticado y armonioso.
+- Fabricado por Instituto Español, expertos perfumistas desde 1903.
+- Dirigido a un hombre moderno y elegante.
 - Gran durabilidad.
 - El set contiene: Eau de Toilette 150 ml, After Shave 150 ml.
-- Disfruta de un aroma sofisticado y armonioso.
-- Dirigido a un hombre moderno y elegante.
-- Fabricado por Instituto Español, expertos perfumistas desde 1903.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
