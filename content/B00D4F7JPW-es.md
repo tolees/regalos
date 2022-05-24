@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DON ALGODÓN Agua De Tocador Vaporizador  7.3  200 ml'
-date: 2022-05-22 22:31:55
+date: 2022-05-24 13:48:33
 image: 'https://m.media-amazon.com/images/I/311QoJLZj4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DON ALGODÓN'
 buyurl: 'https://www.amazon.es/dp/B00D4F7JPW/?tag=tolees-21'
 descuento: '47.74'
-average: '10.795'
+average: '10.3933333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Familia olfativa: floral
 - Fecha lanzamiento: 1985
 - Familias olfativas: floral, frutal
+- Familia olfativa: floral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
