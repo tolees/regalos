@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Agua De Colonia Para Mujeres 50 ml'
-date: 2022-06-09 02:00:10
+date: 2022-06-10 02:14:53
 image: 'https://m.media-amazon.com/images/I/31RtMN6onKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B01LCSH68C/?tag=tolees-21'
 descuento: '40.23'
-average: '8.6575'
+average: '8.48'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mujeres Calvin Klein
-- (3614221537848)
 - Agua de colonia para mujeres Perfumes y fragancias Unisex Adulto
+- (3614221537848)
+- Mujeres Calvin Klein
 
 [🛒 Aquí!!!]({{< param buyurl >}})
