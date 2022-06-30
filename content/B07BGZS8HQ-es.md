@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Abalorios Mujer plata - 797141EN160'
-date: 2022-06-25 17:58:33
+date: 2022-06-30 17:16:28
 image: 'https://m.media-amazon.com/images/I/415BpDhVPmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.es/dp/B07BGZS8HQ/?tag=tolees-21'
 descuento: '47.27'
-average: '44.8'
+average: '40.85'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
