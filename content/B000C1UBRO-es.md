@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Eternity Moment - Agua de perfume vaporizador  100 ml'
-date: 2022-07-07 18:32:33
+date: 2022-07-08 22:21:10
 image: 'https://m.media-amazon.com/images/I/217ihyPekyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B000C1UBRO/?tag=tolees-21'
 descuento: '70.08'
-average: '32.4915060240964'
+average: '32.4640119760479'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto está indicado para mujeres.
-- Las notas olfativas principales de este producto son floral y afrutado.
 - Contiene 100 ml.
 - De la marca Calvin Klein.
+- Este producto está indicado para mujeres.
+- Las notas olfativas principales de este producto son floral y afrutado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
