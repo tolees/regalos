@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein One Edt Vapo Eau de Toilette  Blanco/Plata  100 ml'
-date: 2022-08-18 23:43:06
+date: 2022-08-23 15:01:23
 image: 'https://m.media-amazon.com/images/I/31TeMvN+HAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B00HAOP8UQ/?tag=tolees-21'
 descuento: '52.71'
-average: '18.9109210526317'
+average: '18.9244155844157'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
