@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Harry Potter Advent Calendar  Multicolor  59167 '
-date: 2022-08-21 10:32:08
+date: 2022-08-26 18:02:23
 image: 'https://m.media-amazon.com/images/I/51h5263dkgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B08YK8WK98/?tag=tolees-21'
 descuento: '25.08'
-average: '53.015'
+average: '51.8628571428571'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Explora nuestra gama de productos
+- Este producto fue creado con atención al detalle
 - Nuestra calidad es lo que nos recomienda
 - Funko 59167 Advent Calendar: Harry Potter 2021
-- Este producto fue creado con atención al detalle
 
 [🛒 Aquí!!!]({{< param buyurl >}})
