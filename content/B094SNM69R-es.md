@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Set de regalo Bombay Sapphire Premium London Dry Gin  70 cl y copa balón de gin con el nombre de la marca'
-date: 2022-08-26 20:10:09
+date: 2022-08-28 06:05:15
 image: 'https://m.media-amazon.com/images/I/51RjGShNi8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este set de regalo incluye el icónico gin Bombay Sapphire, elaborado según una receta original de 1761, y una copa balón de gin con el nombre de la marca. Es el regalo perfecto para cualquier ocasión.
-- Nuestro emblemático gin London Dry se infusiona al vapor al 100 % para otorgarle unas frescas y marcadas notas cítricas, un vivo toque de enebro y un acabado elegante, ligero y especiado.
 - Este set de regalo de gin es perfecto para inspirar cócteles creativos, desde el definitivo Bombay Sapphire & Tonic hasta The Laverstoke; descubre la expresión de Bombay ideal para cada gusto.
 - Elaborado artesanalmente por nuestro Maestro de Botánicos y nuestro Maestro Destilador con 10 botánicos procedentes de todo el mundo, seleccionados a mano y obtenidos de forma sostenible.
+- Este set de regalo incluye el icónico gin Bombay Sapphire, elaborado según una receta original de 1761, y una copa balón de gin con el nombre de la marca. Es el regalo perfecto para cualquier ocasión.
+- Nuestro emblemático gin London Dry se infusiona al vapor al 100 % para otorgarle unas frescas y marcadas notas cítricas, un vivo toque de enebro y un acabado elegante, ligero y especiado.
 - El set de regalo Bombay Sapphire se entrega en el embalaje reciclable y antifrustración de Amazon, diseñado para reducir los residuos, ofrecer protección contra daños y garantizar una apertura fácil.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
