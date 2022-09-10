@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Dynamic Pulse Eau de Toilette - 100 ml'
-date: 2022-09-04 12:31:50
+date: 2022-09-10 11:55:26
 image: 'https://m.media-amazon.com/images/I/411pCrQqT5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B002Z7FT5M/?tag=tolees-21'
 descuento: '58.01'
-average: '5.48662962962962'
+average: '5.48332103321032'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto pensado para hombres
 - Tipo de producto - Eau de Toilette
 - Marca - Adidas
-- Producto pensado para hombres
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
