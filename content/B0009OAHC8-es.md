@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DAVIDOFF Cool Water Eau de Toilette 125ml'
-date: 2022-09-25 17:29:54
+date: 2022-09-28 09:44:06
 image: 'https://m.media-amazon.com/images/I/31E-DAZpm-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Davidoff'
 buyurl: 'https://www.amazon.es/dp/B0009OAHC8/?tag=tolees-21'
 descuento: '72.28'
-average: '18.5246666666666'
+average: '18.8012499999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Las notas olfativas principales de este producto son fresco acuático y fresco naturaleza.
+- Este producto está indicado para hSombras.
 - Contiene 125 ml.
 - De la marca Davidoff.
-- Este producto está indicado para hSombras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
