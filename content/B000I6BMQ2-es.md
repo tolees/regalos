@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden - Britney Spears Fantasy Eau de Parfum 30 ml'
-date: 2022-10-07 23:18:37
+date: 2022-10-16 09:33:42
 image: 'https://m.media-amazon.com/images/I/41+J2EiIxML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.es/dp/B000I6BMQ2/?tag=tolees-21'
 descuento: '17.08'
-average: '12.45'
+average: '11.2'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
