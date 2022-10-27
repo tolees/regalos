@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Calendario de Adviento POP: Dragon Ball Z  49660  multicolor'
-date: 2022-10-12 17:38:25
+date: 2022-10-27 13:00:45
 image: 'https://m.media-amazon.com/images/I/51Qhcb0R8xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B084R1RPQM/?tag=tolees-21'
 descuento: '16.68'
-average: '49.0277358490566'
+average: '49.0396894409938'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 24 sorpresas todos los días hasta el día de Navidad
 - Funko ¡POP! Es el juguete del año 2018 de Peoples Choice
-- Calendario de adviento Funko Bolsillo POP Dragon Ball Z
 - Color: multicolor
+- 24 sorpresas todos los días hasta el día de Navidad
+- Calendario de adviento Funko Bolsillo POP Dragon Ball Z
 - Descripción del rango de edad: No apropiado para niños menores de 3 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
