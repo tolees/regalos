@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los peques pueden visualizar, acercar y girar las maquetas que construyan con la app gratuita Instrucciones de Montaje LEGO
-- Este parque de bomberos de juguete de LEGO City cuenta con un edificio de 3 plantas con un garaje, recepción, habitaciones y sala de control, además de increíbles accesorios, mini figuras y llamas de mentira
 - Además, incluye una base de carretera para conectarlo con otros sets LEGO City como la Comisaría de Policía (60316) o la Persecución Policial en el Banco (60317)
-- Los juguetes de policía y bomberos de LEGO City son fantásticos regalos de Reyes Magos para niños de 6 años o más amantes de los juegos de acción y los vehículos de emergencia
-- Incluye divertidos accesorios como 4 cascos, un walkie-talkie, un hacha, una taza, una caja de pizza y un extintor para vivir divertidos juegos de rol
 - Incluye 5 mini figuras LEGO, con 2 personajes de la serie de TV LEGO City, Freya McCloud y Finn McCormack, además de las figuras de un gato y un perrito
 - Cuenta con varios vehículos de emergencias de juguete: un helicóptero que lanza elementos de agua LEGO y un camión de bomberos que dispara dardos de agua
+- Los juguetes de policía y bomberos de LEGO City son fantásticos regalos de Reyes Magos para niños de 6 años o más amantes de los juegos de acción y los vehículos de emergencia
+- Los peques pueden visualizar, acercar y girar las maquetas que construyan con la app gratuita Instrucciones de Montaje LEGO
+- Incluye divertidos accesorios como 4 cascos, un walkie-talkie, un hacha, una taza, una caja de pizza y un extintor para vivir divertidos juegos de rol
+- Este parque de bomberos de juguete de LEGO City cuenta con un edificio de 3 plantas con un garaje, recepción, habitaciones y sala de control, además de increíbles accesorios, mini figuras y llamas de mentira
 
 [🛒 Aquí!!!]({{< param buyurl >}})
