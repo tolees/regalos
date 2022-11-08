@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel - Calendario de Adviento Funko Marvel'
-date: 2022-11-07 09:22:24
+date: 2022-11-08 18:17:18
 image: 'https://m.media-amazon.com/images/I/41Yv7dqsY1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07PQTDG9Q/?tag=tolees-21'
 descuento: '26.68'
-average: '50.66'
+average: '49.7071428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Licencia oficial
+- Colección marvel
+- Incluye 24 figuras
 - Calendario de adviento
 - Caja Ilustrada
-- Incluye 24 figuras
-- Colección marvel
+- Licencia oficial
 
 [🛒 Comprar!!!]({{< param buyurl >}})
