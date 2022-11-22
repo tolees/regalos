@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DYOLI Velas Perfumadas  Juego de Velas 6 PCS  Velas Aromáticas Decorativas  Velas de Aromaterapia de Cera de Soja 100%  Alivia el Estrés  Adecuadas para  Dormitorio  Cumpleaños  Navidad  San Valentín'
-date: 2022-11-20 18:19:22
+date: 2022-11-21 23:47:23
 image: 'https://m.media-amazon.com/images/I/61e9bvsAKOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DYOLI'
 buyurl: 'https://www.amazon.es/dp/B09WJHTJT2/?tag=tolees-21'
 descuento: '18.76'
-average: '13.8566666666665'
+average: '13.8378260869564'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
