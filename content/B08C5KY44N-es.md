@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Set de Crema de Manos  Caja Regalo Navidad Mujer  Eleanore s Diary Set de Regalo de 8 PCS Crema de Manos y 4 PCS Bálsamo labial  Mini Hand Cream Nutritiva con Vitamina C y E  Calendario Adviento Mujer'
-date: 2022-11-21 23:48:21
+date: 2022-11-24 00:33:39
 image: 'https://m.media-amazon.com/images/I/51M5ZB6yhjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eleanores Diary'
 buyurl: 'https://www.amazon.es/dp/B08C5KY44N/?tag=tolees-21'
 descuento: '20.06'
-average: '19.3321985815599'
+average: '19.2853146853143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
