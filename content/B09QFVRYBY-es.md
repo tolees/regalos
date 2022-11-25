@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60339 City Stuntz Pista Acrobática con Doble Rizo  Monster Truck y Motos de Juguete  Set de Construcción  Regalos Navideños  Reyes Magos'
-date: 2022-11-21 22:48:15
+date: 2022-11-25 12:32:28
 image: 'https://m.media-amazon.com/images/I/51zan-cU38L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFVRYBY/?tag=tolees-21'
 descuento: '32.50'
-average: '114.09'
+average: '107.665'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- The toy stunt arena includes an arched entrance, wall of flames, snapping snake loop, a loop of fire, vendor stall and spectator stand
-- Kids activate the flywheel-powered toy motorbikes to launch through the wall of flames, ride the snapping-snake loop & ignite the loop of fire
-- Combine this set with others from the LEGO City Stuntz range like: 60331 Touring Stunt Bike for even bigger stunt-show extravaganzas
-- This LEGO City Stuntz motorbike playset with monster truck toy makes a great birthday present or Christmas gift for boys and girls age 7 plus
-- This LEGO City Double Loop Stunt Arena playset features 2 flywheel-powered stunt bikes and a monster truck toy with a ramp for performing stunts
-- Building fun for action fans aged 7 and up – This LEGO City Stunt vehicles playset includes easy-to-follow printed instructions for all models
-- 7 LEGO City minifigures, including 2 stunt racers for exciting shows; plus cool accessories including an ice lolly, soft drink and a camera
+- Incluye 7 mini figuras LEGO City, entre ellas 2 pilotos acrobáticos para vivir emocionantes aventuras y un montón de divertidos accesorios como una cámara, un polo de helado y un refresco
+- Este divertido set de construcción es un fantástico regalo Navideño y de Reyes Magos para niños y niñas de 7 años en adelante amantes de los juegos creativos
+- La pista de este juguete de construcción incluye un arco de entrada, un rizo de serpiente, un rizo de fuego, un muro con llamas, un puesto de venta y una grada de público
+- Los peques activarán las motos acrobáticas con la rueda de inercia y las lanzarán a través del muro con llamas para recorrer el rizo de serpiente mordedora y encender el rizo de fuego
+- Participa en trepidantes torneos y espectáculos acrobáticos con este set LEGO City Stuntz que cuenta con 2 motos acrobáticas, una rampa de juguete y un increíble monster truck para pasar por encima
+- Las motos de juguete para construir son naranjas y moradas y en el set se incluyen instrucciones impresas fáciles de seguir para todos los elementos
+- Combina este set con otros de la gama LEGO City y no pares de vivir emocionantes torneos y aventuras: Rizo Acrobático: Chimpancé Devastador (60338) o Desafío Acrobático: Espadas (60340)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
