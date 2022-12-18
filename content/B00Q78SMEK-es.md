@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MENFORSAN Agua de Colonia para Perros Talco - 125 ml'
-date: 2022-12-12 09:29:28
+date: 2022-12-18 14:13:36
 image: 'https://m.media-amazon.com/images/I/31PdC-5pYLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MENFORSAN'
 buyurl: 'https://www.amazon.es/dp/B00Q78SMEK/?tag=tolees-21'
 descuento: '27.18'
-average: '3.71576576576581'
+average: '3.72803571428576'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
