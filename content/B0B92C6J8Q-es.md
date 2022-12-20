@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PASTACO Regalos Originales para Hombre Mujer Gorro con Luz LED  Regalos Navidad Originales Gorro Linterna Regalo Papa Madre Unisex Gorro para Correr Caza Camping Asar Camuflaje Verde  Talla Única'
-date: 2022-12-11 07:11:09
+date: 2022-12-20 16:41:08
 image: 'https://m.media-amazon.com/images/I/61oVcOLhrcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PASTACO'
 buyurl: 'https://www.amazon.es/dp/B0B92C6J8Q/?tag=tolees-21'
 descuento: '25.01'
-average: '14.5837499999999'
+average: '15.4233333333331'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
