@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Donna Karan - DKNY Be Delicious Fresh Blossom - Agua de perfume para mujer  50 ml'
-date: 2023-01-18 13:02:50
+date: 2023-01-19 15:31:42
 image: 'https://m.media-amazon.com/images/I/41LwbDDNYnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Donna Karan'
 buyurl: 'https://www.amazon.es/dp/B002XQ1RMY/?tag=tolees-21'
 descuento: '30.24'
-average: '40.1333333333333'
+average: '41.0'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Donna Karan
 - Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de perfume
+- Marca: Donna Karan
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002XQ1RMY{{</world>}}
