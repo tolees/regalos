@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de cultura general perfecto para jugar con amigos y familia. Prepárate para un viaje espacial increíble y divertido con el mejor juego de trivia.
-- Juego creado por ATM Gaming, una empresa de jóvenes creativos especializados en los juegos de mesa. Descubre nuestros juegos para divertirte en familia, pareja y con amigos.
+- Aquí no buscas ser el más inteligente, ¡sino el menos tonto! Por cada fallo irás cayendo en el tablero y tu CI disminuyendo, ¡cuidado de terminar con un CI de concursante de reality!
 - Juego de cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible. Un 1% de los beneficios del juego de mesa se dona a obras benéficas.
 - El regalo de Navidad perfecto para jugar en estas fiestas con amigos y familia. Idea original para regalar por Papá Noel, Reyes Magos y amigo invisible.
-- Variedad de cartas: 6 tipos de cartas distintos para que el juego sea más dinámico y divertido. Con preguntas sobre cultura popular, comida, deportes, ciencia o historia.
-- Aquí no buscas ser el más inteligente, ¡sino el menos tonto! Por cada fallo irás cayendo en el tablero y tu CI disminuyendo, ¡cuidado de terminar con un CI de concursante de reality!
 - ¡Diversión para todos! De 2 a 16 jugadores, partidas de 15 a 45 min y para mayores de 14 años. Perfecto para animar tus noches, fiestas o quedadas con amigos y familia.
+- Variedad de cartas: 6 tipos de cartas distintos para que el juego sea más dinámico y divertido. Con preguntas sobre cultura popular, comida, deportes, ciencia o historia.
+- Juego creado por ATM Gaming, una empresa de jóvenes creativos especializados en los juegos de mesa. Descubre nuestros juegos para divertirte en familia, pareja y con amigos.
+- Juego de cultura general perfecto para jugar con amigos y familia. Prepárate para un viaje espacial increíble y divertido con el mejor juego de trivia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ55KRLZ{{</world>}}

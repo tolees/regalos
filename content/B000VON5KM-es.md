@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colonia Tous con fragancia floral verde para mujeres
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con respecto a la piel. Para que perdure durante todo el día, aplícalo sobre la parte superior de la nuca, detrás de las orejas y la parte interna de codos y muñecas
-- Vaporizador de 90ml
 - Para una mujer de caracter puro, delicado y elegante
 - Su pirámide olfativa comienza por hojas de cassis, violeta, bergamota y coriandro. En su corazón, jazmín blanco de Sambac, peonia amarilla, rosa y gardenia que finaliza en musc blanco, cedro de Marruecos e iris
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con respecto a la piel. Para que perdure durante todo el día, aplícalo sobre la parte superior de la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Colonia Tous con fragancia floral verde para mujeres
+- Vaporizador de 90ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VON5KM{{</world>}}

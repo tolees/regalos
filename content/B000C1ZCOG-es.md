@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfume para mujer
 - Las notas altas de violetas y duraznos abren los sentidos
-- Cantidad por paquete: 1 pieza
-- Las notas medias son sandías, lirio de los valles y fresia
 - Adecuado para uso personal y también para regalar
+- Perfume para mujer
+- Las notas medias son sandías, lirio de los valles y fresia
+- Cantidad por paquete: 1 pieza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1ZCOG{{</world>}}

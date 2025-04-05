@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un frasco de 100 ml con curvas sutiles y vidrio transparente; ​​Tommy Girl Eau de Toilette para mujeres se distingue por una tapa plateada y un logotipo minimalista
-- Sumérgete en los icónicos años 90, simbolizada por Tommy Girl Eau de Toilette; te llevará por un viaje en carretera al estilo estadounidense donde cada día es un nuevo descubrimiento
+- Descubre las notas de bergamota y hierbabuena, seguidas de tonos florales de jazmín, rosa y té helado, y finalizadas con un potente almizcle
 - Tommy Hilfiger es una icónica marca del diseñador de moda conocido por su estilo americano clásico y moderno, que busca difundir sus valores: libertad, inclusividad y compartir
 - La fragancia Tommy Girl ​​​​para mujeres cautiva con sus notas frutales y florales que capturan la esencia de un viaje en carretera al estilo estadounidense; déjate llevar en este viaje
-- Descubre las notas de bergamota y hierbabuena, seguidas de tonos florales de jazmín, rosa y té helado, y finalizadas con un potente almizcle
+- Sumérgete en los icónicos años 90, simbolizada por Tommy Girl Eau de Toilette; te llevará por un viaje en carretera al estilo estadounidense donde cada día es un nuevo descubrimiento
+- Un frasco de 100 ml con curvas sutiles y vidrio transparente; ​​Tommy Girl Eau de Toilette para mujeres se distingue por una tapa plateada y un logotipo minimalista
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003PQANKS{{</world>}}

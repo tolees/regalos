@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Te ofrecemos nuestra mejor gama de productos para que te puedas cuidar vayas donde vayas
-- Saphir kids blue edt vapo 300 ml
 - Cuida tu salud con estos productos y siéntete bien
+- Saphir kids blue edt vapo 300 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ISKEBC6{{</world>}}

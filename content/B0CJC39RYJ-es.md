@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de calidad
 - Es adecuada para todo tipo de piel
+- Material de calidad
 - Aprovecha los meses más fríos con esta rutina de cuidado de la piel de 3 piezas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

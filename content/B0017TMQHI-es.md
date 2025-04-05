@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene 30 ml.
+- Las notas olfativas principales de este producto son floral y afrutado.
 - Este producto está indicado para mujeres.
 - De la marca Calvin Klein.
-- Las notas olfativas principales de este producto son floral y afrutado.
+- Contiene 30 ml.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0017TMQHI{{</world>}}

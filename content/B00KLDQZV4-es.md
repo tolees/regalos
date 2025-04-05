@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Victorias Secret
-- Género: Mujer
 - Familias Olfativas: Floral, Frutal, Gourmand
+- Género: Mujer
+- Marca: Victorias Secret
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00KLDQZV4{{</world>}}

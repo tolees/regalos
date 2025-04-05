@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Collar para mascotas con acero inoxidable y tela sin cuero negro
 - Acero inoxidable, tela sin piel negra
+- Collar para mascotas con acero inoxidable y tela sin cuero negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B34ZYTFQ{{</world>}}

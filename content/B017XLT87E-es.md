@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Agua de colonia - Unisex
-- Gotas de Mayfer - Agua de colonia - Colonia fresca
 - Contenido: 500 ml
+- Gotas de Mayfer - Agua de colonia - Colonia fresca
+- Agua de colonia - Unisex
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017XLT87E{{</world>}}

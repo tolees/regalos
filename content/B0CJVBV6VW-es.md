@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para todo tipo de pelo ondulado o rizado. Tu nueva rutina para lucir unos rizos espectaculares
+- Este pack regalo para el Método Curly de GIORGI Line incluye: 1 champú suave antiencrespamiento, 1 mascarilla nutritiva y 1 gel definidor
 - Sácale partido a tus rizos con la nueva rutina Método Curly de Giorgi. ​Rizos espectaculares y cuidados en 3 pasos. Resultados visibles desde la primera aplicación
 - 0% Alcohol, Siliconas, Sulfatos. Con proteínas vegetales y Aguacate. Fórmula Vegana y Biodegradable
-- Este pack regalo para el Método Curly de GIORGI Line incluye: 1 champú suave antiencrespamiento, 1 mascarilla nutritiva y 1 gel definidor
 - La gama Método Curly de GIORGI está formulada para cuidar tanto el cabello rizado y ondulado como el planeta
+- Apto para todo tipo de pelo ondulado o rizado. Tu nueva rutina para lucir unos rizos espectaculares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJVBV6VW{{</world>}}

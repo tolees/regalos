@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral. Es ideal para aquellas mujeres que buscan un olor juvenil, limpio y alegre, que nos recuerde a la tranquilidad y colores de la primavera.
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, ylang y pimienta rosa; Notas de corazón: jazmín, coco y notas marinas; Notas de fondo: vainilla, sándalo y praliné.
-- FEMENINO Y VIBRANTE: Un perfume para mujer vibrante y alegre, para adornar tu día a día con un toque floral que te hará brillar a la luz de la luna. ¡Disfruta de esas sensaciones vibrantes del jardín primaveral!
-- ESENCIA DURADERA: Una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una sola vez y durará todo el día!
 - ESTUCHE DE REGALO: El estuche femenino incluye un perfume de 100 ml, una crema de cuerpo de 75 ml y un gel de baño de 100 ml, para mujeres vibrantes. ¡Te transportarás a un jardín primaveral!. Colonia con vaporizador.
+- FEMENINO Y VIBRANTE: Un perfume para mujer vibrante y alegre, para adornar tu día a día con un toque floral que te hará brillar a la luz de la luna. ¡Disfruta de esas sensaciones vibrantes del jardín primaveral!
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, ylang y pimienta rosa; Notas de corazón: jazmín, coco y notas marinas; Notas de fondo: vainilla, sándalo y praliné.
+- ESENCIA DURADERA: Una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una sola vez y durará todo el día!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BH918DYW{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En cuanto al estilo, eres tú quien decide cómo llevarlos
 - Diseñados para combinarse y mezclarse con otras piezas de la familia Stilla, estos pendientes de botón ofrecen un sinfín de posibilidades de estilo
 - Este par cuenta con piedras azules de talla octogonal en engastes bañados de rodio
+- En cuanto al estilo, eres tú quien decide cómo llevarlos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B9HWSDJX{{</world>}}

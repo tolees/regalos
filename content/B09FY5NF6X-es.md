@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agua de colonia talco para perros con fragancias frutales naturales creadas para proporcionar después del baño un olor fresco y un intenso efecto desodorante muy agradable
-- Respeta la piel y las propiedades olfativas del animal
 - Aplicar después del baño en área del cuello y del lomo
 - No contienen alcohol y tienen pH neutro, careciendo de efectos irritantes y evitando que el perro estornude después de su aplicación
+- Agua de colonia talco para perros con fragancias frutales naturales creadas para proporcionar después del baño un olor fresco y un intenso efecto desodorante muy agradable
+- Respeta la piel y las propiedades olfativas del animal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FY5NF6X{{</world>}}

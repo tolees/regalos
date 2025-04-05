@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refrescante, vibrante y floral. Esta fragancia femenina de verano tiene notas altas de jacinto, gálbano, ylang-ylang y limón, con un corazón de clavel, jazmín y rosa sobre notas de fondo de sándalo, pachulí, almizcle y musgo de roble.
-- Auténtico aroma de lujo Guy Laroche . Una fragancia fresca y cristalina creada por el diseñador francés, inspirada en las islas del Pacífico Sur
 - Botella firmada por un artista icónico. Auténticamente retro, la botella esquinera con su exclusiva tapa de abanico tiene un diseño atemporal creado por uno de los artistas más importantes de los años sesenta.
 - Un clásico de época desde 1966. Exótico y fragante como las islas de las que toma su nombre, se ha consolidado como uno de los perfumes femeninos más populares del mundo desde su lanzamiento.
+- Refrescante, vibrante y floral. Esta fragancia femenina de verano tiene notas altas de jacinto, gálbano, ylang-ylang y limón, con un corazón de clavel, jazmín y rosa sobre notas de fondo de sándalo, pachulí, almizcle y musgo de roble.
+- Auténtico aroma de lujo Guy Laroche . Una fragancia fresca y cristalina creada por el diseñador francés, inspirada en las islas del Pacífico Sur
 - Un regalo maravilloso para la mujer de tu vida. Esta fragancia clásica, almizclada y especiada pero ligera y floral, siempre deleita y evoca las cálidas brisas fragantes de una isla tropical llena de flores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

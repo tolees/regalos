@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata y nutre profundamente la piel de todo el cuerpo con la Crema Corporal Honey Drops. Es una crema de rápida absorción delicadamente perfumada con un aroma fresco y revitalizante
-- Rebosante de sabores chispeantes, el aroma entrelaza armoniosamente ingredientes naturales para formar una experiencia de fragancia estimulante, revitalizante y equilibrada.
 - Déjate envolver por la fragancia floral cítrica de Green Tea, un perfume ligero y vibrante, lleno de energía y vida, chispeante e intrigante, como una cascada.
+- Hidrata y nutre profundamente la piel de todo el cuerpo con la Crema Corporal Honey Drops. Es una crema de rápida absorción delicadamente perfumada con un aroma fresco y revitalizante
 - Las Notas de Salida son limón (lima ácida), bergamota, menta, cáscara de naranja y ruibarbo; las Notas de Corazón son jazmín, musgo de roble, hinojo, almizcle, clavel y ámbar blanco; las Notas de Fondo son té verde, jazmín, musgo de roble, almizcle, semillas de apio, alcaravea, clavos de olor y ámbar.
 - Set de regalo perfecto que incluye: Perfume Green Tea 100ml y Crema Corporal Honey Drops 100ml
+- Rebosante de sabores chispeantes, el aroma entrelaza armoniosamente ingredientes naturales para formar una experiencia de fragancia estimulante, revitalizante y equilibrada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8V25P1T{{</world>}}

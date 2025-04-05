@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para ganar la partida, deberás combinar hábilmente retazos de tela y elaborar una colcha con los mejores parches.
-- A partir de 8 años de edad.
 - ¡Cuántos retales y globos oculares!
 - ¡Vamos a coser una colcha hermosa y tenebrosa!
 - Para 2 jugadores
+- A partir de 8 años de edad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09C24DT3D{{</world>}}

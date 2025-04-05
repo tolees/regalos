@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Notas de corazón: rosa de terciopelo rojo
 - Notas superiores: fresa silvestre
 - Verde afrutado leñoso
+- Notas de corazón: rosa de terciopelo rojo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CHZZ22SV{{</world>}}

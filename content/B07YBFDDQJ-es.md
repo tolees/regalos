@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Para aquellos que se atreven con todo y reinventan el concepto de sofisticación con su visión muy personal del estilo
-- Vaporizador de 75ml
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Colonia El Ganso con fragancia aromática amaderada para hombres
+- Vaporizador de 75ml
 - Las notas de salida son pomelo, cardamomo, violeta e incienso; las de corazón iris, papyrus, geranio y lavanda; las de fondo almizcle, vainilla, sándalo y madera de “cashmere”
 
 [🛒 Visítala!!!]({{< param buyurl >}})

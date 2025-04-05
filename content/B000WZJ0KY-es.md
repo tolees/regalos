@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- KNOW-HOW RICONOSCIUTO: fedele alla sua reputazione di gioielliere precursore, Mauboussin continua a innovare con creazioni moderne e accessibili. I suoi profumi sono in linea con i gioielli, sia nobili, raffinati, intensi e intrisi di questo tocco di fantasia specifica per Mauboussin.
 - NOTE OLFATTIVE ORIENTALI E FRUTTATE: Nota testa: prugna dorata. Nota del cuore: Indies Jasmine. NOTA SCONTO: GREE AMBER.
 - UNA BOTTIGLIA DI GIOIELLI: una bottiglia sfaccettata come un diamante fatto su misura ... simbolo assoluto di lusso.
-- KNOW-HOW RICONOSCIUTO: fedele alla sua reputazione di gioielliere precursore, Mauboussin continua a innovare con creazioni moderne e accessibili. I suoi profumi sono in linea con i gioielli, sia nobili, raffinati, intensi e intrisi di questo tocco di fantasia specifica per Mauboussin.
 - UNA FRAGRANZA UNICA: il primo profumo femminile creato da Mauboussin, questa fragranza è destinata a donne sensuali e raffinate.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

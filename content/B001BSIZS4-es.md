@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Esta fragancia se inspira en la colección Duna de Tous. Se revela una alianza entre el oro amarillo y la piel que juegan amorosamente con una fragancia llena de seducción
 - Vaporizador de 100ml
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Colonia Tous con fragancia floral afrutada para mujeres
 - Las notas de salida son flor de loto, freesia y lirio del valle; las notas de corazón son jazmín de Sambac, osmanthus y la flor de tiaré; las notas de fondo son flor de vainilla, almendra y miel
-- Esta fragancia se inspira en la colección Duna de Tous. Se revela una alianza entre el oro amarillo y la piel que juegan amorosamente con una fragancia llena de seducción
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001BSIZS4{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clinique Aromatic Elixir EDP W25; referencia 20714005887
 - Agua de Perfume Perfumería Mujer
+- Clinique Aromatic Elixir EDP W25; referencia 20714005887
 - Agua de Perfume CLINIQUE
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

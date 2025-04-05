@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🎨 CONTENIDO - Contiene un tubo de 15 mililitros de sangre falsa testada dermatológicamente, por lo que puede usarse directamente sobre la piel sin causar irritaciones o reacciones alérgicas. Incluye aplicador.
+- 🎨 DISTINTAS GAMAS - Gama de maquillaje de Alpino para niños y adultos, pensada para disfrazarse o caracterizar a personajes. Perfecta para todo tipo de fiestas, disfraces, carnaval o halloween.
 - 🎨 SOBRE ALPINO - Alpino es marca referente en el sector de la Papelería desde 1943. Tenemos una amplia variedad de material escolar y productos para manualidades: lápices de colores, rotuladores, ceras, plastilinas, maquillaje, actividades artísticas... ¡Descubre Nuestro Mundo de Color y Creatividad!
 - 🎨 MODO DE USO - Maquillaje listo para usar, no necesita aplicar previamente base ni crema hidratante. Se lava con agua.
-- 🎨 CONTENIDO - Contiene un tubo de 15 mililitros de sangre falsa testada dermatológicamente, por lo que puede usarse directamente sobre la piel sin causar irritaciones o reacciones alérgicas. Incluye aplicador.
 - 🎨 PRODUCTO - Tubo de sangre artificial lavable diseñada para disfraces de Halloween, fiestas de terror o efectos especiales. Simula sangrientas heridas aplicando la sangre falsa directamente sobre la piel o combinándola con la cera FX, para conseguir un aspecto más realista.
-- 🎨 DISTINTAS GAMAS - Gama de maquillaje de Alpino para niños y adultos, pensada para disfrazarse o caracterizar a personajes. Perfecta para todo tipo de fiestas, disfraces, carnaval o halloween.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BF10GWO{{</world>}}

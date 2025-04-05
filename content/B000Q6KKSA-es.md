@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fragancia amaderada con matices florales
-- Olor intenso y duradero
 - Adecuada para día o noche
+- Olor intenso y duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000Q6KKSA{{</world>}}

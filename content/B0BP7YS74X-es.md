@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- producto 2: Con una infusión de una mezcla de miel real y extracto de té verde fragante
 - producto 1: Notas de fondo: musgo de roble, almizcle y ámbar
+- producto 1: Notas de corazón: menta fresca, té verde, jazmín dulce, clavel especiado, hinojo fresco y apio crujiente
 - producto 2: Ayuda a calmar y acondicionar la piel seca
+- producto 2: Con una infusión de una mezcla de miel real y extracto de té verde fragante
 - producto 1: Notas de salida: alcaravea, ruibarbo afrutado, limón, raspadura de naranja y bergamota
 - producto 1: Proporciona energía al cuerpo, despierta los sentidos y reaviva el espíritu
 - producto 2: Energizante, refrescante y vivificante
-- producto 1: Notas de corazón: menta fresca, té verde, jazmín dulce, clavel especiado, hinojo fresco y apio crujiente
 - producto 2: De alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

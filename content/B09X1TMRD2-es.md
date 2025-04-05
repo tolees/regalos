@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de la fragancia Aussie: un dulce placer para tu pelo y tus sentidos
-- Di adiós al amarillo y hola a la hidratación de un solo golpe con este set de regalo Aussie SOS (no te arrepentirás)
-- Regálale a esa persona rubia tan especial este set Aussie SOS, con todo lo necesario para presumir de un rubio insuperable
-- Champú morado, acondicionador violeta y mascarilla 3 Minute Miracle para pelo rubio, enriquecidos con ciruela salvaje y hoja de manuka
-- ¡Haz feliz al rubio o la rubia que más quieres con este set regalo Aussie SOS! Un kit para el pelo rubio es el regalo perfecto para todos los rubios
 - Orgullosos productos veganos y sin crueldad animal: con certificado de PETA y sin ingredientes ni subproductos derivados de animales
+- Regálale a esa persona rubia tan especial este set Aussie SOS, con todo lo necesario para presumir de un rubio insuperable
+- Di adiós al amarillo y hola a la hidratación de un solo golpe con este set de regalo Aussie SOS (no te arrepentirás)
+- Disfruta de la fragancia Aussie: un dulce placer para tu pelo y tus sentidos
+- ¡Haz feliz al rubio o la rubia que más quieres con este set regalo Aussie SOS! Un kit para el pelo rubio es el regalo perfecto para todos los rubios
+- Champú morado, acondicionador violeta y mascarilla 3 Minute Miracle para pelo rubio, enriquecidos con ciruela salvaje y hoja de manuka
 - Con A de Aussie, de Australia, de ingredientes Auténticos y de increíble Actitud Australiana
 
 [🛒 Visítala!!!]({{< param buyurl >}})

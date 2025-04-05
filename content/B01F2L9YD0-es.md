@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colonia Tous con fragancia floral amaderada y almizcle para mujeres
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con respecto a la piel. Para que perdure durante todo el día, aplícalo sobre la parte superior de la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Tous Leau de toilette, es un perfume creado para disfrutar, para vivir con ilusión cada momento, empapándose de cada maravilloso detalle
-- Las notas de salida son bergamota y pomelo; las notas de corazón son lavanda, flor del naranjo africano y cedro de virginia; las notas de fondo son vetiver, almizcle y pachulí
-- Colonia Tous con fragancia floral amaderada y almizcle para mujeres
 - Vaporizador de 90ml
+- Las notas de salida son bergamota y pomelo; las notas de corazón son lavanda, flor del naranjo africano y cedro de virginia; las notas de fondo son vetiver, almizcle y pachulí
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01F2L9YD0{{</world>}}

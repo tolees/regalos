@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El cartucho de tinta de alta calidad puede cambiarse fácilmente: basta con girar el bolígrafo por su parte central para abrirlo
-- Este bolígrafo de color rosa vintage, relleno con delicados cristales de color rosa que le confieren una elegancia adicional, pondrá un toque de brillo en las tareas cotidianas
 - El bolígrafo se entrega en un estuche y es perfecto como regalo para cualquier ocasión
+- Este bolígrafo de color rosa vintage, relleno con delicados cristales de color rosa que le confieren una elegancia adicional, pondrá un toque de brillo en las tareas cotidianas
 - Su diseño femenino se completa con detalles de metal cromado y con un clip
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

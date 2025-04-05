@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fragancia amaderada y aromática
-- Fabricado con un 25% de vidrio reciclado y el tapón con un 50% de plástico reciclado
 - El regalo óptimo
 - Mezcla de limón chispeante, albahaca verde y pimienta fresca, realzada por la lavanda y el ciprés, combinada con una estela de pachulí, maderas ahumadas y notas de haba tonka
+- Fragancia amaderada y aromática
+- Fabricado con un 25% de vidrio reciclado y el tapón con un 50% de plástico reciclado
 - Set de Adidas Pure Game para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

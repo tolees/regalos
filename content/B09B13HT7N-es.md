@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Notas de fondo: Heliotropo, Leche, Almizclada
 - Notas de salida: Coco, Manzana, Acuosa
 - Contiene 50 ml. Dermatológicamente testada
-- Notas de fondo: Heliotropo, Leche, Almizclada
 - Notas de corazón: Violeta, Notas Cremosas y Solares
 - Dulce y exótico perfume a coco
 
