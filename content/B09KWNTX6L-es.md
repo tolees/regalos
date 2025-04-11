@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ilumina todo a tu paso: compuesto por cristales de talla octogonal en tono rosa, delicadas monturas de doble punta chapadas en luciente tono oro rosa que le otorga un acabado exquisito
-- Un regalo atrayente: destaca por ser una pieza atemporal, llena de feminidad y estilo siendo unos pendientes adecuados para completar tu colección de joyería o como regalo para esa persona especial
 - Contenido de envío: 1x Swarovski Pendiente de la colección Millenia para mujer, con baño en tono oro rosa, cristales rosa, cierre de clip incl. embalaje de Swarovski
+- Un regalo atrayente: destaca por ser una pieza atemporal, llena de feminidad y estilo siendo unos pendientes adecuados para completar tu colección de joyería o como regalo para esa persona especial
+- Ilumina todo a tu paso: compuesto por cristales de talla octogonal en tono rosa, delicadas monturas de doble punta chapadas en luciente tono oro rosa que le otorga un acabado exquisito
 - Delicada elegante: un diseño que respeta las líneas clásicas y atemporales sin dejar de lado el brillo característico de la marca, siendo una opción adecuada para el día a día
 - Medidas: largo 2.2 cm, ancho 1 cm
 - Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume

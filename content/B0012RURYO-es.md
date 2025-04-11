@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: Agua de perfume
-- Marca: Dolce & Gabbana
 - Productos de belleza y el cuidado personal
+- Marca: Dolce & Gabbana
+- Tipo de producto: Agua de perfume
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0012RURYO{{</world>}}

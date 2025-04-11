@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Color: plata, blanco
 - B. Catcher, pendientes de plata de ley 925, Pendientes elegantes de plata de ley, joya blanca con circonitas blancas brillantes
+- ARETE
 - Marca: B. Catcher
 - Joyas únicas con originales cristales de bellas y brillantes piedras preciosas son el compañero perfecto para cada ocasión.
-- ARETE
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XCH64Y5{{</world>}}

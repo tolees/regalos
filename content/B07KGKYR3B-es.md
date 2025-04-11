@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puede contener frutos secos y huevo
 - Contiene cacao de cultivo sostenible
 - Incluye 6 variedades de bombones
 - Bombones envueltos individualmente
+- Puede contener frutos secos y huevo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KGKYR3B{{</world>}}

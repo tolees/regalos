@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fórmula testada dermatológicamente
 - Producto no testado en animales
 - Fragancia fresca
-- Fórmula testada dermatológicamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BYCW6SM{{</world>}}

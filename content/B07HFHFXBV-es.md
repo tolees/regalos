@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Givenchy es un nombre de marca reconocido
 - Agua de Perfume Givenchy
-- GIVENCHY LINTERDIT EAU de PARFUM 80 ml VAPORIZADOR 3274872372153
 - Agua de Perfume Perfumería Mujer
+- GIVENCHY LINTERDIT EAU de PARFUM 80 ml VAPORIZADOR 3274872372153
+- Givenchy es un nombre de marca reconocido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HFHFXBV{{</world>}}

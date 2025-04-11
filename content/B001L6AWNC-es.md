@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 30 Bombones Milka en forma de corazón de tierno chocolate con leche de los Alpes rellenos de cremosa mousse de avellana, para un contraste de texturas y un sabor aún más exquisito.
 - Los pralinés de Milka en forma de mini corazón son ideales para regalo a tu pareja en San Valentín o como bonito detalle para familia o amigos. El bombón más delicioso para acompañar con amor tus meriendas, postres o momentos más especiales.
-- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
-- Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
+- 30 Bombones Milka en forma de corazón de tierno chocolate con leche de los Alpes rellenos de cremosa mousse de avellana, para un contraste de texturas y un sabor aún más exquisito.
 - Los bombones Milka, en formas amorosamente seleccionadas, son un gran placer para picar. Con este regalo de chocolate Milka harás extremadamente feliz a cada amante del chocolate
+- Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
+- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001L6AWNC{{</world>}}

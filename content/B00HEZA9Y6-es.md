@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Olivier Pescheux es el creador de este elegante aroma masculino
-- La fragancia perfecta para un hombre que quiera convertirse en leyenda
-- EDT de marca Montblanc
-- El frasco de color negro es simple y viril coronado por un tapón metalizado en tonalidad plateada
 - Notas de salida son la lavanda, la bergamota, la piña y el cedrón que encierran un corazón de cumarina, musgo de roble, gernanio, rosa, manzana roja y frutos secos ocultando un fondo de sándalo y haba tonka
+- El frasco de color negro es simple y viril coronado por un tapón metalizado en tonalidad plateada
+- La fragancia perfecta para un hombre que quiera convertirse en leyenda
+- Olivier Pescheux es el creador de este elegante aroma masculino
+- EDT de marca Montblanc
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00HEZA9Y6{{</world>}}

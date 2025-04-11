@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Notas de salida: Nata lácteo
 - Nombre de la fragancia: Afrutado
-- Notas de corazón: bizcocho, fresa dulce, frutos rojos
+- Notas de salida: Nata lácteo
 - Contiene 50 ml. Dermatológicamente testada
-- Notas de fondo: Vainilla, gourmand, Azúcar
+- Notas de corazón: bizcocho, fresa dulce, frutos rojos
 - Dulce e intenso aroma a fresa y nata, todo un sueño
+- Notas de fondo: Vainilla, gourmand, Azúcar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09B15F2QD{{</world>}}

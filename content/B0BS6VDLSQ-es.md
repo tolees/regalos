@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Las bolitas esmaltadas más top ahora en tu collar favorito! Dile hola al buen tiempo y a los outfits coloridos con joyas a full color.
 - Plata de Ley 925 contrastada en un Laboratorio Oficial en España. Baño de Rodio.
 - Detalle: Bolitas esmaltadas de 2,5mm. Pueden variar ligeramente de tamaño.
+- ¡Las bolitas esmaltadas más top ahora en tu collar favorito! Dile hola al buen tiempo y a los outfits coloridos con joyas a full color.
 - Largo de cadena: 35 cm + 5 cm de alargador.
 - Idea de presentación. Solo se incluye un estuche por pedido.
 

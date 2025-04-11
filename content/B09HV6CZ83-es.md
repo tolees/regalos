@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La sutileza del Collar Guidance te guiará y te acompañará allá donde vayas, ya que puedes combinarlo con otros Collares
-- Detalle: Estrella. Largo de 23 mm x 11,3 mm.
 - Idea de presentación. Solo se incluye un estuche por pedido.
+- Detalle: Estrella. Largo de 23 mm x 11,3 mm.
 - Plata de Ley 925 contrastada en un Laboratorio Oficial en España. Baño de 2 micras Oro de 18 Kt.
 - Largo de cadena: 45cm + 5cm alargador.
+- La sutileza del Collar Guidance te guiará y te acompañará allá donde vayas, ya que puedes combinarlo con otros Collares
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HV6CZ83{{</world>}}

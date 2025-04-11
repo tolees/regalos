@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Una hilera de piedras de talla redonda brillante, inspiradas en el clásico diamante, se unen mediante finos eslabones que se articulan con el movimiento del cuerpo
-- Evoca la maravilla del cosmos con este brillante brazalete de la familia Constella
-- Presenta una cadena y un aro de muelle para ajustar la longitud
 - Será como lucir sobre ti polvo de estrellas
+- Presenta una cadena y un aro de muelle para ajustar la longitud
+- Evoca la maravilla del cosmos con este brillante brazalete de la familia Constella
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1QWVBP8{{</world>}}

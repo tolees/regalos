@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto está indicado para hSombras.
 - De la marca Lagerfeld.
 - Las notas olfativas principales de este producto son fresco naturaleza, cítrico y floral.
+- Este producto está indicado para hSombras.
 - Contiene 50 ml.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

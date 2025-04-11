@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ❤【Servicio al Cliente】- MAYJAM se compromete a proporcionar productos y servicios a nuestros clientes de manera oportuna. Si no está completamente satisfecho con sus aceites esenciales o productos, por favor háganoslo saber y le ayudaremos de todo corazón.
-- ❤【20 Aromas】- Lavanda, Jazmín, Eucalipto, Vainilla, Incienso, Menta, Sándalo , Naranja dulce, Ylang Ylang, Rosa, Bergamota, Árbol de té, Canela, Geranio, Pachulí, Citronela, Hierba de limón, Romero, Salvia, Manzanilla.
 - ❤【Tu Asistente de Vida】: El conjunto de aceites esenciales MAYJAM se puede utilizar con frecuencia para aromaterapia, difusión. Vierta de 3 a 6 gotas de aceite esencial en la madera difusa. La tenue fragancia natural llena lentamente la habitación. Puede oler la fragancia vegetal más natural en cada respiración. Y la madera difusa se puede utilizar en armarios, dormitorios, oficinas, coches.
+- ❤【20 Aromas】- Lavanda, Jazmín, Eucalipto, Vainilla, Incienso, Menta, Sándalo , Naranja dulce, Ylang Ylang, Rosa, Bergamota, Árbol de té, Canela, Geranio, Pachulí, Citronela, Hierba de limón, Romero, Salvia, Manzanilla.
 - ❤【Ideal Regalo】: 20 * 5 ml, caja de regalo exquisita y práctica. También es un regalo ideal para su familia, amigos y seres queridos en cumpleaños, aniversarios, san valentín, navidad y otras fiestas. También esperamos que los aceites esenciales MAYJAM puedan traerle un poco de amor, confianza y alegría.
 - ❤【DIY】- Los aceites esenciales MAYJAM también se pueden utilizar para el bricolaje. Puedes darte un capricho mientras haces bricolaje. Cada botella está sellada y empaquetada individualmente, por lo que no hay riesgo de fuga de la botella.
 

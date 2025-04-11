@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tándem de letras: Cada letra se puede ensartar con otra letra.
 - Más características: Control APP, Regulable, Cambio de color.
-- Luces con alimentación USB: Fuente de alimentación USB, no necesitas comprar pilas extra, ¡más cómodo y muy económico!
 - Tamaño: Aproximadamente 15 x 14 x 2.5 cm.
 - LED Letra Luces：Alphabet A-Z,&,loving Se pueden ensamblar en cualquier frase que quieras expresar.
-- Tándem de letras: Cada letra se puede ensartar con otra letra.
+- Luces con alimentación USB: Fuente de alimentación USB, no necesitas comprar pilas extra, ¡más cómodo y muy económico!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHPM33B1{{</world>}}

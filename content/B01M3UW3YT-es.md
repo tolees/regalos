@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Con la fragancia exótica de Super Playboy con flor de ave del paraíso, refinado con almizcle sexy y mandarina, tu competencia no tiene ninguna posibilidad.
 - ¡Un toque de esta fragancia sensual es suficiente para convertir a cada mujer en una super heroína! ¡Miau!
-- Atención Catwoman, la ciudad tiene una nueva heroína.
 - Aroma dulce, floral-afrutado.
+- Atención Catwoman, la ciudad tiene una nueva heroína.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M3UW3YT{{</world>}}

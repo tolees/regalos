@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estas deslumbrantes piedras centrales, que presentan un impactante equilibro entre lo dramático y lo refinado, se realzan con pavé en el diseño y los aros, los cuales están engastados con un baño en tono oro
 - Llévalos con el cabello recogido para lucirlos con el máximo esplendor
+- Estas deslumbrantes piedras centrales, que presentan un impactante equilibro entre lo dramático y lo refinado, se realzan con pavé en el diseño y los aros, los cuales están engastados con un baño en tono oro
 - Estos fascinantes pendientes de gota de la familia Constella son una poderosa pieza atemporal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

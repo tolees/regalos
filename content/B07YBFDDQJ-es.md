@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colonia El Ganso con fragancia aromática amaderada para hombres
-- Para aquellos que se atreven con todo y reinventan el concepto de sofisticación con su visión muy personal del estilo
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Las notas de salida son pomelo, cardamomo, violeta e incienso; las de corazón iris, papyrus, geranio y lavanda; las de fondo almizcle, vainilla, sándalo y madera de “cashmere”
 - Vaporizador de 75ml
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Para aquellos que se atreven con todo y reinventan el concepto de sofisticación con su visión muy personal del estilo
+- Colonia El Ganso con fragancia aromática amaderada para hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YBFDDQJ{{</world>}}

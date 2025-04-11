@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🔥 KIT DE HIERBAS AROMÁTICAS - Dentro del kit de plantación de hierbas encontrarás valiosas semillas para germinar en tu huerto; 5 variedades de especias: semillas de romero, semillas de tomillo, semillas de orégano, semillas de cebollino y semillas de cilantro. Un kit perfecto para la cocina
-- 🌿 AUTOCULTIVO - Planta en la huerta de tu jardín o en el balcón. En sólo 5 pasos, puedes cultivar tu propio kit de plantas aromáticas, tanto en el interior como en el exterior: Hidrata las semillas, prepara la turba, plántalas y riégalas. ¡Listo! Una vez comprado, escanea el código QR de la caja y recibirás todos los secretos para cultivar perfectamente tus propias especias, con consejos, instrucciones e indicaciones
+- 🌱 KIT INTEGRAL - El Kit de Jardinería MadreColtura contiene todo lo que necesitas para empezar a cultivar tus propias plantas: Tierra, Semillas, Pulverizador, Tarros y Rótulos para marcarlas. Ideal para el cultivo de plantas aromáticas imprescindibles para una Barbacoa (BBQ) top
 - 🎁 IDEAL PARA REGALAR - ¿Buscas un regalo único y perfecto para todas las ocasiones? Entonces nuestro kit de cultivo es ideal. Ya sea para cultivadores expertos o para principiantes, este kit de jardinería de semillas de plantas aromáticas es un maravilloso regalo de bricolaje para futuros jardineros
 - 🌴MADRECOLTURA - Nuestra misión es volver a conectar a cada familia y a cada niño con la fuente de la que provienen los alimentos, experimentando la magia de cultivar sus propios alimentos. Cuando inicies tu camino como cultivador, te acompañaremos en todo momento. Ponte en contacto con nosotros y nuestros expertos te ayudarán a germinar tus semillas
-- 🌱 KIT INTEGRAL - El Kit de Jardinería MadreColtura contiene todo lo que necesitas para empezar a cultivar tus propias plantas: Tierra, Semillas, Pulverizador, Tarros y Rótulos para marcarlas. Ideal para el cultivo de plantas aromáticas imprescindibles para una Barbacoa (BBQ) top
+- 🌿 AUTOCULTIVO - Planta en la huerta de tu jardín o en el balcón. En sólo 5 pasos, puedes cultivar tu propio kit de plantas aromáticas, tanto en el interior como en el exterior: Hidrata las semillas, prepara la turba, plántalas y riégalas. ¡Listo! Una vez comprado, escanea el código QR de la caja y recibirás todos los secretos para cultivar perfectamente tus propias especias, con consejos, instrucciones e indicaciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MQFDM1D{{</world>}}

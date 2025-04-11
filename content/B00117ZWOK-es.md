@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El artículo es peligroso y por lo tanto no es devuelto
 - Una mezcla de ralladura de limón, lavanda y pimienta.
+- El artículo es peligroso y por lo tanto no es devuelto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00117ZWOK{{</world>}}

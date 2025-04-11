@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PIRÁMIDE OLFATIVA: Notas de salida: hoja de naranjo, lavanda, limón verde, salvia y tomillo; Notas de corazón: canela, geranio y pimiento; Notas de fondo: madera de cachemir, musgo de encina, sándalo, tabaco y vetiver.
-- ELEGANTE Y MASCULINO: Un perfume para hombres exquisitos y diferentes que cuiden hasta el más pequeño detalle de sí mismos. ¡Dispuesto a exprimir cada minuto al máximo!
-- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia fresca amaderada, que rinde homenaje al hombre actual cuida enormemente su aspecto. ¡El complemento indispensable para tu arreglo personal!
 - ESTUCHE DE REGALO: Brummel es un estuche masculino con aroma amaderado que te ayudará a evocar la esencia de los frutos cítricos, característicos de las noches mediterráneas en primavera. El pack incluyeuna colonia, un after shave y un desodorante en spray.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- PIRÁMIDE OLFATIVA: Notas de salida: hoja de naranjo, lavanda, limón verde, salvia y tomillo; Notas de corazón: canela, geranio y pimiento; Notas de fondo: madera de cachemir, musgo de encina, sándalo, tabaco y vetiver.
+- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia fresca amaderada, que rinde homenaje al hombre actual cuida enormemente su aspecto. ¡El complemento indispensable para tu arreglo personal!
+- ELEGANTE Y MASCULINO: Un perfume para hombres exquisitos y diferentes que cuiden hasta el más pequeño detalle de sí mismos. ¡Dispuesto a exprimir cada minuto al máximo!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BG2Z7QT9{{</world>}}

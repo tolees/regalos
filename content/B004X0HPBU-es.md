@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un par clásico de pendientes puede realzar casi atuendo
 - Los pendientes vienen en par
+- Un par clásico de pendientes puede realzar casi atuendo
 - Eso hace precisamente este par de pendientes de botón chapados en rodio, con un bonito , cada pieza muestra un solo chatón de cristal claro enmarcado en cristal pavé transparente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

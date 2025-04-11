@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agua de colonia Nenuco: para el cuidado diario de tu bebé y de toda la familia, debido a la selección de ingredientes que hacen de ella una fragancia espcial
 - Testado dermatológicamente: su fórmula ha sido clínicamente testada bajo control dermatológico; Nenuco optimiza la idoneidad de sus productos con estudios realizados en laboratorios independientes
 - Con el olor de Nenuco: estimulación de sus sentidos gracias a su característico olor y a tus mimos que tanto le gustan
+- Agua de colonia Nenuco: para el cuidado diario de tu bebé y de toda la familia, debido a la selección de ingredientes que hacen de ella una fragancia espcial
 - Edición Peppa Pig: disfruta de esta edición junto a Peppa Pig; colecciona los vasos de Nenuco edición Peppa Pig baby
 - Ccómo se utiliza: vaporiza la colonia en la mano y aplica suavemente en la piel o el cabello del bebé
 

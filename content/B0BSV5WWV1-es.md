@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HIDRATACIÓN DURANTE TODO EL DÍA: Los bálsamos labiales hidratan y nutren los labios secos, aportando una hidratación que dura todo el día, previniendo que los labios se resequen.
-- REPARADOR LABIAL: con un acabado mate y un bálsamo hidratante, este bálsamo para labial deja a tus labios con una sensación suave y nutrida.
 - CUIDADO PARA LABIOS CON COLOR: El bálsamo labial de cera de abejas está infusionado con aceite de menta, que provee una sensación refrescante; el bálsamo labial con color de Hibiscus tiene un tono neutral para restalar el color natural de tus labios mientras mantiene tus labios hidratados y nutridos.
 - SET DE REGALO DE BÁLSAMOS LABIALES: Hidrata tus labios resecos y ahorra con este duo para labios de Burts Bees, contiene un bálsamo labial de cera de abejas y un bálsamo con color tono Hibiscus
+- REPARADOR LABIAL: con un acabado mate y un bálsamo hidratante, este bálsamo para labial deja a tus labios con una sensación suave y nutrida.
 - INGREDIENTES HIDRATANTES Y EFICACES: Enriquecido con ingredientes de origen sustentable, cera de abeja acondicionadora, aceite de coco hidratante, aceite de castañas y Vitamina E con antioxidantes
+- HIDRATACIÓN DURANTE TODO EL DÍA: Los bálsamos labiales hidratan y nutren los labios secos, aportando una hidratación que dura todo el día, previniendo que los labios se resequen.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSV5WWV1{{</world>}}
