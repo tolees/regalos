@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aro con diámetro 13mm. Su CIERRE CONGO/CLICK no tiene rosca, se cierra uniendo dos partes del pendiente hasta escuchar, como su nombre indica, un “click”. Destaca por sus CIRCONITAS, con forma parecida al diamante y su gran brillo.
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y enjuaga con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- ¡Los colores del arcoiris ahora en tus orejas! Hazte ahora con tus Pendientes Aro Colors y siente como una explosión de color hace más alegres tus días.
+- Aro con diámetro 13mm. Su CIERRE CONGO/CLICK no tiene rosca, se cierra uniendo dos partes del pendiente hasta escuchar, como su nombre indica, un “click”. Destaca por sus CIRCONITAS, con forma parecida al diamante y su gran brillo.
 - Fabricada en PLATA DE LEY BAÑADA EN RODIO. Es un material noble ideal para las amantes de la joyería de calidad, sus características se encuentran entre las mejores del mercado, destaca por su brillo y resistencia. El baño de rodio aporta un brillo inigualable a la joya y mejora su resistencia y calidad.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
+- ¡Los colores del arcoiris ahora en tus orejas! Hazte ahora con tus Pendientes Aro Colors y siente como una explosión de color hace más alegres tus días.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HSPYLGF{{</world>}}

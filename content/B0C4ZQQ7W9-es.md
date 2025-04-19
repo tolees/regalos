@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una fantasía total: cada pieza bañada en tono oro presenta un motivo de trébol verde elaborado con cuatro cristales en forma de corazón dispuestos alrededor de una piedra central
-- Medidas: largo 1,2, ancho 1,2 cm
 - Para toda ocasión: desde una camiseta blanca hasta un vestido de seda, estos pendientes potencian tu estilo delicadamente
 - Contenido del envío: 1 x SwarovskiPendientes de la colección Idyllia, bañados en tono oro, cristales verdes en forma de corazón, incluye embalaje de Swarovski
-- Diseñada para perdurar en el tiempo: las joyas Swarovskilucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes
 - Los delicados y hermosos pétalos de estos llamativos pendientes brillan con cada movimiento
+- Medidas: largo 1,2, ancho 1,2 cm
+- Una fantasía total: cada pieza bañada en tono oro presenta un motivo de trébol verde elaborado con cuatro cristales en forma de corazón dispuestos alrededor de una piedra central
+- Diseñada para perdurar en el tiempo: las joyas Swarovskilucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4ZQQ7W9{{</world>}}

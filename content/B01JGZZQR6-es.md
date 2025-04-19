@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protege tu piel, cabello y cuerpo con los productos más exitosos del mercado en este sector.
 - Productos para hombres y mujeres para su higiene intima.
+- Protege tu piel, cabello y cuerpo con los productos más exitosos del mercado en este sector.
 - Uomo salvatore ferragamo edt vapo 50 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

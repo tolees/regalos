@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Familias Olfativas: Floral, Chipre
 - Familia olfativa: Floral Chipre.
 - Fecha Lanzamiento: 2018
-- Familias Olfativas: Floral, Chipre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079CF8LDM{{</world>}}

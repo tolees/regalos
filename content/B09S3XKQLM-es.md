@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Multicolor
 - Medidas: 10 x 10 x 3 centímetros
-- Referencia: S7285455
-- Pendientes Mujer de la marca Pandora
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S7285455
+- Color: Multicolor
+- Pendientes Mujer de la marca Pandora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09S3XKQLM{{</world>}}

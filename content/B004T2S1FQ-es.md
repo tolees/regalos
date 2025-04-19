@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad y precio nunca antes tan irresistibles.
 - Corine De F. Cars Edt 50 Ml
+- Calidad y precio nunca antes tan irresistibles.
 - Los mejores productos para tu cuidado personal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

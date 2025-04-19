@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto está indicado para mujeres.
 - Contiene 45 ml.
+- Este producto está indicado para mujeres.
 - Las notas olfativas principales de este producto son especiado, fresco acuático y cítrico.
 - De la marca Lagerfeld.
 

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ESENCIA DURADERA: Es una fragancia cuyo aroma persiste en la piel durante varias horas. Esta colonia de larga duración será tu fiel compañera, sea cual sea la ocasión. ¡Siente la confianza que te da el perfume Uomo!
-- TENDENCIA OLFATIVA: Este perfume para hombre tiene una tendencia amaderada y oriental, que evoca a la sutileza y la elegancia de los aromas del Mediterráneo. Es ideal para personas aventureras y valientes que no se conforman con lo ordinario
 - PIRÁMIDE OLFATIVA: Notas de salida: bergamota, ciruela, geranio, limón, manzana y musgo de roble; Notas de corazón: canela, caoba y clavel; Notas de fondo: cedro, olivo, sándalo, vainilla y vetiver
 - ESTUCHE DE REGALO: Titto Bluni Uomo es un perfume masculino con un carácter exótico, sensual y especiado, perfecto para acompañarte a lo largo de todo el día. El pack incluye: 1 perfume de 75 ml, 1 after shave de 75 ml y 1 gel de baño de 75 ml
 - ESPECIADA Y MASCULINA: Un agua de colonia intensa y fresca, que al entrar en contacto con tu piel hará que tu sentido olfativo goce con su intenso aroma a maderas nobles. ¡Déjate seducir gracias a su fragancia atractiva y extravagante!
+- TENDENCIA OLFATIVA: Este perfume para hombre tiene una tendencia amaderada y oriental, que evoca a la sutileza y la elegancia de los aromas del Mediterráneo. Es ideal para personas aventureras y valientes que no se conforman con lo ordinario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BX1N6P1{{</world>}}

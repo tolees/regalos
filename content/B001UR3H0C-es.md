@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Apto para un regalo
 - Para uso diario
 - Marca del producto: Amalfi
-- Apto para un regalo
 - Hecho de ingredientes de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

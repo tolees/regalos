@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las notas olfativas principales de este producto son fresco naturaleza, cítrico y floral.
-- Contiene 50 ml.
 - De la marca Lagerfeld.
+- Contiene 50 ml.
 - Este producto está indicado para hSombras.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tienen diferentes texturas
+- Vienen envueltos individualmente
+- Con diferentes sabores
 - Surtido de dulces para Halloween
 - Conservar en un lugar fresco y seco
-- Con diferentes sabores
-- Vienen envueltos individualmente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07J2NH37D{{</world>}}

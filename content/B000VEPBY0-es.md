@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Olor intenso y duradero
-- Adecuada para día o noche
 - Aroma cítrico fresco
+- Adecuada para día o noche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VEPBY0{{</world>}}

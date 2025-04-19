@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye 6 variedades de bombones
 - Puede contener frutos secos y huevo
+- Incluye 6 variedades de bombones
 - Bombones envueltos individualmente
 - Contiene cacao de cultivo sostenible
 

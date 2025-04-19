@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de producto: Agua de perfume -Genero: Unisex
-- Productos de belleza y cuidado personal
 - Peso / Volumen: 100 ml
+- Productos de belleza y cuidado personal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000JL7Z5S{{</world>}}

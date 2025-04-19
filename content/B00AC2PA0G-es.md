@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Facil aplicación
 - Productos de consumo.
 - Para todo tipo de usuario
+- Facil aplicación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AC2PA0G{{</world>}}

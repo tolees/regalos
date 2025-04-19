@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar después del baño en área del cuello y del lomo.
-- Respeta la piel y las propiedades olfativas del animal.
-- Rango de edad: Todas las edades
-- No contienen alcohol y tienen pH neutro, careciendo de efectos irritantes y evitando que el perro estornude después de su aplicación.
-- Agua de colonia aroma canela para perros con fragancias frutales naturales creadas para proporcionar después del baño un olor fresco y un intenso efecto desodorante muy agradable.
 - Características especiales: Fácil de usar
+- Aplicar después del baño en área del cuello y del lomo.
+- Rango de edad: Todas las edades
+- Respeta la piel y las propiedades olfativas del animal.
+- Agua de colonia aroma canela para perros con fragancias frutales naturales creadas para proporcionar después del baño un olor fresco y un intenso efecto desodorante muy agradable.
+- No contienen alcohol y tienen pH neutro, careciendo de efectos irritantes y evitando que el perro estornude después de su aplicación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01980RLAY{{</world>}}

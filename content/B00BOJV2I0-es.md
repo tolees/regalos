@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia floral-frutal con un toque oriental
 - Adecuada para día o noche
+- Fragancia floral-frutal con un toque oriental
 - Olor intenso y duradero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

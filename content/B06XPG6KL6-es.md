@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es una fragancia ideal para todos los días
 - Fragancia intrigante que atrae a la mujer moderna
-- Absorción rápida que ofrece a a la piel hidratación y nutrición
 - Descibe a un hombre viril
+- Es una fragancia ideal para todos los días
+- Absorción rápida que ofrece a a la piel hidratación y nutrición
 - Representa a un hombre con mucha presencia y fuerte personalidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

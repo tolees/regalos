@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Olor intenso y duradero
 - Adecuada para día o noche
 - Fragancia frutal y amaderada
-- Olor intenso y duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B093B1LGB7{{</world>}}

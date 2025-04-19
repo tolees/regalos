@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido del envío: 1 x Swarovski Collar Volta corto, chapado en oro rosa, lazo con cristales transparentes, incl. embalaje de Swarovski
-- Elaborado con precisión: el diseño y las delicadas piedras añadidas a este collar Volta transforman un diseño metálico en una auténtica belleza y una elegante pieza de joyería
 - Una celebración de la imaginación: curvado en forma de lazo, el collar chapado en oro rosa presenta numerosos cristales transparentes tallados mediante la técnica del chatonnage
 - Medidas: longitud máxima 75 de cm, longitud mínima de 65 cm, ancho de 4 cm
 - Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al y la talla del cristal junto a los metales resistentes. Evita el agua, las lociones o el perfume
+- Contenido del envío: 1 x Swarovski Collar Volta corto, chapado en oro rosa, lazo con cristales transparentes, incl. embalaje de Swarovski
+- Elaborado con precisión: el diseño y las delicadas piedras añadidas a este collar Volta transforman un diseño metálico en una auténtica belleza y una elegante pieza de joyería
 - Llévalo y compártelo: combina este collar con un anillo de la misma colección o utilízalo como el regalo romántico de ensueño
 
 [🛒 Visítala!!!]({{< param buyurl >}})

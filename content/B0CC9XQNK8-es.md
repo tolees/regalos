@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Vibrante y vigorizante
 - Fragancia personal masculina
 - Urbano y vibrante
-- Vibrante y vigorizante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CC9XQNK8{{</world>}}

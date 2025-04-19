@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El perfume inconfundible, masculino y tradicional
+- Es una fragancia de la familia olfativa aromática
 - Eau de Toilette para hombre 1 l
 - Su aroma es amaderado y especiado
-- Es una fragancia de la familia olfativa aromática
 - La fragancia contiene notas orientales, notas amaderadas, notas especiadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

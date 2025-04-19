@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - FRESCA Y DELICADA: Un agua de colonia que encarna la espontaneidad del verano, un cúmulo y mezcla de emociones que te despertará los recuerdos más inolvidables. ¡Quédate con su carácter revitalizante!
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
-- TENDENCIA OLFATIVA: Este perfume unisex tiene una tendencia ambarada cítrica, que rinde homenaje al verano, su energía y optimismo. ¡Te despertara los recuerdos más inolvidables de esta época!
 - FRAGANCIA ÚNICA: 1916 Lavanda Mediterránea es un perfume masculino, femenino y familiar, revitalizante que te evoca al aroma de los limoneros en flor. Viene un frasco de 400 mililitros.
+- TENDENCIA OLFATIVA: Este perfume unisex tiene una tendencia ambarada cítrica, que rinde homenaje al verano, su energía y optimismo. ¡Te despertara los recuerdos más inolvidables de esta época!
 - PIRÁMIDE OLFATIVA: Notas de salida: limón, bergamota y lavanda; Notas de corazón: petitgrain y geranio; Notas de fondo: haba tonka, ámbar y almizcle.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍫 BOMBONES SAN VALENTÍN: 32 Kinder Chocolate, 14 Bombones Ferrero Rocher, 9 Raffaello. Caja con forma de corazón repleta de chocolates originales para regalar.
 - 🎁 CORAZÓN KINDER: Pack de dulces y chocolates Kinder Chocolate con leche y bombones en forma de corazón. Sorprende a esa persona que tanto quieres (regalos originales para parejas, hombre, mujer).
 - 🎁 ENVUELTA PARA REGALO: Las chocolatinas van en el interior de un corazón gigante con un diseño elegante y único. Está cerrada con lazos. El corazón se envía en una bonita caja personalizada y resistente para proteger en todo momento el producto.
-- ❤️ HECHO CON MUCHO AMOR: Todas nuestras cajas y tartas son preparadas de forma manual por nuestra pequeña empresa familiar con mucho mimo y cariño. Garantizamos la mejor presentación y aspecto posible, si hay algún problema siempre damos una solución inmediata.
+- 🍫 BOMBONES SAN VALENTÍN: 32 Kinder Chocolate, 14 Bombones Ferrero Rocher, 9 Raffaello. Caja con forma de corazón repleta de chocolates originales para regalar.
 - ❤️ REGALOS ORIGINALES PARA MUJER: Caja de chocolates Kinder Bueno y bombones Ferrero Rocher para regalar a tu pareja, regalo original para San Valentín. El pack de chocolate va dentro de una caja regalo con forma de corazón de San Valentín. Está decorada con un bonito lazo y Rosas decorativas.
+- ❤️ HECHO CON MUCHO AMOR: Todas nuestras cajas y tartas son preparadas de forma manual por nuestra pequeña empresa familiar con mucho mimo y cariño. Garantizamos la mejor presentación y aspecto posible, si hay algún problema siempre damos una solución inmediata.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CST39ZMH{{</world>}}

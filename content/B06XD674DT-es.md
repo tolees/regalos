@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los mejores productos de higiene para tu día a día.
 - Cuidarse y sentirse bien nunca había sido tan fácil.
 - MADEMOISELLE ROCHAS edp vapo 30 ml
+- Los mejores productos de higiene para tu día a día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XD674DT{{</world>}}

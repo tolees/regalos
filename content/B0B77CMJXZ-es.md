@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ECOFRIENDLY: Juego de cartas impresas en Europa con papel ecológico certificado. Un 1% de los beneficios del juego de mesa se dona a obras benéficas.
-- LITTLE SECRET es un juego de mesa intuitivo de imaginación, asociación de palabras y código secreto. El juego perfecto para divertirse con familia y amigos.
-- GRAN PERMIO DEL JUEGO 2022 categoría "Juego de faroles". Juegos de mesa para todas las generaciones, para jugar en familia, en fiestas, con amigos, con niños, y/o con adultos.
-- ¡PARA TODA LA FAMILIA! 4-8 jugadores, 30 min de juego, +10 años. Un regalo original para hombres y mujeres, perfecto para animar fiestas y crear momentos inolvidables.
-- OBJETIVO DEL JUEGO: Encontrar al impostor que no conoce la contraseña usando palabras clave. Demuestra tus dotes de detective con este juego de intriga, secretos y faroles.
 - Juego creado por ATM Gaming, una empresa de jóvenes creativos especializados en los juegos de mesa. Descubre nuestros juegos para divertirte en familia, pareja y con amigos.
+- GRAN PERMIO DEL JUEGO 2022 categoría "Juego de faroles". Juegos de mesa para todas las generaciones, para jugar en familia, en fiestas, con amigos, con niños, y/o con adultos.
+- LITTLE SECRET es un juego de mesa intuitivo de imaginación, asociación de palabras y código secreto. El juego perfecto para divertirse con familia y amigos.
+- ¡PARA TODA LA FAMILIA! 4-8 jugadores, 30 min de juego, +10 años. Un regalo original para hombres y mujeres, perfecto para animar fiestas y crear momentos inolvidables.
+- ECOFRIENDLY: Juego de cartas impresas en Europa con papel ecológico certificado. Un 1% de los beneficios del juego de mesa se dona a obras benéficas.
+- OBJETIVO DEL JUEGO: Encontrar al impostor que no conoce la contraseña usando palabras clave. Demuestra tus dotes de detective con este juego de intriga, secretos y faroles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B77CMJXZ{{</world>}}

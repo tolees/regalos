@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plata de ley
 - Earring Hoops
+- Plata de ley
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C69VSJRW{{</world>}}

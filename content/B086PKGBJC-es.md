@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, limón, bergamota, ajenjo, cilantro y menta; Notas de corazón: notas aromáticas, hojas de violeta, salvia y lirios del valle; Notas de fondo: sándalo y almizcle
-- MASCULINO Y CÍTRICO: un perfume que nace de una explosión cítrica que despierta los sentidos y da lugar a notas aromáticas para finalizar con un fondo exquisito de sándalo
 - LARGA DURACIÓN: una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día
 - TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia cítrica floral, que rinde homenaje a las diferentes aventuras, donde descubres nuevos lugares y vives experiencias vitales. ¡Déjate emocionar!
+- MASCULINO Y CÍTRICO: un perfume que nace de una explosión cítrica que despierta los sentidos y da lugar a notas aromáticas para finalizar con un fondo exquisito de sándalo
+- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, limón, bergamota, ajenjo, cilantro y menta; Notas de corazón: notas aromáticas, hojas de violeta, salvia y lirios del valle; Notas de fondo: sándalo y almizcle
 - FRAGANCIA ÚNICA: una colonia que representa a la perfección el espíritu de Londres, la ciudad de las mil caras, un aroma único que despertará todos tus sentidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

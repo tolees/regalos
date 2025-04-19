@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AROMA DE MUJER: Farala Original es un perfume femenino con un carácter elegante y sonriente para disfrutar de los placeres del día a día
-- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral fresca, ideal para aquellas mujeres con espíritus libres, que quieren vivir los momentos únicos e irrepetibles de forma intensa
-- JUVENIL Y FEMENINO: Un agua de colonia para mujeres adultas, jóvenes, elegantes e independientes para que saquen a relucir su lado más femenino en cualquier lugar. ¡Tú decides cuando y cómo!
 - ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral fresca, ideal para aquellas mujeres con espíritus libres, que quieren vivir los momentos únicos e irrepetibles de forma intensa
 - PIRÁMIDE OLFATIVA: Notas de salida: eucalipto, naranja y pimienta negra; Notas de corazón: hinojo, jazmín, lirios del valle y rosa; Notas de fondo: almizcle, madera de cedro y pachulí
+- JUVENIL Y FEMENINO: Un agua de colonia para mujeres adultas, jóvenes, elegantes e independientes para que saquen a relucir su lado más femenino en cualquier lugar. ¡Tú decides cuando y cómo!
+- AROMA DE MUJER: Farala Original es un perfume femenino con un carácter elegante y sonriente para disfrutar de los placeres del día a día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BV77B8GL{{</world>}}
