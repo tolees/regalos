@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un perfume clásico con aroma fresco y perdurable
-- Perfecto para el hombre seductor y original
 - Eau de toilette para hombre - 200 ml
+- Un perfume clásico con aroma fresco y perdurable
 - En la nota de entrada, el pomelo, la bergamota y la piña proporcionan una agradable frescura
+- Perfecto para el hombre seductor y original
 - Crossmen, la colonia de toda la vida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
