@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Anillo Mujer de la marca Pandora
+- Color: multicolor
 - Referencia: S7273055
 - ¡Si buscas calidad al mejor precio no sigas buscando!
-- Color: multicolor
-- Anillo Mujer de la marca Pandora
 - Medidas: 9,97 x 9,97 x 9,97 centímetros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
