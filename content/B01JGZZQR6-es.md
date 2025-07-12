@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uomo salvatore ferragamo edt vapo 50 ml
 - Productos para hombres y mujeres para su higiene intima.
+- Uomo salvatore ferragamo edt vapo 50 ml
 - Protege tu piel, cabello y cuerpo con los productos más exitosos del mercado en este sector.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

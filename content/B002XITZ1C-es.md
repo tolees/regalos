@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Notas altas: agua de mar, menta, verde, lavanda, cilantro, romero y calone
 - Una fragancia fresca y aromática
+- Notas altas: agua de mar, menta, verde, lavanda, cilantro, romero y calone
 - Aprovecha el poder del océano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - FRAGANCIA ÚNICA: Nike Ultra Green es un perfume masculino con un carácter poderoso, repleta de chispa y vitalidad, concebida para empujarte a vivir tus mejores experiencias. Viene en un frasco vaporizador de 200 mililitros.
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
-- MASCULINO Y VIBRANTE: Un agua de colonia para hombres que te hará vibrar por un largo camino a través de tus sentidos y de sus reconocibles acordes amaderados. Te ayudará a evocar la esencia de las frescas noches del otoño en el mediterráneo.
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, pomelo y manzana; Notas de corazón: madera de cedro, madera seca, miel y notas acuáticas; Notas de fondo: almizcle, pachulí, sándalo y vainilla
 - TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderada y oriental, que rinde homenaje la sorpresa y a aquellos hombres que buscan un olor maduro, limpio y fresco
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, pomelo y manzana; Notas de corazón: madera de cedro, madera seca, miel y notas acuáticas; Notas de fondo: almizcle, pachulí, sándalo y vainilla
+- MASCULINO Y VIBRANTE: Un agua de colonia para hombres que te hará vibrar por un largo camino a través de tus sentidos y de sus reconocibles acordes amaderados. Te ayudará a evocar la esencia de las frescas noches del otoño en el mediterráneo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4P22MXW{{</world>}}

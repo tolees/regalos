@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Blanco
 - Charm Dangle
 - Circonita cúbica
-- Esmalte
 - Mezcla de metal única chapada en oro de 14 quilates
+- Esmalte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXYXLS1{{</world>}}
