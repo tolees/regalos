@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Peso: 3g.
+- Materiales: plata 925.
 - Colgantes de collar, encanto de letras con cuentas.
 - Tamaño: 21 mm * 16 mm.
-- Materiales: plata 925.
 - Uso: perfecto como regalo de Navidad, cumpleaños, aniversario. Se puede combinar con ropa para diferentes ocasiones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

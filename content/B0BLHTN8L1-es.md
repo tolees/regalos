@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PIRÁMIDE OLFATIVA: Notas de salida: grosella negra, limón, mandarina y salvia; Notas de corazón: azahar, jazmín y pimienta negra; Notas de fondo: almizcle, vetiver y ámbar.
 - AROMA DE MUJER: Amichi presenta un aroma extravagante y dulce, con exquisitos tonos florales, te ayudará a evocar la esencia de los jardines repletos de flores blancas en pleno florecimiento.
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia cítrica. Es ideal para aquellas personas que buscan un olor juvenil, limpio y alegre.
-- PIRÁMIDE OLFATIVA: Notas de salida: grosella negra, limón, mandarina y salvia; Notas de corazón: azahar, jazmín y pimienta negra; Notas de fondo: almizcle, vetiver y ámbar.
-- ESENCIA DURADERA: Esta colonia de larga duración, de fragancia fresca e intensa, y cuya esencia persiste durante horas en la piel, te acompañará a lo largo del día sin perder su aroma.
 - FEMENINO Y EXÓTICO: un perfume para mujeres modernas que, gracias a su aroma almizclado e intenso, te transporta a un colorido y dinámico mercado tradicional oriental. ¡Disfruta de las sensaciones más agradables que te da la naturaleza!
+- ESENCIA DURADERA: Esta colonia de larga duración, de fragancia fresca e intensa, y cuya esencia persiste durante horas en la piel, te acompañará a lo largo del día sin perder su aroma.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLHTN8L1{{</world>}}

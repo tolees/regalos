@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cosméticos naturales 100% certificados, certificados según el estricto e independiente estándar de cosméticos naturales Natrue; compatibilidad dermatológicamente probada; vegano y certificado según criterios PETA
+- Crema y máscara de manos 2 en 1 de Buenas Noches: fórmulas regeneradoras con uva orgánica y manteca de karité orgánica
 - Fórmulas biodegradables sin aceites minerales y sin fragancias artificiales, colorantes ni conservantes (según los cosméticos de la UE VO). Plástico de este tubo con cierre de 96 % material reciclado
 - Crema y máscara de manos 2 en 1: Regenera durante la noche. Humedad intensa. Cuidado rico y duradero
-- Crema y máscara de manos 2 en 1 de Buenas Noches: fórmulas regeneradoras con uva orgánica y manteca de karité orgánica
 - Bálsamo labial: aceite de semilla de granada orgánico y aceite de argán orgánico que proporciona un cuidado intensivo de labios frágiles.
-- Cosméticos naturales 100% certificados, certificados según el estricto e independiente estándar de cosméticos naturales Natrue; compatibilidad dermatológicamente probada; vegano y certificado según criterios PETA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDCH9FNV{{</world>}}

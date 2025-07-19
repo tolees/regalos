@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Porcelana premium de alta calidad especialmente resistente, fácil limpieza en el lavavajillas
-- Contenido: 1x villeroy & boch collier blanc jarrón perle no. 2 (16x16x20 cm), material: premium porcelana, color: blanco
 - Proporciona un amplio espacio para flores y pequeños ramos, original diseño que llama la atención incluso estando vacío
+- Contenido: 1x villeroy & boch collier blanc jarrón perle no. 2 (16x16x20 cm), material: premium porcelana, color: blanco
+- Porcelana premium de alta calidad especialmente resistente, fácil limpieza en el lavavajillas
 - Moderno jarrón con superficie texturizada en blanco mate para ramos de flores y decorar el hogar, original idea de regalo
 - Combina perfectamente con los jarrones de la colección hermana en negro mate, se adapta también como complemento decorativo a todos los productos de villeroy & boch
 

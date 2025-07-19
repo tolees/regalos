@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para 2 jugadores
-- ¡Cuántos retales y globos oculares!
-- ¡Vamos a coser una colcha hermosa y tenebrosa!
 - A partir de 8 años de edad.
+- Para 2 jugadores
+- ¡Vamos a coser una colcha hermosa y tenebrosa!
 - Para ganar la partida, deberás combinar hábilmente retazos de tela y elaborar una colcha con los mejores parches.
+- ¡Cuántos retales y globos oculares!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09C24DT3D{{</world>}}

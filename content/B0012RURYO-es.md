@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de perfume
+- Productos de belleza y el cuidado personal
 - Marca: Dolce & Gabbana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
