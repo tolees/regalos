@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso diario
 - Marca del producto: adidas
 - Fragancia de mujer
+- Para uso diario
 - Fragancia de larga duración para todo tipo de pieles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TENDENCIA OLFATIVA: Este perfume unisex es el resultado de la combinación ideal entre sus diferentes tonos. Limón, bergamota, flor de naranjo, jazmín… ¡Es un símbolo de personalidad!
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, limón, nerolí, mandarina y petitgrain; Notas de corazón: flor de naranjo, jazmín, sambac y lirios del valle; Notas de fondo: ámbar, maderas preciosas y almizcle blanco
-- SUAVE Y EMBRIAGADOR: Un agua de colonia para hombres y mujeres que quieran vivir un mundo lleno de sentimiento y luminosidad. ¡Disfruta del paseo por un jardín repleto de sensaciones únicas!
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 - FRAGANCIA ÚNICA: Agua Fresca de Azahar, de De Ruy, es un perfume femenino y masculino con un carácter tierno que evoca un paseo por un jardín infinito repleto de sensaciones únicas. Viene un frasco de 750 mililitros
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- TENDENCIA OLFATIVA: Este perfume unisex es el resultado de la combinación ideal entre sus diferentes tonos. Limón, bergamota, flor de naranjo, jazmín… ¡Es un símbolo de personalidad!
+- SUAVE Y EMBRIAGADOR: Un agua de colonia para hombres y mujeres que quieran vivir un mundo lleno de sentimiento y luminosidad. ¡Disfruta del paseo por un jardín repleto de sensaciones únicas!
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, limón, nerolí, mandarina y petitgrain; Notas de corazón: flor de naranjo, jazmín, sambac y lirios del valle; Notas de fondo: ámbar, maderas preciosas y almizcle blanco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01I7UJDN4{{</world>}}

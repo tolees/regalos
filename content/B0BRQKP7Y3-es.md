@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja de bombones de cartón, con base y tapa.
+- Materiales: Cartón y chocolate
 - Medidas: 18,5 x 16 x 6 cm
+- Caja de bombones de cartón, con base y tapa.
 - La caja tiene la forma de nuestro divertido corazón bandido y con un mensaje acorde en ella
 - Contiene 20 minibombones de chocolate con leche.
-- Materiales: Cartón y chocolate
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRQKP7Y3{{</world>}}

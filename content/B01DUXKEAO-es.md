@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para hacer el regalo más exclusivo
 - Son perfectas para celebraciones o para darse un capricho
 - Las cajas de bombones surtidos de Lindt son una delicia
 - Elaborada con los mejores ingredientes
 - Perfecta para celebraciones o para darte un capricho
-- Para hacer el regalo más exclusivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUXKEAO{{</world>}}

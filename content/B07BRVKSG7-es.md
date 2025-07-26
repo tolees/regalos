@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Promesa de calidad: Una capa de rodio protege la joya del deslustre, es especial respetuosa con la piel y confiere al accesorio un brillo incomparable
 - Fabricado en plata de ley 925 brillante y con brillantes circonitas blancas y turquesas (sintéticas)
+- Promesa de calidad: Una capa de rodio protege la joya del deslustre, es especial respetuosa con la piel y confiere al accesorio un brillo incomparable
 - Bonitas criollas infantiles de aproximada 12 mm para niñas de moda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
