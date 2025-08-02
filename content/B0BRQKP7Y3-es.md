@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 20 minibombones de chocolate con leche.
-- Materiales: Cartón y chocolate
-- Medidas: 18,5 x 16 x 6 cm
 - Caja de bombones de cartón, con base y tapa.
+- Medidas: 18,5 x 16 x 6 cm
+- Materiales: Cartón y chocolate
+- Contiene 20 minibombones de chocolate con leche.
 - La caja tiene la forma de nuestro divertido corazón bandido y con un mensaje acorde en ella
 
 [🛒 Aquí!!!]({{< param buyurl >}})

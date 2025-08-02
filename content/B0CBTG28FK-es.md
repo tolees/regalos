@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Un vestido clásico con forma de remolino hará que tu pequeña brille el día de la fotografía o en cualquier ocasión especial.
 - Instrucciones de cuidado: Se recomienda lavar a mano o a máquina, no remojar en agua caliente.
 - Este vestido de manga larga con material elástico que se adapta perfectamente al cuerpo de Gilr, tu pequeña se enamorará de él en el triste invierno.
-- Este vestido suéter suave y grueso es ideal para niñas pequeñas en otoño/invierno.
 - Este vestido de punto de color liso es muy fácil de combinar con diferentes abrigos y leggings. La falda se ensancha y luce muy bonita: es un vestido fantástico para que las niñas pequeñas den vueltas.
+- Este vestido suéter suave y grueso es ideal para niñas pequeñas en otoño/invierno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBTG28FK{{</world>}}

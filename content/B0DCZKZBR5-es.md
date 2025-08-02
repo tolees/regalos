@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MAQUILLAJE DE OJOS PARA LA TEMPORADA DE TERROR: Está bien ser mala con la colección Truly Sinful. Marca la temporada de terror con un aceite de labios negro de belleza aterradora que causará escalofríos.
-- LIBRE DE CRUELDAD Y VEGANO: Estos productos de han sido formulados si ningún ingrediente de origen animal, por lo que son aptos para veganos. Todos los productos de Revolution Beauty son respaldados por PETA como libres de pruebas animales.
 - CÓMO USAR: Nuestro aceite para labios se puede usar solo para un toque de romanticismo oscuro o como complemento con el lápiz labial negro Truly Sinful
+- LIBRE DE CRUELDAD Y VEGANO: Estos productos de han sido formulados si ningún ingrediente de origen animal, por lo que son aptos para veganos. Todos los productos de Revolution Beauty son respaldados por PETA como libres de pruebas animales.
 - UN BÁSICO DE HALLOWEEN: Rompe barreras con este innovador aceite labial negro, un tono jugoso que se puede usar solo o como complemento de tu rutina labial
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

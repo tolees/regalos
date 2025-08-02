@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Estee Lauder
 - Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de perfume
+- Marca: Estee Lauder
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0009OAICC{{</world>}}
