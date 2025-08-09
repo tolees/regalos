@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene un diseño simple y femenino
-- Adecuado para cualquier atuendo
 - Fabricada en plata
 - Adornada con un charm en forma de corazón
+- Adecuado para cualquier atuendo
+- Tiene un diseño simple y femenino
 - Pulsera para mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})

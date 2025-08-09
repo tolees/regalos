@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Figuras coleccionables con caja expositora ideal para coleccionistas o jugadores
-- Personajes incluidos: Sally, Jack Skellington, Zerino y Pumpkin King
-- 4 De los personajes de la pelicula de Tim burton fabricados en metal fundido a presión
 - Sumérgete en el universo de Disney con este estuche con 4 personajes de 4cm. con algunas de las poses caracteristicas de las películas.
-- Adecuado a partir de 8 años
+- 4 De los personajes de la pelicula de Tim burton fabricados en metal fundido a presión
+- Personajes incluidos: Sally, Jack Skellington, Zerino y Pumpkin King
 - Licencia 100% oficial Disney
+- Adecuado a partir de 8 años
+- Figuras coleccionables con caja expositora ideal para coleccionistas o jugadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RN8J55H{{</world>}}

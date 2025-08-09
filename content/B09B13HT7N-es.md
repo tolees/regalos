@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Notas de corazón: Violeta, Notas Cremosas y Solares
 - Dulce y exótico perfume a coco
+- Contiene 50 ml. Dermatológicamente testada
 - Notas de fondo: Heliotropo, Leche, Almizclada
 - Notas de salida: Coco, Manzana, Acuosa
-- Notas de corazón: Violeta, Notas Cremosas y Solares
-- Contiene 50 ml. Dermatológicamente testada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09B13HT7N{{</world>}}

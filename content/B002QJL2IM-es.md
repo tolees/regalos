@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 212mm
-- Apto para lavavajillas
 - 18/10 de acero inoxidable
+- 212mm
 - Villeroy & Boch Cubiertos
 - mantequera
+- Apto para lavavajillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002QJL2IM{{</world>}}

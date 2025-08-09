@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Para uso diario
 - Marca del producto: Lattafa
-- Apto para un regalo
 - Hecho de ingredientes de calidad
+- Apto para un regalo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07XF918ZR{{</world>}}

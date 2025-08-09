@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Refrescante como el té helado, Green Tea ofrece el regalo de una extraordinaria experiencia sensual.
-- Fragancia ligera y llena de vida que te invita a un viaje para despertar tus sentidos: un aroma embriagador que te hace sentir bien contigo mismo, una oda atemporal al alma, el cuerpo y el espíritu
 - Notas de corazón: menta fresca, té verde, jazmín dulce, clavel especiado, hinojo fresco y apio crujiente
+- Fragancia ligera y llena de vida que te invita a un viaje para despertar tus sentidos: un aroma embriagador que te hace sentir bien contigo mismo, una oda atemporal al alma, el cuerpo y el espíritu
 - Notas de salida: alcaravea, ruibarbo afrutado, limón, raspadura de naranja y bergamota
 - Notas de fondo: musgo de roble, almizcle y ámbar
+- Refrescante como el té helado, Green Tea ofrece el regalo de una extraordinaria experiencia sensual.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0009OAI3Q{{</world>}}

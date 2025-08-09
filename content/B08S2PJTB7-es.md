@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡El Riddler es súper esponjoso! Aprieta su cuerpo y mira cómo el slime se abulta para revelar signos de interrogación dentro de él
+- Hay 2 héroes en el paquete Versus, Batman metálico y The Riddler. Cada héroe es exclusivo y solo se puede encontrar en este paquete.
 - Colecciona todos los héroes Goo Jit Zu DC Cada héroe tiene un relleno único
 - Batman metálico es súper pegajoso Aprieta y estira su cuerpo para ver que el rezumo metálico se mueve dentro de su cuerpo
 - DC Super Heroes y los Heroes of Goo Jit Zu han combinado fuerzas que traen la línea definitiva de los superhéroes más elásticos, pegajosos y esponjosos de la historia
-- Hay 2 héroes en el paquete Versus, Batman metálico y The Riddler. Cada héroe es exclusivo y solo se puede encontrar en este paquete.
+- ¡El Riddler es súper esponjoso! Aprieta su cuerpo y mira cómo el slime se abulta para revelar signos de interrogación dentro de él
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08S2PJTB7{{</world>}}

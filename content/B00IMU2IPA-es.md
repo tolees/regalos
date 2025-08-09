@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto de belleza
-- Material de calidad
 - Adecuado para tu higiene
+- Material de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00IMU2IPA{{</world>}}
