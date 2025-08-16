@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de colonia
+- Productos de belleza y el cuidado personal
 - Marca: Clinique
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

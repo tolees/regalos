@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adornado con circonitas cúbicas transparentes y rojas, esmalte rojo y grabado Love
 - Charm colgante Pandora Minnie y Mickey con Amor en plata de primera ley
+- Adornado con circonitas cúbicas transparentes y rojas, esmalte rojo y grabado Love
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MR396PK{{</world>}}

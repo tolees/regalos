@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chocolate de alta calidad: Seleccionados con mimo pieza a pieza y envueltos individualmente, los chocolates merci están elaborados con los mejores ingredientes
-- Detalles del envío: merci Gran Variedad, caja de bombones para regalar con frutos secos, mazapán, café, praliné, mousse, chocolate negro, chocolate blanco, chocolate con leche y semi-amargo, 250 g
-- 8 especialidades diferentes: Disfruta de los deliciosos sabores de las exquisitas piezas de chocolate con y sin relleno presentes en cada caja de bombones merci
-- Bombones para regalar: El chocolate merci es ideal para uno mismo, para ofrecer a invitados, o como regalo para dar las gracias a seres queridos y compartir con amigos
 - Gracias significa merci: Desde 1964, los bombones merci son la mejor manera de decir gracias. Porque agradecer simplemente te hace feliz: merci, por ser así
+- 8 especialidades diferentes: Disfruta de los deliciosos sabores de las exquisitas piezas de chocolate con y sin relleno presentes en cada caja de bombones merci
+- Detalles del envío: merci Gran Variedad, caja de bombones para regalar con frutos secos, mazapán, café, praliné, mousse, chocolate negro, chocolate blanco, chocolate con leche y semi-amargo, 250 g
+- Bombones para regalar: El chocolate merci es ideal para uno mismo, para ofrecer a invitados, o como regalo para dar las gracias a seres queridos y compartir con amigos
+- Chocolate de alta calidad: Seleccionados con mimo pieza a pieza y envueltos individualmente, los chocolates merci están elaborados con los mejores ingredientes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003SG8TV0{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto que combina tradición e innovación
 - Familias olfativas: especiada, aromática
-- Diseñador: cristophe raynaud
 - Fecha lanzamiento: 2011
+- Diseñador: cristophe raynaud
+- Producto que combina tradición e innovación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J4SRE7G{{</world>}}

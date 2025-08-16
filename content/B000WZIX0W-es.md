@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de producto: Agua de perfume
-- Productos de belleza y el cuidado personal
 - Marca: Hugo Boss-boss
+- Productos de belleza y el cuidado personal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000WZIX0W{{</world>}}

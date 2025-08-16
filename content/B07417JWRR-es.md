@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Christina Aguilera Definition Eau De Parfum 50 ml
+- Notas de fondo: madera de ciprés hinoki, ámbar gris, heliotropo y almizcle
+- Es una fragancia de la familia olfativa Oriental Floral para mujeres
 - Notas de salida: bergamota de Sicilia, mandarina italiana y manzana roja
 - Notas de corazón: orquídea de vainilla y orquídea diamante
-- Es una fragancia de la familia olfativa Oriental Floral para mujeres
-- Notas de fondo: madera de ciprés hinoki, ámbar gris, heliotropo y almizcle
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07417JWRR{{</world>}}

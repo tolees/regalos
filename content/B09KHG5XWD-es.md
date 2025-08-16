@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene personaje, animales marinos y accesorios.
 - Los juegos de regalo: listos para regalar. Regalo ideal para fiestas de cumpleaños
+- Contiene personaje, animales marinos y accesorios.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KHG5XWD{{</world>}}

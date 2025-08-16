@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene: 1x Villeroy & Boch Royal Plato para taza de café con leche (18 cm), Material: Porcelana Premium Bone, Color: Blanco
 - Apto para la restauración gracias a su manejable forma, Apilable, Bordes resistentes a golpes
 - Apto para lavavajillas y microondas, Alta calidad: Porcelana de primera calidad hecha en Alemania
+- Contiene: 1x Villeroy & Boch Royal Plato para taza de café con leche (18 cm), Material: Porcelana Premium Bone, Color: Blanco
 - Bordes resistentes a golpes, excelente dureza y resistencia al rayado que convierten al Plato en ideal para la vida cotidiana y la restauración
 - Clásico Plato para taza de café con leche de brillante Porcelana Premium Bone para degustar el café con estilo en la vida cotidiana o en las ocasiones especiales
 

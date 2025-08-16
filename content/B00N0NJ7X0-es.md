@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El producto no se entrega en estuche. El estuche se vende por separado.
 - Aretas de plata Sterling 925
-- La joya sirve de base para una infinita variedad de combinaciones de elementos de Pandora
 - Aretes para mujer de Pandora - 290558CZ
+- La joya sirve de base para una infinita variedad de combinaciones de elementos de Pandora
 - Chaque bijou est fait à la main
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

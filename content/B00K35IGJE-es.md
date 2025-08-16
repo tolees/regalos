@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Viene con embalaje de regalo
-- Empaquetado en caja Pandora
 - Con etiquetas
+- Empaquetado en caja Pandora
 - Pandora Abalorio de feliz cumpleaños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
