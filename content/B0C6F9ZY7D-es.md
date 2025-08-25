@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El Eau de Parfum DKNY Be Delicious es una fragancia floral fresca para una mujer que irradia encanto y espontaneidad. Su mezcla de notas frutales y florales está llena de energía y sofisticación.
-- Desde su creación en 1989, DKNY se inspira en Nueva York capturando toda la energía y actitud de la ciudad. Cada perfume de la marca refleja un espíritu tan divertido como ecléctico.
 - Este perfume de mujer se abre con la frescura vibrante de la manzana, revelando un delicado corazón de magnolia que deja paso a la calidez seductora de la madera de sándalo.
 - Llena de encanto y espontaneidad, la fragancia femenina DKNY Be Delicious es tan jugosa como irresistible. Es mucho más que un perfume de mujer, ¡es una actitud de confianza y vivacidad!
 - El frasco del perfume de mujer DKNY Be Delicious captura el espíritu vibrante de la Gran Manzana, ¡Nueva York! Su diseño en forma de manzana, refleja la energía y estilo cosmopolita de la ciudad
+- Desde su creación en 1989, DKNY se inspira en Nueva York capturando toda la energía y actitud de la ciudad. Cada perfume de la marca refleja un espíritu tan divertido como ecléctico.
+- El Eau de Parfum DKNY Be Delicious es una fragancia floral fresca para una mujer que irradia encanto y espontaneidad. Su mezcla de notas frutales y florales está llena de energía y sofisticación.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C6F9ZY7D{{</world>}}

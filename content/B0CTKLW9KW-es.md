@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene el desodorante en barra y el gel de ducha Captain y el desodorante en barra y el gel de ducha Deep Sea
-- Empoderamos a las personas con discapacidad visual con la tecnología Navilens
-- Contiene 2 fragancias para hombre: Captain, con toques de agua y cítricos, y Deep Sea, con un fresco aroma marino
 - Este set de regalo incluye un neceser reutilizable de Old Spice
+- Contiene 2 fragancias para hombre: Captain, con toques de agua y cítricos, y Deep Sea, con un fresco aroma marino
+- Empoderamos a las personas con discapacidad visual con la tecnología Navilens
+- Contiene el desodorante en barra y el gel de ducha Captain y el desodorante en barra y el gel de ducha Deep Sea
 - Los sets de regalo para hombre Old Spice, con sus aromas irresistibles, son el regalo perfecto para el hombre de hoy
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AROMA DE MUJER: Nike Sparkling Day es un perfume femenino para mujeres urbanitas que te hará sentir la sensibilidad de la ciudad a tu manera. Viene en dos frascos vaporizadores de 75 y 30 mililitros.
-- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, mango y grosella negra; Notas de corazón: lirios del valle, raíz de Florencia y violeta; Notas de fondo: haba tonka, vainilla y pachulí.
 - ALEGRE Y FEMENINO: Un agua de colonia, para mujeres, dulce y con gran presencia, para una mujer segura que no quiere pasar desapercibida. ¡Para ti, para quitarte de encima todos los complejos!
 - ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- AROMA DE MUJER: Nike Sparkling Day es un perfume femenino para mujeres urbanitas que te hará sentir la sensibilidad de la ciudad a tu manera. Viene en dos frascos vaporizadores de 75 y 30 mililitros.
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental floral verde, lo que le convierte e una chispeante, alegre y atractiva fragancia para una mujer urbana y sin complejos.
+- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, mango y grosella negra; Notas de corazón: lirios del valle, raíz de Florencia y violeta; Notas de fondo: haba tonka, vainilla y pachulí.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09X12YWGJ{{</world>}}

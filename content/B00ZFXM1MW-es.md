@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pequeño tarro redondo de porcelana con motivos alegres y cinta roja, para deliciosos manjares navideños
-- Tamaño adecuadopara galletas y pequeños dulces, El contenido se mantiene fresco durante mucho tiempo gracias a su tapa con asa
 - Combina con las colecciones Delight Royal Classic y Toys Fantasy, también puede utilizarse como regalo gracias a su embalaje navideño
 - Contiene: 1x Villeroy & Boch Toys Delight Tarro pequeño (13 cm), material: porcelana Premium, Color: Blanco/Rojo
+- Pequeño tarro redondo de porcelana con motivos alegres y cinta roja, para deliciosos manjares navideños
+- Tamaño adecuadopara galletas y pequeños dulces, El contenido se mantiene fresco durante mucho tiempo gracias a su tapa con asa
 - Material de alta calidad: porcelana Premium especialmente robusta, consejos de mantenimiento: limpiar con paño húmedo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
