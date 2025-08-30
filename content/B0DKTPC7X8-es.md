@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regala este abalorio al fan definitivo de Stranger Things en tu vida o añadirlo a tu propia colección antes de que desaparezca
 - El producto no se envía en una caja. Esto debe comprarse por separado. El artículo es compatible exclusivamente con artículos de la colección Pandora Moments
-- Junto a él cuelga el logotipo del club Hellfire en plata de ley con una legendaria calavera y cuernos
 - Únete a los nerds y monstruos de Hawkins con nuestro colgante de cubo de Stranger Things Hellfire Club
 - Nuestro cubo Hellfire Club de 20 lados está hecho de cristal de Murano con motivos esmaltados inspirados en el club y su juego
+- Regala este abalorio al fan definitivo de Stranger Things en tu vida o añadirlo a tu propia colección antes de que desaparezca
+- Junto a él cuelga el logotipo del club Hellfire en plata de ley con una legendaria calavera y cuernos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKTPC7X8{{</world>}}

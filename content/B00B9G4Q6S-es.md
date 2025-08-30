@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
-- Vaporizador de 100ml
 - Colonia Tous con fragancia floral, fresca y afrutada para niña
 - Una fragancia tan divertida como una fiesta de niñas
+- Vaporizador de 100ml
 - Las notas aromáticas de salida son caramelos de limón, magdalenas y mandarina. Las notas de corazón son flor de naranjo, albaricoques y margaritas de colores. En las notas de fondo encontramos frambuesas, almizcle tierno y helado de vainilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

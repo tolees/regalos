@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral, que mezcla diferentes notas y toques, y rinde homenaje a las emociones que nos da la vida, siempre con ese toque coqueto.
-- PIRÁMIDE OLFATIVA: Notas de salida: fresa, peonía y lichi; Notas de corazón: rosa, lirios del valle y magnolia; Notas de fondo: madera de cedro, almizcle blanco y ámbar.
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
-- SEGURA Y DECIDIDA: Un agua de colonia, para mujeres, que combina a la perfección tonos dulces, amaderados y frutales, ideal para una mujer segura de sí misma. ¡El perfume más deseado por todas!
 - AROMA DE MUJER: Nike Pink es un perfume femenino lleno de color y emoción para ayudarte a vivir de forma plena y segura gracias a su seductora combinación. Viene en un frasco vaporizador de 200 mililitros.
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- PIRÁMIDE OLFATIVA: Notas de salida: fresa, peonía y lichi; Notas de corazón: rosa, lirios del valle y magnolia; Notas de fondo: madera de cedro, almizcle blanco y ámbar.
+- SEGURA Y DECIDIDA: Un agua de colonia, para mujeres, que combina a la perfección tonos dulces, amaderados y frutales, ideal para una mujer segura de sí misma. ¡El perfume más deseado por todas!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B088VV2CMD{{</world>}}
