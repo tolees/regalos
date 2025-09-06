@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - NOTAS DE FONDO: Vainilla reciclada*, madera de cedro, almizcle *Ingredientes de origen sostenible
-- El color de la fragancia puede variar debido a que los ingredientes son naturales
-- Estado de ánimo: cálida, radiante, deslumbrante
 - NOTAS DE SALIDA: Aceite de bergamota italiana*, petitgrain, flor de tiaré
+- Estado de ánimo: cálida, radiante, deslumbrante
 - NOTAS DE CORAZÓN: Flor de coco, acorde solar, flor de naranjo
+- El color de la fragancia puede variar debido a que los ingredientes son naturales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV5LGHNG{{</world>}}

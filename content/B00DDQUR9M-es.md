@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Garantía : 2 años
 - Dimensiones de 4,5 cm a 5,5 cm
-- Pino + Muñeco de nieve + Galleta + Bola
-- Material : Plástico
 - Set 4 cortapastas con expulsor Navidad
+- Material : Plástico
+- Pino + Muñeco de nieve + Galleta + Bola
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DDQUR9M{{</world>}}
