@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su pirámide olfativa comienza por mandarina, melocotón aterciopelado y pera. En su corazón, jazmín de Sambac, pétalos de rosa y tuberosa que finaliza en sándalo, ámbar y almizcle
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Vaporizador de 30ml
-- Exhala elegancia y sofisticación y convierte a quien la usa en el centro de todas las miradas. Este elixir revela la quinta esencia de una feminidad sofisticada y radiante
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Perfume Tous con fragancia floral afrutada almizclada
+- Exhala elegancia y sofisticación y convierte a quien la usa en el centro de todas las miradas. Este elixir revela la quinta esencia de una feminidad sofisticada y radiante
+- Su pirámide olfativa comienza por mandarina, melocotón aterciopelado y pera. En su corazón, jazmín de Sambac, pétalos de rosa y tuberosa que finaliza en sándalo, ámbar y almizcle
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B28DWCWW{{</world>}}
