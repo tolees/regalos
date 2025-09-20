@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El complemento perfecto
 - Atrévase a refrescarse con HUGO JEANS Eau de Toilette para Hombre, una atrevida mezcla de vibrante pomelo, menta piperita vigorizante y cálido sándalo capturada en un frasco azul mate con el icónico logo de HUGO
+- El complemento perfecto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSLGLKV6{{</world>}}

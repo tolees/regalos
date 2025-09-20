@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adornados con circonitas cúbicas transparentes
 - Fabricados en plata de ley
+- Adornados con circonitas cúbicas transparentes
 - Pendientes Elegancia Clásica marca Pandora
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo: fresco y con encanto
 - Notas de corazón: rosa roja, rododendro, ciclamen blanco, flor de la pasión
 - Familia olfativa: floral afrutado
-- Tipo: fresco y con encanto
-- Para: ella
 - Notas de salida: yuzu, bergamota, limón y trébol
+- Para: ella
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HHKWLFF{{</world>}}
