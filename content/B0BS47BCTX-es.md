@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeras
-- Flexibles
-- Transpirabilidad
 - Fáciles de limpiar y de secado rápido
+- Flexibles
+- Ligeras
+- Transpirabilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS47BCTX{{</world>}}

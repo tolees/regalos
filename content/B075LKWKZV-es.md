@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Perfume Tous con fragancia especiada amaderada floral para hombres
 - Las notas aromáticas de salida son bergamota, pimienta rosa SFC y cardamomo. Las notas de corazón son comino, pétalos de jazmín y té negro. En las notas de fondo encontramos papiro, bio pachuli, acorde de Ámbar Gris
-- Vaporizador de 100ml
 - Para un hombre que vive como quiere vivir, tiene lo que necesita para cada día e improvisa su vida sin planificar demasiado. Para aquellos que aprecian la calidad y prefieren poco pero bueno
+- Vaporizador de 100ml
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075LKWKZV{{</world>}}

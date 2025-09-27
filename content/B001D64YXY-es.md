@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de piel: Sonstige
-- Ingredientes: Agua, alcohol, jazmamp;in, heliotropo, lirio, cardamomo, canela
-- Productos de belleza y cuidado personal
-- Peso/volumen: 75 ml
 - Nombre de la fragancia: Aromatic
 - Tipo de producto: agua de colonia -genero: unisex
+- Peso/volumen: 75 ml
+- Ingredientes: Agua, alcohol, jazmamp;in, heliotropo, lirio, cardamomo, canela
+- Tipo de piel: Sonstige
+- Productos de belleza y cuidado personal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001D64YXY{{</world>}}

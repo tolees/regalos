@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 125ML
+- Agua de baño
 - Los mejores productos para el cuidado y la salud personal.
 - De la marca EL GANSO
-- Agua de baño
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YBHRWLD{{</world>}}
