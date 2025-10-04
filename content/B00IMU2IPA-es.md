@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de belleza
 - Material de calidad
+- Producto de belleza
 - Adecuado para tu higiene
 
 [🛒 Visítala!!!]({{< param buyurl >}})

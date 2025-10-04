@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- SENSACIÓN DE BIENESTAR: fragancia original que ofrece una sensación de bienestar en el cuidado diario del bebé y de toda la familia
 - NUEVO ENVASE práctico, FORMATO AHORRO 1100 ml
 - NO RESECA: no reseca la delicada piel del bebé
-- SENSACIÓN DE BIENESTAR: fragancia original que ofrece una sensación de bienestar en el cuidado diario del bebé y de toda la familia
 - Nenuco Agua de Colonia, Fragancia Original, con Menos Alcohol, Formato Ahorro 1100 ml
 - FRAGANCIA ORIGINAL CON MENOS ALCOHOL: exclusiva selección de ingredientes que hacen de ella una fragancia muy especial
 

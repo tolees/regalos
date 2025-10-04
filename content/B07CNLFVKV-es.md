@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diesel Only The Brave es la gama de fragancias creada como reflejo de la marca italiana Diesel. Como símbolo del éxito, de la seguridad en uno mismo y de la energía. Only The Brave representa a los hombres con fuerza que saben lo que quieren.
-- Perfumar en nebulización alrededor de la cabeza y los hombros para que la fragancia caiga suavemente.
 - Valiente. Fuerte. Determinado. Encapsula la energía necesaria para que uno pueda buscar el éxito y superarse cada día en todos los ámbitos de su vida.
+- Perfumar en nebulización alrededor de la cabeza y los hombros para que la fragancia caiga suavemente.
+- Diesel Only The Brave es la gama de fragancias creada como reflejo de la marca italiana Diesel. Como símbolo del éxito, de la seguridad en uno mismo y de la energía. Only The Brave representa a los hombres con fuerza que saben lo que quieren.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CNLFVKV{{</world>}}

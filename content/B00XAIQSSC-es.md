@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Notas de corazón: floral
 - Notas de fondo: amizclada
 - Fragancia cítrica y floral para mujer que le trasportará a los lugares más exquisitos del mediterráneo
-- Notas de corazón: floral
 - Eau de parfum 150 ml
 - Notas de salida: cítricos
 

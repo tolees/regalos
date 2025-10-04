@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 💗ESPECIFICACIÓN: los colgantes son ligeros y se cierran de forma segura, lo que ajusta los pendientes a tus orejas, así que no te preocupes por que se caigan.
 - 💗 REGALO: Los pendientes son un regalo mágico para niñas y mujeres en muchas ocasiones como comunión/confirmación, San Valentín, boda y cumpleaños o como amuleto de la suerte para un cambio de trabajo, antes de grandes viajes o estancias en el extranjero.
 - 💗RESPUESTA RÁPIDA: Sus sentimientos son nuestra preocupación. Si el producto tiene problemas de calidad, háganoslo saber. Resolveremos su problema lo antes posible para garantizar su mejor experiencia de compra.
 - 💗 IDEA DE DISEÑO: El colgante en forma de símbolo de infinito, atravesado por un elemento en forma de corazón, es un símbolo atemporal del amor infinito. Es una hermosa pieza que complementa cualquier look, ya sea cotidiano u ocasiones especiales.
-- 💗ESPECIFICACIÓN: los colgantes son ligeros y se cierran de forma segura, lo que ajusta los pendientes a tus orejas, así que no te preocupes por que se caigan.
 - 💗MATERIAL: Está hecho de plata 925 y circonita cúbica 3A, la plata de ley 925 es un gran metal, sin níquel, hipoalergénico y brillante para siempre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
