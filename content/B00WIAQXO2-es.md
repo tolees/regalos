@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de porcelana de alta calidad
-- Apto para lavavajillas
-- 0,37 litros
 - blanco
+- 0,37 litros
 - Apto para microondas
+- Apto para lavavajillas
+- Hecho de porcelana de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00WIAQXO2{{</world>}}

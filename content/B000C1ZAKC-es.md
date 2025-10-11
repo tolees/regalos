@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La fragancia para hombre Minotaure Amber envuelve a quien la lleva y a los que le rodean en un aroma suave, fresco y sutilmente seductor.
-- Minotaure para Hombre aparece con notas afrutadas de bergamota, que dan paso a las florales de jazmín y geranio, y terminan en un final almizclado de sándalo, ámbar y cedro, en el que cada nota lleva al olfato en una nueva y emocionante dirección.
 - Pulverizar la fragancia a una distancia mínima de 15-20 centímetros de la zona de aplicación. Aplicar en los puntos de pulsión.
+- Minotaure para Hombre aparece con notas afrutadas de bergamota, que dan paso a las florales de jazmín y geranio, y terminan en un final almizclado de sándalo, ámbar y cedro, en el que cada nota lleva al olfato en una nueva y emocionante dirección.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1ZAKC{{</world>}}

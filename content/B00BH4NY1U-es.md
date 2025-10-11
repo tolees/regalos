@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las notas de salida son de pomelo de las Indias, naranja de Brasil, jengibe, pimienta de Sechuan y salvia esclarea; las notas de corazón son notas de Campari, piña de las Antillas, y la manzana "Red Delicious"; las notas de fondo son cedro, sándalo, haba tonka, ámbar y del musc blanco
-- Vaporizador de 100ml
-- La primera fragancia masculina, TOUS MAN. En ella reflejamos toda la personalidad del hombre TOUS. Un hombre que nos atrae por su estilo, por su marcada personalidad
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Vaporizador de 100ml
 - Fragancia oriental afrutada amaderada para hombres marca Tous
+- La primera fragancia masculina, TOUS MAN. En ella reflejamos toda la personalidad del hombre TOUS. Un hombre que nos atrae por su estilo, por su marcada personalidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BH4NY1U{{</world>}}
