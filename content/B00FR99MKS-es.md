@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PODEROSO Y FEMENINO: Un agua de colonia, para mujeres, con toques avainillados y con una gran variedad de aromas que se fusionan con tus sentidos. Como el sol, esta colonia es sinónimo de pureza, valor y realeza.
-- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental-vainilla, que rinde homenaje al oro, el más preciado, elegante y majestuoso de los metales, símbolo del sol... ¡Cómo este perfume!
-- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
-- PIRÁMIDE OLFATIVA: Notas de salida: mandarina; Notas de corazón: bandiana, jazmín y regaliz; Notas de fondo: sándalo, madera de cedro y vainilla
 - FRAGANCIA ÚNICA: Nike Gold Edition es un perfume femenino con un carácter elegante y majestuoso que te empujará a disfrutar de los aromas más exquisitos y divinos. Viene en un frasco vaporizador de 100 mililitros.
+- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental-vainilla, que rinde homenaje al oro, el más preciado, elegante y majestuoso de los metales, símbolo del sol... ¡Cómo este perfume!
+- PIRÁMIDE OLFATIVA: Notas de salida: mandarina; Notas de corazón: bandiana, jazmín y regaliz; Notas de fondo: sándalo, madera de cedro y vainilla
+- PODEROSO Y FEMENINO: Un agua de colonia, para mujeres, con toques avainillados y con una gran variedad de aromas que se fusionan con tus sentidos. Como el sol, esta colonia es sinónimo de pureza, valor y realeza.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00FR99MKS{{</world>}}

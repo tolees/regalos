@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eau de parfum 150 ml
-- Fragancia cítrica y floral para mujer que le trasportará a los lugares más exquisitos del mediterráneo
-- Notas de fondo: amizclada
-- Notas de salida: cítricos
 - Notas de corazón: floral
+- Eau de parfum 150 ml
+- Notas de fondo: amizclada
+- Fragancia cítrica y floral para mujer que le trasportará a los lugares más exquisitos del mediterráneo
+- Notas de salida: cítricos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAIQSSC{{</world>}}

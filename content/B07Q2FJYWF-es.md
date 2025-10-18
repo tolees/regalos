@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido: 2x villeroy & boch Artesano Hot & Cold Beverages Taza, 450 ml, medido hasta el borde, material Vidrio de borosilicato, color transparente
 - Tazas de doble pared adaptadas al tamaño de la mano como elegantes acompañantes para almuerzos, comidas o cenas en compañía
+- Contenido: 2x villeroy & boch Artesano Hot & Cold Beverages Taza, 450 ml, medido hasta el borde, material Vidrio de borosilicato, color transparente
 - Aptas también para la restauración: Vidrio de borosilicato de adecuada calidad que asegura su resistencia al lavavajillas y un brillo duradero
 - Vidrio de doble pared que mantiene la temperatura de su contenido durante mucho tiempo, diseño simple que combina con todas las colecciones de Villeroy & Boch
 - Se pueden utilizar de múltiples maneras para el servicio de café helado o latte macchiato, diseño minimalista que llama la atención
