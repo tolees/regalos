@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - SIN CRUELDAD & VEGANO: Este producto de Revolution Beauty está formulado sin ingredientes de origen animal, lo que lo convierte en apto para veganos. Todos los productos de Revolution Beauty cuentan con el respaldo de PETA como libres de pruebas en animales.
-- DISEÑO MÁGICO: Sostén el colorete, gira la muñeca y míralo girar. Levanta la tapa para detenerlo y revelar un hermoso rubor rosa con un sutil brillo dorado, perfecto para un resplandor radiante.
 - CÓMO USAR: Abre la tapa para detener la rotación, luego aplica el colorete en las manzanas de las mejillas. Difumina hasta la intensidad deseada para un brillo perfecto rosa-dorado que agrega un toque de magia a cualquier look de maquillaje.
+- DISEÑO MÁGICO: Sostén el colorete, gira la muñeca y míralo girar. Levanta la tapa para detenerlo y revelar un hermoso rubor rosa con un sutil brillo dorado, perfecto para un resplandor radiante.
 - ALICE IN WONDERLAND: Entra en el País de las Maravillas este Halloween con la colección de edición limitada Disney Alices in Wonderland x Revolution. Este exclusivo colorete en polvo prensado está inspirado en el mágico viaje de Alicia por la madriguera del conejo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

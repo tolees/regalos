@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para lavavajillas y microondas, Alta calidad: Porcelana Premium hecha en Alemania
-- Sirva el clásico expreso italiano en la taza a juego, Espacio en los bordes para galletas, dosis de leche o azúcar
 - Contenido: 1x Villeroy & Boch Manoir Plato para taza de expreso (13 cm), Material: Porcelana Premium, Color: Blanco
+- Sirva el clásico expreso italiano en la taza a juego, Espacio en los bordes para galletas, dosis de leche o azúcar
 - Apto también para la restauración gracias a su manejable forma, Apilable, Tamaño óptimo para lavavajillas
+- Apto para lavavajillas y microondas, Alta calidad: Porcelana Premium hecha en Alemania
 - Elegante plato para taza con clásicos relieves como complemento perfecto para la vajilla Manoir, Ideal para la clásica mesa de café
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Notas de corazón: lavanda, verbena, albahaca, haba tonka.
 - Para: el
+- Notas de corazón: lavanda, verbena, albahaca, haba tonka.
 - Notas de salida: kumquat, pomelo, pimienta rosa.
 - Familia olfativa: madera
 - Tipo: fresca y versátil
