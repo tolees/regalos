@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Boston coloured Copa vino blanco smoke
-- Villeroy & Boch
 - Número de artículo: 11-7309-0035
+- Villeroy & Boch
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XCV9Q95{{</world>}}

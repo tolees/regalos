@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fragancia personal
 - Adecuado para regalar
+- Fragancia personal
 - Agradable sensación en la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
