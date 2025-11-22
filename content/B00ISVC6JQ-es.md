@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La forma de la botella permite el óptimo despliegue de los aromas; los vinos son presentados de forma atractiva gracias a su brillante cristal
-- Fondo grueso para una máxima estabilidad de la botella, su elegante diseño de cristal combina con estilo con las copas de la colección
 - Contiene: 1x Villeroy & Boch Maxima Botella especial (1 Litro), material: cristal, color: transparente
 - Elegante botella especial de la colección Maxima de cristal de alta calidad para disfrutar de momentos de placer con estilo, óptima para amantes del vino
+- Fondo grueso para una máxima estabilidad de la botella, su elegante diseño de cristal combina con estilo con las copas de la colección
 - Apta también para la restauración: cristal de alta calidad que garantiza la resistencia al uso en lavavajillas y un brillo duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

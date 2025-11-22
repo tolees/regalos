@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Notas de Corazón: Té Verde, Karmaflor, Mahonia
 - Notas de Salida: Acuerdo de Pulpa de Coco Salado, Delicia de Virutas de Coco, Semilla de Cilantro, Vert de Bergamota Orpur
-- Notas de fondo ámbar blanco, Almizcle, Musgo de Roble
 - Descubre toda la colección: Prueba la colección de fragancias Green Tea de Elizabeth Arden y descubre tu favorita
+- Notas de fondo ámbar blanco, Almizcle, Musgo de Roble
 - Elaborado con ingredientes sostenibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Taza redondo con clásicos relieves para pequeñas exquisiteces como sopas, entrantes, cereales o postres, elegante acompañante para la vida diaria
 - Apto para lavavajillas y microondas, alta calidad: porcelana premium hecha en alemania
-- Contiene: 1x villeroy & boch cellini tazón (750 ml), material: porcelana premium, color: blanco
 - Tamaño adecuado para pequeñas porciones, rellenable según se desee, combina a la perfección con la vajilla cellini
+- Contiene: 1x villeroy & boch cellini tazón (750 ml), material: porcelana premium, color: blanco
 - Apto también para la restauración gracias a su forma manejable, apilable uno encima de otro, bordes resistentes a golpes e impactos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

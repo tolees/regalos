@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🌟【8 Modos y Temporización】Las luces de ventana tienen 8 modos diferentes. Los diferentes modos te darán diferentes sensaciones de romance. La luz de la cortina estará encendida durante 6 horas y apagada durante 18 horas cuando presione "TIMER".
+- 🌟【USB y con Pilas】La luz de la cortina no solo se puede cargar mediante USB, sino que también se puede cargar con 3 pilas AA. Puede elegir el método de carga que desee.
+- 🌟【Impermeable y Seguro】Las luces de cadena de cobre a prueba de agua IP44 se pueden usar en interiores y exteriores. No necesita preocuparse por la lluvia. El voltaje de la luz de la cortina es bajo. No estará caliente incluso si se usa durante mucho tiempo. Es seguro para niños y mascotas.
 - 🌟【Luces de Cortina de 300LED】Luces de hadas colgantes de 3m*3m con 10 ganchos y hilo principal de 3m. Puede colgar la luz de la cortina en cualquier lugar que desee, como paredes, ventanas, puertas, árboles de Navidad.
 - 🌟【Control Remoto】 Puede controlar el interruptor, 8 modos diferentes, el temporizador y el brillo de la luz de la cortina por control remoto. Es muy conveniente.
-- 🌟【Impermeable y Seguro】Las luces de cadena de cobre a prueba de agua IP44 se pueden usar en interiores y exteriores. No necesita preocuparse por la lluvia. El voltaje de la luz de la cortina es bajo. No estará caliente incluso si se usa durante mucho tiempo. Es seguro para niños y mascotas.
-- 🌟【USB y con Pilas】La luz de la cortina no solo se puede cargar mediante USB, sino que también se puede cargar con 3 pilas AA. Puede elegir el método de carga que desee.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B089Y5LD5M{{</world>}}
