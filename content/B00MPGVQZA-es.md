@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pequeño portavelas de diseño nostálgico con el que crear un ambiente e iluminación especialmente navideño
-- Fabricado con Porcelana Premium de alta calidad especialmente robusta, adecuado para uso diario, se limpia con un paño húmedo
-- Coloridos motivos que despiertan los recuerdos de la infancia, cuenta con espacio para una vela con la que crear un ambiente festivo
-- Combina con las colecciones Delight Royal Classic y Toys Fantasy, bordes resistentes a golpes e impactos, para coleccionar o regalar
 - Contiene: 1x Villeroy & Boch Toys Delight Portavelas (6 cm), material: porcelana Premium, Color: Blanco/Rojo
+- Coloridos motivos que despiertan los recuerdos de la infancia, cuenta con espacio para una vela con la que crear un ambiente festivo
+- Fabricado con Porcelana Premium de alta calidad especialmente robusta, adecuado para uso diario, se limpia con un paño húmedo
+- Combina con las colecciones Delight Royal Classic y Toys Fantasy, bordes resistentes a golpes e impactos, para coleccionar o regalar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MPGVQZA{{</world>}}

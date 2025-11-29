@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Son especificas tanto para el juego de cartas Virus como para sus expansiones Virus 2 Evolution y Halloween (NO VALIDAS PARA VIRUS MARVEL).
 - Han sido fabricadas con polipropileno reciclable, sin PVC y están Libres de ácido.
+- Son especificas tanto para el juego de cartas Virus como para sus expansiones Virus 2 Evolution y Halloween (NO VALIDAS PARA VIRUS MARVEL).
 - Súper transparentes. Mega resistentes. Grosor y ajustes perfectos.
 - Protege y conserva tu baraja de cartas favorita de arañazos. Barajas de cartas no incluidas.
 - Fundas protectoras hechas a medida de la marca JEVX. Tamaño exterior 90x60mm (para cartas de 88x58mm).

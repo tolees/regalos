@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Decoración espeluznante: con forma del personaje Sally, esta figura de luz en miniatura mide 10 cm de alto y añade un toque espeluznante a cualquier habitación con su suave brillo.
 - PALADONE: En Paladone, nos especializamos en regalos divertidos para personas divertidas. Nuestra mercancía con licencia oficial incluye juguetes, decoración y artículos únicos que traen alegría a todos los entusiastas nostálgicos de la cultura pop. Descubre regalos mágicos que hacen la colección de cada fanático.
-- Coleccionable: un fantástico coleccionable iluminado para los entusiastas de Pesadilla antes de Navidad, perfecto para iluminar tu hogar o estantes.
-- Producto oficial: ilumina tu espacio con esta luz de icono de Sally, un producto oficial de Pesadilla antes de Navidad de Tim Burton.
 - Portátil: alimenta fácilmente tu luz con 2 pilas AAA (no incluidas), por lo que es un complemento versátil para cualquier espacio.
+- Producto oficial: ilumina tu espacio con esta luz de icono de Sally, un producto oficial de Pesadilla antes de Navidad de Tim Burton.
+- Coleccionable: un fantástico coleccionable iluminado para los entusiastas de Pesadilla antes de Navidad, perfecto para iluminar tu hogar o estantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9YTQ8Z9{{</world>}}
