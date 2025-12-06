@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
-- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Nuestras joyas tienen una garantía de 3 años desde su entrega, ya que nuestro objetivo principal es que estén siempre como el primer día.
-- 23,8mm x 20,6mm. Grosor de 4mm. Su cierre congo/click no tiene rosca, se cierra uniendo dos partes del pendiente hasta escuchar, como su nombre indica, un “click”.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Unos aros de acero midi bañados en oro de forma ovalada que no pararás de llevar. Unos pendientes con cierre click ideales para el día a día.
+- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Nuestras joyas tienen una garantía de 3 años desde su entrega, ya que nuestro objetivo principal es que estén siempre como el primer día.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- 23,8mm x 20,6mm. Grosor de 4mm. Su cierre congo/click no tiene rosca, se cierra uniendo dos partes del pendiente hasta escuchar, como su nombre indica, un “click”.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D7J4TJKH{{</world>}}

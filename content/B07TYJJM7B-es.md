@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Incluye la icónica caja candado roja. Un packaging ideal para regalo donde poder guardar tus joyas favoritas de UNOde50.
 - Elaborado a mano a través de un proceso artesanal como cada joya de la marca.
-- Una pieza única , con un diseño original de tendencia.
 - Cuenta con un diseño creativo como cada pieza de la marca.
+- Una pieza única , con un diseño original de tendencia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TYJJM7B{{</world>}}

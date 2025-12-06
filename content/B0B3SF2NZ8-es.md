@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍉 Descripción Olfativa: Vainilla Island, Sandía Cocktail, Coco Lima, Melocotón Paradise y Melón Splash.
 - 🍈 Aguas de colonia Edición Verano de aromas frutales y refrescantes con vaporizador y Aloe Vera. Tamaño Bolso.
-- 🥥 Pack de 5 colonias de 40 ml cada una.
+- 🍉 Descripción Olfativa: Vainilla Island, Sandía Cocktail, Coco Lima, Melocotón Paradise y Melón Splash.
 - 🍦 Modo de empleo: pulverizar a una distancia de 5cm por todo el cuerpo a excepción del rostro. No utilizar en niños entre 0 a 3 años.
+- 🥥 Pack de 5 colonias de 40 ml cada una.
 - 🍑 Fórmula concentrada con perfumes de calidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

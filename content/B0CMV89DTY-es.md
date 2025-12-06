@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
-- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, pera y pimienta rosa; Notas de corazón: jazmín, nerolí y azahar; Notas de fondo: haba tonka, vainilla y almizcle.
-- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral oriental afrutada ideal para personas optimistas, colaboradoras y originales.
 - FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca vibras positivas y que te conquistará con su olor a ricas de jazmín con toques florales y frutales, ideal para mujeres originales.
+- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, pera y pimienta rosa; Notas de corazón: jazmín, nerolí y azahar; Notas de fondo: haba tonka, vainilla y almizcle.
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 - ESTUCHE DE REGALO: Estuche femenino con un carácter positivo, que te traslada a una combinación de ensueño entre armonía y sensualidad. El pack incluye un perfume, una crema de manos y un gel de baño. Colonia con vaporizador.
+- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral oriental afrutada ideal para personas optimistas, colaboradoras y originales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMV89DTY{{</world>}}

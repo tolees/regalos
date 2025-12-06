@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Las notas de salida son mandarina, acorde floral vegetal y limón; las notas de corazón son jazmín, peonía blanca y grosella negra; las notas de fondo son musk blanco, pachuli y ámbar transparente
 - Esta fragancia moderna es ideal para la mujer romántica, con un carisma inconfundible y que alcanza fácilmente sus objetivos
 - Vaporizador de 90ml
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
-- Las notas de salida son mandarina, acorde floral vegetal y limón; las notas de corazón son jazmín, peonía blanca y grosella negra; las notas de fondo son musk blanco, pachuli y ámbar transparente
 - Perfume Tous con fragancia floral amaderada para mujeres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

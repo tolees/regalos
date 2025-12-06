@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en un lugar fresco y seco
+- Con diferentes sabores
 - Vienen envueltos individualmente
 - Tienen diferentes texturas
+- Conservar en un lugar fresco y seco
 - Surtido de dulces para Halloween
-- Con diferentes sabores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07J2NH37D{{</world>}}

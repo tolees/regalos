@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combine esta elegante pieza con el collar que hace juego para realzar su look fresco y femenino
 - Inspirada en la naturaleza, la forma única de este par de pendientes evoca gotitas de agua
+- Combine esta elegante pieza con el collar que hace juego para realzar su look fresco y femenino
 - De la delicada cadena chapada en oro rosa cuelga un gran Crystal Blush destellante de exclusiva talla Toupie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
