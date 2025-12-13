@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Las notas olfativas principales de este producto son fresco acuático y fresco naturaleza.
 - Contiene 125 ml.
 - Este producto está indicado para hSombras.
-- Las notas olfativas principales de este producto son fresco acuático y fresco naturaleza.
 - De la marca Davidoff.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 📦 FORMATO: Bolsa 1 Kg.
 - 🍭 CHUCHERÍAS: Nuestras chuches son la opción perfecta para fiestas de cumpleaños, San Valentin, Pascua, Navidades, Comuniones u otras ocasiones especiales. Chucherias y gominolas ideales para un regalo original.
-- 🍓 CHUCHERIA: Herramienta Súper Ácida Fresa – Goma Pica Pica con sabor intenso y Sin Gluten.
+- 📦 FORMATO: Bolsa 1 Kg.
 - 💯 FINI: Marca líder en España con las mas altas puntuaciones en certificaciones y seguridad alimentaria del sector. La calidad, innovación y diversión están entre sus principales pilares para crear productos únicos.
+- 🍓 CHUCHERIA: Herramienta Súper Ácida Fresa – Goma Pica Pica con sabor intenso y Sin Gluten.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XBRLGX{{</world>}}

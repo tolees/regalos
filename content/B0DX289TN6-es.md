@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Largo de 45cm + 5cm de alargador. Motivo de diámetro 17mm con piedras de 4mm y 2,3mm.Destaca por sus detalles en PIEDRAS NATURALES que pasan por un proceso de tallado y pulido que las hace especiales. Són únicas por su dureza, resistencia, brillo y belleza.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
-- Largo de 45cm + 5cm de alargador. Motivo de diámetro 17mm con piedras de 4mm y 2,3mm.Destaca por sus detalles en PIEDRAS NATURALES que pasan por un proceso de tallado y pulido que las hace especiales. Són únicas por su dureza, resistencia, brillo y belleza.
 - El Collar Medallion Stones Rosa de acero triunfa siempre por su forma y colores. Esta medalla de cadena fina con un motivo de sol y mini piedras rosadas a su alrededor será tu joya favorita de la temporada.
+- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DX289TN6{{</world>}}

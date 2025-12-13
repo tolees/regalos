@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tous Man Sport nos muestra el espíritu libre del hombre Tous
+- Las notas aromáticas de salida son cedro, limón y aldehídos. Las notas de corazón son jengibre, granny smith y verbena. En las notas de fondo encontramos madera de cedro del Atlas, almizcle cachemir y musgo de roble
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Vaporizador de 100ml
 - Colonia Tous con fragancia aromática afrutada tónica para hombres
-- Las notas aromáticas de salida son cedro, limón y aldehídos. Las notas de corazón son jengibre, granny smith y verbena. En las notas de fondo encontramos madera de cedro del Atlas, almizcle cachemir y musgo de roble
-- Tous Man Sport nos muestra el espíritu libre del hombre Tous
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003YME1S8{{</world>}}
