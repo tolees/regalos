@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Numerosas opciones de combinación con muchas colecciones gracias a su diseño sencillo y blanco
 - Volumen de suministro: 1 x like. by Villeroy & Boch, Letters taza grande V (380 ml), material: Porcelana Premium, color: blanco (n.º de art. 10-1620-6121)
-- Gran calidad perfecta para el día a día: Porcelana Premium Made in Germany, apta para el lavavajillas y microondas
 - Idea de regalo personal y auténtica con mensaje: La letra puede representar un nombre, un rasgo de carácter, una afición o un talento especial.
+- Gran calidad perfecta para el día a día: Porcelana Premium Made in Germany, apta para el lavavajillas y microondas
 - Juego creativo con palabras y letras: la moderna taza, impresa en una de sus caras con la letra A, representa la individualidad y la personalidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

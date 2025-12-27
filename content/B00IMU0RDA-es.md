@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSEJOS DE USO: Rocía la fragancia en las áreas donde la piel es más delgada: muñecas, detrás de las orejas, parte frontal de los codos
-- AROMA LUMINOSO Y CÁLIDO: chispeantes frutas frescas que se despliegan gradualmente en ricos florales en plena floración
 - FRAGRANCIA SUNFLOWERS: Esencia refrescante que recuerda al verano, con chispeantes frutas frescas
+- AROMA LUMINOSO Y CÁLIDO: chispeantes frutas frescas que se despliegan gradualmente en ricos florales en plena floración
+- CONSEJOS DE USO: Rocía la fragancia en las áreas donde la piel es más delgada: muñecas, detrás de las orejas, parte frontal de los codos
 - DESCUBRE LA COLECCIÓN SUNFLOWERS: Prueba las otras versiones de Sunflowers
 - FLORAL Y VERANIEGO: Vibrante bouquet floral que evoca la alegría de los nuevos comienzos y el placer del día que se avecina
 
