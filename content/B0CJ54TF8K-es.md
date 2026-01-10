@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ⚡ ¡VELOCIDAD Y EMOCIÓN! El juego de letras más rápido y divertido. Responde antes que los demás a temas disparatados y gana la partida.
-- 🎉 ¡ENTRETENIMIENTO PARA TODOS! De 2 a 10 jugadores, +10 años y partidas de 15-30 minutos. Reglas sencillas explicadas en 1 minuto.
-- 🌱 ¡RESPONSABLE Y SOLIDARIO! Fabricado en Europa con papel sostenible. Donamos el 1% de beneficios a causas benéficas.
 - 😂 ¡RISAS ASEGURADAS! Cientos de temas graciosos y originales: “Un sinónimo de influencer”, “Lo mejor de España”, o “Algo que diría tu abuela.
+- 🎉 ¡ENTRETENIMIENTO PARA TODOS! De 2 a 10 jugadores, +10 años y partidas de 15-30 minutos. Reglas sencillas explicadas en 1 minuto.
+- ⚡ ¡VELOCIDAD Y EMOCIÓN! El juego de letras más rápido y divertido. Responde antes que los demás a temas disparatados y gana la partida.
 - ✅ ¡APROBADO POR TODOS! Perfecto para jugar con familia o amigos. Regalo de Navidad y amigo invisible original y divertido para cualquier ocasión.
+- 🌱 ¡RESPONSABLE Y SOLIDARIO! Fabricado en Europa con papel sostenible. Donamos el 1% de beneficios a causas benéficas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJ54TF8K{{</world>}}

@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SET LEGO STAR WARS: Este calendario de Adviento es un divertido regalo pre-navideño para niños, niñas y cualquier fan de Star Wars a partir de 6 años
-- JUEGO DE ROL CON PERSONAJES DE STAR WARS: Las mini maquetas y los personajes de este set personalizable se pueden combinar con otros sets LEGO Star Wars (a la venta por separado) para crear un sinfín de historias
-- PERSONAJES DE STAR WARS: Minifiguras LEGO Star Wars de C-3PO y Jawa (navideño), una figura de Babu Frik y 5 droides que representan a R7-A7, BD-72, un droide de combate, BB-8 (muñeco de nieve) y un superdroide de combate
 - 9 MINI MAQUETAS: Banco de trabajo, silla, portaherramientas, estantes, caja con piezas de droides, una grúa de juguete, contenedor para crear un taller de reprogramación, vehículo de Jawa y árbol de Navidad
-- REGALO DE STAR WARS: Tu peque se convierte en reprogramador de droides, como Babu Frik, mientras descubre juguetes cada día de diciembre hasta la Navidad y construye su propio taller de droides
 - 8 DROIDES LEGO: Un droide de boxes, un droide Gonk, un droide zumbador, un droide médico y un droide ratón navideño, B2EMO, un droide Treadwell y un droide sonda
+- JUEGO DE ROL CON PERSONAJES DE STAR WARS: Las mini maquetas y los personajes de este set personalizable se pueden combinar con otros sets LEGO Star Wars (a la venta por separado) para crear un sinfín de historias
+- REGALO DE STAR WARS: Tu peque se convierte en reprogramador de droides, como Babu Frik, mientras descubre juguetes cada día de diciembre hasta la Navidad y construye su propio taller de droides
+- SET LEGO STAR WARS: Este calendario de Adviento es un divertido regalo pre-navideño para niños, niñas y cualquier fan de Star Wars a partir de 6 años
 - JUGUETES DE LA COLECCIÓN LEGO STAR WARS: Los sets LEGO Star Wars ofrecen a niños y fans adultos la oportunidad de recrear escenas clásicas, interpretar sus propias aventuras o, simplemente, exponer sus modelos
+- PERSONAJES DE STAR WARS: Minifiguras LEGO Star Wars de C-3PO y Jawa (navideño), una figura de Babu Frik y 5 droides que representan a R7-A7, BD-72, un droide de combate, BB-8 (muñeco de nieve) y un superdroide de combate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWDZ6ZX7{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✨Cortina de Luces de 1200LEDs✨Cortina de luces consta de dos 6*3M. Tamaño completo: 12M de ancho × 3M de alto, 48 cadenas colgantes con 1200 LED de alta luminosidad; espacio entre cadenas 0,25 m, 25 luces por cadena separadas cada 0,12 m. Cortina de Luces incluye solo un enchufe europeo 220 V con botón integrado para cambiar el modo de iluminación y encender/apagar.
-- ✨Control Remoto Radiofrecuencia✨BESCOST cortina luces navidad interior incorpora un mando RF que permite manejar todas las cortinas LED compatibles hasta 10 m de distancia y 360° sin necesidad de apuntar. Luces navidad ventana crea el ambiente perfecto para bodas, fiestas, Navidad, centros comerciales, bares y conciertos con solo pulsar un botón.
 - ✨Eficiencia Energética y Resistencia Climática✨Tecnología LED de bajo consumo, alimentación 31V que ahorra hasta un 90 % de energía y permanece fría al tacto. Protección IP44 contra lluvia y frío: funciona sin problemas en invierno o ambientes húmedos. ¡Colócala y transforma bodas, Navidad, tiendas, bares o fiestas en un espectáculo de luz al instante!
+- ✨Control Remoto Radiofrecuencia✨BESCOST cortina luces navidad interior incorpora un mando RF que permite manejar todas las cortinas LED compatibles hasta 10 m de distancia y 360° sin necesidad de apuntar. Luces navidad ventana crea el ambiente perfecto para bodas, fiestas, Navidad, centros comerciales, bares y conciertos con solo pulsar un botón.
 - ✨Cadena de Luces 3 Temporizadores✨Cortina de luces exterior tiene 3 Temporizadores: 6H encendido / 18H apagado, 8H encendido / 16H apagado o ciclo 7-6-3-8 (7H ON, 6H OFF, 3H ON, 8H OFF). Una vez activado se repite diariamente; se reinicia automáticamente tras un corte de corriente.
+- ✨Cortina de Luces de 1200LEDs✨Cortina de luces consta de dos 6*3M. Tamaño completo: 12M de ancho × 3M de alto, 48 cadenas colgantes con 1200 LED de alta luminosidad; espacio entre cadenas 0,25 m, 25 luces por cadena separadas cada 0,12 m. Cortina de Luces incluye solo un enchufe europeo 220 V con botón integrado para cambiar el modo de iluminación y encender/apagar.
 - ✨8 Luces Efectos y 4 Niveles de Brillo✨8 modos: 1. Combinación, 2. Olá, 3. Secuencial, 4. Twinkle, 5. Destello, 6. Desvanecimiento, 7. Parpadeo, 8. Luz fija. 4 niveles de brillo: 25 %, 50 %, 75 %, 100 %. Cortina de luces tiene un chip de memoria que recupera tu última configuración al encender.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

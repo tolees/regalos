@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pendientes Mujer de la marca Pandora
 - Referencia: S7273062
-- Color: multicolor
+- Pendientes Mujer de la marca Pandora
 - ¡Si buscas calidad al mejor precio no sigas buscando!
+- Color: multicolor
 - Medidas: 9,95 x 9,94 x 9,73 centímetros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con : Pulseras Pandora Moments
 - Charm Pandora Raíces Familiares en plata de primera ley y grabado "Family is where love grows“
+- Compatible con : Pulseras Pandora Moments
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07G539CPB{{</world>}}
