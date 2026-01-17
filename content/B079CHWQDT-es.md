@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - BUFANDA: Esta bufanda de Gryffindor esta fabricada en punto, con los colores característicos de la casa. En el extremo se incluye el emblema de la casa bordado y cosido de Gryffindor con borlas de flecos anudadas en los extremos
-- El accesorio ideal para tu disfraz: ¿Has visto tantas veces esta película que te la sabes de memoria?. El complemento perfecto para tu disfraz. También podrás utilizar tu BUFANDA HARRY POTTER GRYFFINDOR para un disfraz.
 - Es la Casa roja y dorada del Colegio Hogwarts de Magia y Hechicería, en la famosa saga de Harry Potter de la autora J K Rowling. Gryffindor es conocida por sus miembros valientes, caballerosos y decididos y fue fundada por el gran Godric Gryffindor. Con un león como ícono, los miembros famosos incluyen al propio Harry Potter, Hermione Granger y Ron Weasley.
+- El accesorio ideal para tu disfraz: ¿Has visto tantas veces esta película que te la sabes de memoria?. El complemento perfecto para tu disfraz. También podrás utilizar tu BUFANDA HARRY POTTER GRYFFINDOR para un disfraz.
 - Adecuado para ocasiones como bodas, año nuevo, sesión de fotos, gran fiesta, cumpleaños, propuesta, desfile, Navidad y Halloween
 - Accesorios Gryffindor CON LICENCIA 100% OFICIAL diferentes y únicos para Carnaval, Halloween, fiestas de disfraces y cumpleaños. Accesorios Hogwarts & Magos para complementar cualquier disfraz
 

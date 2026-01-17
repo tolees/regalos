@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BÁLSAMO LABIAL: enriquecido con cera de abejas de origen responsable para acondicionar, vitamina E rica en antioxidantes y manteca de karité nutritiva para hidratar e hidratar los labios secos, el aceite de granada aporta un sabor dulce y afrutado
+- CUIDADO Y COLOR DE LOS LABIOS: El bálsamo labial con color Hibiscus acondiciona los labios y deja un tono cálido y neutro para realzar el aspecto natural de los labios, el Peony Lip Shimmer mantiene los labios hidratados y deja un acabado luminoso con un ligero tinte beige malva
 - EMBALAJE RECICLABLE: precioso juego de regalo fabricado con tarjetas recicladas al 50% después de su consumo y certificadas por el FSC, El embalaje de regalo es 100% reciclable
 - SET DE REGALO PARA LABIOS: Todo lo que necesitas para unos labios hidratados, suaves y saludables de forma natural, el set de regalo Burts Bees Mistletoe Kiss incluye un bálsamo labial de granada, un bálsamo labial con color hibisco y un brillo labial en tono peonía
-- CUIDADO Y COLOR DE LOS LABIOS: El bálsamo labial con color Hibiscus acondiciona los labios y deja un tono cálido y neutro para realzar el aspecto natural de los labios, el Peony Lip Shimmer mantiene los labios hidratados y deja un acabado luminoso con un ligero tinte beige malva
+- BÁLSAMO LABIAL: enriquecido con cera de abejas de origen responsable para acondicionar, vitamina E rica en antioxidantes y manteca de karité nutritiva para hidratar e hidratar los labios secos, el aceite de granada aporta un sabor dulce y afrutado
 - REGALO DE NAVIDAD: El óptimo regalo para mujer, este juego de bálsamo labial viene empaquetado en una bonita caja de regalo, listo para regalar durante las fiestas, con una cinta para el pelo reutilizable para colgarlo fácilmente en el árbol
 
 [🛒 Comprar!!!]({{< param buyurl >}})

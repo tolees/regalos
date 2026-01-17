@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De la marca Sarah Jessica Parker.
-- Contiene 100 ml.
 - Las notas olfativas principales de este producto son amaderado y floral.
+- Contiene 100 ml.
 - Este producto está indicado para mujeres.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

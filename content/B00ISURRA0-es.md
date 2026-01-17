@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FRAGANCIA PARA MUJER: El eau de parfum Nero Assoluto abre con un toque cautivador de orquídea, que se entremezcla con las notas profundas de la vainilla negra y el ébano
 - EXPRÉSATE: Los perfumes para mujer de Roberto Cavalli transmiten elegancia, fuerza, sensualidad y independencia; sumérjase en el arte de la seducción
 - PERFUME FLORAL Y AMADERADO: Nero Assoluto es el eau de parfum definitivo para las mujeres audaces y glamurosas, con una mezcla de notas florales y amaderadas cautivadoras
-- LEGADO PRESTIGIOSO: Fundada en los 70, Roberto Cavalli es un icono del glamour italiano y nuestros perfumes para mujer están pensados para que se exprese tal como es
+- FRAGANCIA PARA MUJER: El eau de parfum Nero Assoluto abre con un toque cautivador de orquídea, que se entremezcla con las notas profundas de la vainilla negra y el ébano
 - DISEÑO ATREVIDO: Bañado en negro y dorado, con las rayas de un tigre, el perfume para mujer Nero Assoluto de Roberto Cavalli simboliza la sofisticación y la seducción
+- LEGADO PRESTIGIOSO: Fundada en los 70, Roberto Cavalli es un icono del glamour italiano y nuestros perfumes para mujer están pensados para que se exprese tal como es
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ISURRA0{{</world>}}

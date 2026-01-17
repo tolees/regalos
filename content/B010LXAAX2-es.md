@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con brillante cristal pavé transparente y elementos colgantes, aportan ese brillo tan especial que combina a la perfección con otros accesorios de Swarovski
 - Un par de pendientes de estilo atemporal con baño de rodio para cualquier ocasión
+- Con brillante cristal pavé transparente y elementos colgantes, aportan ese brillo tan especial que combina a la perfección con otros accesorios de Swarovski
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B010LXAAX2{{</world>}}
