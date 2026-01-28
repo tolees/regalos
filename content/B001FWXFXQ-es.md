@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MOSCHINO Moschino Edt Vapo 25 Ml – Other Beauty auténtico y reconocido.
 - Disfruta de una experiencia de frescura con cada aplicación.
 - MOSCHINO fragancia duradero con aroma único.
+- MOSCHINO Moschino Edt Vapo 25 Ml – Other Beauty auténtico y reconocido.
 - Ideal para viajes, aporta beneficio inmediata.
 - Presentación compacta de alta calidad, fácil de usar y llevar contigo.
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este apasionado diseño combina un engaste en punta bañado en rodio con cristales transparentes en talla baguette y una forma de aro que será el centro de todas las miradas
 - El regalo perfecto tanto para ti como para esa persona tan especial, ya que estos pendientes pueden llevarse solos o combinados con un collar de la misma familia
+- Este apasionado diseño combina un engaste en punta bañado en rodio con cristales transparentes en talla baguette y una forma de aro que será el centro de todas las miradas
 - Apuesta por la elegancia refinada con estos pequeños pendientes en forma de corazón de la familia Matrix
 
 [🛒 Comprar!!!]({{< param buyurl >}})

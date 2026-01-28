@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIVERSIÓN BASADA EN LA F1: Compite hasta la meta junto a toda la familia con otros coches de Fórmula 1 de juguete de la gama LEGO F1 (a la venta por separado)
-- REGALO DE F1 PARA NIÑOS Y NIÑAS DE 10 AÑOS O MÁS: Este coche de juguete Ferrari de F1 es un gran regalo de cumpleaños o Navidad para peques a partir de 10 años y coleccionistas adultos de maquetas de coches
-- MAQUETA DE COCHE DE JUGUETE: Después de interpretar carreras con el coche LEGO Ferrari de F1 de juguete, los niños pueden exponerlo en la estantería o escritorio como decoración de su dormitorio
-- COCHE FERRARI LEGO DE FÓRMULA 1: El coche de F1 reproduce detalles de la versión de 2024, como alerón trasero, halo, pegatinas de los patrocinadores y neumáticos traseros con la inscripción “Pirelli”
 - MINIFIGURA LEGO DE PILOTO DE F1: Este set incluye una minifigura de piloto, con traje de competición de Ferrari y casco, que los niños pueden colocar en el habitáculo e imaginar trepidantes carreras
 - COCHE DE F1 LEGO FERRARI DE JUGUETE: Los niños y las niñas a partir de 10 años podrán construir el set LEGO Speed Champions Coche de Carreras Ferrari SF-24 F1, exponer la maqueta de coche y a competir
+- MAQUETA DE COCHE DE JUGUETE: Después de interpretar carreras con el coche LEGO Ferrari de F1 de juguete, los niños pueden exponerlo en la estantería o escritorio como decoración de su dormitorio
+- REGALO DE F1 PARA NIÑOS Y NIÑAS DE 10 AÑOS O MÁS: Este coche de juguete Ferrari de F1 es un gran regalo de cumpleaños o Navidad para peques a partir de 10 años y coleccionistas adultos de maquetas de coches
+- COCHE FERRARI LEGO DE FÓRMULA 1: El coche de F1 reproduce detalles de la versión de 2024, como alerón trasero, halo, pegatinas de los patrocinadores y neumáticos traseros con la inscripción “Pirelli”
+- DIVERSIÓN BASADA EN LA F1: Compite hasta la meta junto a toda la familia con otros coches de Fórmula 1 de juguete de la gama LEGO F1 (a la venta por separado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSBBV6R{{</world>}}

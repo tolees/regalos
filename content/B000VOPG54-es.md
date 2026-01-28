@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona energía al cuerpo, despierta los sentidos y reaviva el espíritu
 - Notas de salida: alcaravea, ruibarbo afrutado, limón, raspadura de naranja y bergamota
 - Notas de fondo: musgo de roble, almizcle y ámbar
+- Proporciona energía al cuerpo, despierta los sentidos y reaviva el espíritu
 - Notas de corazón: menta fresca, té verde, jazmín dulce, clavel especiado, hinojo fresco y apio crujiente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

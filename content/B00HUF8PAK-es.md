@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Charm colgante Corazones Entrelazados de Pandora hecho en plata de primera ley y adornado con circonitas cúbicas transparentes engarzadas a mano por nuestros artesanos
 - Compatible con : Pulseras Pandora Moments
+- Charm colgante Corazones Entrelazados de Pandora hecho en plata de primera ley y adornado con circonitas cúbicas transparentes engarzadas a mano por nuestros artesanos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HUF8PAK{{</world>}}

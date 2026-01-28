@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
 - Bombones especialmente pensados para regalar, con NESTLÉ DARK SUBLIME siempre quedas bien en cualquier celebración
-- Cacao de excelente calidad procedente de Ghana, Ecuador y Costa de Marfil
 - Delicioso surtido de 20 bombones de chocolate negro 85%% cacao con 2 variedades diferentes
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
+- Cacao de excelente calidad procedente de Ghana, Ecuador y Costa de Marfil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6JQYP7H{{</world>}}
