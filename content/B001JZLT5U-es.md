@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Notas de corazón: osmanto, jazmín y flor de tiaré.
 - Familia olfativa: Floral Frutal
+- Notas de corazón: osmanto, jazmín y flor de tiaré.
 - Notas de salida: lirio de los valles y flor de loto.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

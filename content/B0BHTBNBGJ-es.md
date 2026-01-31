@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo: fresca y versátil
-- Notas de salida: kumquat, pomelo, pimienta rosa.
 - Notas de corazón: lavanda, verbena, albahaca, haba tonka.
-- Para: el
+- Tipo: fresca y versátil
 - Familia olfativa: madera
+- Notas de salida: kumquat, pomelo, pimienta rosa.
+- Para: el
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHTBNBGJ{{</world>}}

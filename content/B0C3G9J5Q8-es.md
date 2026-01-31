@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Notas de salida: mandarina, naranja, azafrán y salvia.
 - Fragancia de larga duración.
+- Notas de salida: mandarina, naranja, azafrán y salvia.
 - Notas de corazón: caramelo, chicle y tagetes.
 - ARMAF Odyssey Mandarin Sky es una fragancia masculina.
 - Notas de fondo: ambroxan, vetiver y cedro.

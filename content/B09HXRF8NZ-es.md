@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Letra E. Medallón con letra troquelada de 1 cm de diámetro. No incluye cadena.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Esa inicial que tantas veces has deseado llevar colgada. ahora en formato medallón y tamaño mini para tus looks más sofisticados. ¿Lo mejor? Puedes llevarlos en un Collar. Pulsera. Tobillera o dentro de un Pendiente de Aro
-- Fabricada en PLATA DE LEY BAÑADA EN ORO 18KT. Es un material noble ideal para las amantes de la joyería de calidad, sus características se encuentran entre las mejores del mercado, destaca por su brillo y resistencia. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales utilizados para añadir estabilidad, dureza y un brillo inigualable.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- Fabricada en PLATA DE LEY BAÑADA EN ORO 18KT. Es un material noble ideal para las amantes de la joyería de calidad, sus características se encuentran entre las mejores del mercado, destaca por su brillo y resistencia. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales utilizados para añadir estabilidad, dureza y un brillo inigualable.
+- Esa inicial que tantas veces has deseado llevar colgada. ahora en formato medallón y tamaño mini para tus looks más sofisticados. ¿Lo mejor? Puedes llevarlos en un Collar. Pulsera. Tobillera o dentro de un Pendiente de Aro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HXRF8NZ{{</world>}}

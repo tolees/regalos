@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Profundidad óptima para pequeñas raciones como ensaladas, sopas o cereales, Forma simple que combina con todas las colecciones Villeroy & Boch
-- Cuenco redondo para Platos pequeños como sopas, aperitivos, cereales o postres, Complemento elegante para la vida cotidiana
 - Apto para lavavajillas, microondas y hornos hasta 200ºC, Alta Calidad: Porcelana Premium Bone hecha en Alemania
+- Cuenco redondo para Platos pequeños como sopas, aperitivos, cereales o postres, Complemento elegante para la vida cotidiana
 - Contiene: 1x Villeroy & Boch Royal Cuenco para cereales (750 ml), Material: Porcelana Premium Bone, Color: Blanco
 - Apto también para restaurantes gracias a su simple forma, Portable con una mano, Apilable, Bordes resistentes a golpes
 

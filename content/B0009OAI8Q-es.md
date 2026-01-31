@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Notas de corazón: raíz de lirio italiano, clavel, canela, nardo de Egipto, jazmín, rosa turca, ylang-ylang y narciso
 - Notas de fondo: ámbar, pachulí, almizcle, musgo de roble y sándalo
 - Este producto está indicado para mujeres
-- Notas de corazón: raíz de lirio italiano, clavel, canela, nardo de Egipto, jazmín, rosa turca, ylang-ylang y narciso
 - Notas de salida: aldehídos, naranja, azucena, neroli y bergamota
 
 [🛒 Aquí!!!]({{< param buyurl >}})

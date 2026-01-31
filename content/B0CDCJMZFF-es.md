@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para hombres, mujeres, adultos de 18 años en adelante; leer la tabla de medidas en las imágenes
-- Brujitas y brujas, uno de los disfraces preferidos por las mujeres; óptimo para celebraciones como halloween, noche de brujas y fiestas temáticas de disfraces, con este traje las chicas podrán convertirse en brujas poderosas durante la noche más oscura del año
-- Sombrero: para completar el disfraz, el sombrero esta incluido y es imprescindible
-- Vestido: este disfraz de bruja para mujer incluye vestido de manga corta en color negro con detalles; corpiño con lazos y falda con tul sobrepuesto; cierre de velcro trasero para facilitar la colocación
 - Ocasiones: accesorio o complemento de disfraz para niños y niñas para celebrar halloween, navidad, carnaval, pascua, bailes, el día del libro, día del niño, cosplay, fiesta, festivales, vacaciones, concurso, boda, cumpleaños, baile escolar, sesión de fotos, actuaciones escénicas, ceremonias y otras ocasiones
+- Brujitas y brujas, uno de los disfraces preferidos por las mujeres; óptimo para celebraciones como halloween, noche de brujas y fiestas temáticas de disfraces, con este traje las chicas podrán convertirse en brujas poderosas durante la noche más oscura del año
+- Para hombres, mujeres, adultos de 18 años en adelante; leer la tabla de medidas en las imágenes
+- Vestido: este disfraz de bruja para mujer incluye vestido de manga corta en color negro con detalles; corpiño con lazos y falda con tul sobrepuesto; cierre de velcro trasero para facilitar la colocación
+- Sombrero: para completar el disfraz, el sombrero esta incluido y es imprescindible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDCJMZFF{{</world>}}
