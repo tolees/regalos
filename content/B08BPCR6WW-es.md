@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Portavelas Cornelius Ø 6 cm Alt. 8 cm juego de 4 de la marca EDZARD
-- Juegos de candelabros y portavelas modelo Portavelas Cornelius Ø 6 cm Alt. 8 cm juego de 4
 - EDZARD. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
+- Juegos de candelabros y portavelas modelo Portavelas Cornelius Ø 6 cm Alt. 8 cm juego de 4
+- Portavelas Cornelius Ø 6 cm Alt. 8 cm juego de 4 de la marca EDZARD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BPCR6WW{{</world>}}

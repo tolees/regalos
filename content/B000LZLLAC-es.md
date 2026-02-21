@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia para hombres
 - Olor intenso y duradero
+- Fragancia para hombres
 - Adecuada para día o noche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

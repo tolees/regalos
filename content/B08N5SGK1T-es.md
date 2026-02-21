@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Whiskey Jack Daniels se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
+- Aroma: En nariz cada miniatura ofrece olores diferentes pero que comparten la esencia de Whiskey Jack Daniel´s
 - Sugerencia de preparación: Servir Jack Daniels a temperatura ambiente
+- El éxito de Whiskey Jack Daniels se debe al método de elaboración exclusivo del famoso old no. 7 con los mejores ingredientes como maíz, centeno y malta de cebada, así como agua libre de hierro
 - Sabor y final: En boca es un deleite pues entre las manos tienes 6 de las referencias más demandadas de la marca. Un placer para el paladar y para los amantes del buen Whiskey
 - Incluye: Jack Daniels Old No 7, Jack Daniels Rye, Jack Daniels Honey, Jack Daniels Fire, Jack Daniels Single Barrel y Jack Daniels Gentleman Jack con 3 regalos más
 - Jack Daniels Calendario de Navidad con 20 miniaturas de la familia Jack Daniels y alguna sorpresa más
-- Aroma: En nariz cada miniatura ofrece olores diferentes pero que comparten la esencia de Whiskey Jack Daniel´s
-- Whiskey Jack Daniels se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano
-- El éxito de Whiskey Jack Daniels se debe al método de elaboración exclusivo del famoso old no. 7 con los mejores ingredientes como maíz, centeno y malta de cebada, así como agua libre de hierro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08N5SGK1T{{</world>}}

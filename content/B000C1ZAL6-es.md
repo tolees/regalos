@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pulverizar la fragancia a una distancia mínima de 15-20 centímetros de la zona de aplicación. Aplicar en los puntos de pulsión.
-- Icónico y único, un perfume que encarna el magnetismo de la fuerza femenina, haciendo una declaración inolvidable.
 - Poderosa, audaz y fascinante. Un sensual aroma floral, impregnado de rosa, angélica y bergamota. Un complemento para la mujer audaz que irradia un aura innata de atrevimiento. Sé descaradamente extravagante.
+- Icónico y único, un perfume que encarna el magnetismo de la fuerza femenina, haciendo una declaración inolvidable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1ZAL6{{</world>}}

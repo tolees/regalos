@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricada en LATÓN BAÑADA EN RODIO. El latón es un material perfecto para las amantes de las joyas resistentes y fáciles de limpiar. Las joyas de latón son perfectas para el día a día. El baño de rodio aporta un brillo inigualable a la joya y mejora su resistencia y calidad.
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Cadena 16cm + alargador de 3cm. Dos aros de 10mm de diámetro x 1mm grosor del hilo.
-- Idea de presentación. Solo se incluye un estuche por pedido.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - La unión de dos aros, uno liso y uno trenzado, que simboliza la eternidad.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
+- Fabricada en LATÓN BAÑADA EN RODIO. El latón es un material perfecto para las amantes de las joyas resistentes y fáciles de limpiar. Las joyas de latón son perfectas para el día a día. El baño de rodio aporta un brillo inigualable a la joya y mejora su resistencia y calidad.
+- Idea de presentación. Solo se incluye un estuche por pedido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C7H4PH3G{{</world>}}

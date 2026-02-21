@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de material libre: Sin ftalatos, sin parabenos, sin bisfenol A
-- Característica especial: Sellado de fábrica
 - Marca: Estée Lauder
+- Característica especial: Sellado de fábrica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0058NZQZ8{{</world>}}

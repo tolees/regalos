@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de artículo: 6010872
 - Figura de punto – Envuelto en luces
 - Resina de piedra pintada a mano con efecto tallado de madera
 - Jim Shore - Tradiciones de Disney
+- Número de artículo: 6010872
 - Dimensiones aproximadas: altura 12 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

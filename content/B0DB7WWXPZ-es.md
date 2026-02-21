@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye: Bata, cinturón, collar cruzado.
-- Disfraces esenciales para fiestas y vacaciones: La cofia de monje es quizás la prenda más versátil y modesta que puedas tener, pero no dejes que su apariencia sencilla te engañe. Las personas que se las ponen han llegado a ella como por religión o magia. La túnica de monje es un signo de humilde logro e inmenso poder que puede hacerte destacar y molar más en la fiesta.
 - Material: tela de uniforme de alta calidad, transpirable y cómoda de llevar.
+- Disfraces esenciales para fiestas y vacaciones: La cofia de monje es quizás la prenda más versátil y modesta que puedas tener, pero no dejes que su apariencia sencilla te engañe. Las personas que se las ponen han llegado a ella como por religión o magia. La túnica de monje es un signo de humilde logro e inmenso poder que puede hacerte destacar y molar más en la fiesta.
 - Perfecto para: Sacerdote, monje, festival medieval renacentista, actuación escénica, Halloween, Navidad, etc.
 - Tamaño: Por favor, consulte nuestra tabla de tallas en el elegir el tamaño correcto.
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inspirada en hombres que viven la vida al máximo con una confianza inquebrantable. Vive una vida activa tanto dentro como fuera del terreno de juego
-- Vive una vida activa tanto dentro como fuera del terreno de juego
-- Fragancia aromática y leñosa
 - Adidas Pure Game: Eau de Toilette 100 ml
+- Vive una vida activa tanto dentro como fuera del terreno de juego
+- Inspirada en hombres que viven la vida al máximo con una confianza inquebrantable. Vive una vida activa tanto dentro como fuera del terreno de juego
+- Fragancia aromática y leñosa
 - Desarrollado con la colaboración de atletas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
