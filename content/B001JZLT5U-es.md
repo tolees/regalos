@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fondo: Flor de vainilla, frambuesa, almendra y miel.
-- Corazón: Jazmín, osmanthus y flor de Tiare
 - Salida: flor de loto, Fresia y lirio del valle
+- Corazón: Jazmín, osmanthus y flor de Tiare
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001JZLT5U{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - LABIOS QUE ENAMORAN: Desde brillos jugosos y barras cremosas hasta aceites nutritivos y delineadores, este calendario ofrece todo para conseguir unos labios perfectos
 - CUENTA ATRÁS PARA NAVIDAD: Contiene 24 esenciales de belleza para labios, ojos, rostro y herramientas. Con 10 productos tamaño completo, lanzamientos exclusivos e iconos de Revolution, es el calendario de adviento del año
+- ESENCIALES PARA LOS OJOS: Mejora tus looks con delineadores, sombras brillantes y máscara de pestañas. Incluye favoritos de Revolution y productos virales en tamaño completo
 - VEGANO Y LIBRE DE CRUELDAD ANIMAL: Este producto de Revolution está formulado sin ingredientes de origen animal, por lo que es apto para veganos. Todos los productos de Revolution cuentan con el respaldo de PETA como libres de pruebas en animales.
 - ROSTRO Y HERRAMIENTAS: Ilumina, esculpe y fija con productos y herramientas de nivel profesional. Este calendario de adviento es el regalo ideal para cualquier amante del maquillaje
-- ESENCIALES PARA LOS OJOS: Mejora tus looks con delineadores, sombras brillantes y máscara de pestañas. Incluye favoritos de Revolution y productos virales en tamaño completo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FBH9PRYH{{</world>}}

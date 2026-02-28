@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una fragancia agradable y duradera para usarla diariamente.
 - El “Agua de Colonia Concentrada Álvarez Gómez” es una combinación armónica de esencias naturales de origen mediterráneo.
-- Combinación de esencias inmerso en el mítico frasco que tanto caracteriza a Alvarez Gómez.
+- Una fragancia agradable y duradera para usarla diariamente.
 - Limón Español (con conocidas propiedades purificantes y tonificantes), Lavanda de la Provenza mediterránea (con efectos calmantes y anti infección), Geranio Español (estimulante), Eucalipto (purificante y tonificante) y otros muchos aceites esenciales (Romero, Bergamota, etc.), todos ellos de la mejor calidad.
+- Combinación de esencias inmerso en el mítico frasco que tanto caracteriza a Alvarez Gómez.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004J11POG{{</world>}}

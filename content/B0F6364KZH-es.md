@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado para perdurar en el tiempo: las joyas Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
-- Medidas: largo (mín. - máx.) 39 - 44,7 cm, ancho 0,8 cm
-- Contenido del envío: 1x Swarovski Collar Millenia, con cristales de talla octogonal en tono dorado, cierre de mosquetón, baño en tono oro, amarillo, incl. embalaje de Swarovski
 - Lujo ajustable: la cadena bañada en tono oro, con cierre de mosquetón y alargador en la parte posterior, permite un ajuste cómodo, rápido y personalizado
 - Arte Swarovski: el collar Swarovski Millenia añade un toque de lujo al día a día con sus finos matices y un impecable dominio del biselado, perfecto para ti o para regalar
+- Contenido del envío: 1x Swarovski Collar Millenia, con cristales de talla octogonal en tono dorado, cierre de mosquetón, baño en tono oro, amarillo, incl. embalaje de Swarovski
+- Diseñado para perdurar en el tiempo: las joyas Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
+- Medidas: largo (mín. - máx.) 39 - 44,7 cm, ancho 0,8 cm
 - Luz dorada: los cristales octogonales en tono dorado están conectados en una hilera articulada, y su engaste bisel de Swarovski hace que capten la luz de una forma insólita
 
 [🛒 Comprar!!!]({{< param buyurl >}})

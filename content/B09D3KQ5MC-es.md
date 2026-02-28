@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderada especiada que rinde homenaje a la mezcla de estilos y tendencias, lo clásico con lo actual. Ideal para hombre amantes del deporte y del aire libre.
-- PIRÁMIDE OLFATIVA: Notas de salida: aldehído, mandarina, naranja dulce y notas acuosas; Notas de corazón: madera de cedro, neroli y pimienta; Notas de fondo: almizcle, haba tonka, vetiver y ámbar
 - FRAGANCIA ÚNICA: Spagnolo Sport es un perfume masculino para hombres desenfadados y dinámicos que captura a la perfección la esencia de la masculinidad. Viene un frasco vaporizador de 150 mililitros.
+- PIRÁMIDE OLFATIVA: Notas de salida: aldehído, mandarina, naranja dulce y notas acuosas; Notas de corazón: madera de cedro, neroli y pimienta; Notas de fondo: almizcle, haba tonka, vetiver y ámbar
 - ENÉRGICO Y MASCULINO: Un agua de colonia para hombres con estilos de vida activos que te empujará a brillar por tu buen gusto y energía. Es la verdadera esencia de la masculinidad moderna.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 

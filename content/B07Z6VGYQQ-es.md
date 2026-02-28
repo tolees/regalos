@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Álvarez Gómez, crea una selección de delicadas fragancias para llevar el perfume de las flores de jardines y bosques mediterráneos a una exquisita colección de Aguas de Tocador. Todo un placer para los sentidos, un lujo y un regalo.
-- Notas de salida de neroli, mimosa y azucena, un corazón de lilas, jazmín y muguet y un fondo de musk y flor blanca.
-- Aguas frescas de flores juveniles, alegres y sensuales, a base de aceites esenciales mediterráneos y orientales que tienen una poderosa influencia sobre nuestros sentidos y estado de ánimo.
 - El diseño vintage con pulverizador de 150 ml aporta estilo con su diseño transparente.
+- Notas de salida de neroli, mimosa y azucena, un corazón de lilas, jazmín y muguet y un fondo de musk y flor blanca.
+- Álvarez Gómez, crea una selección de delicadas fragancias para llevar el perfume de las flores de jardines y bosques mediterráneos a una exquisita colección de Aguas de Tocador. Todo un placer para los sentidos, un lujo y un regalo.
+- Aguas frescas de flores juveniles, alegres y sensuales, a base de aceites esenciales mediterráneos y orientales que tienen una poderosa influencia sobre nuestros sentidos y estado de ánimo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Z6VGYQQ{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FRAGANCIA VERDE Y FLORAL Descubre un perfume de mujer único con notas de hojas frescas, almizcle, lila y magnolia. Este perfume de Issey Miyake para mujer se completa con almizcle, dejando una impresión duradera de frescura natural y elegancia.
-- PERFUME DE MUJER QUE PERDURA A Drop dIssey Eau de Parfum Essentielle de Issey Miyake, un perfume de mujer inspirado en el rocío de la mañana. Su composición floral combina lila fresca, magnolia y almizcle.
-- DISEÑO ICÓNICO Creado por Todd Bracher, este frasco de Issey Miyake tiene una forma redonda con un degradado verde, evocando una gota de agua. Su acabado metálico verde añade sofisticación.
 - INSPIRADO EN LA NATURALEZA Fragancia vegana con un 82 % de ingredientes de origen natural. Su frasco está elaborado con un 12 % de vidrio reciclado, reflejando el compromiso de Issey Miyake con la sostenibilidad.
+- DISEÑO ICÓNICO Creado por Todd Bracher, este frasco de Issey Miyake tiene una forma redonda con un degradado verde, evocando una gota de agua. Su acabado metálico verde añade sofisticación.
+- PERFUME DE MUJER QUE PERDURA A Drop dIssey Eau de Parfum Essentielle de Issey Miyake, un perfume de mujer inspirado en el rocío de la mañana. Su composición floral combina lila fresca, magnolia y almizcle.
+- FRAGANCIA VERDE Y FLORAL Descubre un perfume de mujer único con notas de hojas frescas, almizcle, lila y magnolia. Este perfume de Issey Miyake para mujer se completa con almizcle, dejando una impresión duradera de frescura natural y elegancia.
 - TAMAÑOS DISPONIBLES Disponible en 30 ml, 50 ml y 90 ml, este perfume de mujer es perfecto para cualquier ocasión. Completa tu colección con la loción corporal y desodorante a juego.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

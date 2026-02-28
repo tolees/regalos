@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 2 dardos NERF N SERIES N1: el lanzador Ward incluye dos dardos de espuma Nerf N1 para el juego individual o con amigos al aire libre
-- Lanzamiento rápida y sencilla: Prepara el lanzador de manera fácil y rápida tirando hacia atrás del mango y lanza un dardo a la vez
 - NERF Lanzadores y dardos de la serie N: experimenta una precisión extrema, velocidad y distancia con los lanzadores Nerf N Series de alto rendimiento y los revolucionarios dardos Nerf N Series N1
 - NERF Serie N WARD BLASTER: toma la delantera en las batallas de Nerf con el lanzador Ward que combina un estilo cómodo de mano y un gran rendimiento en un diseño fácil de usar. Compatible solo con dardos Nerf N Series N1
+- Lanzamiento rápida y sencilla: Prepara el lanzador de manera fácil y rápida tirando hacia atrás del mango y lanza un dardo a la vez
+- Incluye 2 dardos NERF N SERIES N1: el lanzador Ward incluye dos dardos de espuma Nerf N1 para el juego individual o con amigos al aire libre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP41PRQ9{{</world>}}

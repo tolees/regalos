@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
 - Aro diámetro exterior 12mm. Grosor de hilo de 2mm.Su cierre congo/click no tiene rosca, se cierra uniendo dos partes del pendiente hasta escuchar, como su nombre indica, un “click”.
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
 - La versión más pequeña de los aros más sencillos a la vez que bonitos. Combínalos con mil pendientes más para crear tu ear look de la suerte.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 

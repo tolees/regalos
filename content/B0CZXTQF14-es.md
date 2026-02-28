@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para regalar gracias a su formato premium y pensado para compartir con tus seres queridos
-- Nuestros Maestros Chocolateros combinan pasión y talento con la tradición del chocolate más puro en una receta innovadora y rompedora dulce e irresistible
-- Nuxor combina el chocolate con leche con las avellanas tostadas de Piamonte que quedan visibles en cada bombón; Su forma cuadrada lo diferencia y su formato individual te hará deleitarte con cada bocado
-- Elaborada con los mejores ingredientes, incluyendo habas de cacao puro de fuentes sostenibles para darle un sabor puro e intenso que podrás degustar en cada bombón de chocolate
 - La óptima combinación del mejor chocolate gianduia con avellanas enteras tostadas; Contienen el mayor porcentaje de avellanas llegando al 41% por lo que es Bueno para aquellos amantes de los frutos secos
+- Nuestros Maestros Chocolateros combinan pasión y talento con la tradición del chocolate más puro en una receta innovadora y rompedora dulce e irresistible
+- Elaborada con los mejores ingredientes, incluyendo habas de cacao puro de fuentes sostenibles para darle un sabor puro e intenso que podrás degustar en cada bombón de chocolate
+- Nuxor combina el chocolate con leche con las avellanas tostadas de Piamonte que quedan visibles en cada bombón; Su forma cuadrada lo diferencia y su formato individual te hará deleitarte con cada bocado
+- Para regalar gracias a su formato premium y pensado para compartir con tus seres queridos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZXTQF14{{</world>}}

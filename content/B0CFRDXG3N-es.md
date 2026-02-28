@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Halloween Man Mystery es la esencia de un hombre misterioso, tentador y atrevido
 - Las notas de salida son pimienta negra, lavandino y mandarina para seguir con acorde de avellanas, geranio Egipto y cosmofruit. Y para terminar pachulí de Indonesia, corazón de pachulí y concentrado de vetiver
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
-- Vaporizador de 125ml
 - Perfume Halloween con fragancia aromática afrutada para hombre
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Halloween Man Mystery es la esencia de un hombre misterioso, tentador y atrevido
+- Vaporizador de 125ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFRDXG3N{{</world>}}

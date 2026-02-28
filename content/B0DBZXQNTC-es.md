@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INGREDIENTES PREMIUM: El eau de parfum está enriquecido con esencia de bergamota y absoluto de rosa, creando un perfume delicadamente femenino con una nota profunda de patchouli que proporciona una sensación de plenitud y serenidad.
 - CUIDADO COMPLETO: Complementa tu experiencia con la crema de manos de 30 ml que hidrata y perfuma suavemente la piel, mientras que el vaporizador de 8 ml asegura que puedas disfrutar de la fragancia en cualquier momento y lugar.
 - ELEGANCIA Y ARMONIA: Este set de regalo "Comme Une Evidence" de Yves Rocher ofrece una experiencia sensorial única con una fragancia chyprée moderna y atemporal. La combinación de bergamota fresca y rosa aporta un toque chic y elegante a tu día.
-- EDICION LIMITADA: Bajo el encantador decorado festivo de La Serre d’Hiver, este set en edición limitada incluye el eau de parfum, un vaporizador de 8 ml ideal para llevar en el bolso, y una crema de manos, perfectos para mantener la frescura y el refinamiento durante todo el día.
+- INGREDIENTES PREMIUM: El eau de parfum está enriquecido con esencia de bergamota y absoluto de rosa, creando un perfume delicadamente femenino con una nota profunda de patchouli que proporciona una sensación de plenitud y serenidad.
 - COMPROMISO CON LA NATURALEZA : Formulado con un 96% de ingredientes de origen natural y empaquetado en envases de plástico 100% reciclado, este set es apto para pieles sensibles y refleja el compromiso de Yves Rocher con un cuidado responsable y respetuoso con el medio ambiente.
+- EDICION LIMITADA: Bajo el encantador decorado festivo de La Serre d’Hiver, este set en edición limitada incluye el eau de parfum, un vaporizador de 8 ml ideal para llevar en el bolso, y una crema de manos, perfectos para mantener la frescura y el refinamiento durante todo el día.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBZXQNTC{{</world>}}

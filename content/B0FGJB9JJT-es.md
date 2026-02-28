@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete regalo de Navidad Maybelline New York Make Up in The City con mascara Lash Sensational Sky High color negro 7,2ml + mini lápiz de ojos Tattoo Liner color negro 5,7g + neceser paillettes con cierre de cremallera y práctica correa lateral
 - Fórmula enriquecida con fibras y extractos de bambú, las pestañas lucen más largas, definidas y densas. No deja grumos y la mirada resulta extremadamente intensa y ligera
 - Máscara voluminizadora y alargadora para unas pestañas definidas y densas. El cepillo es flexible y consigue capturar todas las pestañas desde la raíz. Es fácil de retirar y también es apta para ojos sensibles y usuarios de lentes de contacto
+- Paquete regalo de Navidad Maybelline New York Make Up in The City con mascara Lash Sensational Sky High color negro 7,2ml + mini lápiz de ojos Tattoo Liner color negro 5,7g + neceser paillettes con cierre de cremallera y práctica correa lateral
 - Mini lápiz de ojos afilable y de larga duración, hasta 36 horas
 - Fórmula en gel de aplicación fluida, ultra pigmentada para un color intenso con efecto tatuaje, no se decolora
 

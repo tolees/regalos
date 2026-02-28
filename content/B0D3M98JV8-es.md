@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
-- Fabricada en ACERO INOXIDABLE. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Además, el acero es un material reciclable, así que es perfecto para mantener la sostenibilidad siempre presente. No necesita baño ya que el propio material ya tiene un acabado brillante y gran durabilidad.
-- Unos pendientes de aro de color azul turquesa gruesos y de textura de goma perfectos para irte de festival. Estos pendientes tienen una textura suave y aterciopelada.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Diámetro exterior 30mm. Grosor 10mm.Su cierre de silicona es una rosca a presión cuadrada, pequeña y bañada en oro de 18kt. Además, es muy cómoda y discreta.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- Unos pendientes de aro de color azul turquesa gruesos y de textura de goma perfectos para irte de festival. Estos pendientes tienen una textura suave y aterciopelada.
+- Fabricada en ACERO INOXIDABLE. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Además, el acero es un material reciclable, así que es perfecto para mantener la sostenibilidad siempre presente. No necesita baño ya que el propio material ya tiene un acabado brillante y gran durabilidad.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3M98JV8{{</world>}}

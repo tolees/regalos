@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MEDIDAS TOTALES: Ø56x180 cm (DxAL). Para un look más realista, extiende todas las puntas individualmente, te tomará aproximadamente 25-30 minutos. NOTA: Las decoraciones del árbol de Navidad artificial no están incluidas
 - CON 380 RAMAS: Este árbol de Navidad está formado por 510 ramas de plástico que, al extenderse correctamente, crean un aspecto frondoso, natural y bien distribuido. Su diseño realista lo convierte en una opción perfecta para decorar con estilo estas fiestas
+- MEDIDAS TOTALES: Ø56x180 cm (DxAL). Para un look más realista, extiende todas las puntas individualmente, te tomará aproximadamente 25-30 minutos. NOTA: Las decoraciones del árbol de Navidad artificial no están incluidas
 - FÁCIL DE MONTAR Y DESMONTAR: Fabricado en diferentes partes, permite montarlo y desmontarlo rápidamente, ahorrando espacio cuando no está en uso, para un fácil almacenamiento
 - RESISTENTE Y ESTABLE: Árbol de Navidad estrecho con ramas de plástico y estructura y base de metal para mayor resistencia y durabilidad. La base ancha ofrece una gran sujeción y agarre al suelo, aportando una gran estabilidad
 - ÁRBOL DE NAVIDAD DE 180 CM: Este árbol de Navidad delgado, de aspecto natural y realista, es perfecto para decorar el comedor, entradas amplias u otros espacios destacados del hogar. Ideal para llamar la atención. Decoraciones no incluidas

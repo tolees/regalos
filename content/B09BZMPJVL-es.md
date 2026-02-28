@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NESTLÉ Dark Sublime 143g
-- Bombones rellenos de deliciosa avellana y trufa con cuatro variedades diferentes que maridan a la perfección con el chocolate negro: Original, Flor de Sal, Eclat y Naranja.
 - Surtido degustación DARK SUBLIME de bombones negros 70% cacao para los amantes del chocolate más intenso.
+- Bombones rellenos de deliciosa avellana y trufa con cuatro variedades diferentes que maridan a la perfección con el chocolate negro: Original, Flor de Sal, Eclat y Naranja.
+- NESTLÉ Dark Sublime 143g
 - Bombones elaborados con chocolate negro 70% cacao de excelente calidad procedente de Ghana, Ecuador y Costa de Marfil. DARK SUBLIME será tu perfecto aliado para sorprender en cualquier celebración o para darte un capricho en tu día a día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

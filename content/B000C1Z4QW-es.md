@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La fragancia DKNY Women viene en un frasco emblemático que evoca la silueta de los rascacielos de Nueva York. Su diseño captura la esencia de una ciudad vibrante, con un toque de romance urbano.
 - Este perfume de mujer se abre con la energía vibrante de la naranja sanguina, se despliega en un corazón floral de nenúfares amarillos, y culmina con la elegancia suave del abedul blanco.
-- Desde su creación en 1989, DKNY se inspira en Nueva York capturando toda la energía y actitud de la ciudad. Cada perfume de la marca refleja un espíritu tan divertido como ecléctico.
-- El perfume de mujer DKNY Women es una fragancia que captura la vibrante energía de Nueva York. Con un frescor cautivador, es ideal para el día a día, aportando una chispa de dinamismo y sofisticación.
 - El Eau de Parfum para mujer DKNY Women es una fragancia floral urbana que combina exuberancia ligera con una hidratación intensa. El perfume fresco y sofisticado ideal para añadir a tu rutina diaria.
+- El perfume de mujer DKNY Women es una fragancia que captura la vibrante energía de Nueva York. Con un frescor cautivador, es ideal para el día a día, aportando una chispa de dinamismo y sofisticación.
+- Desde su creación en 1989, DKNY se inspira en Nueva York capturando toda la energía y actitud de la ciudad. Cada perfume de la marca refleja un espíritu tan divertido como ecléctico.
+- La fragancia DKNY Women viene en un frasco emblemático que evoca la silueta de los rascacielos de Nueva York. Su diseño captura la esencia de una ciudad vibrante, con un toque de romance urbano.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000C1Z4QW{{</world>}}

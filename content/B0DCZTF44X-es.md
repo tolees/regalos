@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desciende a los infiernos: Explora mundos donde se manifiestan las pesadillas, llenos de traicioneros paisajes y horrores indescriptibles. Supera todos los obstáculos, enemigos y jefes que se crucen en tu camino para escapar a la condenación eterna.
-- Estética retro: Sumérgete en imágenes de 16 bits de estilo pixel art y déjate llevar por una inquietante banda sonora de terror nostálgico. RetroRealms rinde homenaje a los clásicos de desplazamiento lateral y aporta nueva frescura a los juegos retro.
-- Averigua lo bueno que eres: Con las tablas de clasificación de “Halloween” y “Ash vs Evil Dead”, sabrás en qué punto te encuentras respecto a otros jugadores de RetroRealms. ¿Lograrás inscribir tu nombre entre los mejores?
-- Bonificación por la compra de la versión física: Si adquieres un paquete doble RetroRealms: Halloween y RetroRealms: Ash vs Evil Dead en la tienda, recibirás dos personajes jugables más: ¡Laurie Strode de “Halloween” y Kelly Maxwell de “Ash vs Evil Dead”! Cada personaje tiene su estilo de juego característico, su historia y sus propios logros que desbloquear.
 - Secretos, mejoras y elementos desbloqueables: Descubre reliquias y coleccionables ocultos. Desbloquea nuevos potenciadores y capacidades para mejorar las habilidades de tu personaje y descubre formas de jugar novedosas.
+- Bonificación por la compra de la versión física: Si adquieres un paquete doble RetroRealms: Halloween y RetroRealms: Ash vs Evil Dead en la tienda, recibirás dos personajes jugables más: ¡Laurie Strode de “Halloween” y Kelly Maxwell de “Ash vs Evil Dead”! Cada personaje tiene su estilo de juego característico, su historia y sus propios logros que desbloquear.
+- Estética retro: Sumérgete en imágenes de 16 bits de estilo pixel art y déjate llevar por una inquietante banda sonora de terror nostálgico. RetroRealms rinde homenaje a los clásicos de desplazamiento lateral y aporta nueva frescura a los juegos retro.
+- Desciende a los infiernos: Explora mundos donde se manifiestan las pesadillas, llenos de traicioneros paisajes y horrores indescriptibles. Supera todos los obstáculos, enemigos y jefes que se crucen en tu camino para escapar a la condenación eterna.
+- Averigua lo bueno que eres: Con las tablas de clasificación de “Halloween” y “Ash vs Evil Dead”, sabrás en qué punto te encuentras respecto a otros jugadores de RetroRealms. ¿Lograrás inscribir tu nombre entre los mejores?
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DCZTF44X{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 🎀【SET DE MAQUILLAJE INFANTIL】Set de maquillaje para niños contiene 14 colores diferentes y lindos diseños de gatos. También contiene 2 pinceles de sombra de ojos de doble punta y un espejo, perfecto para juegos de maquillaje para niños de 3 a 10 años. Realice una prueba de alergia antes de usarlo. Si se siente incómodo, deje de usarlo.
 - 🎀【PORTABLE DE VIAJE】Set de maquillaje para niño es adecuado para uso en interiores y exteriores, delicado, ligero y fácil de llevar, deje que su niña se convierta en la princesa más deslumbrante de la multitud.
-- 🎀【JUGUETES EDUCATIVOS DE MAQUILLAJE PARA NIÑAS】Washable Makeup Set satisface la curiosidad y el amor por la belleza de los niños, a la vez que mejora su capacidad práctica y creatividad, y cultiva la capacidad estética.
 - 🎀【Perfect Gift】Este hermoso set de maquillaje está diseñado para niñas pequeñas, perfecto para cumpleaños, fiesta, día de los niños, regalo de Navidad. Será el regalo favorito para los niños pequeños.
+- 🎀【JUGUETES EDUCATIVOS DE MAQUILLAJE PARA NIÑAS】Washable Makeup Set satisface la curiosidad y el amor por la belleza de los niños, a la vez que mejora su capacidad práctica y creatividad, y cultiva la capacidad estética.
 - 🎀【INGREDIENTES SEGUROS】Kit de maquillaje infantil está hecho de material no tóxico a base de agua, suave y no irritante, lavable, sin conservantes añadidos, seguro y no tóxico. Deja que tus hijos disfruten de un maquillaje divertido y realista.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las medidas son aproximadas.
-- Ideal para eventos, cumpleaños y todo tipo de celebraciones para dar un toque original
-- Pieza 1: corta la galleta por la silueta exterior.
 - Pieza 2: marca el dibujo interior.
+- Ideal para eventos, cumpleaños y todo tipo de celebraciones para dar un toque original
 - No lavar en lavavajillas. No exponer a altas temperaturas. Se recomienda lavar el producto antes de su uso
+- Pieza 1: corta la galleta por la silueta exterior.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CD5GQZK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UN REGALO IDEAL PARA EL HOMBRE ESPECIAL DE TU VIDA: desde 1867, la casa de Cerruti ha capturado el espíritu de los tiempos y la atrevida indiferencia de ese codiciado misterio parisino en el que se ha inspirado la fragancia
-- FRAGANCIA DE LUJO AUTÉNTICA DE CERRUTI 1881: una fragancia aromática y amaderada para hombre que rezuma elegancia atemporal y encanto relajado con una combinación de energía y refinamiento
-- FRESCO, DISTINTIVO Y REFINADO: esta confiada fragancia para hombre tiene notas de cabeza de enebro, gálbano y un corazón de vetiver, flor de cananga y casia y un fondo de musgo de roble, madera de sándalo y pachulí
-- CLASE Y ELEGANCIA DESDE 1990: nombrado en honor al año en que el abuelo de Nino Cerruti fundó el molino de lana familiar en Italia, 1881 ha sido una de las fragancias para hombre más famosas durante 30 años
 - MÍTICA BOTELLA DE CRISTAL CON TEXTURA DE ROCA: un clásico entre los diseños de botellas de perfume, un "1881" en relieve sobre una botella cuadrada rugosa con tapón cromado estriado que evoca la maquinaria del molino de lana relacionado con la casa de moda Cerruti
+- FRAGANCIA DE LUJO AUTÉNTICA DE CERRUTI 1881: una fragancia aromática y amaderada para hombre que rezuma elegancia atemporal y encanto relajado con una combinación de energía y refinamiento
+- CLASE Y ELEGANCIA DESDE 1990: nombrado en honor al año en que el abuelo de Nino Cerruti fundó el molino de lana familiar en Italia, 1881 ha sido una de las fragancias para hombre más famosas durante 30 años
+- FRESCO, DISTINTIVO Y REFINADO: esta confiada fragancia para hombre tiene notas de cabeza de enebro, gálbano y un corazón de vetiver, flor de cananga y casia y un fondo de musgo de roble, madera de sándalo y pachulí
+- UN REGALO IDEAL PARA EL HOMBRE ESPECIAL DE TU VIDA: desde 1867, la casa de Cerruti ha capturado el espíritu de los tiempos y la atrevida indiferencia de ese codiciado misterio parisino en el que se ha inspirado la fragancia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1W0UK{{</world>}}

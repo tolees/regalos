@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene 75 ml.
-- Las notas olfativas principales de este producto son amaderado, floral y afrutado.
-- Este producto está indicado para hSombras.
 - De la marca Ralph Lauren.
+- Este producto está indicado para hSombras.
+- Las notas olfativas principales de este producto son amaderado, floral y afrutado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0009OAGYC{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un estilo informal y glamuroso, las piezas en cristal transparente y se pueden usar para ocasión
-- Diámetro del cristal: 1,1 cm
 - Añada un toque de a sus prendas de vestir diarias con este par de pendientes chapados en rodio
+- Diámetro del cristal: 1,1 cm
+- Con un estilo informal y glamuroso, las piezas en cristal transparente y se pueden usar para ocasión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LYX21PL{{</world>}}

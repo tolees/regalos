@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- It is recommended for casual wear.
-- This amber floral fragrance has a blend of peony, cassis, mandarin orange, orange blossom, freesia, honeysuckle, cedar, patchouli, and caramel notes
 - UNA FRAGANCIA DULCE Y SENSUAL DE SJP: cada gota de Born Lovely es un homenaje a la belleza interior. Flores exuberantes y frutas ácidas se combinan en este radiante eau de parfum para mujer de Sarah Jessica Parker.
 - ELEGANCIA PARA CADA MOMENTO: vivo y radiante, este perfume para mujer le acompañará sin esfuerzo desde el día hasta la noche. Llévelo en casa para relajarse o rocíelo sobre un vestido negro que combinará con unos tacones altos de Manolo Blahnik para una noche en la ciudad
-- Launched by the design house of Sarah Jessica Parker in the year of 2018
 - UNA GRACIOSA MEZCLA DE NOTAS FLORALES: descubre una mezcla viva de peonía en flor, frutas crujientes y maderas claras en este elegante perfume para mujer. La delicada fresia, el chispeante cassis y un toque de madera de cedro especiada crean una fragancia inolvidable.
-- Perfume auténtico de Sarah Jessica Parker: conocida por su icónico papel en «Sexo en Nueva York», los perfumes femeninos de Sarah Jessica Parker capturan la esencia de su elegancia atemporal y encarnan la sofisticación y un toque de encanto de celebridad con cada gota.
+- It is recommended for casual wear.
+- Launched by the design house of Sarah Jessica Parker in the year of 2018
 - UN REGALO REVITALIZANTE PARA LA MUJER MODERNA: presentado en un discreto frasco gris y adornado con el característico lazo de grogrén de SJ en delicado rosa bailarina, este perfume floral para mujer es perfecto para quienes aman las fragancias frescas y femeninas.
+- This amber floral fragrance has a blend of peony, cassis, mandarin orange, orange blossom, freesia, honeysuckle, cedar, patchouli, and caramel notes
+- Perfume auténtico de Sarah Jessica Parker: conocida por su icónico papel en «Sexo en Nueva York», los perfumes femeninos de Sarah Jessica Parker capturan la esencia de su elegancia atemporal y encarnan la sofisticación y un toque de encanto de celebridad con cada gota.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07G3F7S3K{{</world>}}

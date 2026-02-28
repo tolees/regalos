@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las notas de fondo de cedro y almizcle envuelven la piel con una elegancia duradera, símbolo de la fuerza y sofisticación de la ciudad que nunca duerme.
-- DKNY 24/7 Eau de Parfum es una fragancia para mujer tan dinámica como la ciudad de Nueva York, con acordes florales, amaderados y texturizados que capturan su energía inagotable.
 - Déjate llevar por el pulso vibrante de Times Square con una explosión eléctrica de pimienta rosa, seguida de un corazón de rosa en flor que refleja la diversidad urbana.
-- Encapsulado en un frasco moderno inspirado en la arquitectura neoyorquina, DKNY 24/7 es una fragancia atrevida, sofisticada y siempre en movimiento.
 - Desde su creación en 1989, DKNY se inspira en Nueva York capturando toda la energía y actitud de la ciudad. Cada perfume de la marca refleja un espíritu tan divertido como ecléctico.
+- DKNY 24/7 Eau de Parfum es una fragancia para mujer tan dinámica como la ciudad de Nueva York, con acordes florales, amaderados y texturizados que capturan su energía inagotable.
+- Las notas de fondo de cedro y almizcle envuelven la piel con una elegancia duradera, símbolo de la fuerza y sofisticación de la ciudad que nunca duerme.
+- Encapsulado en un frasco moderno inspirado en la arquitectura neoyorquina, DKNY 24/7 es una fragancia atrevida, sofisticada y siempre en movimiento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4R175FB{{</world>}}

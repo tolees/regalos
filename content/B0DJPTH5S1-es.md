@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESENCIA DURADERA: Una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una sola vez y durará todo el día!
-- TENDENCIA OLFATIVA: Con este perfume para hombre sumérgete en un mundo marino, puesto que su fragancia evoca la brisa marina.
-- MASCULINA Y AMADERADA: La combinación cautivadora de ámbar, vetiver, sándalo y pachulí crea una estela cálida y envolvente que deja una impresión duradera.
 - PIRÁMIDE OLFATIVA: Notas de salida: enebro, nuez moscada y notas marinas; Notas de corazón: muguet; Notas de fondo: ámbar, vetiver, sándalo y pachulí.
+- TENDENCIA OLFATIVA: Con este perfume para hombre sumérgete en un mundo marino, puesto que su fragancia evoca la brisa marina.
+- ESENCIA DURADERA: Una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una sola vez y durará todo el día!
+- MASCULINA Y AMADERADA: La combinación cautivadora de ámbar, vetiver, sándalo y pachulí crea una estela cálida y envolvente que deja una impresión duradera.
 - FRAGANCIA ÚNICA: Nike Reloaded Blue Bamboo es un perfume masculino que te hace viajar a una mañana de verano. Colonia con vaporizador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Elaborado con ingredientes sostenibles
 - Descubre toda la colección: Prueba la colección de fragancias Green Tea de Elizabeth Arden y descubre tu favorita
 - Notas de Salida: Acuerdo de Pulpa de Coco Salado, Delicia de Virutas de Coco, Semilla de Cilantro, Vert de Bergamota Orpur
-- Elaborado con ingredientes sostenibles
 - Notas de Corazón: Té Verde, Karmaflor, Mahonia
 - Notas de fondo ámbar blanco, Almizcle, Musgo de Roble
 

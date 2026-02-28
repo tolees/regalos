@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
-- La Double Crystal Summer de acero bañado en oro es una pulsera de doble cadena, una con eslabones y otra de cristales de colores que la complementa. La combinación perfecta hecha pulsera.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
 - Largo de 16+3 cm con cristales de 2.2 y 3.2 mm, y beads de acero de 2.2 mm. Cadena de acero.Destaca por sus detalles en CRISTALES DE COLORES. Los cristales son uno de los productos más usados en joyería y existen varios tipos, con diversos colores y tallados.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- La Double Crystal Summer de acero bañado en oro es una pulsera de doble cadena, una con eslabones y otra de cristales de colores que la complementa. La combinación perfecta hecha pulsera.
+- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSBKZFZ{{</world>}}
