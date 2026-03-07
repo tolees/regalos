@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor: notas aromáticas intensas y profundas liberadas por el chocolate amargo al 60%, 75% y 90%, para un viaje sensorial perfecto también en combinación con café o destilados
-- Formato: cofre que contiene 16 bombones Mini Blend de chocolate amargo assortidos, 47 Gr
-- Navidad Venchi: es emoción. Es el aroma de la comida, el calor de la mesa. Es el deseo de estar juntos. El chocolate Venchi une más de lo que las palabras pueden expresar, transformando cada detalle en una ocasión de auténtico placer
 - Caja Mini Blend: disfruta de los 16 Mini Blend de chocolate amargo en tres intensidades diferentes 60%, 75%, 90%, ideales para regalar o disfrutar en momentos especiales en una edición limitada firmada por Alice Bureau
+- Formato: cofre que contiene 16 bombones Mini Blend de chocolate amargo assortidos, 47 Gr
+- Sabor: notas aromáticas intensas y profundas liberadas por el chocolate amargo al 60%, 75% y 90%, para un viaje sensorial perfecto también en combinación con café o destilados
 - Los bombones son elaborados estrictamente en Italia con ingredientes naturales, son sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad
+- Navidad Venchi: es emoción. Es el aroma de la comida, el calor de la mesa. Es el deseo de estar juntos. El chocolate Venchi une más de lo que las palabras pueden expresar, transformando cada detalle en una ocasión de auténtico placer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFB2CP9C{{</world>}}

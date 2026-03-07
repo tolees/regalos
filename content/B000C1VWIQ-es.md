@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este producto está indicado para mujeres.
-- Contiene 67 ml.
 - Las notas olfativas principales de este producto son especiado, floral y afrutado.
+- Contiene 67 ml.
 - De la marca Estée Lauder.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

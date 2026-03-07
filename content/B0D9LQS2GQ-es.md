@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NESTLÉ CAJA ROJA Creations se fabrica en La Penilla (Cantabria)
-- Desde 1972, Nestlé CAJA ROJA acompañándonos en celebraciones y momentos especiales
-- Cacao 100% obtenido de forma sostenible seleccionado a través de NESTLE Cocoa Plan, Certificado Rainforest Alliance
-- Lote compuesto por dos estuches de bombones Creations 186 g más un estuche Dark Sublime 145 g
 - Bombones especialmente pensados para regalar un detalle
+- NESTLÉ CAJA ROJA Creations se fabrica en La Penilla (Cantabria)
+- Lote compuesto por dos estuches de bombones Creations 186 g más un estuche Dark Sublime 145 g
+- Cacao 100% obtenido de forma sostenible seleccionado a través de NESTLE Cocoa Plan, Certificado Rainforest Alliance
+- Desde 1972, Nestlé CAJA ROJA acompañándonos en celebraciones y momentos especiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D9LQS2GQ{{</world>}}

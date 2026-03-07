@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Halloween Blue Drop es una fragancia dirigida a una mujer que no está sujeta al tiempo ni al espacio. Vive sin pasado, presente ni futuro porque su realidad son los sueños
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Halloween Blue Drop es una fragancia dirigida a una mujer que no está sujeta al tiempo ni al espacio. Vive sin pasado, presente ni futuro porque su realidad son los sueños
 - Las notas de salida son cítricos, manzana verde, y lavanda; las de corazón jazmín, flores blancas y violetas; las de fondo ámbar, canela y el almizcle
-- Colonia Halloween con fragancia amaderada y especiada para mujeres
 - Vaporizador de 100ml
+- Colonia Halloween con fragancia amaderada y especiada para mujeres
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007TTKB40{{</world>}}

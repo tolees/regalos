@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin gluten; sin colorantes ni conservantes; sin aceite de palma
-- Sumérgete en nuestro pueblo de Navidad y descubre la nueva colección navideña de edición limitada diseñada por Anna Higgie
-- Presentados en un paquete navideño lleno de color
 - Elaborado en Italia según la norma «Buono Buonissimo» con ingredientes naturales, menos azúcar y sin componentes artificiales
+- Presentados en un paquete navideño lleno de color
+- Sin gluten; sin colorantes ni conservantes; sin aceite de palma
 - Selección de Minilingotes y bombones Gianduiotto de chocolate blanco, con leche, con pistacho, negro y Gianduja.
+- Sumérgete en nuestro pueblo de Navidad y descubre la nueva colección navideña de edición limitada diseñada por Anna Higgie
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ3F9VDH{{</world>}}

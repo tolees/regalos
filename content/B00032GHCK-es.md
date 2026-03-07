@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Encantador plato para taza de estilo rústico con relieves como complemento perfecto a la vajilla petite fleur, ideal para la clásica mesa de café
 - Sirva con estilo café, té y cacao en la taza a juego, espacio en los bordes para galletas, dosis de leche o azúcar
 - Apto para lavavajillas y microondas, alta calidad: porcelana premium hecha en alemania
 - Contenido: 1x villeroy & boch petite fleur plato para taza (17 cm), material: porcelana premium, color: colorido
+- Encantador plato para taza de estilo rústico con relieves como complemento perfecto a la vajilla petite fleur, ideal para la clásica mesa de café
 - Apto también para la restauración gracias a su manejable forma, apilable, tamaño óptimo para lavavajillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

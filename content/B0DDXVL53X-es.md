@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La manzana verde jugosa, el jengibre y el azafrán dan una apertura fresca y afilada con un toque de cuero, el corazón de salvia esclarea y menta con infusión de hierbas crea un verdor limpio que se asienta sobre una base leñosa de vetiver
 - El elegante frasco rectangular se inspira en el estilo contemporáneo
+- Emprende un viaje global por la moda con la Fashion Collection de Prêt à Porter: ¿qué ciudad visitarás primero?
 - LONDON, una oda a los parques de la capital, es una versión fresca y moderna del clásico fougère aromático
 - Prêt à Porter, The Fashion Collection, LONDON Eau de Parfum para hombre, 100ml
-- La manzana verde jugosa, el jengibre y el azafrán dan una apertura fresca y afilada con un toque de cuero, el corazón de salvia esclarea y menta con infusión de hierbas crea un verdor limpio que se asienta sobre una base leñosa de vetiver
-- Emprende un viaje global por la moda con la Fashion Collection de Prêt à Porter: ¿qué ciudad visitarás primero?
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDXVL53X{{</world>}}

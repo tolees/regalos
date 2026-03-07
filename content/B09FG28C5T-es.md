@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Variedad multicolor para grandes y pequeños
-- Disfruta con alegría y diversión.
 - Comienza tu cuenta atrás de Navidad con HARIBO y 24 ventanas que ocultan una feliz mezcla de pequeños dulces. Temático, divertido y perfecto para aquellos que buscan una alternativa al tradicional calendario de chocolate, este sabroso Adviento reúne los favoritos de Haribo de todo el mundo con Tropifrutti, Goldbears y Maoam todos destacados. Asegúrate de que las celebraciones festivas comiencen temprano, serás tratado con mini bolsas de temporada y gelatinas temáticas.
+- Disfruta con alegría y diversión.
+- Variedad multicolor para grandes y pequeños
 - Formato cómodo y fácil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

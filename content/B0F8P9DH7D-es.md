@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Nuestras joyas tienen una garantía de 3 años desde su entrega, ya que nuestro objetivo principal es que estén siempre como el primer día.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Largo de 45cm + 5cm de alargador. Motivo de altura 19,5mm x 19,5mm.
 - El Collar Sun Light de acero bañado en oro es ideal para las amantes del sol. Un colgante con cadena fina acompañado de un charm en forma de sol orgánico y super elegante.
+- Largo de 45cm + 5cm de alargador. Motivo de altura 19,5mm x 19,5mm.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
+- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Nuestras joyas tienen una garantía de 3 años desde su entrega, ya que nuestro objetivo principal es que estén siempre como el primer día.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F8P9DH7D{{</world>}}

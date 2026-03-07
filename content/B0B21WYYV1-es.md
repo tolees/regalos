@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El diseño brilla con 517 facetas de cristal transparente, negro y amarillo, con detalles metálicos lacados y niquelados
-- Objeto decorativo
-- Agachada y lista para atacar, lleva un traje ajustado con una máscara, gafas de ojo de gato, guantes, botas gruesas y un látigo
 - Este emblemático diseño, que se une a nuestra colección popular de DC, representa a la increíble pero letal Catwoman
 - A los fans y coleccionistas de Batman les encantará esta auténtica pieza tan sumamente detallada
+- Objeto decorativo
+- Agachada y lista para atacar, lleva un traje ajustado con una máscara, gafas de ojo de gato, guantes, botas gruesas y un látigo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B21WYYV1{{</world>}}

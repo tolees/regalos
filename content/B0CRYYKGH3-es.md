@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Despierta tu creatividad con el perfume para hombre HUGO INTENSE. Un potente aroma fougère con notas de cuero en el que el acorde aterciopelado de manzana roja y el tomillo rojo se unen a las seductoras notas de cuero rojo en un frasco rojo efecto cemento con un atrevido logo HUGO.
 - Pulveriza el perfume de hombre HUGO INTENSE en los puntos clave del cuerpo para prolongar la duración de este aroma sofisticado.
 - Manzana roja / Tomillo rojo / Cuero rojo
+- Despierta tu creatividad con el perfume para hombre HUGO INTENSE. Un potente aroma fougère con notas de cuero en el que el acorde aterciopelado de manzana roja y el tomillo rojo se unen a las seductoras notas de cuero rojo en un frasco rojo efecto cemento con un atrevido logo HUGO.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRYYKGH3{{</world>}}

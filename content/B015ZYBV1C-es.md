@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su formato de doble barrita mini lo convierte en el perfecto snack para cualquier hora del día...tu eliges si lo compartes o te lo comes entero.
 - Ingredientes de alta calidad, libre de conservantes artificiales. Snack apto para vegetarianos
-- El sutil contraste entre chocolate, su crujiente galleta y el cremoso caramelo hace de esta chocolatina un dulce perfecto para calendario adviento de chocolate.
 - Cacao obtenido 100% de forma responsable.
+- Su formato de doble barrita mini lo convierte en el perfecto snack para cualquier hora del día...tu eliges si lo compartes o te lo comes entero.
+- El sutil contraste entre chocolate, su crujiente galleta y el cremoso caramelo hace de esta chocolatina un dulce perfecto para calendario adviento de chocolate.
 - Twix, dos barritas minis de chocolate con una deliciosa combinación de chocolate con leche, galleta y suave caramelo, perfecto para cesta gourmet o regalo navidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

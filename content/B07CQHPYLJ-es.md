@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta fragancia exótica y atrevida está inspirada en aquellas mujeres sensuales y misteriosas, llenas de magia
-- Colonia Halloween con fragancia chipre afrutada oriental para mujeres
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Esta fragancia exótica y atrevida está inspirada en aquellas mujeres sensuales y misteriosas, llenas de magia
 - Las notas de salida son esencia de mandarina amarilla, frambuesa y sorbete de pera. Las notas de corazón son jazmín sambac, freesia y peonía rosa. En las notas de fondo encontramos esencia de patchouli, vainilla y tonka
 - Vaporizador de 100ml
+- Colonia Halloween con fragancia chipre afrutada oriental para mujeres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CQHPYLJ{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LOOK DE PRINCESA: Incluye 6 brillos labiales y 3 sombras de ojos cremosas para crear el look de princesa que les gusta
+- COLECCIÓN FROZEN: Únete a Elsa, Anna, Olaf y los demás en sus mágicas aventuras a través de nuestra colección Lip Smacker Frozen II. Crea el look de tus sueños
 - ACCESORIOS: Este set de regalo incluye 2 aplicadores de maquillaje para que tus hijos se sientan especiales en cada ocasión
 - SET DE REGALO: ¡Prepárate para un emocionante viaje mientras te sumerges en el vibrante mundo del color con este estuche de 9 piezas de Frozen!
-- COLECCIÓN FROZEN: Únete a Elsa, Anna, Olaf y los demás en sus mágicas aventuras a través de nuestra colección Lip Smacker Frozen II. Crea el look de tus sueños
+- LOOK DE PRINCESA: Incluye 6 brillos labiales y 3 sombras de ojos cremosas para crear el look de princesa que les gusta
 - DULCES SONRISAS: Desde 1973, Lip Smacker ha puesto sonrisas en los labios de los niños en todo el mundo. Esperamos que nuestros sabores, aromas y coloridos diseños te llenen de alegría
 
 [🛒 Aquí!!!]({{< param buyurl >}})

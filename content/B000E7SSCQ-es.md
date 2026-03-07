@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Notas de corazón: rosa de té, espadaña, lirio de los valles, caña de azúcar y canela.
 - Notas de salida: naranja, toronja, grosella roja y limón.
+- Notas de corazón: rosa de té, espadaña, lirio de los valles, caña de azúcar y canela.
 - Familia olfativa: Cítrica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
