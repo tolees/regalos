@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FRAGANCIA ÚNICA: Nike Reloaded Blue Bamboo es un perfume masculino que te hace viajar a una mañana de verano. Colonia con vaporizador.
 - MASCULINA Y AMADERADA: La combinación cautivadora de ámbar, vetiver, sándalo y pachulí crea una estela cálida y envolvente que deja una impresión duradera.
-- TENDENCIA OLFATIVA: Con este perfume para hombre sumérgete en un mundo marino, puesto que su fragancia evoca la brisa marina.
 - PIRÁMIDE OLFATIVA: Notas de salida: enebro, nuez moscada y notas marinas; Notas de corazón: muguet; Notas de fondo: ámbar, vetiver, sándalo y pachulí.
+- FRAGANCIA ÚNICA: Nike Reloaded Blue Bamboo es un perfume masculino que te hace viajar a una mañana de verano. Colonia con vaporizador.
+- TENDENCIA OLFATIVA: Con este perfume para hombre sumérgete en un mundo marino, puesto que su fragancia evoca la brisa marina.
 - ESENCIA DURADERA: Una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una sola vez y durará todo el día!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

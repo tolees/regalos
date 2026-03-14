@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fragancia que nos transporta a un mundo con notas refrescantes y frutales que nos regala la naturaleza creando un aroma adecuada en cada piel
+- Agua de colonia joven y vital con notas afrutadas para todas las edades
 - Fruit Attraction Nata y Fresa, contine propiedades tonificantes y un intenso aroma frutal a fresa natural, que persiste en la piel por su elevada concentración de aceites esenciales
 - Óptimo para uso diario gracias a su practico envase de 100 ml con vaporizador
 - Con solo aplicar unos toques en las muñecas y el cuello, conseguirás que la fragancia te acompañe todo el día
-- Agua de colonia joven y vital con notas afrutadas para todas las edades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DQR1KNV{{</world>}}

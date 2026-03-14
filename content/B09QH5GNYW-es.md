@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UNA FRAGRANCIA ESTIMULANTE que te hará sonreír y despertará tus sentidos. Burbujeante. Animador. Fresco.
-- NOTAS: Absoluto de maté, Té verde, Geranio egipcio, Acorde de nenúfar, Magnolia, Lichi, Bergamota, Esencia de lima mexicana.
 - ESTA DELICIOSA MEZCLA de lichi acuático y afrutado y lima refrescante será tu fragancia favorita de esta temporada.
+- UNA FRAGRANCIA ESTIMULANTE que te hará sonreír y despertará tus sentidos. Burbujeante. Animador. Fresco.
 - FRAGRANCIA FRESCA: con lima bañada por el sol, bergamota y notas de lichi
 - EN LA ANTIGUA CULTURA CHINA, el lichi es un símbolo mitológico de romance, belleza y felicidad.
+- NOTAS: Absoluto de maté, Té verde, Geranio egipcio, Acorde de nenúfar, Magnolia, Lichi, Bergamota, Esencia de lima mexicana.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QH5GNYW{{</world>}}

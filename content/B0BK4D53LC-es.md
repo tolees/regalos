@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sobre un diseño cromado de tonos dorados se disponen cinco pétalos rosas alrededor de una piedra de un tono más oscuro
-- El colgante pende de una cadena deslizante, perfecto para llevar como pieza única siempre con tu estilo propio
 - Este maravilloso colgante Idyllia será todavía más bonito si lo llevas tú
+- El colgante pende de una cadena deslizante, perfecto para llevar como pieza única siempre con tu estilo propio
+- Sobre un diseño cromado de tonos dorados se disponen cinco pétalos rosas alrededor de una piedra de un tono más oscuro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BK4D53LC{{</world>}}

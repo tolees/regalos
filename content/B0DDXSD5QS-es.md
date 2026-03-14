@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Prêt à Porter, The Fashion Collection, Berlin Eau de Parfum para hombre, 100ml
 - Emprende un viaje global por la moda con la Fashion Collection de Prêt à Porter: ¿qué ciudad visitarás primero?
-- Notas de salida especiadas de pimienta negra y cardamomo dan paso a un corazón fresco y amaderado con tonos de lavandín y madera de cedro; a continuación, una sensual mezcla de vainilla, tonka y ámbar seco añade una rica complejidad
 - En un espíritu de innovación, BERLIN es una fragancia ambarada fougère
+- Notas de salida especiadas de pimienta negra y cardamomo dan paso a un corazón fresco y amaderado con tonos de lavandín y madera de cedro; a continuación, una sensual mezcla de vainilla, tonka y ámbar seco añade una rica complejidad
 - El elegante frasco rectangular se inspira en el estilo contemporáneo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
