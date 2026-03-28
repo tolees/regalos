@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CON NOTAS SEDUCTORAS: Nota de salida: Pimienta rosa, Brote de grosella negra absoluta de Borgoña, Nota de corazón: Absoluto de flor de azahar de Marruecos, Rosa, Nardo, Absoluto de jazmín de Egipto, Nota de fondo: Madera de cedro de Virginia, Sándalo de Nueva Caledonia, Ambertonic
-- UNA MEZCLA FLORAL-ÁMBAR de pimienta rosa picante, con flores de azahar de Marruecos y se cierra con madera de cedro de Virginia para un final delicado
-- CON LA ENERGÍA ENTUSIASMANTE DE NUEVA YORK, 5th Avenue NYC DREAM, desarrollado para mujeres modernas que celebran la magia de su feminidad
 - APLICACIÓN: Rocíe una pequeña cantidad de perfume en puntos específicos como el cuello, las muñecas y detrás de las orejas. Evite frotar el producto después de la aplicación para no alterar la fragancia. Controle la cantidad para no aplicar demasiado y aplíquelo sobre la piel húmeda para que el perfume se adhiera mejor
 - EL COLOR puede variar según los ingredientes naturales
+- UNA MEZCLA FLORAL-ÁMBAR de pimienta rosa picante, con flores de azahar de Marruecos y se cierra con madera de cedro de Virginia para un final delicado
+- CON LA ENERGÍA ENTUSIASMANTE DE NUEVA YORK, 5th Avenue NYC DREAM, desarrollado para mujeres modernas que celebran la magia de su feminidad
+- CON NOTAS SEDUCTORAS: Nota de salida: Pimienta rosa, Brote de grosella negra absoluta de Borgoña, Nota de corazón: Absoluto de flor de azahar de Marruecos, Rosa, Nardo, Absoluto de jazmín de Egipto, Nota de fondo: Madera de cedro de Virginia, Sándalo de Nueva Caledonia, Ambertonic
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTHX21MR{{</world>}}

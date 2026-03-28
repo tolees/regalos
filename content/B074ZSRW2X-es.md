@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De la marca Escada
 - Tipo de producto: Agua de Perfume
+- De la marca Escada
 - Género: Mujer
 - Alta calidad
 

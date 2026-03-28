@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ESENCIA DURADERA: Esta colonia de larga duración, de fragancia fresca e intensa, y cuya esencia persiste durante horas en la piel, te acompañará a lo largo del día sin perder su aroma.
-- FEMENINO Y CAUTIVADOR: un perfume delicado para mujeres modernas que, gracias a su aroma silvestre y encantador, te transporta a increíbles mundos de fantasía y color. ¡Disfruta de las sensaciones más agradables que te da la naturaleza!
-- TENDENCIA OLFATIVA: Este set de perfumes de mujer tiene una tendencia floral, cítrica y floral. Es ideal para aquellas personas que buscan un olor juvenil, limpio y alegre.
 - AROMA DE MUJER: Amichi presenta un set de los diferentes aromas de la marca, Azahar Dream, Intense Bouquet, Mandarine Musk y Sensual Flower, dulce, sensual y floral. Colonias con vaporizador.
+- ESENCIA DURADERA: Esta colonia de larga duración, de fragancia fresca e intensa, y cuya esencia persiste durante horas en la piel, te acompañará a lo largo del día sin perder su aroma.
+- TENDENCIA OLFATIVA: Este set de perfumes de mujer tiene una tendencia floral, cítrica y floral. Es ideal para aquellas personas que buscan un olor juvenil, limpio y alegre.
+- FEMENINO Y CAUTIVADOR: un perfume delicado para mujeres modernas que, gracias a su aroma silvestre y encantador, te transporta a increíbles mundos de fantasía y color. ¡Disfruta de las sensaciones más agradables que te da la naturaleza!
 - PIRÁMIDE OLFATIVA: Notas de salida: cítricos, coco y especias verdes, frutos rojos, grosella negra, naranja y pera; Notas de corazón: flor de naranjo, floral, transparente, jazmín de sambac y rosa tuberosa, almendra, lirios del valle y rosa; Notas de fondo: ámbar, almizcle, azahar, lábdanum, madera y vainilla, haba tonka, sándalo y vainilla.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

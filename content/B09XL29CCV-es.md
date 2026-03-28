@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada pieza incorpora un cristal de talla redonda de color rosa colgado de un pequeño aro, que a su vez está bellamente adornado en pavé rosa
 - Estos coloridos pendientes son sencillos pero
+- Cada pieza incorpora un cristal de talla redonda de color rosa colgado de un pequeño aro, que a su vez está bellamente adornado en pavé rosa
 - Una forma de hacer tu estilo
 - Los elementos colgantes están diseñados para moverse cada vez que giras la cabeza, y reflejan la luz en todas las direcciones
 

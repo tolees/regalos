@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La pulsera Dextera, un éxito de ventas, presenta círculos entrelazados bañados en tono oro rosa con un fascinante cristal pavé transparente
 - Cuenta con un cierre deslizante ajustable para el ajuste perfecto
+- La pulsera Dextera, un éxito de ventas, presenta círculos entrelazados bañados en tono oro rosa con un fascinante cristal pavé transparente
 - Ya la lleves sola o con otras piezas, esta pulsera desprende elegancia contemporánea
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

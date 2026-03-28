@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NESTLÉ CAJA ROJA se fabrica en La Penilla (Cantabria), con leche fresca recogida diariamente en la cornisa cantábrica.
-- Delicioso surtido de bombones de chocolate con leche, negro y blanco de excelente calidad. Bombones 100% aromas naturales.
-- Los bombones CAJA ROJA son ideales para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho.
 - 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado UTZ.
+- Los bombones CAJA ROJA son ideales para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho.
+- Delicioso surtido de bombones de chocolate con leche, negro y blanco de excelente calidad. Bombones 100% aromas naturales.
 - CAJA ROJA ofrece una deliciosa combinación de cremosos y fundentes bombones de chocolate blanco, chocolate negro y chocolate con leche con diferentes e irresistibles adiciones (avellanas, almendras, caramelo, naranja..).
+- NESTLÉ CAJA ROJA se fabrica en La Penilla (Cantabria), con leche fresca recogida diariamente en la cornisa cantábrica.
 - Bombones especialmente pensados para regalar, con CAJA ROJA siempre quedas bien en cualquier celebración.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ALICE IN WONDERLAND: Sumérgete en Halloween con la paleta de edición limitada Disneys Alice in Wonderland x Revolution. Inspirada en el mundo fantástico del País de las Maravillas, esta paleta de 13 tonos aporta magia colorida a tu colección de maquillaje.
 - TONOS ENCANTADORES: Descubre una gama de tonos mates, brillantes y marmolados. Usa Fine Bone China como base blanca pura o Mad as a Hatter como iluminador marmolado rosa. Desde el fucsia intenso hasta el brillo rico de Muchness, crea looks mágicos infinitos.
-- CÓMO USAR: Aplica Fine Bone China como base para un acabado impecable, o utiliza Mad as a Hatter para un toque de color en las mejillas. Mezcla las sombras para crear looks de ojos hipnóticos, perfectos para Halloween o para el día a día.
+- ALICE IN WONDERLAND: Sumérgete en Halloween con la paleta de edición limitada Disneys Alice in Wonderland x Revolution. Inspirada en el mundo fantástico del País de las Maravillas, esta paleta de 13 tonos aporta magia colorida a tu colección de maquillaje.
 - DISEÑO ÚNICO: Esta paleta de maquillaje para ojos y rostro, única en su tipo, ha sido diseñada con la forma del icónico sombrero del Sombrerero, inspirada en la estética caleidoscópica del personaje.
+- CÓMO USAR: Aplica Fine Bone China como base para un acabado impecable, o utiliza Mad as a Hatter para un toque de color en las mejillas. Mezcla las sombras para crear looks de ojos hipnóticos, perfectos para Halloween o para el día a día.
 - SIN CRUELDAD & VEGANO: Este producto de Revolution Beauty está formulado sin ingredientes de origen animal, lo que lo convierte en apto para veganos. PETA respalda todos los productos de Revolution Beauty como libres de pruebas en animales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

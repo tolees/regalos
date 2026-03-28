@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FRAGANCIA ATREVIDA: Inspirada en la jungla urbana, la fragancia revitalizante del eau de toilette para hombre Just Cavalli te impulsará a perseguir tus sueños
-- ROBERTO CAVALLI REDEFINIDO: Una auténtica oda a una nueva generación que se atreve a ser libre, salvaje, apasionada.; en definitiva, Just Cavalli
-- FRAGANCIA PARA HOMBRE: Las notas especiadas y cálidas del cuero crean con el vetiver y una pizca de guindilla un aroma amaderado que te acompañará todo el día
 - DISEÑO MODERNO: Su elegante frasco combina tonos opacos y translúcidos en dorado; el tapón con escamas de serpiente en oro hará destacar este perfume en tu colección
 - EXPRÉSATE: Lanza un mensaje atrevido; el eau de toilette Just Cavalli se ha creado para las almas rebeldes que marcan tendencia y experimentan con los límites de la moda
+- FRAGANCIA PARA HOMBRE: Las notas especiadas y cálidas del cuero crean con el vetiver y una pizca de guindilla un aroma amaderado que te acompañará todo el día
+- ROBERTO CAVALLI REDEFINIDO: Una auténtica oda a una nueva generación que se atreve a ser libre, salvaje, apasionada.; en definitiva, Just Cavalli
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EANT91Y{{</world>}}

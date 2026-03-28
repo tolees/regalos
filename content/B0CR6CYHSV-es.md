@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gominolas con formas monstruosas: zombis, fantasmas, calaveras, murciélagos y diablos, ideales para Halloween y celebraciones temáticas.
+- Sabor intenso a fresa: textura blanda y agradable con un toque terroríficamente delicioso.
+- Caja reutilizable: el molde se puede aprovechar para manualidades, plastilina o juegos con arena.
 - Sin gluten y sin grasa: apto para celíacos y personas con dietas específicas.
 - Estuche de 66 unidades (~495 g): ideal para compartir, regalar o exhibir en candy bars.
-- Caja reutilizable: el molde se puede aprovechar para manualidades, plastilina o juegos con arena.
-- Sabor intenso a fresa: textura blanda y agradable con un toque terroríficamente delicioso.
-- Gominolas con formas monstruosas: zombis, fantasmas, calaveras, murciélagos y diablos, ideales para Halloween y celebraciones temáticas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR6CYHSV{{</world>}}

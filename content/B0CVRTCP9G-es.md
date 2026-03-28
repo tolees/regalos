@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cacao obtenido 100% de forma responsable.
-- Su increíble sabor animó incluso a los soldados de la primera guerra mundial, ideal para regalo dulce de navidad.
 - Es el snack ideal para cualquier momento del día, suave, esponjoso...¡No lo querrás compartir!
+- Su increíble sabor animó incluso a los soldados de la primera guerra mundial, ideal para regalo dulce de navidad.
 - Deliciosa barra de chocolate con leche rellena de una esponjosa crema de turrón y suave caramelo, ideal para regalo de bombones de navidad o calendario adviento.
 - Un placer único para disfrutar su chocolate está importado directamente de Inglaterra, dándole un toque especial, que te embriagará.
 

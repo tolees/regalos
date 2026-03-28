@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
+- Unos aros con bolitas pebbles de tamaño mediano. Unos aros para el día a día de acero perfectos para crear un ear-look en tendencia.
 - Aro diámetro exterior 23mm., con grosor de hilo de 2,4mm.Su cierre de silicona es una rosca a presión cuadrada, pequeña y bañada en oro de 18kt. Además, es muy cómoda y discreta.
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 - Fabricada en ACERO INOXIDABLE. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Además, el acero es un material reciclable, así que es perfecto para mantener la sostenibilidad siempre presente. No necesita baño ya que el propio material ya tiene un acabado brillante y gran durabilidad.
-- Unos aros con bolitas pebbles de tamaño mediano. Unos aros para el día a día de acero perfectos para crear un ear-look en tendencia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DM6JDR7X{{</world>}}

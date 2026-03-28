@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia personal
-- Agradable sensación en la piel
 - Adecuado para regalar
+- Agradable sensación en la piel
+- Fragancia personal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00O9MZ1UY{{</world>}}

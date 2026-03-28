@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A lo largo de las décadas, GUESS ha cautivado al mundo entero con sus campañas publicitarias icónicas y ha forjado un auténtico imperio internacional de perfumes emblemáticos.
 - El perfume para hombre Guess Seductive Red está encapsulado en un lujoso frasco de vidrio rojo. El degradado rojo que adorna el frasco evoca el calor y la tentación.
 - El Eau de Toilette GUESS Seductive Red es un perfume para hombre que causa una sensación inolvidable, poderosa y verdaderamente masculina.
 - La frescura del limón y la higuera silvestre se mezcla con canela para una apertura única. El corazón de flor de azahar y geranio se fusiona con vainilla y madera, creando un perfume sensual.
+- A lo largo de las décadas, GUESS ha cautivado al mundo entero con sus campañas publicitarias icónicas y ha forjado un auténtico imperio internacional de perfumes emblemáticos.
 - GUESS Seductive Red es un Eau de Toilette para hombre con un poder altamente seductor, que evoca calor, tentación y temperaturas en aumento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

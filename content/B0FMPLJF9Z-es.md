@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌿 Corazón intenso y elegante: Vetiver y benjuí aportan fuerza, calidez y un toque terroso sofisticado.
-- 💙 Frasco azul noche minimalista 100 ml: Diseño premium que refleja su carácter elegante, poderoso y magnético.
 - 🌌 Inspirado en la noche mediterránea: Un perfume que refleja la profundidad de un cielo estrellado y la calma del mar al anochecer.
 - 🌊 Fondo magnético y duradero: Ámbar gris que envuelve la piel con una estela masculina y atemporal.
+- 💙 Frasco azul noche minimalista 100 ml: Diseño premium que refleja su carácter elegante, poderoso y magnético.
+- 🌿 Corazón intenso y elegante: Vetiver y benjuí aportan fuerza, calidez y un toque terroso sofisticado.
 - 🍊 Salida fresca y vibrante: Notas iniciales de bergamota que despiertan los sentidos con energía y luminosidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

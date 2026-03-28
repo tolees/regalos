@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta pieza está diseñada para la colección FW24
 - Esta pieza es parte de la Familia Hipérbola
 - Esta pieza es un anillo de banda
+- Esta pieza está diseñada para la colección FW24
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4QZZ1CS{{</world>}}

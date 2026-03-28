@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato: una caja Estrella de Navidad que contiene aproximadamente 3 bombones Cometa assortidos, 36 Gr
 - Caja Estrella Cometa: color rojo y azul con bombones Cometa assortidos, rellenos con crema de leche o chocolate amargo 75%, perfectos para regalar o colgar en el árbol como decoración en una edición limitada firmada por Alice Bureau
-- Sabor: bombones Cometa azules con suave crema de leche, bombones Cometa rojos con intenso chocolate amargo 75% plant-based; ofrecen una mezcla única de dulzura y carácter, para conquistar cada paladar con sabores equilibrados
-- Los bombones son elaborados estrictamente en Italia con ingredientes naturales, son sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad
 - Navidad Venchi: es emoción. Es el aroma de la comida, el calor de la mesa. Es el deseo de estar juntos. El chocolate Venchi une más de lo que las palabras pueden expresar, transformando cada detalle en una ocasión de auténtico placer
+- Sabor: bombones Cometa azules con suave crema de leche, bombones Cometa rojos con intenso chocolate amargo 75% plant-based; ofrecen una mezcla única de dulzura y carácter, para conquistar cada paladar con sabores equilibrados
+- Formato: una caja Estrella de Navidad que contiene aproximadamente 3 bombones Cometa assortidos, 36 Gr
+- Los bombones son elaborados estrictamente en Italia con ingredientes naturales, son sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFB35B2Z{{</world>}}
