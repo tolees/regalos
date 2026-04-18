@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KODAK Mini 2 Retro Navidad Regalos 4Pass Impresora Fotográfica + 38 Fotos Fotos Instantáneas Tamaño 54X86mm Conexión Inalámbrica Bluetooth - Blanco'
-date: 2026-04-09 17:11:35
+date: 2026-04-18 09:06:08
 image: 'https://m.media-amazon.com/images/I/412SBKnffrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08FST3H95-es KODAK Mini 2 Retro Navidad Regalos 4Pass Impresora...'
 sku: 'B08FST3H95-es'
 tags: [ 'navidad','🇪🇸', ]
-actualPrice: 99.99 EUR
+actualPrice: 84.99 EUR
 currency: EUR
-price: 99.99
+price: 84.99
 comparePrice: 130.99 EUR
 prodname: 'KODAK Mini 2 Retro Navidad Regalos 4Pass Impresora Fotográfica + 38 Fotos Fotos Instantáneas Tamaño 54X86mm Conexión Inalámbrica Bluetooth - Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FST3H95/?tag=tolees-21'
-descuento: '23.67'
-average: '96.0591666666669'
+descuento: '35.12'
+average: '95.6164000000002'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

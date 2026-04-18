@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Energía hechizante: el colgante Swarovski Matrix es elegante y cobra vida con sus colores y su silueta, ideal para realzar cualquier look
-- Diseñado para perdurar en el tiempo: las joyas Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
-- Medidas: largo (mín. - máx.) 38 - 45 cm, tamaño del motivo 3,4 x 3,6 cm
-- Contenido del envío: 1x Swarovski Colgante Matrix, con Swarovski Zirconia transparentes y azules, tallas mixtas, baño de rodio, azul, incl. embalaje de Swarovski
-- Lujo ajustable: la cadena bañada en rodio, con su cierre de mosquetón y su alargador adicional, permite un ajuste adecuado y personalizado, un sistema seguro y cómodo que se adapta a tu ritmo de vida
 - Belleza hipnótica: su motivo central es una silueta en forma de V completa con Swarovski Zirconia transparente en talla redonda y una hilera de cristales azules en talla baguette
+- Energía hechizante: el colgante Swarovski Matrix es elegante y cobra vida con sus colores y su silueta, ideal para realzar cualquier look
+- Contenido del envío: 1x Swarovski Colgante Matrix, con Swarovski Zirconia transparentes y azules, tallas mixtas, baño de rodio, azul, incl. embalaje de Swarovski
+- Medidas: largo (mín. - máx.) 38 - 45 cm, tamaño del motivo 3,4 x 3,6 cm
+- Lujo ajustable: la cadena bañada en rodio, con su cierre de mosquetón y su alargador adicional, permite un ajuste adecuado y personalizado, un sistema seguro y cómodo que se adapta a tu ritmo de vida
+- Diseñado para perdurar en el tiempo: las joyas Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F63CRFP5{{</world>}}

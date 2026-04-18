@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfruta de una experiencia de elegancia con cada aplicación.
-- Ideal para ocasiones especiales, aporta beneficio inmediata.
-- nan Classic Agua De Colonia 650 Ml – Other Beauty auténtico y reconocido.
-- Presentación práctica de alta calidad, fácil de usar y llevar contigo.
 - nan fragancia premium con aroma único.
+- nan Classic Agua De Colonia 650 Ml – Other Beauty auténtico y reconocido.
+- Disfruta de una experiencia de elegancia con cada aplicación.
+- Presentación práctica de alta calidad, fácil de usar y llevar contigo.
+- Ideal para ocasiones especiales, aporta beneficio inmediata.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT2WSX8F{{</world>}}

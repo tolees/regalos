@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INGREDIENTES NUTRITIVOS Y EFICACES: Enriquecido con cera de abejas acondicionadora de origen responsable, aceite de coco nutritivo y vitamina E rica en antioxidantes, el aceite de menta proporciona un cosquilleo refrescante en los labios
-- EMBALAJE RECICLABLE: precioso set de regalo fabricado con tarjetas recicladas al 50% después de su consumo y certificadas por el FSC, El embalaje de regalo es 100% reciclable
-- LABIOS SUAVES Y TERSOS: Con un acabado mate y una textura de bálsamo hidratante, estos bálsamos labiales en forma de lápiz labial dejan tus labios suaves, tersos, sanos y flexibles
 - HIDRATACIÓN PARA TODO EL DÍA: Estos bálsamos labiales hidratan y nutren intensamente los labios secos con humedad durante todo el día y evitan que los labios se sequen
 - SET DE REGALO DE BÁLSAMO LABIAL: paquete múltiple con cuatro bálsamos labiales hidratantes con los sabores icónicos de Burts Bees: cera de abejas, fresa, piña tropical, pitahaya y limón, está empaquetado en una caja de regalo de edición limitada, listo para regalar
+- LABIOS SUAVES Y TERSOS: Con un acabado mate y una textura de bálsamo hidratante, estos bálsamos labiales en forma de lápiz labial dejan tus labios suaves, tersos, sanos y flexibles
+- INGREDIENTES NUTRITIVOS Y EFICACES: Enriquecido con cera de abejas acondicionadora de origen responsable, aceite de coco nutritivo y vitamina E rica en antioxidantes, el aceite de menta proporciona un cosquilleo refrescante en los labios
+- EMBALAJE RECICLABLE: precioso set de regalo fabricado con tarjetas recicladas al 50% después de su consumo y certificadas por el FSC, El embalaje de regalo es 100% reciclable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B569LV9F{{</world>}}

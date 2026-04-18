@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Destacan las notas de lavanda, vainilla y cedro
-- Fragancia oriental y amaderada para hombre. Con un aroma cálido, adictivo y chispeante. Destacan las notas de lavanda, vainilla y cedro. Perfecta para el dia a dia
-- Con un aroma cálido, adictivo y chispeante
 - Fragancia oriental y amaderada para hombre
 - Adidas Victory League: Eau de Toilette 100 ml
+- Destacan las notas de lavanda, vainilla y cedro
+- Con un aroma cálido, adictivo y chispeante
+- Fragancia oriental y amaderada para hombre. Con un aroma cálido, adictivo y chispeante. Destacan las notas de lavanda, vainilla y cedro. Perfecta para el dia a dia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B357WZZY{{</world>}}

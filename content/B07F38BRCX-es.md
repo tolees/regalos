@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 4 platos llanos grandes (29 cm), 4 platos hondos grandes (26 cm) y 4 platos de desayuno (24 cm), motivos alegres y bordes curvos que llaman la atención
-- Decorativo servicio de porcelana en diseño nostálgico para hasta cuatro personas, Ideal para la temporada navideña
 - Contiene: 1x Villeroy & Boch Toys Delight Servicio de mesa Set de 12 piezas, Material: Porcelana Premium, Color: Colorido
+- Decorativo servicio de porcelana en diseño nostálgico para hasta cuatro personas, Ideal para la temporada navideña
 - Combina con las colecciones Toys Delight Royal Classic y Toys Fantasy, también se puede utilizar como original regalo de Navidad
 - Hecho de Porcelana Premium de alta calidad especialmente robusta, ideal para uso diario, Limpiar con un paño húmedo
 

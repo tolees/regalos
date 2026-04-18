@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acorde de ámbar y fruta Maninka
 - Ambarina Afrutada Gourmand
+- Acorde de ámbar y fruta Maninka
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FXMRCQ3G{{</world>}}

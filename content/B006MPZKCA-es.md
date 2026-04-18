@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - DISEÑO ELEGANTE: Con una corona lujosa, este sofisticado eau de parfum para mujer de Roberto Cavalli, Signature, será la adición atemporal que faltaba en su colección
 - PERFUMES FLORALES: El eau de parfum Signature de Roberto Cavalli es una fragancia exuberante, oriental y floral que emana la esencia de la feminidad y opulencia italianas
-- EXPRÉSATE: Los perfumes para mujer de Roberto Cavalli transmiten elegancia, fuerza, sensualidad y independencia; sumérjase en el arte de la seducción
 - FRAGANCIA PARA MUJER: Un eau de parfum rico en notas florales orientales, que parte del azahar, con matices ambarinos de benjuí, pimienta rosa, haba tonca y vainilla
 - LEGADO PRESTIGIOSO: Fundada en los 70, Roberto Cavalli es un icono del glamour italiano y nuestros perfumes para mujer están pensados para que se exprese tal como es
+- EXPRÉSATE: Los perfumes para mujer de Roberto Cavalli transmiten elegancia, fuerza, sensualidad y independencia; sumérjase en el arte de la seducción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006MPZKCA{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La caja contiene bombones de chocolate negro, chocolate con leche y chocolate blanco
 - Los bombones se deben conservar en un lugar fresco y seco
-- Bombones Lindor en formato de 200 g
 - Cuentan con una textura cremosa
+- Bombones Lindor en formato de 200 g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XUNWT5S{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñada para perdurar en el tiempo: las joyas de Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
-- Conjunto creativo: este brazalete es combinable con otros de la familia Dulcis y así poder potenciar y expresar tu creatividad en cualquier momento añadiendo un brillo impresionable a tu look
-- Capricho dulce: un diseño rosa vibrante que abraza la muñeca y en él tres cristales verdes en tallas mixtas incrustados y rodeados de pavé rosa que destacan en una montura bañada en tono oro
+- Medidas: 15,8 cm, ancho 1 cm, diámetros interiores 5,5 x 4,5 cm, distancia de apertura 2,7 cm
 - Elixir vibrante: deslumbra con este brazalete Swarovski Dulcis, con colores de caramelo que hacen brillar y transforman tu estilo de ordinario a asombroso
 - Contenido de envío: 1x Brazalete Swarovski Dulcis, pavé rosa, tallas mixtas, baño en tono oro, rosa, incl. embalaje de Swarovski
-- Medidas: 15,8 cm, ancho 1 cm, diámetros interiores 5,5 x 4,5 cm, distancia de apertura 2,7 cm
+- Diseñada para perdurar en el tiempo: las joyas de Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
+- Capricho dulce: un diseño rosa vibrante que abraza la muñeca y en él tres cristales verdes en tallas mixtas incrustados y rodeados de pavé rosa que destacan en una montura bañada en tono oro
+- Conjunto creativo: este brazalete es combinable con otros de la familia Dulcis y así poder potenciar y expresar tu creatividad en cualquier momento añadiendo un brillo impresionable a tu look
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLNZ3B75{{</world>}}

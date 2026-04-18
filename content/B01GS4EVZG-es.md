@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NUTRICIÓN Y SUAVIDAD DURADERA | Mejora la elasticidad, aporta confort y deja la piel luminosa.
-- FÓRMULA CON PROTEÍNAS DE LECHE DE CABRA | Refuerxa la barrera cutánea y mejora el aspecto general de la piel.
 - REGALA HIDRATACIÓN Y CUIDADO | Perfecto para sorprender con un detalle práctico y elegante.
+- FÓRMULA CON PROTEÍNAS DE LECHE DE CABRA | Refuerxa la barrera cutánea y mejora el aspecto general de la piel.
+- NUTRICIÓN Y SUAVIDAD DURADERA | Mejora la elasticidad, aporta confort y deja la piel luminosa.
 - SET COMPLETO PARA ROSTRO Y MANOS | Incluye crema de día, crema de noche y crema de manos de leche de cabra.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideales en cualquier momento del día
-- No contienen azúcar
 - Conservar en lugar fresco y seco
 - Con café espresso
+- No contienen azúcar
+- Ideales en cualquier momento del día
 - Caramelos duros con sabor de café
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricada en PLATA DE LEY BAÑADA EN RODIO. Es un material noble ideal para las amantes de la joyería de calidad, sus características se encuentran entre las mejores del mercado, destaca por su brillo y resistencia. El rodio es un metal de color blanco plateado y brillante de la familia de platino. El baño de rodio aporta un brillo inigualable a la joya y mejora su resistencia y calidad.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Esa inicial que tantas veces has deseado llevar colgada. ahora en formato medallón y tamaño mini para tus looks más sofisticados. ¿Lo mejor? Puedes llevarlos en un Collar. Pulsera. Tobillera o dentro de un Pendiente de Aro
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 - Letra A. Medallón con letra troquelada de 1 cm de diámetro. No incluye cadena.
+- Esa inicial que tantas veces has deseado llevar colgada. ahora en formato medallón y tamaño mini para tus looks más sofisticados. ¿Lo mejor? Puedes llevarlos en un Collar. Pulsera. Tobillera o dentro de un Pendiente de Aro
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
+- Fabricada en PLATA DE LEY BAÑADA EN RODIO. Es un material noble ideal para las amantes de la joyería de calidad, sus características se encuentran entre las mejores del mercado, destaca por su brillo y resistencia. El rodio es un metal de color blanco plateado y brillante de la familia de platino. El baño de rodio aporta un brillo inigualable a la joya y mejora su resistencia y calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HXS941R{{</world>}}

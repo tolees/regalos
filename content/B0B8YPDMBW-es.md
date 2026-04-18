@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - MODO DE EMPLEO: Aplica la colonia rociándola en las manos y penetrándola en el pelaje o aplicándola en la brocha y distribuyéndola por todo el cuerpo del animal. También se puede rociar contra el pelo a una distancia de 15 cm del animal.
+- PH NEUTRO: No contiene alcohol y tiene un pH neutro, por lo que no tiene efectos irritantes y evita que el gato estornude tras su aplicación.
 - Características especiales: Fácil de usar.
 - No daña la piel: esta colonia no es tóxica, ya que respeta la piel y las propiedades olfativas del animal.
-- PH NEUTRO: No contiene alcohol y tiene un pH neutro, por lo que no tiene efectos irritantes y evita que el gato estornude tras su aplicación.
 - EFECTO DESODORANTE: Colonia fresca para gatos creada para proporcionar un aroma fresco después del baño y un efecto desodorizante intenso muy agradable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

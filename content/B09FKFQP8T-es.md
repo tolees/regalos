@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1; Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles a la altura de nuestro compromiso de sostenibilidad a lo largo de toda la cadena de valor
 - 1; Formato grande para regalar y compartir; Esta bolsa de chocolate es óptima para añadir un toque de felicidad a las zonas de recepción, para disfrutar en fiestas o simplemente para compartir
-- 1; Bolas de chocolate que combinan texturas haciendo que cada degustación sea un momento inigualable
 - 1; Lindor es la combinación de una cobertura firme con un núcleo suave de chocolate; Se funde rápidamente en tu boca con un efecto envolvente e intenso de su característico sabor a intenso y cremoso chocolate suave
+- 1; Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles a la altura de nuestro compromiso de sostenibilidad a lo largo de toda la cadena de valor
+- 1; Bolas de chocolate que combinan texturas haciendo que cada degustación sea un momento inigualable
 - 1; Bombones Lindt de chocolate con leche en un formato de 1kg con aproximadamente 80 bolas de nuestra receta más icónica de bombones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

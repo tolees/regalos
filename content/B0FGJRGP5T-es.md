@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor: Cremino 1878 cremoso en tres capas, Nougatine con trozos de "Avellana Piemonte" caramelizada y Gianduiotto Antica Ricetta con pura "Avellana Piemonte"
-- Navidad Venchi: es emoción. Es el aroma de la comida, el calor de la mesa. Es el deseo de estar juntos. El chocolate Venchi une más de lo que las palabras pueden expresar, transformando cada detalle en una ocasión de auténtico placer
-- Formato: una caja media contiene aproximadamente 28 bombones assortidos, 275 Gr
-- Los bombones son elaborados estrictamente en Italia con ingredientes naturales, son sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad
 - Caja Navidad Media: paquete regalo con selección de tres best sellers de Venchi: Cremino 1878, Nougatine y Gianduiotto Antica Ricetta, para un regalo navideño elegante y delicioso en una edición limitada firmada por Alice Bureau
+- Los bombones son elaborados estrictamente en Italia con ingredientes naturales, son sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad
+- Formato: una caja media contiene aproximadamente 28 bombones assortidos, 275 Gr
+- Navidad Venchi: es emoción. Es el aroma de la comida, el calor de la mesa. Es el deseo de estar juntos. El chocolate Venchi une más de lo que las palabras pueden expresar, transformando cada detalle en una ocasión de auténtico placer
+- Sabor: Cremino 1878 cremoso en tres capas, Nougatine con trozos de "Avellana Piemonte" caramelizada y Gianduiotto Antica Ricetta con pura "Avellana Piemonte"
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGJRGP5T{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contenido del envío: 1x Par de Pendientes Florales Swarovski Idyllia, tallos tono oro, pétalos de diferentes formas, baño en tono oro, incl. embalaje de Swarovski
+- Medidas: 3,5 x 1,7 cm
+- Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
 - Brillo encantado: tallos dorados y cristales dan vida a pétalos que capturan la luz, añadiendo brillo radiante, alegría y magia a tu colección
 - Un mundo mágico y versátil: los pendientes Swarovski de la colección Idyllia con sus motivos florales desmontables, son una declaración de estilo adaptable a cualquier ocasión
-- Medidas: 3,5 x 1,7 cm
-- Contenido del envío: 1x Par de Pendientes Florales Swarovski Idyllia, tallos tono oro, pétalos de diferentes formas, baño en tono oro, incl. embalaje de Swarovski
-- Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
 - Versatilidad botánica: sus adornos florales de cristal removibles te permiten crear un estilo minimalista y sofisticado luciendo solo sus elegantes tallos dorados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material resistente al agua.
+- El Collar Swing Dots Colors Enamel es una cadena fina pero llena de color. Sus dots coloridos y colgantes le añaden un toque sofisticado y divertido a la vez.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Tus joyas vienen con un estuche de regalo. Se incluirá únicamente un estuche en el pedido. Podrás guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. También puedes usarlo cuando quieras hacerle un detalle a tu persona especial como envoltorio para regalo. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
 - Largo 40cm + 5cm de alargador. Destaca por sus detalles en ESMALTE. El esmalte es una capa de vidrio fundido que una vez calentado, se fusionará con la superficie del metal proporcionando un acabado brillante y duradero. Su color puede variar ligeramente.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- El Collar Swing Dots Colors Enamel es una cadena fina pero llena de color. Sus dots coloridos y colgantes le añaden un toque sofisticado y divertido a la vez.
+- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material resistente al agua.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FP2KBPMS{{</world>}}

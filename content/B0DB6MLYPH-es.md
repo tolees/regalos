@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - BIENVENIDO A HOGWARTS: Vive la magia de Harry Potter en este juego de mesa Monopoly, donde la estrategia se une con la fantasía y los jugadores compiten por acumular Puntos de Casa recorriendo el castillo y enfrentando desafíos únicos en un clásico reinventado.
-- CARTAS CON MAGIA Y GIROS INESPERADOS: Las cartas de Búhos Mensajeros reemplazan a las clásicas de Suerte y Caja de Comunidad, introduciendo Vociferadores que cambian el rumbo del juego y portacartas en forma de búho que llenan de fantasía cada partida.
-- ICÓNICOS PEONES DORADOS: Recorre el tablero con 6 peones de colección bañados en dorado que representan transportes mágicos como el Expreso de Hogwarts, la Saeta de Fuego, la Moto de Hagrid, el Autobús Noctámbulo, un Thestral y el majestuoso Hipogrifo.
-- EL REGALO PERFECTO PARA NIÑOS Y COLECCIONISTAS: Ideal para fans de Harry Potter desde los 8 años, este juego de mesa es perfecto para fiestas, tardes en familia o reuniones con amigos, uniendo la emoción del Monopoly con la aventura de todas las películas de Hogwarts.
 - HAZ DE HALLOWEEN UNA NOCHE MÁGICA: Sorprende con un juego de mesa de Halloween diferente, donde en lugar de disfraces o máscaras, la familia puede imaginarse como magos compitiendo por la gloria de su casa, creando recuerdos únicos en un ambiente festivo.
 - ELIGE TU CASA Y COMPITE: Gryffindor, Hufflepuff, Ravenclaw o Slytherin, cada jugador es asignado a una casa y gana puntos para ella durante la partida, convirtiendo este Monopoly en un juego de estrategia y competición ideal para juegos familiares y entre amigos.
+- CARTAS CON MAGIA Y GIROS INESPERADOS: Las cartas de Búhos Mensajeros reemplazan a las clásicas de Suerte y Caja de Comunidad, introduciendo Vociferadores que cambian el rumbo del juego y portacartas en forma de búho que llenan de fantasía cada partida.
 - UN TABLERO DE HOGWARTS MÁGICO: Explora lugares icónicos como aulas, salas comunes y rincones secretos del castillo, un diseño que cautiva por sus colores y detalles, llevando a toda la familia a un recorrido inmersivo lleno de sorpresas en cada movimiento.
+- EL REGALO PERFECTO PARA NIÑOS Y COLECCIONISTAS: Ideal para fans de Harry Potter desde los 8 años, este juego de mesa es perfecto para fiestas, tardes en familia o reuniones con amigos, uniendo la emoción del Monopoly con la aventura de todas las películas de Hogwarts.
+- ICÓNICOS PEONES DORADOS: Recorre el tablero con 6 peones de colección bañados en dorado que representan transportes mágicos como el Expreso de Hogwarts, la Saeta de Fuego, la Moto de Hagrid, el Autobús Noctámbulo, un Thestral y el majestuoso Hipogrifo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB6MLYPH{{</world>}}

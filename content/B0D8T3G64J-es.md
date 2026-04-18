@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
 - Envueltas individualmente para mayor comodidad, con un diseño terrorífico.
-- Disfruta con estas bolas irresistible de chocolate con leche Extrafino con relleno cremoso.
-- Bolitas de Chocolate con leche con relleno cremoso.
 - Ideal para compartir con toda la família
+- Bolitas de Chocolate con leche con relleno cremoso.
+- Disfruta con estas bolas irresistible de chocolate con leche Extrafino con relleno cremoso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8T3G64J{{</world>}}

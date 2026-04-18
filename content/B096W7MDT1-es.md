@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
+- Talla 14. Anillo macizo con tres hilos de 2,5mm.
 - Fabricada en LATÓN BAÑADA EN RODIO. El latón es un material perfecto para las amantes de las joyas resistentes y fáciles de limpiar. Las joyas de latón son perfectas para el día a día. El baño de rodio aporta un brillo inigualable a la joya y mejora su resistencia y calidad.
 - Tres pequeños hilos entrelazados hasta el infinito forman el anillo Trinity
-- Talla 14. Anillo macizo con tres hilos de 2,5mm.
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096W7MDT1{{</world>}}

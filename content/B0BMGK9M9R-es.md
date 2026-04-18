@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inspirado en la esencia de una mujer que presume un llamativo vestido con elegancia, Le Parfum Royal es la fragancia de las reinas modernas, de esas glamurosas mujeres que brillan con majestuosidad
-- Elie Saab Le Parfum Royal invita a toda mujer que sueñe con vestir un Elie Saab a incluir un toque de magia y feminidad a sus vidas
-- Chispeantes notas de mandarina se suavizan con toques de corazón de neroli y rosa absoluta; se completa con un fondo de vainilla, pachulí y ámbar
 - Adornando cuerpos femeninos como un vestido de alta costura, Elie Saab Le Parfum Royal es un suntuoso chipre ambarino que te envuelve en un aura de intensa feminidad y radiante sensualidad
+- Chispeantes notas de mandarina se suavizan con toques de corazón de neroli y rosa absoluta; se completa con un fondo de vainilla, pachulí y ámbar
+- Elie Saab Le Parfum Royal invita a toda mujer que sueñe con vestir un Elie Saab a incluir un toque de magia y feminidad a sus vidas
+- Inspirado en la esencia de una mujer que presume un llamativo vestido con elegancia, Le Parfum Royal es la fragancia de las reinas modernas, de esas glamurosas mujeres que brillan con majestuosidad
 - Una verdadera "oda a la luz"; su frasco de 50 ml en forma de joya simboliza un tesoro cubierto en un profundo azul real, con trazos puros que reflejan la luz de forma infinita
 
 [🛒 Comprar!!!]({{< param buyurl >}})

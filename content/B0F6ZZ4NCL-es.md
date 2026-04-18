@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material resistente al agua.
-- Largo 35cm + 5cm de alargador. Cristales de 3 mm aproximadamente. Perlas cultivadas 6,3mm x 7,8mm. Destaca por sus detalles en CRISTALES DE COLORES y PERLAS CULTIVADAS. Existen varios tipos de cristales, con diversos colores y tallados, harán tu joya más brillante y colorida. Su color puede variar ligeramente.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
 - El Collar Crystal Perlas lleno de mini cristales de colores con perlas irregulares colgando es perfecto para esta temporada. Un collar ideal para verano.
+- Largo 35cm + 5cm de alargador. Cristales de 3 mm aproximadamente. Perlas cultivadas 6,3mm x 7,8mm. Destaca por sus detalles en CRISTALES DE COLORES y PERLAS CULTIVADAS. Existen varios tipos de cristales, con diversos colores y tallados, harán tu joya más brillante y colorida. Su color puede variar ligeramente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F6ZZ4NCL{{</world>}}

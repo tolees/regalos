@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elaborados con ingredientes seleccionados y presentados en una caja de regalo premium
-- Un toque especial dentro de la gama de productos de Lindt
 - Cada pieza está protegida para mantener su frescura y sabor; Óptimos para regalar, compartir en eventos o disfrutar a diario; Elaborados con ingredientes seleccionados y presentados en una caja de regalo premium; Un toque especial dentro de la gama de productos de Lindt
+- Un toque especial dentro de la gama de productos de Lindt
 - Óptimos para regalar, compartir en eventos o disfrutar a diario
 - Cada pieza está protegida para mantener su frescura y sabor
 

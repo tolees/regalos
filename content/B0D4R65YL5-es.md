@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
-- 🎉 MEGA PACK SURTIDO: 100 Unidades de caramelos y chuches variados con divertidos iconos clasicos de terror, ideal para rellenar bolsas para fiestas o para relleno de piñatas con variedad de golosinas. Perfecto para regalar en Halloween
-- 🚫 SIN GLUTEN: Producto gluten free, apto para personas celíacas o con intolerancia al gluten
 - 🧟 CAJA MIXTA: Surtido de caramelos, piruletas y pica pica enpaquetado en una cabeza grande de Zombie, genial para fiestas de halloween o de terror
+- 🚫 SIN GLUTEN: Producto gluten free, apto para personas celíacas o con intolerancia al gluten
+- 🎉 MEGA PACK SURTIDO: 100 Unidades de caramelos y chuches variados con divertidos iconos clasicos de terror, ideal para rellenar bolsas para fiestas o para relleno de piñatas con variedad de golosinas. Perfecto para regalar en Halloween
 - 🧛‍♂️ CONTIENE: Chupachup relleno de chicle, piruletas en forma de monstruos de terror y otros caramelos duros. Sabores surtidos entre ellos; frambuesa, cereza, soda, melón y más
+- 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4R65YL5{{</world>}}

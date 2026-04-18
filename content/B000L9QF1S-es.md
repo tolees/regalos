@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene: 1x Villeroy & Boch NewWave Taza de café pequeña para espresso (80 ml), Material: Porcelana Premium, Color: Blanco
 - Apta para lavavajillas y microondas, Alta calidad: Porcelana Premium hecha en Alemania
+- Contiene: 1x Villeroy & Boch NewWave Taza de café pequeña para espresso (80 ml), Material: Porcelana Premium, Color: Blanco
 - Forma manejable, Bordes resistentes a golpes, Excepcional dureza y resistencia a los arañazos que convierten a esta taza en ideal para un uso diario y la restauración
-- Moderna taza pequeña con asa curva para degustar espressos italianos con estilo a diario y en las ocasiones especiales
 - Elegante reclamo visual sobre cualquier mesa, Apta para máquinas de café que permiten una altura de 6,8 cm, Asa NewWave perfecta para sujetarse en la mano
+- Moderna taza pequeña con asa curva para degustar espressos italianos con estilo a diario y en las ocasiones especiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000L9QF1S{{</world>}}

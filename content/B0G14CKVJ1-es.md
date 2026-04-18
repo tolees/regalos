@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El Collar Triple Chic Drop de acero bañado en oro es elegante y como su nombre muy bien dice: muy chic. Sus tres cadenas de eslabones pequeñitos y rectangular se entrelazan para formar una Y con una piedra que adornará todos tus looks.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material resistente al agua.
 - Tus joyas vienen con un estuche de regalo. Se incluirá únicamente un estuche en el pedido. Podrás guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. También puedes usarlo cuando quieras hacerle un detalle a tu persona especial como envoltorio para regalo. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Largo de 42cm, 47cm y 58cm + 10cm de alargador. Motivo de aproxiamdamente 13,3mm x 10mm. Destaca por sus detalles en PIEDRAS NATURALES CIANITA que pasan por un proceso de tallado y pulido que las hace especiales. Son únicas por su dureza, resistencia, brillo y belleza. Su color puede variar ligeramente por ser naturales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Color: Dorado
 - Marca: Pandora
 - Tema: Amor
-- Color: Dorado
 - Estilo: Charm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
