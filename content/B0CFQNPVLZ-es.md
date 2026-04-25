@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3. 【Apagado automático sin agua】 Diseño de protección contra escasez de agua para garantizar la seguridad. El difusor se apagará automáticamente cuando el agua no sea suficiente.
 - 4. 【Control remoto】 puede controlar fácilmente el difusor de aroma a distancia, encendiéndolo o apagándolo; cambiando la niebla de baja a alta; ajustar la luz nocturna y configurar el temporizador sin levantarse del sofá o la cama. El control remoto está incluido en el paquete.
 - 1. 【Difusor de Aceite Esencial 700ml】 - Gran volumen con tamaño pequeño. Perfecto para reducir el estrés, favorecer el sueño y mejorar la eficiencia laboral con diferentes tipos de aceites esenciales, tanto en la habitación, oficina, SPA, yoga y otras ocasiones. ★ Nota: el aceite esencial no está incluido.
+- 3. 【Apagado automático sin agua】 Diseño de protección contra escasez de agua para garantizar la seguridad. El difusor se apagará automáticamente cuando el agua no sea suficiente.
 - 5. 【Lámpara colorida romántica】 7 colores LED, cada color tiene 2 modos, puede elegir la luz que desee como lámpara de noche en el ambiente nocturno o de oscuridad. (El flujo luminoso de la fuente de luz es inferior a 60 lm.)
 - 2. 【Difusor de aromaterapia Whisper Quiet】El humidificador lleva tecnología ultrasónica especialmente, sin ruidos molestos, ideal para uso doméstico. ¡También es una gran opción de regalo para Navidad, Año Nuevo, Cumpleaños!
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Las notas olfativas principales de este producto son especiado, floral y afrutado.
 - Este producto está indicado para mujeres.
 - De la marca Lancome.
-- Las notas olfativas principales de este producto son especiado, floral y afrutado.
 - Contiene 30 ml.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

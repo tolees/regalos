@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - VELAS PERFUMADAS PARA CADA OCASIÓN: En una selección curada de 3 fragancias diferentes, que incluyen Pink Sands, Lemon Lavender y Midsummers Night, este mini juego de regalo votivo relleno es ideal para cumpleaños, inauguración de una casa, aniversarios y más.
-- EMPAQUE RECICLABLE: Ayude a Yankee Candle a darle una segunda vida a este empaque reciclendo correctamente y continúe difundiendo la alegría.
-- EL TAMAÑO PERFECTO: Las velas votivas rellenas mini de Yankee Candle tienen el tamaño perfecto para probar y encontrar tu nueva fragancia favorita.
-- MEZCLA DE CERA DE SOJA: Para un color vibrante y una quemadura uniforme
 - UN HERMOSO REGALO DE VELA: Las etiquetas decorativas presentan imágenes de fragancias ilustradas a mano y se ven tan atractivas como huelen.
+- EMPAQUE RECICLABLE: Ayude a Yankee Candle a darle una segunda vida a este empaque reciclendo correctamente y continúe difundiendo la alegría.
+- MEZCLA DE CERA DE SOJA: Para un color vibrante y una quemadura uniforme
+- EL TAMAÑO PERFECTO: Las velas votivas rellenas mini de Yankee Candle tienen el tamaño perfecto para probar y encontrar tu nueva fragancia favorita.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FH642F4V{{</world>}}

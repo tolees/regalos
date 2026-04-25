@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
 - ELEGANTE Y MASCULINO: Un agua de colonia para hombres exquisitos y diferentes que cuiden hasta el más pequeño detalle de sí mismos. ¡Dispuesto a exprimir cada minuto al máximo!
+- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- PIRÁMIDE OLFATIVA: Notas de salida: limón verde, hojas de naranjo, lavanda, tomillo y salvia; Notas de corazón: canela, pimienta y geranio; Notas de fondo: vetiver, sándalo, tabaco, musgo de encina y madera de cachemir
 - TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia fresca amaderada, que rinde homenaje al hombre actual que cuida enormemente su aspecto. ¡El complemento indispensable para tu arreglo personal!
 - FRAGANCIA ÚNICA: Brummel es un perfume masculino con un carácter refinado y sofisticado para disfrutar de una mejor imagen personal y un mayor poder de seducción. Viene un frasco de 250 mililitros
-- PIRÁMIDE OLFATIVA: Notas de salida: limón verde, hojas de naranjo, lavanda, tomillo y salvia; Notas de corazón: canela, pimienta y geranio; Notas de fondo: vetiver, sándalo, tabaco, musgo de encina y madera de cachemir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094JMM3CR{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Fabricada en LATÓN BAÑADA EN ORO 18KT. El latón es un material perfecto para las amantes de las joyas resistentes y fáciles de limpiar. Son perfectas para el día a día. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 - Letra D. Anillo macizo con diámetro interior de 15,5mm, grosor de 1,3mm y altura de 15mm a 7mm. Talla única ajustable de una 10 a una 16. Destaca por su diseño llamativo y su tamaño maxi.
 - ¡Una de nuestras Joyas Personalizadas favoritas! Lleva cerca de ti aquellas iniciales que solo con mirarlas te hacen sonreír: tu amiga, pareja, hijos o, por qué no, tú misma
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
+- Fabricada en LATÓN BAÑADA EN ORO 18KT. El latón es un material perfecto para las amantes de las joyas resistentes y fáciles de limpiar. Son perfectas para el día a día. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HVBRNFD{{</world>}}

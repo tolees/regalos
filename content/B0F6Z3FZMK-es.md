@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La versión más pequeña de los aros más sencillos a la vez que bonitos. Unos pendientes en acero perfectos para usar en tu día a día.
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
-- Aro diámetro exterior 12 mm, con grosor de hilo de 2 mm. Su cierre congo/click no tiene rosca, se cierra uniendo dos partes del pendiente hasta escuchar, como su nombre indica, un “click”.
-- Fabricada en Acero Inoxidable. El acero inoxidable es un material genial porque es resistente al agua.
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- La versión más pequeña de los aros más sencillos a la vez que bonitos. Unos pendientes en acero perfectos para usar en tu día a día.
+- Fabricada en Acero Inoxidable. El acero inoxidable es un material genial porque es resistente al agua.
+- Aro diámetro exterior 12 mm, con grosor de hilo de 2 mm. Su cierre congo/click no tiene rosca, se cierra uniendo dos partes del pendiente hasta escuchar, como su nombre indica, un “click”.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6Z3FZMK{{</world>}}

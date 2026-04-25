@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apuesta por la elegancia refinada con estos pequeños pendientes en forma de corazón de la familia Matrix
 - El regalo perfecto tanto para ti como para esa persona tan especial, ya que estos pendientes pueden llevarse solos o combinados con un collar de la misma familia
+- Apuesta por la elegancia refinada con estos pequeños pendientes en forma de corazón de la familia Matrix
 - Este apasionado diseño combina un engaste en punta bañado en rodio con cristales transparentes en talla baguette y una forma de aro que será el centro de todas las miradas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

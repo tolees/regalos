@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Formato: 1 mini libro con aproximadamente 6 bombones Chocoviar surtidos, 115 g
 - Sabor: bombones Chocoviar en tres recetas diferentes, todos recubiertos con el icónico caviar de chocolate negro al 75 %, intenso y directo al paladar; Pistacho con trocitos de toffee y nibs, y Naranja rellena de "Naranja sanguina de Sicilia"
-- Bombones Chocoviar: representan el ingenio y la creatividad de Venchi con una mezcla única y sofisticada de texturas, rellenos inesperados y todo cubierto con caviar de chocolate
 - Los bombones se elaboran rigurosamente en Italia con ingredientes naturales, sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad
+- Bombones Chocoviar: representan el ingenio y la creatividad de Venchi con una mezcla única y sofisticada de texturas, rellenos inesperados y todo cubierto con caviar de chocolate
 - Mini Libro Murrine: las cajas de bombones Venchi son el regalo ideal para cualquier ocasión, gracias a su elegancia y a su diseño inspirado en el arte del vidrio veneciano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

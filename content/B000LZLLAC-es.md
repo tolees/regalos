@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuada para día o noche
 - Olor intenso y duradero
+- Adecuada para día o noche
 - Fragancia para hombres
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

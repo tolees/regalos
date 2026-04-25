@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 - Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 - Ancho de 7,3 mm. Largo de 17 cm + 3 cm de alargador.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Si eres amante de las cadenas gruesas y maxi, esta pulsera te hará feliz. Nuestra Big Rope de acero bañada en Oro, es una pulsera trenzada dorada y llamativa. Con esta cadena de eslabones redondos, todas las miradas están aseguradas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

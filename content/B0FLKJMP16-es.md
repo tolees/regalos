@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 💖 Para mujeres libres y magnéticas: Eau de Parfum de 100 ml que celebra la feminidad con carácter, elegancia y libertad.
 - 🍦 Fondo sensual y duradero: Vainilla ambarina que ilumina la piel con una estela cálida, intensa e inolvidable.
+- 🌅 Un nuevo atardecer en tu piel: Fragancia floral gourmand inspirada en la belleza cálida y salvaje del desierto.
 - 🥥 Corazón exótico y cremoso: El coco aporta una textura suave y adictiva que transforma la fragancia en algo único.
 - 🌸 Notas delicadas y envolventes: Lirios del desierto, lavanda e iris se funden en una salida floral fresca y cautivadora.
-- 🌅 Un nuevo atardecer en tu piel: Fragancia floral gourmand inspirada en la belleza cálida y salvaje del desierto.
-- 💖 Para mujeres libres y magnéticas: Eau de Parfum de 100 ml que celebra la feminidad con carácter, elegancia y libertad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLKJMP16{{</world>}}

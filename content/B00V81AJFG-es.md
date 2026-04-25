@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Familia olfativa: floral oriental
-- Notas de salida: cítricos frescos, mandarina italiana y manzana verde
-- Para: ella
 - Tipo: fresco y con encanto
+- Para: ella
+- Notas de salida: cítricos frescos, mandarina italiana y manzana verde
 - Notas de corazón: flor de osmanthus, jazmín y gardenia
+- Familia olfativa: floral oriental
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00V81AJFG{{</world>}}

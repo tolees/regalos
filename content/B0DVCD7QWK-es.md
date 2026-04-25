@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El Collar Amour con una cadena de eslabones pequeños y un charm de corazón con circonitas brillantes es el mejor complemento para las reinas de corazones. Una joya ideal para regalar en San Valentín.
 - Fabricada en LATÓN BAÑADA EN ORO 18KT. El latón es un material para las amantes de las joyas resistentes y fáciles de limpiar.
-- Largo de 40cm + 5cm de alargador. Altura motivo de 14mm x 12mm con circonitas de 1mm.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
+- Largo de 40cm + 5cm de alargador. Altura motivo de 14mm x 12mm con circonitas de 1mm.
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- El Collar Amour con una cadena de eslabones pequeños y un charm de corazón con circonitas brillantes es el mejor complemento para las reinas de corazones. Una joya ideal para regalar en San Valentín.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DVCD7QWK{{</world>}}
