@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PERFECTO PARA CUALQUIER OCASIÓN: Este perfume es versátil y adecuado tanto para el día como para la noche. Su aroma duradero lo convierte en una excelente elección para cualquier hombre que desee proyectar confianza y estilo en cualquier situación.
 - TOQUE DE ELEGANCIA NATURAL: El corazón de esta fragancia está enriquecido con la sutileza del cedro y la frescura de la lavanda, lo que aporta una dimensión de elegancia refinada. Es ideal para hombres que buscan un aroma que exprese su estatus y sofisticación.
-- INGREDIENTES DE ORIGEN VEGETAL: Elaborado con aceites esenciales de alta calidad, como la bergamota, el cardamomo y la mandarina, Ambre Noir es una fragancia que no solo destaca por su intensidad, sino también por su respeto al medio ambiente, utilizando ingredientes de origen vegetal.
 - FRAGANCIA INTENSA Y MASCULINA: Ambre Noir de Yves Rocher es una eau de toilette que captura la esencia de la masculinidad con su combinación de pachulí y vetiver. Estas notas amaderadas se mezclan perfectamente con la calidez del haba tonka, creando una fragancia poderosa y seductora.
+- INGREDIENTES DE ORIGEN VEGETAL: Elaborado con aceites esenciales de alta calidad, como la bergamota, el cardamomo y la mandarina, Ambre Noir es una fragancia que no solo destaca por su intensidad, sino también por su respeto al medio ambiente, utilizando ingredientes de origen vegetal.
+- PERFECTO PARA CUALQUIER OCASIÓN: Este perfume es versátil y adecuado tanto para el día como para la noche. Su aroma duradero lo convierte en una excelente elección para cualquier hombre que desee proyectar confianza y estilo en cualquier situación.
 - TAPÓN DE MADERA SOSTENIBLE: La elegancia de Ambre Noir se refleja también en su presentación. El frasco viene con un tapón de madera que proviene de bosques gestionados de manera responsable, subrayando el compromiso de Yves Rocher con la sostenibilidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

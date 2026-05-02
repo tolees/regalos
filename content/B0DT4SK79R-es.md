@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral acuoso fresca, ideal para aquellas mujeres que buscan un olor juvenil, limpio y delicado, que nos recuerde a la tranquilidad y paz del mar
 - PIRÁMIDE OLFATIVA: Notas de salida: mandarina, bergamota, hojas de violeta y galbanun; Notas de corazón: pétalos florales, frutos de agua (sandía), savia de bambú; Notas de fondo: vetiver y notas de ámbar
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral acuoso fresca, ideal para aquellas mujeres que buscan un olor juvenil, limpio y delicado, que nos recuerde a la tranquilidad y paz del mar
 - AROMA DE MUJER: Agua de Luna Original es un perfume femenino con un carácter elegante, natural y sensorial y sonriente para disfrutar de la sensación del aire libre. Viene un frasco vaporizador de 100 mililitros
 - FEMENINO Y ELEGANTE: Un agua de colonia para mujeres dinámicas y alegres, para adornar tu día a día con un toque fresco como el mar. ¡Derrocha sensualidad y felicidad, sin importar la edad!
 

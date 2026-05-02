@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🍭 CARAMELOS BLANDOS: Nuestros chuches son la opción perfecta para fiestas de cumpleaños, navidad, halloween u otras ocasiones especiales. Chucherias y gominolas ideales para un regalo especial
-- ⚠️ EXTRA: Nuestras golosinas están elaboradas sin Organismos Genéticamente Modificados. Contiene GLUTEN y es producido en una fabrica que maneja derivados lácteos
 - 🎉 REGALICES: Tarro de geles dulces de 200 unidades. Regalices rellenos con delicioso sabor a Coca Cola, un sabor irresistible de uno de nuestros top ventas
-- 💯 FINI: Marca líder en golosinas de España con las más altas puntuaciones en certificaciones y seguridad alimentaria del sector. La calidad, innovación y diversión están entre sus principales pilares para crear productos únicos
+- 🍭 CARAMELOS BLANDOS: Nuestros chuches son la opción perfecta para fiestas de cumpleaños, navidad, halloween u otras ocasiones especiales. Chucherias y gominolas ideales para un regalo especial
 - 🍬 TARRO: Nuestro tarro plástico es el envase perfecto para compartir nuestras golosinas, además que ayuda a conservar los caramelos con la mayor frescura, se pueden reutilizar
+- ⚠️ EXTRA: Nuestras golosinas están elaboradas sin Organismos Genéticamente Modificados. Contiene GLUTEN y es producido en una fabrica que maneja derivados lácteos
+- 💯 FINI: Marca líder en golosinas de España con las más altas puntuaciones en certificaciones y seguridad alimentaria del sector. La calidad, innovación y diversión están entre sus principales pilares para crear productos únicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094DD7WFW{{</world>}}

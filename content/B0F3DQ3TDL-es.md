@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El Anillo Bibiana de acero bañado en oro tiene un diseño minimalista y elegante. Nos encanta por su delicadeza. En uno de los lados es liso y pulido, mientras que el otro está adornado con una fila de pequeñas circonitas brillantes. Es perfecto para un toque sofisticado.
+- Talla 18. Altura de 5mm. Grosor de hilo 1,6mm. Circonitas de 1mm. Destaca por sus detalles en CIRCONITAS. La circonita es una gema o piedra sintética parecida por su forma cúbica al diamante y con un brillo único. Su color puede variar ligeramente.
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
+- El Anillo Bibiana de acero bañado en oro tiene un diseño minimalista y elegante. Nos encanta por su delicadeza. En uno de los lados es liso y pulido, mientras que el otro está adornado con una fila de pequeñas circonitas brillantes. Es perfecto para un toque sofisticado.
 - Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material genial para las amantes del agua, ya que tiene una alta resistencia a la corrosión. Nuestras joyas tienen una garantía de 3 años desde su entrega, ya que nuestro objetivo principal es que estén siempre como el primer día.
-- Talla 18. Altura de 5mm. Grosor de hilo 1,6mm. Circonitas de 1mm. Destaca por sus detalles en CIRCONITAS. La circonita es una gema o piedra sintética parecida por su forma cúbica al diamante y con un brillo único. Su color puede variar ligeramente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3DQ3TDL{{</world>}}

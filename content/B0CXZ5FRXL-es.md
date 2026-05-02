@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Altura 12,7mm. Grosor 2,6mm. Con circonita de 1,5mm.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
-- El Charm Letter Spark Sakura es justo lo que necesitas. Lleno de circonitas rosas y blancas te tu letra más especial para ti o para regalar.
+- Altura 12,7mm. Grosor 2,6mm. Con circonita de 1,5mm.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Fabricada en PLATA DE LEY BAÑADA EN ORO 18KT. Es un material noble ideal para las amantes de la joyería de calidad, sus características se encuentran entre las mejores del mercado, destaca por su brillo y resistencia. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales utilizados para añadir estabilidad, dureza y un brillo inigualable.
+- El Charm Letter Spark Sakura es justo lo que necesitas. Lleno de circonitas rosas y blancas te tu letra más especial para ti o para regalar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXZ5FRXL{{</world>}}

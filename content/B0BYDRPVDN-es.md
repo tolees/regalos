@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Notas de salida: limón, grosella y frambuesa
 - Para: ella
 - Tipo: intensa y femenina
-- Familia olfativa: floral
+- Notas de salida: limón, grosella y frambuesa
 - Notas de corazón: cardamomo, jengibre, pimienta rosa, tuberrosa, ylang
+- Familia olfativa: floral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYDRPVDN{{</world>}}

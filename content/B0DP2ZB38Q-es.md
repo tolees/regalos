@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- REPARA Y NUTRE: Aussie All-In-One set de regalo ayuda a reparar y revitalizar el pelo seco y dañado
-- ¿PELO SECO Y DAÑADO que necesita ayuda?¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
-- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
 - DI HOLA A UN PELO INCREÍBLEMENTE HIDRATADO. Desde el primer uso, tu pelo estará suave, liso e increíblemente hidratado
+- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
+- ¿PELO SECO Y DAÑADO que necesita ayuda?¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
+- REPARA Y NUTRE: Aussie All-In-One set de regalo ayuda a reparar y revitalizar el pelo seco y dañado
 - Enriquecida con superalimentos australianos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

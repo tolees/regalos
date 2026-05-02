@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
+- Para el cabello: Normal
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Diseño funcional
 - La siguiente información se aplica a cada unidad del paquete
-- Para el cabello: Normal
-- Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 - Calidad garantizada por la marca Alyssa Ashley
 
 [🛒 Aquí!!!]({{< param buyurl >}})

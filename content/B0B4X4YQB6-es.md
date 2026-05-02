@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MANDARINA DUCK FRAGRANCES: El vidrio del frasco es reciclable repetidamente, reduciendo el impacto ambiental en un 22%. Los colores a base de agua decoran el frasco sin disolventes químicos, mientras que el embalaje secundario de papel FSC garantiza una gestión forestal responsable. Cada pulverización es un gesto de elegancia y responsabilidad.
 - FOR HIM: Mandarina Duck for Him es una fragancia creada para evocar el mar, la libertad y el bienestar. Perteneciente a la familia olfativa Fougère Marine, está dedicada a los hombres que desean disfrutar de la vida sin preocupaciones, respetando siempre la naturaleza.
 - FRAGANCIA: La culminación es un extraordinario EDT que sabe a mar y libertad, a bienestar y vida al aire libre, con notas de hojas de violeta y azahar, enriquecidas con cardamomo y absoluto de cistus de Manes Pure Jungle Essence.
+- MANDARINA DUCK FRAGRANCES: El vidrio del frasco es reciclable repetidamente, reduciendo el impacto ambiental en un 22%. Los colores a base de agua decoran el frasco sin disolventes químicos, mientras que el embalaje secundario de papel FSC garantiza una gestión forestal responsable. Cada pulverización es un gesto de elegancia y responsabilidad.
 - FOR HER & FOR HIM: Los perfumes de una nueva generación atenta a la elección de las materias primas, obtenidas a partir de fuentes renovables. Para jóvenes activos, grandes viajeros, capaces de disfrutar de la vida e interesados por el destino del planeta.
 - EAU DE TOILETTE: Guiado por su profunda conexión con la naturaleza, Mathieu Nardin nació en Grasse en el seno de una familia de productores de materias primas. Su amor visceral por la naturaleza se refleja en cada pulverización de esta fragancia. Por esta razón, el perfume es casi totalmente biodegradable y es tan persistente como un Eau de Toilette como un Eau de Parfum.
 

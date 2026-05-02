@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ScrapCooking
 - Haga que sus pasteles de Halloween se vean aterradores con estos 63 ojos de azúcar.
+- ScrapCooking
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TKDRG43{{</world>}}

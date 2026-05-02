@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NESTLE EXTRAFINO Bombones de chocolate con leche Dinosaurus Estuche 116g'
-date: 2026-04-22 07:08:03
+date: 2026-05-02 10:46:05
 image: 'https://m.media-amazon.com/images/I/41R-Y2B0IDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CB8BM6NM-es NESTLE EXTRAFINO Bombones de chocolate con leche...'
 sku: 'B0CB8BM6NM-es'
 tags: [ 'bombones','🇪🇸', ]
-actualPrice: 3.0 EUR
+actualPrice: 2.72 EUR
 currency: EUR
-price: 3.0
+price: 2.72
 comparePrice: 3.99 EUR
 prodname: 'NESTLE EXTRAFINO Bombones de chocolate con leche Dinosaurus Estuche 116g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CB8BM6NM/?tag=tolees-21'
-descuento: '24.81'
-average: '2.88249999999999'
+descuento: '31.83'
+average: '2.85'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado en La Penilla, España
+- Un relleno cremoso con trocitos de galleta Dinosaurus cubierto de chocolate con leche Nestlé Extrafino
 - 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest Alliance
 - Para que los más jovenes también disfruten de los bombones
 - 15 bombones Nestlé Extrafino Dinosaurus envueltos individualmente
-- Un relleno cremoso con trocitos de galleta Dinosaurus cubierto de chocolate con leche Nestlé Extrafino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB8BM6NM{{</world>}}

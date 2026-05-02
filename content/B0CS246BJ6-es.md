@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HAZLO: Compara el contenido de tu paquete con la guía de coleccionista incluida para ver qué mini obtuviste. Sigue la tarjeta de receta en la parte posterior para crear tu réplica coleccionable.
-- ¡SOCORRO! Ya es Navidad: Busca las mini Tazas de Alce ultra raras de National Lampoons Christmas Vacation. Incluye un mini Certificado de Membresía del Club de Mermelada del Mes.
 - CREA: Cada esfera viene con ingredientes mini y accesorios realistas para hacer tus propias réplicas de tus artículos navideños favoritos. Cada paquete es una sorpresa, por lo que no sabrás qué mini tienes hasta que lo desempaques.
+- HAZLO: Compara el contenido de tu paquete con la guía de coleccionista incluida para ver qué mini obtuviste. Sigue la tarjeta de receta en la parte posterior para crear tu réplica coleccionable.
 - FÍJALO: Una vez que hayas terminado de crear tu mini, coloca tu réplica bajo el sol o bajo una luz UV de 365nm hasta que la resina se endurezca. Una vez lista, tendrás un coleccionable navideño listo para exhibir.
+- ¡SOCORRO! Ya es Navidad: Busca las mini Tazas de Alce ultra raras de National Lampoons Christmas Vacation. Incluye un mini Certificado de Membresía del Club de Mermelada del Mes.
 - SERIE DE VACACIONES: Decora las fiestas con el Miniverse de MGA. Presentamos nuestros minis creativos de temática navideña para hacer, colocar, exhibir y coleccionar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricada en Latón bañada en rodio. El latón es un material para las amantes de las joyas resistentes y fáciles de limpiar. El baño de rodio aporta un brillo inigualable y mejora su resistencia y calidad.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Lleva esta letra plateada de tamaño maxi XL en tu cadena o collar favorito. Elige la inicial que quieras y lleva el collar personalizado que más triunfa.
-- Letra C. 2,5cm largo y 1,5cm de ancho. Asa soldada de 8,4 x 5,7mm. Cadena no incluida.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
+- Fabricada en Latón bañada en rodio. El latón es un material para las amantes de las joyas resistentes y fáciles de limpiar. El baño de rodio aporta un brillo inigualable y mejora su resistencia y calidad.
+- Letra C. 2,5cm largo y 1,5cm de ancho. Asa soldada de 8,4 x 5,7mm. Cadena no incluida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09HXT1W2C{{</world>}}

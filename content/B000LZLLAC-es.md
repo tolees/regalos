@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia para hombres
 - Adecuada para día o noche
 - Olor intenso y duradero
+- Fragancia para hombres
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000LZLLAC{{</world>}}

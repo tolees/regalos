@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DE 3 A 10 AÑOS. Agua de colonia para niños y niñas de 3 a 10 años, una fragancia para empezar a perfumarse y autocuidarse
-- ¿A QUÉ HUELE? Una fragancia divertida y chispeante. Colonia con notas de salida de gálbano, lima ácida, naranja y mandarina. Musgo, almizcle y ámbar como notas de fondo. Madreselva, jazmín y lirio como notas de corazón
-- IDEAL para refrescarse en cualquier momento del día. Perfecta para regalar
-- INSPIRADA EN BABY COLOGNE. Colonia para niños inspirada en Baby Cologne, la colonia para bebés de Suavinex
-- DERMATOLÓGICAMENTE TESTADA. Colonia para niños dermatológicamente testada
-- KIDS. Eau de cologne infantil, inspirada en la colonia para bebés Baby Cologne. Colonia para niños y niñas de 100 ml, con frasco vaporizador
 - DALE UNA SEGUNDA VIDA. La caja de cartón puede recortarse y encontrarás un divertido juego en su interior
+- INSPIRADA EN BABY COLOGNE. Colonia para niños inspirada en Baby Cologne, la colonia para bebés de Suavinex
+- IDEAL para refrescarse en cualquier momento del día. Perfecta para regalar
+- ¿A QUÉ HUELE? Una fragancia divertida y chispeante. Colonia con notas de salida de gálbano, lima ácida, naranja y mandarina. Musgo, almizcle y ámbar como notas de fondo. Madreselva, jazmín y lirio como notas de corazón
+- KIDS. Eau de cologne infantil, inspirada en la colonia para bebés Baby Cologne. Colonia para niños y niñas de 100 ml, con frasco vaporizador
+- DERMATOLÓGICAMENTE TESTADA. Colonia para niños dermatológicamente testada
+- DE 3 A 10 AÑOS. Agua de colonia para niños y niñas de 3 a 10 años, una fragancia para empezar a perfumarse y autocuidarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPKYQT9Z{{</world>}}

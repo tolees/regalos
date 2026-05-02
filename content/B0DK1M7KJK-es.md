@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consejos de aplicación - Aplica la crema de manos, cuerpo y cara sobre las zonas secas y ásperas de todo el cuerpo, e hidrata tu piel con su textura no grasa
-- Reparadora - Esta crema corporal hidrata en profundidad y repara al instante los signos de la sequedad de la piel, con efectos visibles tras la primera aplicación
 - Contenido del envío – NIVEA Pack Repara & Cuida Navidad
+- Reparadora - Esta crema corporal hidrata en profundidad y repara al instante los signos de la sequedad de la piel, con efectos visibles tras la primera aplicación
+- Consejos de aplicación - Aplica la crema de manos, cuerpo y cara sobre las zonas secas y ásperas de todo el cuerpo, e hidrata tu piel con su textura no grasa
 - Set de regalo – Este pack de regalo contiene un Bálsamo Labial Repara & Cuida, un Tarro Repara & Cuida con Glicerina y Urea, un Gel Repara & Cuida y una Crema de Manos Reparadora
 - Tarro Repara & Cuida - Ingredientes activos - Con un 15% de glicerina y de urea, la crema Nivea para cara, manos y cuerpo calma y alivia instantáneamente la piel extra seca y áspera
 

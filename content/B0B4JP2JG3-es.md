@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La fragancia te envuelve con notas de mandarina y pera; en su corazón, se combinan la grosella negra y la flor de frangipani con la exclusiva flor de Ormond; la haba tonka y el pachulí dejan un aroma inolvidable
 - El eau de parfum se presenta en una botella redonda esculpida como una joya preciosa, adornada con un delicado collar de flores verde anís; el broche lo pone su tapón dorado, como una flor en plena floración
 - Un perfume de Elie Saab con el espíritu de la generación de Girl of Now; siempre con sus amigas, atrayendo todas las miradas; espontánea, divertida y desenfadada
 - Creada exclusivamente para Elie Saab, la Flor de Ormond es una nota única que revela facetas preciosas y gourmand, ofreciendo una sensación suave, adictiva y aterciopelada
 - Capturando el espíritu vivaz y la alegría de vivir de la mujer moderna, Girl of Now Lovely es una distintiva fragancia floral gourmand que irradia una deslumbrante juventud y ofrece una extraordinaria aventura
-- La fragancia te envuelve con notas de mandarina y pera; en su corazón, se combinan la grosella negra y la flor de frangipani con la exclusiva flor de Ormond; la haba tonka y el pachulí dejan un aroma inolvidable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4JP2JG3{{</world>}}

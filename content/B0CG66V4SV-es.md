@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌟Diseño de estrella grande: Estas luces Navidad estrellas grandes (30 cm de ancho, 30 cm de alto) están envueltas alrededor con 40 LED de color blanco cálido (cada luz) para un gran efecto brillante. Cada luz parece una estrella hecha de pequeñas estrellas centelleantes.
-- 🌟Control remoto y función de temporizador: Luces de Decoración viene con control remoto, úsalo para encender/apagar, cambiar los modos de iluminación, ajustar el brillo y ajustar la hora. Cada modo se activará durante 6 horas, luego se cerrará y se volverá a abrir automáticamente después de 18 horas.
-- 🌟Resistente al agua: Luces Navideñas de Estrellas estan hechas de material de alta calidad, IP44 impermeable, las luces de estrella de cinco puntas se pueden colgar en árboles, ramas, arbustos, techo, ventana, etc. Estos cuelgan de un cordón, por lo que puedes ponerlos en la parte superior o inferior de la ventana. Perfecto para uso en interiores y exteriores.
-- 🌟8 modos de iluminación: Cortina Luces Navidad cuenta con encendido constante y 7 modos de luz de flash diferentes (combinación, en onda, secuencial, brillo lento, flash, desvanecimiento lento, parpadeo), satisfaciendo tus diversas necesidades y te ofrece una variedad de disfrute visual.
 - 🌟Funciona con 3 pilas AA (no incluidas). No necesita enchufe, bajo voltaje y larga duración de la batería, más conveniente y seguro para la decoración navideña.
+- 🌟8 modos de iluminación: Cortina Luces Navidad cuenta con encendido constante y 7 modos de luz de flash diferentes (combinación, en onda, secuencial, brillo lento, flash, desvanecimiento lento, parpadeo), satisfaciendo tus diversas necesidades y te ofrece una variedad de disfrute visual.
+- 🌟Control remoto y función de temporizador: Luces de Decoración viene con control remoto, úsalo para encender/apagar, cambiar los modos de iluminación, ajustar el brillo y ajustar la hora. Cada modo se activará durante 6 horas, luego se cerrará y se volverá a abrir automáticamente después de 18 horas.
+- 🌟Diseño de estrella grande: Estas luces Navidad estrellas grandes (30 cm de ancho, 30 cm de alto) están envueltas alrededor con 40 LED de color blanco cálido (cada luz) para un gran efecto brillante. Cada luz parece una estrella hecha de pequeñas estrellas centelleantes.
+- 🌟Resistente al agua: Luces Navideñas de Estrellas estan hechas de material de alta calidad, IP44 impermeable, las luces de estrella de cinco puntas se pueden colgar en árboles, ramas, arbustos, techo, ventana, etc. Estos cuelgan de un cordón, por lo que puedes ponerlos en la parte superior o inferior de la ventana. Perfecto para uso en interiores y exteriores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CG66V4SV{{</world>}}

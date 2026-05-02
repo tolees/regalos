@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de producto: Agua de Perfume
-- Alta calidad
 - De la marca Escada
+- Alta calidad
 - Género: Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

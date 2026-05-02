@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Adornando cuerpos femeninos como un vestido de alta costura, Elie Saab Le Parfum Lumière es una cálida fragancia floral amaderada que te envuelve en un aura de intensa feminidad y radiante sensualidad
+- Con una elegancia atemporal gracias a su esencia de mandarina y ylang-ylang, notas de corazón de jazmín y gardenia, y acabando con toques de madera de ámbar y pachulí
 - Elie Saab Le Parfum Lumière invita a toda mujer que sueñe con vestir un Elie Saab a incluir un toque de magia y feminidad a sus vidas
 - Le Parfum Lumière es una generosa sinfonía de flores blancas que rinde tributo a la excepcional luz mediterránea
-- Con una elegancia atemporal gracias a su esencia de mandarina y ylang-ylang, notas de corazón de jazmín y gardenia, y acabando con toques de madera de ámbar y pachulí
 - Una verdadera "oda a la luz"; su frasco de 90 ml en forma de joya simboliza un tesoro de trazos puros que brillan y reflejan la luz de forma infinita, desplegando a su vez la suave esencia de su interior
-- Adornando cuerpos femeninos como un vestido de alta costura, Elie Saab Le Parfum Lumière es una cálida fragancia floral amaderada que te envuelve en un aura de intensa feminidad y radiante sensualidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6NWDCQR{{</world>}}

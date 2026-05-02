@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COMPOSICIÓN LUMINOSA: Su composición luminosa despierta deliciosamente los sentidos
+- CONSEJOS DE USO: Rociar la fragancia en las áreas donde la piel es más fina: muñecas, detrás de las orejas, parte delantera de los codos
 - DESCUBRE TODA LA COLECCIÓN: Prueba la colección de fragancias Green Tea de Elizabeth Arden y descubre tu favorita
 - REFRESCANTE Y SEDUCTOR: Perfume floral chispeante y ligero con una sutil calma y riqueza
+- COMPOSICIÓN LUMINOSA: Su composición luminosa despierta deliciosamente los sentidos
 - ELIZABETH ARDEN GREEN TEA NECTARINE: Explosiones de melocotón, albaricoque, bergamota fresca y frutas exóticas se mezclan con los vapores de té verde, mientras que la jugosa nectarina está inmersa en un luminoso ramo floral para una firma irresistible
-- CONSEJOS DE USO: Rociar la fragancia en las áreas donde la piel es más fina: muñecas, detrás de las orejas, parte delantera de los codos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BNWIR3A{{</world>}}

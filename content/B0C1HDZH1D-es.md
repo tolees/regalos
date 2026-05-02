@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consejo de aplicación: Para obtener el máximo efecto del KORRES LEFKO Eau de Toilette, se recomienda rociar el perfume vegano directamente sobre la piel en los puntos de pulso como el cuello, la parte interna de las muñecas y los codos. Deja que el Eau de Toilette se seque sin frotar para que el aroma se desarrolle de manera óptima. Disfruta de la fragancia floral, polvorosa y almizclada de larga duración y deja que su aura única te cautive. Nota: Solo para uso externo.
-- Probado dermatológicamente: El KORRES LEFKO Eau de Toilette ha sido probado dermatológicamente y ofrece una alta compatibilidad para diferentes tipos de piel. Ha sido diseñado específicamente para proporcionar una experiencia olfativa agradable sin irritar la piel.
 - Notas de lirio de los valles, rosa y peonía: El Eau de Toilette presenta una composición única. La nota de salida de lirio de los valles le da al perfume un toque fresco y floral, mientras que las notas de corazón de rosa y peonía crean un aura romántica y sensual. Las notas de fondo de almizcle, polvo y sándalo blanco proporcionan una irradiación cálida y elegante al aroma.
-- Fragancia unisex: El KORRES LEFKO Eau de Toilette es una fragancia unisex que puede ser utilizada tanto por hombres como por mujeres. Su aroma floral, polvoroso y almizclado recuerda al verano pasado, brindando a cada persona una aura única e individual.
+- Consejo de aplicación: Para obtener el máximo efecto del KORRES LEFKO Eau de Toilette, se recomienda rociar el perfume vegano directamente sobre la piel en los puntos de pulso como el cuello, la parte interna de las muñecas y los codos. Deja que el Eau de Toilette se seque sin frotar para que el aroma se desarrolle de manera óptima. Disfruta de la fragancia floral, polvorosa y almizclada de larga duración y deja que su aura única te cautive. Nota: Solo para uso externo.
 - Fórmula vegana y libre de crueldad animal: El EDT está orgulloso de ser vegano y libre de crueldad animal. No contiene ingredientes de origen animal y ha sido desarrollado sin pruebas en animales.
+- Fragancia unisex: El KORRES LEFKO Eau de Toilette es una fragancia unisex que puede ser utilizada tanto por hombres como por mujeres. Su aroma floral, polvoroso y almizclado recuerda al verano pasado, brindando a cada persona una aura única e individual.
+- Probado dermatológicamente: El KORRES LEFKO Eau de Toilette ha sido probado dermatológicamente y ofrece una alta compatibilidad para diferentes tipos de piel. Ha sido diseñado específicamente para proporcionar una experiencia olfativa agradable sin irritar la piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1HDZH1D{{</world>}}

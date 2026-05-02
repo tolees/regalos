@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ESTUCHE DE REGALO: un estuche femenino, compuesto por perfume, crema de manos y crema corporal. Su aroma intenso, con notas afrutadas, te ayudará a evocar la esencia de las calles de Sevilla en primavera, anegadas con millones de flores de naranjo. Colonia con vaporizador.
-- TENDENCIA OLFATIVA: Este pack de mujer tiene una tendencia floral que representa la gran personalidad de las mujeres, aportando frescor y sofisticación. ¡Con Zinnia, atraerás todas las miradas!
 - PIRÁMIDE OLFATIVA: Notas de salida: bergamota, neroli y mandarina; Notas de corazón: jazmín, rosa y muguet; Notas de fondo: pachulí y ámbar
-- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- TENDENCIA OLFATIVA: Este pack de mujer tiene una tendencia floral que representa la gran personalidad de las mujeres, aportando frescor y sofisticación. ¡Con Zinnia, atraerás todas las miradas!
 - FRESCO Y FEMENINO: Un perfume para mujeres que disfrutan de la pureza de un entorno de naturaleza salvaje y verdadera. ¡Una eau de toilette actual y de alta calidad para mujeres elegantes y con personalidad!
+- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG31W8QR{{</world>}}

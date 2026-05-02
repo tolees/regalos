@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El frasco de 50 ml, tallado en forma de esfera, se tiñe de matices rojos inspirados en la granada y su tapón dorado, grabado con el monograma de ELIE SAAB, refleja el savoir-faire de alta costura de la Maison
 - Como toque final, el “Love Accord”, creación olfativa exclusiva de ELIXIR, está diseñado para despertar emociones profundas de apego y seducción
-- Elixir Love de Elie Saab es una lujosa poción de amor con un poder irresistible, creada para realzar la sensualidad y el encanto de la mujer moderna
 - Elie Saab, icono de la alta costura, presenta la línea Elixir como un símbolo de feminidad que envuelve el cuerpo con una sensualidad luminosa e irresistible, como una misteriosa pócima de amor
+- Elixir Love de Elie Saab es una lujosa poción de amor con un poder irresistible, creada para realzar la sensualidad y el encanto de la mujer moderna
+- El frasco de 50 ml, tallado en forma de esfera, se tiñe de matices rojos inspirados en la granada y su tapón dorado, grabado con el monograma de ELIE SAAB, refleja el savoir-faire de alta costura de la Maison
 - Rosas rojas incandescentes se funden con esencia de Rosa, Neroli blanco y Jazmín, en un ramillete floral que se intensifica con un acorde de Cereza y una base sensual de Musgo de Roble y Pachuli
 
 [🛒 Visítala!!!]({{< param buyurl >}})
