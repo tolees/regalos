@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'adidas Vibes Full Recharge Eau de Parfum 100 ml'
+date: 2026-05-26 16:24:10
+image: 'https://m.media-amazon.com/images/I/31aao0NuxpL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D5RJH7TM-es adidas Vibes Full Recharge Eau de Parfum 100 ml'
+sku: 'B0D5RJH7TM-es'
+tags: [ 'de','eau','parfum','🇪🇸', ]
+actualPrice: 11.55 EUR
+currency: EUR
+price: 11.55
+comparePrice: 19.99 EUR
+prodname: 'adidas Vibes Full Recharge Eau de Parfum 100 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0D5RJH7TM/?tag=tolees-21'
+descuento: '42.22'
+average: '13.08'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Con notas de hoja de cedro y salvia sclarea; Con aceites naturales esenciales
+- Dermatológicamente testada y fórmula vegana
+- Fabricado con materiales reciclados** ; ** 96 % de tapón PCR, 25 % de vidrio PCR, cartón FSC
+- Un Eau de Parfum fresco, estimulante y revitalizante de larga duración que se ha demostrado que transmite energía positiva*; * 81 % de opiniones favorables en una prueba de consumo de 106 participantes
+- Fragancia Eau de Parfum Adidas Vibes Full Recharge
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0D5RJH7TM{{</world>}}
