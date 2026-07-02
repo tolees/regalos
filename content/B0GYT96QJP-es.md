@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PERFUME VERSÁTIL: Ideal como perfume mujer diario o para ocasiones especiales; su aroma elegante y femenino se adapta a cualquier momento y estación del año.
-- REGALO PERFECTO PARA MUJER: Este perfume de Tous es ideal para regalar en cumpleaños, San Valentín, Día de la Madre o Navidad; diseño atractivo que combina lujo y feminidad.
-- TENDENCIA OLFATIVA: Fragancia de mujer con equilibrio perfecto entre frescura y sofisticación, ideal para quienes buscan un perfume duradero que acompañe todo el día sin resultar pesado.
 - PIRÁMIDE OLFATIVA: Notas de salida: cereza negra, flor de naranjo, aceite de jengibre de Shimoga India. Notas de corazón: peonía, Seringat, Akigalawood. Notas de fondo: aceite de cedro blanco, haba tonka, almizcles.
-- FRAGANCIA FLORAL FRUTAL ALMIZCLADA: LoveMe The Amethyst Elixir es el perfume de mujer reservado para la jugadora nata, encapsula el duelo entre audacia y visión, invitándote a conquistar tu deseo.
+- REGALO PERFECTO PARA MUJER: Este perfume de Tous es ideal para regalar en cumpleaños, San Valentín, Día de la Madre o Navidad; diseño atractivo que combina lujo y feminidad.
+- PERFUME VERSÁTIL: Ideal como perfume mujer diario o para ocasiones especiales; su aroma elegante y femenino se adapta a cualquier momento y estación del año.
 - TOUS: Perfume original de Tous, firma icónica en joyería y fragancias, sinónimo de calidad, elegancia y diseño exclusivo desde 1920.
+- TENDENCIA OLFATIVA: Fragancia de mujer con equilibrio perfecto entre frescura y sofisticación, ideal para quienes buscan un perfume duradero que acompañe todo el día sin resultar pesado.
+- FRAGANCIA FLORAL FRUTAL ALMIZCLADA: LoveMe The Amethyst Elixir es el perfume de mujer reservado para la jugadora nata, encapsula el duelo entre audacia y visión, invitándote a conquistar tu deseo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GYT96QJP{{</world>}}

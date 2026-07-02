@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EL REGALO PERFECTO PARA NAVIDAD – La cuenta atrás para Navidad es casi tan divertida y mágica como la propia festividad. Abre cada puertecita durante 24 días para descubrir una nueva sorpresa de Superthings escondida en su interior. ¡Colecciónalas y juega con todas!
-- REGALOS DE EDICIÓN LIMITADA – ¡Entre los 24 regalos que contiene, encontrarás sorpresas especiales de edición limitada! ¿Resistirás la tentación… o te adelantarás a abrir las casillas para encontrar las sorpresas de edición limitada?
 - SORPRESAS INCREÍBLES – Consigue las 24 figuras de Superthings y encuentra 12 juguetes sorpresa: incluye 24 figuras de Superthings, 2 Hideouts, 2 Secret Hideouts, 4 Jets, 2 Exoskeletons y 2 Special Vehicles
 - ¡EL PRIMER CALENDARIO DE ADVIENTO DE SUPERTHINGS! – ¡Estas Navidades serán más mágicas que nunca! Por primera vez, llega el exclusivo Calendario de Adviento de Superthings. ¡Contiene 24 regalos, incluidas sorpresas especiales!
 - AVENTURAS SIN FIN – Al desplegar la tapa del calendario, encontrarás un escenario de Kaboom City perfecto para jugar y vivir multitud de aventuras
+- EL REGALO PERFECTO PARA NAVIDAD – La cuenta atrás para Navidad es casi tan divertida y mágica como la propia festividad. Abre cada puertecita durante 24 días para descubrir una nueva sorpresa de Superthings escondida en su interior. ¡Colecciónalas y juega con todas!
+- REGALOS DE EDICIÓN LIMITADA – ¡Entre los 24 regalos que contiene, encontrarás sorpresas especiales de edición limitada! ¿Resistirás la tentación… o te adelantarás a abrir las casillas para encontrar las sorpresas de edición limitada?
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FK5SNT3Y{{</world>}}

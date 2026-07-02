@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💡【Iluminación de 110 lm de ambiente】Las 50 bombillas de 110 lm proporcionan una luz brillante y recrean la auténtica atmósfera de las ferias. Perfecto para patio, cenador o decoración de eventos. Bombillas para iluminación independiente. La extracción de una bombilla no afecta al funcionamiento de las demás.
-- 💡【Guirnalda LED conectable】Compuesta por 53 bombillas G40 de 110 lm (3 de repuesto) y 50 bases E12, esta guirnalda guinguette emite una luz suave y cálida de 2700 K. Su sistema de conexión en serie permite ajustar libremente la longitud según sus necesidades. Solución ideal para embellecer jardín, terraza, eventos o tiendas (bistrós, bares, carpas efímeras).
 - 💡【Instalación rápida y Plug & Play】Longitud total 30M (2m de cable de alimentación). Las bombillas G40 ya están montadas y colocadas dentro del paquete. Hay pequeños ganchos en el lado de cada bombilla para facilitar la suspensión. Con su enchufe impermeable universal, basta con conectarlo y usarlo.
-- 💡【Resistencia óptima】Certificación IP44 contra salpicaduras de agua y polvo. Fabricado en PC, transparencia y robustez superior al PVC/vidrio. Resistente a golpes térmicos y condiciones climáticas difíciles (-20°C a 50°C).
+- 💡【Guirnalda LED conectable】Compuesta por 53 bombillas G40 de 110 lm (3 de repuesto) y 50 bases E12, esta guirnalda guinguette emite una luz suave y cálida de 2700 K. Su sistema de conexión en serie permite ajustar libremente la longitud según sus necesidades. Solución ideal para embellecer jardín, terraza, eventos o tiendas (bistrós, bares, carpas efímeras).
 - 💡【Ecoeficiente y seguro】Equipado con bombillas LED de clase energética A (0,6-1W/bombilla). Funcionamiento sin sobrecalentamiento que garantiza la seguridad total, incluso en uso prolongado. Hasta un 95% de ahorro de energía con una durabilidad excepcional (30.000 horas de iluminación).
+- 💡【Resistencia óptima】Certificación IP44 contra salpicaduras de agua y polvo. Fabricado en PC, transparencia y robustez superior al PVC/vidrio. Resistente a golpes térmicos y condiciones climáticas difíciles (-20°C a 50°C).
+- 💡【Iluminación de 110 lm de ambiente】Las 50 bombillas de 110 lm proporcionan una luz brillante y recrean la auténtica atmósfera de las ferias. Perfecto para patio, cenador o decoración de eventos. Bombillas para iluminación independiente. La extracción de una bombilla no afecta al funcionamiento de las demás.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZXQFKFT{{</world>}}

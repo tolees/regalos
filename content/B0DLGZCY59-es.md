@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contenido del envío: 1 x Colgante Swarovski Idyllia, Cadena ajustable en tono oro, Baño en tono oro, incl. embalaje de Swarovski
 - Jardín de ensueño: el colgante Swarovski Idyllia captura la magia cristalizada de un jardín encantado que florece en tu cuello con sus pétalos azules y su tallo bañado en oro
 - Armonía cristalina: La armonía de formas y la vibrante mezcla de cristales danzan con la luz, creando un brillo multidimensional que irradia alegría y levanta el ánimo al instante
+- Oda floral: este homenaje floral a la naturaleza, se centra en una deslumbrante flor con radiantes pétalos azules y un tallo en tono oro suspendida de una delicada cadena con cierre de mosquetón
 - Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
 - Medidas: largo ajustable 42 - 49 cm, tamaño del motivo 3,5 x 1,7 cm
-- Contenido del envío: 1 x Colgante Swarovski Idyllia, Cadena ajustable en tono oro, Baño en tono oro, incl. embalaje de Swarovski
-- Oda floral: este homenaje floral a la naturaleza, se centra en una deslumbrante flor con radiantes pétalos azules y un tallo en tono oro suspendida de una delicada cadena con cierre de mosquetón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DLGZCY59{{</world>}}

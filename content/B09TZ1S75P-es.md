@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una fragancia agradable
 - Proporciona una limpieza óptima
 - Aporta una agradable sensación de confort
+- Tiene una fragancia agradable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TZ1S75P{{</world>}}

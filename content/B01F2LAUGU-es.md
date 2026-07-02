@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aroma fresco amaderado-especiado
 - Olor intenso y duradero
 - Fragancia adecuada para uso diario
+- Aroma fresco amaderado-especiado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01F2LAUGU{{</world>}}

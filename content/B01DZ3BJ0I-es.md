@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta esencia evoca en un primer momento notas florales, que provienen de olores a miel y clavel; al fondo, aparecen matices de musgo
 - Una fragancia agradable y duradera para usarla diariamente
 - Consigue despertar frescor y elegancia, con personalidad adecuada y duradera
+- Esta esencia evoca en un primer momento notas florales, que provienen de olores a miel y clavel; al fondo, aparecen matices de musgo
 - Adecuada para mujeres que quieren cuidar su imagen
 - El práctico envase con pulverizador de 150 ml aporta comodidad por su gran capacidad y estilo con su diseño transparente
 

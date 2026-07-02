@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A lo largo de las décadas, GUESS ha cautivado al mundo entero con sus campañas publicitarias icónicas y ha forjado un auténtico imperio internacional de perfumes emblemáticos.
-- El Eau de Toilette GUESS Seductive Red es una colonia de mujer dulce y apasionada, que irradia sensualidad, lujo y audacia.
-- El Eau de Toilette GUESS Seductive Blue es una colonia floral y adictiva, creada para la mujer sofisticada y libre, que irradia confianza y elegancia natural.
-- El Eau de Toilette GUESS Seductive es una colonia de mujer sensual y seductora que captura el magnetismo único y el estilo alegre y cautivador distintivo de la marca GUESS.
 - El Eau de Toilette GUESS Seductive Noir es una colonia de mujer sensual que captura el magnetismo único y el estilo alegre y cautivador distintivo de la marca GUESS.
+- El Eau de Toilette GUESS Seductive Blue es una colonia floral y adictiva, creada para la mujer sofisticada y libre, que irradia confianza y elegancia natural.
+- El Eau de Toilette GUESS Seductive Red es una colonia de mujer dulce y apasionada, que irradia sensualidad, lujo y audacia.
+- El Eau de Toilette GUESS Seductive es una colonia de mujer sensual y seductora que captura el magnetismo único y el estilo alegre y cautivador distintivo de la marca GUESS.
+- A lo largo de las décadas, GUESS ha cautivado al mundo entero con sus campañas publicitarias icónicas y ha forjado un auténtico imperio internacional de perfumes emblemáticos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJGQHDTH{{</world>}}

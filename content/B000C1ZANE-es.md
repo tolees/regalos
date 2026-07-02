@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eau de Toilette para hombre 1 l
-- La fragancia contiene notas orientales, notas amaderadas, notas especiadas
 - Es una fragancia de la familia olfativa aromática
+- Eau de Toilette para hombre 1 l
 - Su aroma es amaderado y especiado
+- La fragancia contiene notas orientales, notas amaderadas, notas especiadas
 - El perfume inconfundible, masculino y tradicional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del pack: 1 Caja Regalo con 17 Bombones Chocoviar Pistacho (310 g)
+- Caja Regalo Murrine con Chocoviar Pistacho: bombones con relleno suave de pistachos enteros y “Avellana Piamonte IGP”, recubiertos de chocolate negro y decorados con granillo de toffee y nibs de cacao
 - Sabor: relleno goloso de pistacho y “Avellana Piamonte IGP”, con pistachos enteros, envuelto en chocolate negro y enriquecido con granillo de toffee y nibs de cacao de Sudamérica
 - Regalo Murrine Venchi: los bombones Chocoviar representan toda la experiencia, el estilo y la creatividad de Venchi, un regalo ideal para cualquier ocasión, una mezcla única y sofisticada de texturas, rellenos inesperados y crujientes, presentados en elegantes paquetes como libros, sombrereras y bolsitas
 - Los bombones están elaborados exclusivamente en Italia con ingredientes naturales, no contienen gluten, aceite de palma, colorantes, conservantes ni componentes artificiales, para garantizar la máxima calidad
-- Caja Regalo Murrine con Chocoviar Pistacho: bombones con relleno suave de pistachos enteros y “Avellana Piamonte IGP”, recubiertos de chocolate negro y decorados con granillo de toffee y nibs de cacao
+- Contenido del pack: 1 Caja Regalo con 17 Bombones Chocoviar Pistacho (310 g)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHHF5CGZ{{</world>}}

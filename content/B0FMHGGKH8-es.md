@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PRUEBA EL EXCEPCIONAL AROMA DE OLD SPICE CAPTAIN: La fragancia de las feroces olas del océano, madera de sándalo y ácida bergamota te transformará en el intrépido capitán de la frescura
 - ¡LIBERA UN FRESCOR INCREÍBLE 24 HORAS TODOS LOS DÍAS* con los sets de regalo Old Spice! (* con el uso de gel de ducha y desodorante)
 - EL REGALO PERFECTO para el amante de los viajes que anhela un frescor y una fragancia legendaria en cualquier parte del mundo
 - ELEGANTEMENTE EMPAQUETADO EN un emblemático neceser Old Spice que puede reutilizarse para llevar artículos de aseo en tus viajes o a entrenar
-- PRUEBA EL EXCEPCIONAL AROMA DE OLD SPICE CAPTAIN: La fragancia de las feroces olas del océano, madera de sándalo y ácida bergamota te transformará en el intrépido capitán de la frescura
 - EL SET DE REGALO INCLUYE un desodorante en barra de 50 ml, en spray de 150 ml y un gel de ducha de 250 ml Captain
 
 [🛒 Aquí!!!]({{< param buyurl >}})

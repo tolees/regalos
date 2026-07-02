@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colección Halloween
 - Pijama de manga larga Pantalón largo
+- Colección Halloween
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDGGFM2C{{</world>}}

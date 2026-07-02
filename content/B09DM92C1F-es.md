@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ELEGANTE Y MASCULINO: Un perfume para hombres exquisitos y diferentes que cuiden hasta el más pequeño detalle de sí mismos. ¡Dispuesto a exprimir cada minuto al máximo!
-- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia fresca amaderada, que rinde homenaje al hombre actual cuida enormemente su aspecto. ¡El complemento indispensable para tu arreglo personal!
-- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
-- PIRÁMIDE OLFATIVA: Notas de salida: limón verde, hojas de naranjo, lavanda, tomillo y salvia; Notas de corazón: canela, pimienta y geranio; Notas de fondo: vetiver, sándalo, tabaco, musgo de encina y madera de cachemir
 - ESTUCHE REGALO: Brummel es un estuche masculino con un carácter refinado y sofisticado para disfrutar de una mejor imagen personal y un mayor poder de seducción. El pack incluye una colonia y un bálsamo para el cuidado de la piel. Colonia con vaporizador.
+- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia fresca amaderada, que rinde homenaje al hombre actual cuida enormemente su aspecto. ¡El complemento indispensable para tu arreglo personal!
+- ELEGANTE Y MASCULINO: Un perfume para hombres exquisitos y diferentes que cuiden hasta el más pequeño detalle de sí mismos. ¡Dispuesto a exprimir cada minuto al máximo!
+- PIRÁMIDE OLFATIVA: Notas de salida: limón verde, hojas de naranjo, lavanda, tomillo y salvia; Notas de corazón: canela, pimienta y geranio; Notas de fondo: vetiver, sándalo, tabaco, musgo de encina y madera de cachemir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DM92C1F{{</world>}}

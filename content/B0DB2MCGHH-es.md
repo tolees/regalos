@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - BÁLSAMO LABIAL PARA NIÑAS Y NIÑOS: Diviértete usando el Eraser Box Lip Balm Trio que incluye tres bálsamos labiales perfumados en una bonita caja con forma de borrador
-- DULCES SONRISAS EN TODO EL MUNDO: Desde 1973, Lip Smacker ha dibujado sonrisas en los labios de todo el mundo. Esperamos que nuestros auténticos sabores, fragancias y coloridos te hagan muy feliz
 - DELICIOSOS SABORES: Como todos los productos Lip Smacker, este trío contiene bálsamos labiales perfumados de tres sabores: Back to Cherry, Sunset Peach y Electric Soda Pop
-- HIDRATANTE: ¡Se acabaron los labios secos y agrietados! Gracias a la fórmula con aceite de ricino de este bálsamo labial, tus labios estarán nutridos e hidratados durante todo el día
 - BACK TO SCHOOL COLLECTION: Completa tu lista de material escolar con la colección "Vuelta al cole" de Lip Smacker, que incluye divertidos juegos de bálsamos labiales para comenzar el nuevo curso escolar
+- HIDRATANTE: ¡Se acabaron los labios secos y agrietados! Gracias a la fórmula con aceite de ricino de este bálsamo labial, tus labios estarán nutridos e hidratados durante todo el día
+- DULCES SONRISAS EN TODO EL MUNDO: Desde 1973, Lip Smacker ha dibujado sonrisas en los labios de todo el mundo. Esperamos que nuestros auténticos sabores, fragancias y coloridos te hagan muy feliz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DB2MCGHH{{</world>}}

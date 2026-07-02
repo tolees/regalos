@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Las notas de peonía rosada y fresia se despliegan sobre un fondo de ámbar cristalino y madera de sándalo cremosa, dejando una estela soleada, suave y adictiva.
+- Una salida luminosa que combina pomelo tonificante y sorbete de melocotón dorado aporta una sensación helada y jugosa, seguida de un corazón floral luminoso y etéreo.
+- Desde 1989, DKNY se inspira en Nueva York y en su energía vibrante. Cada fragancia, incluida Ice Pop Citrus Splash, encarna un espíritu divertido, moderno y ecléctico, perfecto para el verano e ideal para una deliciosa evasión dulce.
 - DKNY Be Delicious Ice Pop Citrus Splash Eau de Parfum es una fragancia femenina fresca y chispeante, inspirada en la energía veraniega de Nueva York y en el placer refrescante de un helado de cítricos.
 - Presentada en el frasco icónico Be Delicious reinterpretado en versión Ice Pop, esta fragancia colorida y luminosa encarna una feminidad fresca, moderna y espontánea.
-- Las notas de peonía rosada y fresia se despliegan sobre un fondo de ámbar cristalino y madera de sándalo cremosa, dejando una estela soleada, suave y adictiva.
-- Desde 1989, DKNY se inspira en Nueva York y en su energía vibrante. Cada fragancia, incluida Ice Pop Citrus Splash, encarna un espíritu divertido, moderno y ecléctico, perfecto para el verano e ideal para una deliciosa evasión dulce.
-- Una salida luminosa que combina pomelo tonificante y sorbete de melocotón dorado aporta una sensación helada y jugosa, seguida de un corazón floral luminoso y etéreo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTMDKFHW{{</world>}}
