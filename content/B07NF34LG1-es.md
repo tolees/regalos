@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anillo marca PANDORA
 - Referencia 198018-50
+- Anillo marca PANDORA
 - Knotted hearts silver ring marca PANDORA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

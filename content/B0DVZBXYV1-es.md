@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Enriquecido con frutas frescas y brillantes y flores ricas
 - NOTAS DE FONDO: Sándalo, Musgo
 - NOTAS DE SALIDA: Bergamota, Melón, Durazno, Osmanto
-- Enriquecido con frutas frescas y brillantes y flores ricas
 - NOTAS DE CORAZÓN: Jazmín, Ciclamino
 - Fórmula rica en hidratación
 

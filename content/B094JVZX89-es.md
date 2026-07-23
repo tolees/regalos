@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
-- FRAGANCIA ÚNICA: 1916 Original es un perfume masculino, femenino y familiar, que te ayudará a evocar recuerdos bellos y frescos del pasado. Viene un frasco de 400 mililitros.
-- PERFUME EVOCADOR: Un agua de colonia compuesta por una variedad de aromas naturales y de calidad perfectamente entremezclados que te harán soñar. ¡Para recordar aquellos momentos privilegiados!
 - TENDENCIA OLFATIVA: Este perfume unisex tiene una tendencia aromática, que rinde homenaje a nuestros mejores recuerdos. ¡Penetra en nuestra memoria y nos devuelve una sensación, momento o persona!
+- FRAGANCIA ÚNICA: 1916 Original es un perfume masculino, femenino y familiar, que te ayudará a evocar recuerdos bellos y frescos del pasado. Viene un frasco de 400 mililitros.
 - PIRÁMIDE OLFATIVA: Notas de salida: bergamota, limón, mandarina y melocotón; Notas de corazón: lavandino, romero, flor de azahar y muguet; Notas de fondo: ámbar y almizcle
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- PERFUME EVOCADOR: Un agua de colonia compuesta por una variedad de aromas naturales y de calidad perfectamente entremezclados que te harán soñar. ¡Para recordar aquellos momentos privilegiados!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094JVZX89{{</world>}}

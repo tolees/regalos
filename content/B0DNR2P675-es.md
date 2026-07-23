@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Tus joyas vienen con un estuche de regalo. Se incluirá únicamente un estuche en el pedido. Podrás guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. También puedes usarlo cuando quieras hacerle un detalle a tu persona especial como envoltorio para regalo. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
-- Altura total de 34,8mm x 22,8mm de ancho. Su cierre de silicona es una rosca a presión cuadrada, pequeña y bañada en oro de 18kt. Además, es muy cómoda y discreta.
-- Los pendientes Camila de acero bañados en oro son florales e ideales para las mujeres elegantes. Dos pendientes en forma de flor que elevan automáticamente tu look.
 - Fabricada en Acero Inoxidable bañada en oro 18kt. El acero inoxidable es un material resistente al agua.
+- Tus joyas vienen con un estuche de regalo. Se incluirá únicamente un estuche en el pedido. Podrás guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. También puedes usarlo cuando quieras hacerle un detalle a tu persona especial como envoltorio para regalo. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
+- Los pendientes Camila de acero bañados en oro son florales e ideales para las mujeres elegantes. Dos pendientes en forma de flor que elevan automáticamente tu look.
+- Altura total de 34,8mm x 22,8mm de ancho. Su cierre de silicona es una rosca a presión cuadrada, pequeña y bañada en oro de 18kt. Además, es muy cómoda y discreta.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNR2P675{{</world>}}

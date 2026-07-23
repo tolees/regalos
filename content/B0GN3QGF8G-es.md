@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricada en Latón bañada en oro 18kt. El latón es un material para las amantes de las joyas resistentes y fáciles de limpiar.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
-- Largo de 6,5cm, contiene circonitas de 2,5 x 2,5 mm y 3,3 x 4,5mm. Su cierre de silicona es una rosca a presión pequeña y bañada en oro de 18kt. Además, es muy cómoda y discreta. Destaca por sus detalles en circonitas. La circonita es una gema o piedra sintética parecida por su forma cúbica al diamante y con un brillo único. Su color puede variar ligeramente.
 - Tus joyas vienen con un estuche de regalo. Se incluirá únicamente un estuche en el pedido. Podrás guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. También puedes usarlo cuando quieras hacerle un detalle a tu persona especial como envoltorio para regalo. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
+- Fabricada en Latón bañada en oro 18kt. El latón es un material para las amantes de las joyas resistentes y fáciles de limpiar.
+- Largo de 6,5cm, contiene circonitas de 2,5 x 2,5 mm y 3,3 x 4,5mm. Su cierre de silicona es una rosca a presión pequeña y bañada en oro de 18kt. Además, es muy cómoda y discreta. Destaca por sus detalles en circonitas. La circonita es una gema o piedra sintética parecida por su forma cúbica al diamante y con un brillo único. Su color puede variar ligeramente.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Los Pendientes Long Iris son colgantes y largos con formas geométricas y circonitas. Unos pendientes que brillan por si solos y que elevarán cualquier look.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

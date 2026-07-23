@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Composición: verbena, naranja, mandarina, jazmín, notas dulces, uñas, ámbar, madera, sándalo, vainilla
-- Familias de fragancias: afrutado, floral
 - Tipo de producto: agua de perfume
+- Familias de fragancias: afrutado, floral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002XQ1TB8{{</world>}}

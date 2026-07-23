@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Un diseño radiante: la talla redonda resalta el brillo de los cristales rosas, creando un contraste delicado con el acabado en rodio
 - Contenido del envío: 1x Par de Pendientes Swarovski Bella V, par de pendientes con cristales rosas de talla redonda, baño en rodio, incl. embalaje de Swarovski
 - Diseñado para perdurar en el tiempo: las joyas de Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
-- Celebra la elegancia diaria: los pendientes Bella V de Swarovski combinan cristales rosas en talla redonda con un acabado en rodio que aporta luz y estilo en cualquier ocasión
-- Medidas: 1,9 x 1 cm
 - Versatilidad a juego: estos pendientes pueden combinarse con colgantes rosas de Swarovski, formando un conjunto armonioso para looks de día y de noche
+- Medidas: 1,9 x 1 cm
+- Celebra la elegancia diaria: los pendientes Bella V de Swarovski combinan cristales rosas en talla redonda con un acabado en rodio que aporta luz y estilo en cualquier ocasión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F6369LVY{{</world>}}

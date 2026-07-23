@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido de envío: 1x Pendientes Swarovski Gema, cristal verde, cristales multicolores, engaste en forma de burbuja, baño en tono oro, incl. embalaje de Swarovski
 - Inyección de color: los pendientes Swarovski Gema, con su color y estilo vibrante, son los accesorios adecuados para un look alegre, listos para afrontar el día a día
+- Contenido de envío: 1x Pendientes Swarovski Gema, cristal verde, cristales multicolores, engaste en forma de burbuja, baño en tono oro, incl. embalaje de Swarovski
 - Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
-- Estallido de forma: los cristales más pequeños con su engaste de garra en forma de burbuja crean destellos multicolores y son fácilmente combinables con otras joyas de la colección
-- Medidas: 2,8 x 0,9 cm
 - Danza de colores: el diseño se presenta de un strand corto con tres cristales grandes en múltiples tonos y cristales más pequeños que los acompañan, potenciando la luz y creando un look divertido
+- Medidas: 2,8 x 0,9 cm
+- Estallido de forma: los cristales más pequeños con su engaste de garra en forma de burbuja crean destellos multicolores y son fácilmente combinables con otras joyas de la colección
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLH2V6XL{{</world>}}

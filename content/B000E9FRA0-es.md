@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un jardin sur le nil edt vapo 50 ml
 - Nombre de la fragancia: Fleuri
 - La belleza más deseada a tu alcance con los mejores productos del mercado al mejor
 - Productos de belleza e higiene personal para hombres y mujeres de todas las edades
+- Un jardin sur le nil edt vapo 50 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000E9FRA0{{</world>}}

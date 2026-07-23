@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 15 bombones Nestlé Extrafino Dinosaurus envueltos individualmente
-- Un relleno cremoso con trocitos de galleta Dinosaurus cubierto de chocolate con leche Nestlé Extrafino
 - 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest Alliance
+- Un relleno cremoso con trocitos de galleta Dinosaurus cubierto de chocolate con leche Nestlé Extrafino
 - Para que los más jovenes también disfruten de los bombones
 - Fabricado en La Penilla, España
 

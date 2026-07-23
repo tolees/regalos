@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental gourmand, que rinde homenaje a todas las mujeres indomables y con muchas ganas de vivir, que buscan retos y todo lo que nos emciona y revoluciona.
+- PIRÁMIDE OLFATIVA: Notas de salida: grosella negra, pimienta rosa y pera; Notas de corazón: jazmín, rosa, coco y caramelo; Notas de fondo: benjuí, vainilla, heliotropo y pachulí
 - ESTUCHE DE REGALO: Nike Ultra Pink es un estuche femenino con un carácter insurgente y con vitalidad, concebida para empujarte a vivir tus mejores experiencias. Incluye una colonia, una crema corporal y un gel de baño. Colonia con vaporizador.
 - FEMENINA Y REBELDE: Un estuche para mujeres, con elementos explosivos y dulces que la convierten en la perfecta colonia para ellas. ¡Acaparará todos tus sentidos!
-- PIRÁMIDE OLFATIVA: Notas de salida: grosella negra, pimienta rosa y pera; Notas de corazón: jazmín, rosa, coco y caramelo; Notas de fondo: benjuí, vainilla, heliotropo y pachulí
-- TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental gourmand, que rinde homenaje a todas las mujeres indomables y con muchas ganas de vivir, que buscan retos y todo lo que nos emciona y revoluciona.
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BX1HP9G{{</world>}}

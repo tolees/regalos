@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desde 1989, DKNY se inspira en Nueva York y en su energía vibrante. Cada fragancia, incluida Ice Pop Berry Bliss, encarna un espíritu divertido, moderno y ecléctico, perfecto para el verano e ideal para una deliciosa evasión dulce.
 - Las notas de frambuesa y azúcar hilado de algodón de azúcar envuelven la piel con una dulzura adictiva, creando una estela veraniega, gourmand y deliciosamente femenina.
-- Una salida helada y chispeante que combina hojas de menta fresca y mango dulce aporta una sensación inmediata de frescor, seguida de un corazón luminoso afrutado y floral.
+- Desde 1989, DKNY se inspira en Nueva York y en su energía vibrante. Cada fragancia, incluida Ice Pop Berry Bliss, encarna un espíritu divertido, moderno y ecléctico, perfecto para el verano e ideal para una deliciosa evasión dulce.
 - Presentada en el frasco icónico Be Delicious reinterpretado en versión Ice Pop, esta fragancia divertida y colorida encarna una feminidad alegre, moderna y espontánea.
 - DKNY Be Delicious Ice Pop Berry Bliss Eau de Parfum es una fragancia femenina fresca y gourmand, inspirada en la energía veraniega de Nueva York y en el placer irresistible de un helado afrutado.
+- Una salida helada y chispeante que combina hojas de menta fresca y mango dulce aporta una sensación inmediata de frescor, seguida de un corazón luminoso afrutado y floral.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTM6KX11{{</world>}}

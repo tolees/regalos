@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
 - Nestle Caja Roja se fabrica en La Penilla (Cantabria), con leche fresca recogida diariamente en la cornisa cantábrica
-- Esta caja contiene 6 estuches de Nestle Caja Roja 45g
 - Los bombones Caja Roja son óptimas para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho
 - Bombones especialmente pensados para regalar, con Caja Roja siempre quedas bien en cualquier celebración
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
+- Esta caja contiene 6 estuches de Nestle Caja Roja 45g
 - Delicioso surtido de 5 bombones de chocolate con leche, negro y blanco de excelente calidad Bombones 100% aromas naturales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

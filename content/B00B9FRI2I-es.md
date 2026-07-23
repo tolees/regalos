@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disponible en solo un tamaño
-- Incluye Peluca de estrella del pop de los 80, negro, larga despeinada corte mullet
 - Tenga en cuenta que todos nuestros productos Smiffys siempre vienen en un empaque completo con la marca Smiffys
 - Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
+- Incluye Peluca de estrella del pop de los 80, negro, larga despeinada corte mullet
+- Disponible en solo un tamaño
 - Nuestro equipo interno de seguridad asegura que todos nuestros productos son manufaturados y rigurosamente testados para cumplir con los estándares y regulamentos europeos y americanos de seguridad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

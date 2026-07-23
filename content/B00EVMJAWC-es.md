@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRÁCTICO FORMATO: Esta caja de bombones contiene aproximadamente 170 barritas de chocolate, cada uno de los bombones merci está envuelto individualmente para una mejor conservación e higiene
-- 7 ESPECIALIDADES: Pequeños placeres de chocolate surtido: chocolate con leche, chocolate negro, chocolate blanco, con avellanas, con almendras, con café, praliné; para pequeños momentos de chocolate
+- MERCI SIGNIFICA GRACIAS: Desde 1964, los bombones merci son la mejor manera de decir gracias con un gesto especial, porque agradecer simplemente te hace feliz: con merci puedes expresar aún más aprecio
 - PARA REGALAR Y COMPARTIR: Esta caja de chocolates para regalar es ideal para consumo propio o como regalo y son la forma ideal de simplemente decir "gracias" a seres queridos, amigos o colegas
 - SIN GLUTEN Y APTOS PARA VEGETARIANOS: Esta caja con bombones para regalar sin gluten incluye chocolates y rellenos variados, todos ellos deliciosos y aptos para celíacos y dietas vegetarianas
-- MERCI SIGNIFICA GRACIAS: Desde 1964, los bombones merci son la mejor manera de decir gracias con un gesto especial, porque agradecer simplemente te hace feliz: con merci puedes expresar aún más aprecio
+- PRÁCTICO FORMATO: Esta caja de bombones contiene aproximadamente 170 barritas de chocolate, cada uno de los bombones merci está envuelto individualmente para una mejor conservación e higiene
+- 7 ESPECIALIDADES: Pequeños placeres de chocolate surtido: chocolate con leche, chocolate negro, chocolate blanco, con avellanas, con almendras, con café, praliné; para pequeños momentos de chocolate
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EVMJAWC{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato: 118 Bombones con Forma de Corazón de Chocolate con Leche, 1 kg
 - Día de la Madre Venchi: con Venchi, cada chocolate es un gesto de afecto, un placer para compartir, una pequeña obra de arte que transforma un instante cualquiera en algo extraordinario
 - Sabor: cremoso y suave chocolate con leche con dulces notas de toffee y caramelo, un capricho único, ideal para compartir
 - Bombones con Forma de Corazón: bombones de corazón de chocolate con leche, perfectos para regalar
+- Formato: 118 Bombones con Forma de Corazón de Chocolate con Leche, 1 kg
 - Los bombones Venchi se producen rigurosamente en Italia con ingredientes naturales, son sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

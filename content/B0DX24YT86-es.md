@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricada en LATÓN BAÑADA EN ORO 18KT. El latón es un material perfecto para las amantes de las joyas resistentes y fáciles de limpiar.Nuestras joyas tienen una garantía de 3 años desde su entrega, ya que nuestro objetivo principal es que estén siempre como el primer día.
-- El Anillo Crush es un sello con la palabra crush perfecto para las chicas más enamoradizas. Por suerte, este anillo no es solo tu próximo crush, si no un amor para toda la vida.
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
-- Talla 12. Grosor de hilo variable de 1,4mm a 2,5mm. Altura sello de 11,6mm x 4,5mm.
 - CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
+- Fabricada en LATÓN BAÑADA EN ORO 18KT. El latón es un material perfecto para las amantes de las joyas resistentes y fáciles de limpiar.Nuestras joyas tienen una garantía de 3 años desde su entrega, ya que nuestro objetivo principal es que estén siempre como el primer día.
+- Talla 12. Grosor de hilo variable de 1,4mm a 2,5mm. Altura sello de 11,6mm x 4,5mm.
+- El Anillo Crush es un sello con la palabra crush perfecto para las chicas más enamoradizas. Por suerte, este anillo no es solo tu próximo crush, si no un amor para toda la vida.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DX24YT86{{</world>}}

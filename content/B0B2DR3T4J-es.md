@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Vaporizador de 100ml
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Halloween Blossom es un estallido de flores; es libertad y naturaleza. Es conectar contigo misma y darte cuenta de la importancia de cada segundo
 - Perfume Halloween con fragancia floral afrutada para mujer
-- Vaporizador de 100ml
 - Su pirámide olfativa comienza por mandarina verde, pimienta rosa y fresa salvaje. En su corazón, flor de mora, flor de naranjo, jazmín de Egipto que finaliza en aceite de cedro, vainilla y almizcle
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2DR3T4J{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CLÁSICO Y MASCULINO: un agua de colonia para hombres que te transporta a los frescos y coloridos aromas de los mercados orientales. ¡Disfruta de las sensaciones más agradables de la naturaleza!
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, cardamomo, elemi y naranja; Notas de corazón: incienso, lavanda y mirra; Notas de fondo: musgo, papiro, vainilla y vetiver
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 - TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia cítrica. Es ideal para aquellos hombres que buscan un olor maduro, limpio y fresco
+- CLÁSICO Y MASCULINO: un agua de colonia para hombres que te transporta a los frescos y coloridos aromas de los mercados orientales. ¡Disfruta de las sensaciones más agradables de la naturaleza!
 - FRAGANCIA ÚNICA: Nike Viral Blue es un perfume masculino, para hombres apasionados y enérgicos que captura a la perfección la esencia de la masculinidad actual. Frasco con vaporizador.
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, cardamomo, elemi y naranja; Notas de corazón: incienso, lavanda y mirra; Notas de fondo: musgo, papiro, vainilla y vetiver
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTTFZJV4{{</world>}}

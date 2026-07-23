@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TENDENCIA OLFATIVA: Este perfume unisex es el resultado de la combinación ideal entre sus diferentes tonos. Bergamota, té verde, floral, vainilla y madera… ¡Es un símbolo de personalidad!
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota cítrica fresca, té verde y notas acuáticas; Notas de corazón: rosado floral, fresia y notas pulverulentas; Notas de fondo: almizcle blanco, vainilla y madera de cedro
-- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
-- SUAVE Y EMBRIAGADOR: Un agua de colonia para hombres y mujeres que quieran vivir un mundo lleno de sentimiento y luminosidad. ¡Disfruta del paseo por un jardín repleto de sensaciones únicas!
 - FRAGANCIA ÚNICA: Agua Fresca de Rosas, de De Ruy, es un perfume femenino y masculino con un carácter tierno que evoca un paseo por un jardín infinito repleto de sensaciones únicas
+- TENDENCIA OLFATIVA: Este perfume unisex es el resultado de la combinación ideal entre sus diferentes tonos. Bergamota, té verde, floral, vainilla y madera… ¡Es un símbolo de personalidad!
+- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota cítrica fresca, té verde y notas acuáticas; Notas de corazón: rosado floral, fresia y notas pulverulentas; Notas de fondo: almizcle blanco, vainilla y madera de cedro
+- SUAVE Y EMBRIAGADOR: Un agua de colonia para hombres y mujeres que quieran vivir un mundo lleno de sentimiento y luminosidad. ¡Disfruta del paseo por un jardín repleto de sensaciones únicas!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT83XWF4{{</world>}}

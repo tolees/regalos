@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para regalar: Sorprende a niños y adultos con un dulce regalo creativo.
-- Diversión en familia: Crea momentos inolvidables construyendo una casita de chocolate con los tuyos.
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
 - Incluye todo lo necesario: Tabletas KitKat, figuras, Smarties, decoración y manga pastelera.
 - Fácil de montar: Sigue los pasos del embalaje y diviértete ensamblando y decorando.
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
+- Diversión en familia: Crea momentos inolvidables construyendo una casita de chocolate con los tuyos.
+- Ideal para regalar: Sorprende a niños y adultos con un dulce regalo creativo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJ8PNGRR{{</world>}}
