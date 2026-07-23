@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'L Imperatrice de Dolce & Gabbana Eau De Toilette para mujer 100 ml'
+date: 2026-07-03 20:59:20
+image: 'https://m.media-amazon.com/images/I/31uIsaoRjUL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B002Z7FVTQ-es L Imperatrice de Dolce & Gabbana Eau De Toilette para...'
+sku: 'B002Z7FVTQ-es'
+tags: [ 'de','eau','toilette','🇪🇸', ]
+actualPrice: 34.94 EUR
+currency: EUR
+price: 34.94
+comparePrice: 66.07 EUR
+prodname: 'L Imperatrice de Dolce & Gabbana Eau De Toilette para mujer 100 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B002Z7FVTQ/?tag=tolees-21'
+descuento: '47.12'
+average: '32.8028571428572'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Presentado en una sencilla botella de spray
+- Notas exóticas de sandía y kiwi
+- Un aroma vibrante y enérgico
+- El embalaje puede variar
+- Parte de la gama Anthology
+- Fragancia para mujer de Dolce & Gabbana
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B002Z7FVTQ{{</world>}}

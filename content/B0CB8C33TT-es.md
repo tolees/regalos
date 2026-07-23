@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'NESTLÉ BESTIAL MIX Surtido Bombones de chocolate con leche Estuche 187g'
+date: 2026-05-20 15:24:54
+image: 'https://m.media-amazon.com/images/I/51cx1twY80L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CB8C33TT-es NESTLÉ BESTIAL MIX Surtido Bombones de chocolate con leche...'
+sku: 'B0CB8C33TT-es'
+tags: [ 'bombones','🇪🇸', ]
+actualPrice: 4.19 EUR
+currency: EUR
+price: 4.19
+comparePrice: 5.49 EUR
+prodname: 'NESTLÉ BESTIAL MIX Surtido Bombones de chocolate con leche Estuche 187g'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CB8C33TT/?tag=tolees-21'
+descuento: '23.68'
+average: '4.83'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest Alliance
+- Para que los más jovenes también disfruten de los bombones
+- Se fabrica en La Penilla (Cantabria)
+- Surtido de 3 bombones de chocolate; dos bombones con cobertura de chocolate con leche y uno de chocolate blanco; aprox 15 bombones
+- Característico sabor a crujiente galleta Jungly y Dinosaurus
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0CB8C33TT{{</world>}}
