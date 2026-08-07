@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Dolce & Gabana Light Blue Eau de Toilette para mujeres - 100 ml'
+date: 2026-07-27 08:15:48
+image: 'https://m.media-amazon.com/images/I/21db7dY+J7L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B000XE7PV0-es Dolce & Gabana Light Blue Eau de Toilette para mujeres -...'
+sku: 'B000XE7PV0-es'
+tags: [ 'de','eau','toilette','🇪🇸', ]
+actualPrice: 42.45 EUR
+currency: EUR
+price: 42.45
+comparePrice: 94.0 EUR
+prodname: 'Dolce & Gabana Light Blue Eau de Toilette para mujeres - 100 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B000XE7PV0/?tag=tolees-21'
+descuento: '54.84'
+average: '49.4559375'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Dolce & Gabbana Light Blue Eau De Toilette 100ml Vaporizador
+- Eau de Toilette
+- Botella de 100 ml
+- Un perfume irresistible
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B000XE7PV0{{</world>}}
