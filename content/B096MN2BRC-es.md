@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
-- Colonia El Ganso con fragancia fougère cítrico para hombres
 - Vaporizador de 125ml
 - Las notas de salida son manzana, jengibre, limón y elemí; las de corazón rosa, acorde ozono y pachuli; las de fondo musgo, almizcle y vainilla
+- Colonia El Ganso con fragancia fougère cítrico para hombres
 - Ideado para ese colega que siempre da la nota siendo el último en llegar, pero viene cargado de buen rollo y dispuesto a darlo todo. El que vive cada momento como si fuera una tarde soleada y que consigue exprimir sus días al máximo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resina de piedra pintada a mano con efecto tallado de madera
+- Número de artículo: 6010872
 - Jim Shore - Tradiciones de Disney
 - Dimensiones aproximadas: altura 12 cm
+- Resina de piedra pintada a mano con efecto tallado de madera
 - Figura de punto – Envuelto en luces
-- Número de artículo: 6010872
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TKNQ9RN{{</world>}}

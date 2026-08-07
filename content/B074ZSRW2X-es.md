@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pulverizar sobre los puntos de pulso alrededor del cuerpo: cuello, escote, muñecas, tobillos.
 - Inesperada, optimista, femenina.
+- Pulverizar sobre los puntos de pulso alrededor del cuerpo: cuello, escote, muñecas, tobillos.
 - ESCADA CELEBRATE N.O.W. es generosidad y gracia;un tributo a la naturaleza de la mujer, una exquisita combinación de jengibre especiado y exuberante magnolia ensalzada con canela y vainilla. ¡Porque cada día es un precioso regalo!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La silueta central cuelga de una delicada cadena y está adornada con cristales redondos transparentes
-- Es una radiante expresión de romanticismo como ninguna otra
 - Inspirado en la flecha del amor de Cupido, este collar bañado en rodio es una elección de estilo única
+- Es una radiante expresión de romanticismo como ninguna otra
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FYQWLW5D{{</world>}}

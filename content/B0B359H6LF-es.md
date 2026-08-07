@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia intensa y aromática.
-- Eau de Toilette.
 - Inspirada en el estilo de vida activo.
 - Notas de pachulí, agujas de pino y limón.
+- Eau de Toilette.
 - Fórmula vegana.
+- Fragancia intensa y aromática.
 - Fabricado con materiales reciclados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

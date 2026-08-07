@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fragancia que nos transporta a un jardín de notas refrescantes, cítricas y florales que nos regala la naturaleza creando un aroma adecuada en cada piel
 - Con solo aplicar unos toques en las muñecas y el cuello, conseguirás que la fragancia te acompañe todo el día
 - Óptimo para uso diario gracias a su practico envase de 100 ml con vaporizador
-- Agua de colonia joven y vital con notas afrutadas para todas las edades
 - Fruit Attraction Verbena, contine propiedades tonificantes y un intenso aroma floral a verbena natural, que persiste en la piel por su elevada concentración de aceites esenciales
+- Fragancia que nos transporta a un jardín de notas refrescantes, cítricas y florales que nos regala la naturaleza creando un aroma adecuada en cada piel
+- Agua de colonia joven y vital con notas afrutadas para todas las edades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DQRJLKF{{</world>}}

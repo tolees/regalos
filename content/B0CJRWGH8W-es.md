@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Posibilidades infinitas de exhibición: perfecta para tu escritorio, estantería o colección. Su diseño llamativo y poses dinámicas la convierten en el centro de atención
-- Tu personaje favorito: ¿Siempre has querido tu propio Shrek? ¡Estás de suerte! Con esta encantadora figura lo tendrás para todo el año
-- Construye tu aventura: cada set Countdown Character convierte tu colección en una experiencia interactiva. Ensambla una nueva pieza cada día hasta completar la figura
 - Artesanía de alta calidad: diseñada con cuidado por Numskull, con detalles precisos y colores vibrantes. Fabricada con materiales resistentes para durar muchos años
 - Montaje ecológico y sin complicaciones: piezas que se encajan fácilmente, sin necesidad de pegamento. El embalaje ecológico también sirve como caja expositora
+- Tu personaje favorito: ¿Siempre has querido tu propio Shrek? ¡Estás de suerte! Con esta encantadora figura lo tendrás para todo el año
+- Construye tu aventura: cada set Countdown Character convierte tu colección en una experiencia interactiva. Ensambla una nueva pieza cada día hasta completar la figura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJRWGH8W{{</world>}}

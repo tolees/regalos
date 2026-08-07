@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cilantro, menta / Lavanda / Ámbar
-- Experimente Cool Water Eau de Toilette para Hombre de Davidoff. Descubra la fragancia marina original para hombre, inspirada en el frescor del océano. Cool Water, la esencia aromática de la vitalidad, el poder y la seducción masculinas.
 - Pulveriza en los puntos de pulso de todo el cuerpo: cuello, escote, muñecas y tobillos para aumentar la intensidad de la fragancia.
+- Experimente Cool Water Eau de Toilette para Hombre de Davidoff. Descubra la fragancia marina original para hombre, inspirada en el frescor del océano. Cool Water, la esencia aromática de la vitalidad, el poder y la seducción masculinas.
+- Cilantro, menta / Lavanda / Ámbar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0009OAHC8{{</world>}}

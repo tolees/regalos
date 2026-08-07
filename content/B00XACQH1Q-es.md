@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bombones especialmente pensados para regalar, con caja roja siempre quedas bien en cualquier celebración
 - 100% cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan, certificado UTZ
-- Nestlé caja roja se fabrica en la penilla (cantabria), con leche fresca recogida diariamente en la cornisa cantábrica
-- Los bombones Caja Roja son Ideales para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho
 - Estuche nestlé caja roja, con 11 variedades distintas de bombones
+- Los bombones Caja Roja son Ideales para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho
+- Bombones especialmente pensados para regalar, con caja roja siempre quedas bien en cualquier celebración
+- Nestlé caja roja se fabrica en la penilla (cantabria), con leche fresca recogida diariamente en la cornisa cantábrica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XACQH1Q{{</world>}}

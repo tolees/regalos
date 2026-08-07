@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 - Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
 - Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
-- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 - Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

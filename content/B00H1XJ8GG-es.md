@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuidarse y sentirse bien nunca había sido tan fácil.
-- EUPHORIA edp vapo 160 ml
 - Los mejores productos de higiene para tu día a día.
+- EUPHORIA edp vapo 160 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00H1XJ8GG{{</world>}}
