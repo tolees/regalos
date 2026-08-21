@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una sensación románticamente provocativa para mujeres seguras de sí mismas
 - En un primer instante, llama la atención un packaging de líneas sensuales que imitan las curvas de la silueta femenina
 - Toda una revelación en los años 90, en el que el diseñador de moda jean paul gaultier, encontró en el estilo de la cantante madonna, la musa de su inspiración
+- Una sensación románticamente provocativa para mujeres seguras de sí mismas
 - Un icono en el tocador de belleza de la mujer moderna classique es una fragancia irresistiblemente atractiva, que supuso un “antes y un después” en el universo de la perfumería
 - esta es una fragancia sensual y sofisticada, que ofrece un primer instante travieso y envolvente de notas florales y afrutadas de azahar, mandarina, anís estrellado, pera, rosa y bergamota
 

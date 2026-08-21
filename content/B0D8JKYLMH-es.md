@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de usar
 - Larga duración
+- Fácil de usar
 - Uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

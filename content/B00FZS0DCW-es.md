@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un tentempié favorito para todas las edades
 - Un capricho optimo para los amantes del café
+- Un tentempié favorito para todas las edades
 - Se mantiene fresco y sabroso durante mucho tiempo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pijama de manga larga Pantalón largo
 - Colección Halloween
+- Pijama de manga larga Pantalón largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDGH9BKY{{</world>}}

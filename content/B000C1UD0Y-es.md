@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Marca: Clinique
 - Tipo de producto: Agua de perfume
 - Productos de belleza y el cuidado personal
-- Marca: Clinique
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1UD0Y{{</world>}}

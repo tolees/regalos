@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para viajes, aporta confianza inmediata.
-- Disfruta de una experiencia de elegancia con cada aplicación.
-- nan fragancia original con aroma único.
 - nan Ulric De Varens Indra Women Edp 100 Ml – Other Beauty auténtico y reconocido.
+- nan fragancia original con aroma único.
+- Disfruta de una experiencia de elegancia con cada aplicación.
+- Ideal para viajes, aporta confianza inmediata.
 - Presentación versátil de alta calidad, fácil de usar y llevar contigo.
 - La siguiente información se aplica a cada unidad del paquete
 

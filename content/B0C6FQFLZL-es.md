@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye una selección de pralines: Capricho, Alegría, Sueños, Pasión, Dulzura, Ternura, Felicidad
-- Basado en una receta de 1949, creada para ofrecer una experiencia de chocolate
 - Elaborados con cacao puro y otros ingredientes seleccionados
-- Elaborados con cacao puro y otros ingredientes seleccionados; Basado en una receta de 1949, creada para ofrecer una experiencia de chocolate; Incluye una selección de pralines: Capricho, Alegría, Sueños, Pasión, Dulzura, Ternura, Felicidad; Elaborado con cacao de fuentes sostenibles, cumpliendo con los compromisos de sostenibilidad
 - Elaborado con cacao de fuentes sostenibles, cumpliendo con los compromisos de sostenibilidad
+- Basado en una receta de 1949, creada para ofrecer una experiencia de chocolate
+- Elaborados con cacao puro y otros ingredientes seleccionados; Basado en una receta de 1949, creada para ofrecer una experiencia de chocolate; Incluye una selección de pralines: Capricho, Alegría, Sueños, Pasión, Dulzura, Ternura, Felicidad; Elaborado con cacao de fuentes sostenibles, cumpliendo con los compromisos de sostenibilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6FQFLZL{{</world>}}

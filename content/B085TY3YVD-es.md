@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido del envío: 4 vasos de whisky Villeroy & Boch La Divina (360 ml), material: cristal, color: transparente
 - Diseño sencillo que se puede combinar perfectamente con todas las colecciones, como juego ideal para otros vasos La Divina
 - Elegantes vasos de whisky de cristal de alta calidad para ocasiones elegantes, ideales también como regalo para inauguración de la casa o boda
+- Contenido del envío: 4 vasos de whisky Villeroy & Boch La Divina (360 ml), material: cristal, color: transparente
 - Se adapta perfectamente a la mano, grosor fino del borde de la boca para una agradable sensación de beber, forma de cristal que permite un desarrollo perfecto de los aromas
 - También apto para gastronomía: el cristal de alta calidad garantiza resistencia al lavavajillas y un brillo duradero
 

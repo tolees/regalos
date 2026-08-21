@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este collar de estilo atemporal, inspirado en la idea de un ‘cristal móvil’, incorpora una piedra redonda de color azul en el interior de una estructura tridimensional realzada con cristal pavé
-- Una incorporación esencial para cualquier colección personal que aportará un toque de estilo para el día a día y un brillo alegre
 - El collar incorpora un baño de rodio
+- Una incorporación esencial para cualquier colección personal que aportará un toque de estilo para el día a día y un brillo alegre
+- Este collar de estilo atemporal, inspirado en la idea de un ‘cristal móvil’, incorpora una piedra redonda de color azul en el interior de una estructura tridimensional realzada con cristal pavé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06WRPFTFH{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una única brillante piedra adorna el símbolo infinito, lo que aporta un toque brillante al diseño
-- Está compuesta por dos elementos principales: un corazón y un símbolo del infinito, entrelazados
 - Esta pulsera de Swarovski es el regalo perfecto para una mujer importante en tu vida
+- Está compuesta por dos elementos principales: un corazón y un símbolo del infinito, entrelazados
+- Una única brillante piedra adorna el símbolo infinito, lo que aporta un toque brillante al diseño
 - Esta pulsera de Swarovski, bañada en rodio, es una expresión de amor eterno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rociar una pequeña cantidad en los puntos de pulso como el cuello, muñecas y detrás de las orejas
 - Su composición fresco y oriental, aporta dulzura, toques cítricos y un aroma embriagador que evoca a la belleza
 - Una fragancia femenina cautivadora que combina notas florales, orientales y frescas, con un aroma amaderado
+- Rociar una pequeña cantidad en los puntos de pulso como el cuello, muñecas y detrás de las orejas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001BKK3LO{{</world>}}

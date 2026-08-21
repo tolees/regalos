@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- IDEAL PARA VERANO Y TIEMPO LIBRE: Perfume fresco y elegante, perfecto para el día a día, actividades al aire libre y los meses cálidos. Su estela limpia y sofisticada acompaña todo el día. Aplica sobre la nuca, detrás de las orejas y en la parte interna de codos y muñecas
-- SCALPERS: Fragancia creada por la reconocida marca Scalpers, sinónimo de estilo urbano, actitud y elegancia contemporánea desde sus inicios.
 - FRAGANCIA AMADERADA MARINA PARA HOMBRE: Perfume Scalpers hombre con un aroma fresco y sofisticado inspirado en el mar. Una colonia hombre que combina notas cítricas y marinas con maderas nobles, para el hombre aventurero y elegante
 - PIRÁMIDE OLFATIVA: Las notas de salida son aceite de pimienta rosa de Madagascar, aceite de limón italiano y aceite de cardamomo de Guatemala. Las notas de corazón incluyen madera flotante, lavanda y acorde marino. Las notas de fondo son ámbar gris, vetiver y musgo de roble
 - TENDENCIA OLFATIVA: Eau de Parfum de la familia olfativa amaderada marina. Sigue la tendencia de fragancias masculinas que fusionan frescura acuática con profundidad amaderada, ideal para hombres que buscan un aroma versátil y distinguido
+- IDEAL PARA VERANO Y TIEMPO LIBRE: Perfume fresco y elegante, perfecto para el día a día, actividades al aire libre y los meses cálidos. Su estela limpia y sofisticada acompaña todo el día. Aplica sobre la nuca, detrás de las orejas y en la parte interna de codos y muñecas
+- SCALPERS: Fragancia creada por la reconocida marca Scalpers, sinónimo de estilo urbano, actitud y elegancia contemporánea desde sus inicios.
 - REGALO PERFECTO PARA HOMBRE: Formato vaporizador de 125 ml. Un regalo premium para cumpleaños, Navidad o Día del Padre. Yacht Club: la fragancia que captura la libertad del mar con elegancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

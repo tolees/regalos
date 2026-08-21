@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta pulsera de cadena bañada en tono oro rosa presenta un divertido motivo de oso de peluche adornado con cristal rosa Pointiage y un charm en forma de corazón de color rosa
 - Llévala con el collar a juego para completar el conjunto
+- Esta pulsera de cadena bañada en tono oro rosa presenta un divertido motivo de oso de peluche adornado con cristal rosa Pointiage y un charm en forma de corazón de color rosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BL7BKSYS{{</world>}}

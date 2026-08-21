@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un placer único para disfrutar
-- Su increíble sabor animó incluso a los soldados de la primera guerra mundial, perfecto para calendarios de adviento chocolate.
 - Es el snack ideal para cualquier momento del día, suave, esponjoso...¡No lo querrás compartir!
 - Su chocolate está importado directamente de Inglaterra, dándole un toque especial, que te embriagará.
+- Su increíble sabor animó incluso a los soldados de la primera guerra mundial, perfecto para calendarios de adviento chocolate.
+- Un placer único para disfrutar
 - Deliciosa barra de chocolate con leche rellena de una esponjosa crema de turrón y suave caramelo, ideal para regalo de navidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

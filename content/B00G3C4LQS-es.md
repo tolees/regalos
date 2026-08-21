@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CALVIN KLEIN CK One Shock Eau de Toilette para hombre | Fragancia masculina fresca con notas de lavanda pachulí y mandarina | Atemporal y de larga duración | 100ml'
-date: 2026-08-13 18:06:22
+date: 2026-08-20 08:28:55
 image: 'https://m.media-amazon.com/images/I/31QNonfWbnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00G3C4LQS-es CALVIN KLEIN CK One Shock Eau de Toilette para hombre |...'
 sku: 'B00G3C4LQS-es'
 tags: [ 'de','eau','toilette','🇪🇸', ]
-actualPrice: 25.59 EUR
+actualPrice: 18.65 EUR
 currency: EUR
-price: 25.59
+price: 18.65
 comparePrice: 78.0 EUR
 prodname: 'CALVIN KLEIN CK One Shock Eau de Toilette para hombre | Fragancia masculina fresca con notas de lavanda pachulí y mandarina | Atemporal y de larga duración | 100ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G3C4LQS/?tag=tolees-21'
-descuento: '67.19'
-average: '41.8566666666667'
+descuento: '76.09'
+average: '36.055'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona una limpieza óptima
 - Tiene una fragancia agradable
+- Proporciona una limpieza óptima
 - Aporta una agradable sensación de confort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

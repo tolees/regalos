@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estos pendientes forman parte de la familia Millenia, diseñada para la Collection III
-- Lúcelos con otras piezas de la familia Millenia para causar una gran sensación
-- Diseñado con cristales de talla cuadrada en un vibrante tono verde, este par está acabado con un refinado engaste bañado en tono oro
 - Elegantes y llamativos, estos pendientes serán tu nuevo accesorio favorito
+- Diseñado con cristales de talla cuadrada en un vibrante tono verde, este par está acabado con un refinado engaste bañado en tono oro
+- Lúcelos con otras piezas de la familia Millenia para causar una gran sensación
+- Estos pendientes forman parte de la familia Millenia, diseñada para la Collection III
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09WJ11WJT{{</world>}}

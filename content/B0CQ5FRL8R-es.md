@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo de 45cm + 5cm. Altura del motivo de 25mm x 19,5mm con piedra de 2,5mm.Destaca por sus detalles en PIEDRAS NATURALES TURMALINA que pasan por un proceso de tallado y pulido que las hace especiales. Son únicas por su dureza, resistencia, brillo y belleza. Su color puede variar ligeramente por ser naturales.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal. El color del estuche puede variar y el color que te toque será cosa del destino, ¡esperamos que te encante!
-- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material resistente al agua.
+- Largo de 45cm + 5cm. Altura del motivo de 25mm x 19,5mm con piedra de 2,5mm.Destaca por sus detalles en PIEDRAS NATURALES TURMALINA que pasan por un proceso de tallado y pulido que las hace especiales. Son únicas por su dureza, resistencia, brillo y belleza. Su color puede variar ligeramente por ser naturales.
 - Un collar de medallón en forma de sol con piedras naturales turmalina en tonos cálidos como el rosa. Luce este clásico colgante con estilo moderno.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
+- Fabricada en ACERO INOXIDABLE BAÑADA EN ORO 18KT. El acero inoxidable es un material resistente al agua.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQ5FRL8R{{</world>}}

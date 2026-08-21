@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un acorde de muguete, la flor favorita de Christian Dior, con una frescura vegetal.
 - La nueva eau de parfum Miss Dior es un soplo de optimismo y de vida, un eco a la esencia misma de Miss Dior. Floridas y frescas, las notas olfativas de Miss Dior están compuestas como un bouquet de mil flores en miles de resplandecientes colores. François Demachy, Perfumista-Creador de la Maison Dior, ha querido crear para esta fragancia una rosa iridiscente iluminada por una infinidad de toques frescos y florales.
+- Un acorde de muguete, la flor favorita de Christian Dior, con una frescura vegetal.
 - Una rosa centifolia con una deliciosa untuosidad, que hace latir el corazón de Miss Dior.
 - El icónico lazo couture de Miss Dior, con un excepcional savoir-faire artesanal que transforma cada cinta bordada en una pieza única, es una auténtica creación de alta costura.
 

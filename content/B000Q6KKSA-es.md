@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia amaderada con matices florales
 - Adecuada para día o noche
 - Tonificante y cálida, una fragancia distinta, fiel al ADN de CK
+- Fragancia amaderada con matices florales
 - Olor intenso y duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
