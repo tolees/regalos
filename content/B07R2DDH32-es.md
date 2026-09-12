@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Crossmen Eau de Toilette para Hombre - 200 ml'
+date: 2026-08-17 14:53:24
+image: 'https://m.media-amazon.com/images/I/31x0CqEdXXL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07R2DDH32-es Crossmen Eau de Toilette para Hombre - 200 ml'
+sku: 'B07R2DDH32-es'
+tags: [ 'de','eau','toilette','🇪🇸', ]
+actualPrice: 8.02 EUR
+currency: EUR
+price: 8.02
+comparePrice: 11.41 EUR
+prodname: 'Crossmen Eau de Toilette para Hombre - 200 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07R2DDH32/?tag=tolees-21'
+descuento: '29.71'
+average: '7.27381443298968'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Crossmen, la colonia de toda la vida
+- Un perfume clásico con aroma fresco y perdurable
+- Eau de toilette para hombre - 200 ml
+- Perfecto para el hombre seductor y original
+- En la nota de entrada, el pomelo, la bergamota y la piña proporcionan una agradable frescura
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07R2DDH32{{</world>}}
