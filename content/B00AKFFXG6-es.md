@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ROBERTO CAVALLI REDEFINIDO: Una auténtica oda a una nueva generación que se atreve a ser libre, salvaje, apasionada.; en definitiva, Just Cavalli
 - EXPRÉSATE: Lanza un mensaje atrevido; el eau de toilette Just Cavalli se ha creado para las almas rebeldes que marcan tendencia y experimentan con los límites de la moda
-- DISEÑO MODERNO: Su elegante frasco combina tonos opacos y translúcidos en dorado; el tapón con escamas de serpiente en oro hará destacar este perfume en tu colección
 - FRAGANCIA SENSUAL: Diseñado para encarnar la sensualidad femenina y crear una atracción magnética, el perfume para mujer Just Cavalli es adecuado para mujeres aventureras
+- DISEÑO MODERNO: Su elegante frasco combina tonos opacos y translúcidos en dorado; el tapón con escamas de serpiente en oro hará destacar este perfume en tu colección
+- ROBERTO CAVALLI REDEFINIDO: Una auténtica oda a una nueva generación que se atreve a ser libre, salvaje, apasionada.; en definitiva, Just Cavalli
 - FRAGANCIA PARA MUJER: Esta fragancia estalla con un aroma exótico de neroli y azahar, seguido de unas notas florales de tiaré de Tahití, envueltas en palisandro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

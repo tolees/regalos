@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este exquisito collar Tennis complementa a la perfección a las piezas de la colección Una Angelic de Swarovski
 - La pieza, que brilla en cristal transparente y metal con baño de rodio en acabado pulido, es ideal para ocasiones especiales y perfecta como regalo
+- Este exquisito collar Tennis complementa a la perfección a las piezas de la colección Una Angelic de Swarovski
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00SJEO2QC{{</world>}}

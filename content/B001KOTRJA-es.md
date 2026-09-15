@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca - Tom Ford
 - Tipo de producto - Agua de perfume
+- Marca - Tom Ford
 - Producto pensado para mujeres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

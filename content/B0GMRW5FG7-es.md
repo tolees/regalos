@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Trío de madera de cedro
 - Acuerdo de manzana
+- Trío de madera de cedro
 - Acorde de azafrán
 
 [🛒 Visítala!!!]({{< param buyurl >}})

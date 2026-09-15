@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Presentación compacta de alta calidad, fácil de usar y llevar contigo.
 - Ideal para viajes, aporta confianza inmediata.
-- LATTAFA perfume duradero con aroma único.
 - Disfruta de una experiencia de frescura con cada aplicación.
+- LATTAFA perfume duradero con aroma único.
 - LATTAFA Lattafa Oud Mood Elixir Eau De Parfum 100Ml Spray – Other Beauty auténtico y reconocido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

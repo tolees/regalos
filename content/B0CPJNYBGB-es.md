@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ANEL PANDORA, PRATA 925 marca PANDORA
 - referencia 192993C10-50
 - Anillo marca PANDORA
+- ANEL PANDORA, PRATA 925 marca PANDORA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPJNYBGB{{</world>}}

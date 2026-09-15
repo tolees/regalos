@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Una selección de mini bombones surtidos
 - Creatividad, pasión y talento combinados en deliciosos momentos de chocolate
+- Una selección de mini bombones surtidos
 - A partir de cacao puro de la mejor calidad y los mejores ingredientes
+- Conservar en lugar fresco y seco
 - Adecuada para tener el detalle perfecto con tus seres queridos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

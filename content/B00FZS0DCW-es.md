@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un capricho optimo para los amantes del café
-- Se mantiene fresco y sabroso durante mucho tiempo
 - Un tentempié favorito para todas las edades
+- Se mantiene fresco y sabroso durante mucho tiempo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FZS0DCW{{</world>}}
