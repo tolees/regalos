@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido del envío: 1x Swarovski Colgante Swan, con Swarovski Zirconia y Dancing Stone, tallas mixtas, baño de rodio, blanco, incl. embalaje de Swarovski
-- Diseñado para perdurar en el tiempo: las joyas Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
-- Un abrazo brillante: la pieza central cuelga de una cadena ajustable bañada en rodio con cierre de mosquetón, ofreciendo un ajuste seguro y cómodo
 - Medidas: largo ajustable 38 - 7 cm, tamaño del motivo 1,7 x 1,4 cm
 - Emblema eterno: el colgante Swarovski Swan es una pieza elegante que transmite el grácil movimiento de su icono más emblemático: el logotipo del cisne
+- Un abrazo brillante: la pieza central cuelga de una cadena ajustable bañada en rodio con cierre de mosquetón, ofreciendo un ajuste seguro y cómodo
 - Cisne radiante: el motivo central está adornado con Swarovski Zirconia y con una Dancing Stone transparente tallada en forma de cuerpo de cisne, creando un movimiento infinito de luz y color
+- Contenido del envío: 1x Swarovski Colgante Swan, con Swarovski Zirconia y Dancing Stone, tallas mixtas, baño de rodio, blanco, incl. embalaje de Swarovski
+- Diseñado para perdurar en el tiempo: las joyas Swarovski lucen por sí solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XLCZYXN{{</world>}}

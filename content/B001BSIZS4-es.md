@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - REGALO PERFECTO PARA MUJER: Este perfume de Tous es ideal para regalar en cumpleaños, San Valentín, Día de la Madre o Navidad; diseño atractivo que combina lujo y feminidad.
-- TENDENCIA OLFATIVA: Fragancia de mujer con equilibrio perfecto entre frescura y sofisticación, ideal para quienes buscan un perfume duradero que acompañe todo el día sin resultar pesado.
 - FRAGANCIA FLORAL AFRUTADA: Descubre Tous Touch The Original Gold, un perfume de mujer inspirado en la colección Duna de Tous; una alianza seductora entre el oro amarillo y la piel.
 - PERFUME VERSÁTIL: Ideal como perfume mujer diario o para ocasiones especiales; su aroma elegante y femenino se adapta a cualquier momento y estación del año.
+- TENDENCIA OLFATIVA: Fragancia de mujer con equilibrio perfecto entre frescura y sofisticación, ideal para quienes buscan un perfume duradero que acompañe todo el día sin resultar pesado.
 - PIRÁMIDE OLFATIVA: Notas de salida: flor de loto, freesia, lirio del valle. Notas de corazón: jazmín de Sambac, osmanthus, flor de tiaré. Notas de fondo: flor de vainilla, almendra, miel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

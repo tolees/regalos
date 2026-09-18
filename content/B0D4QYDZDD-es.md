@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una representación del amor eterno para regalar a quienes más amamos
 - Este diseño, que incorpora una delicada cadena, presenta un aro en forma de corazón adornado con brillante pavé transparente, unido a un símbolo del infinito bañado en rodio
+- Una representación del amor eterno para regalar a quienes más amamos
 - Los símbolos del amor y el infinito se unen en este elegante collar de Swarovski
 
 [🛒 Comprar!!!]({{< param buyurl >}})

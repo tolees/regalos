@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un exquisito acorde de macaroon Isphahan rosado y afrutado desvela una sofisticada firma amaderada almizclada con toques ambarinos
-- El elegante frasco rectangular se inspira en el estilo contemporáneo
-- Prêt à Porter, The Fashion Collection, PARIS Eau de Parfum para mujer, 100ml
-- Emprende un viaje global por la moda con la Fashion Collection de Prêt à Porter: ¿qué ciudad visitarás primero?
 - Una fragancia seductora que evoca el romanticismo de la ciudad de la luz
+- Emprende un viaje global por la moda con la Fashion Collection de Prêt à Porter: ¿qué ciudad visitarás primero?
+- El elegante frasco rectangular se inspira en el estilo contemporáneo
+- Un exquisito acorde de macaroon Isphahan rosado y afrutado desvela una sofisticada firma amaderada almizclada con toques ambarinos
+- Prêt à Porter, The Fashion Collection, PARIS Eau de Parfum para mujer, 100ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCW5NS15{{</world>}}

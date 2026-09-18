@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene 100 ml.
-- Las notas olfativas principales de este producto son especiado y cítrico.
-- Este producto está indicado para hombres.
 - De la marca Calvin Klein.
+- Contiene 100 ml.
+- Este producto está indicado para hombres.
+- Las notas olfativas principales de este producto son especiado y cítrico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VOLKEA{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El luminoso diseño está bañado en rodio y presenta una colorida gradación de cristales en talla octogonal y un cierre de mosquetón
 - Este collar Millenia Tennis, con múltiples tonos azules hipnotizantes, contiene al menos un 30% de Swarovski ReCreated crystals, nuestros cristales más sostenibles hasta la fecha
+- El luminoso diseño está bañado en rodio y presenta una colorida gradación de cristales en talla octogonal y un cierre de mosquetón
 - Se trata de una pieza que combinaría a la perfección con una pulsera Tennis o un anillo a juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

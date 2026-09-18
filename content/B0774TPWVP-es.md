@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Familia olfativa: cítrica, especiada y frutal
-- Tipo: sensual y cautivadora
 - Notas de salida: bergamota, pimienta rosa, frambuesa
+- Tipo: sensual y cautivadora
+- Familia olfativa: cítrica, especiada y frutal
 - Notas de corazón: violeta, azahar, fresia, peonía
 - Para: ella
 

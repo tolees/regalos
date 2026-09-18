@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Objeto decorativo
 - No es un juguete
-- En esta figura cristalizada, Swarovski rinde homenaje al legendario superhéroe con un diseño coleccionable que presenta 523 facetas y distintos toques metálicos
-- No apto para menores de 15 años
 - Cada detalle ha sido expertamente tallado para revelar los elementos característicos de Thor, desde su llamativa capa roja hasta su martillo inmensamente destructivo, Mjolnir
 - Su posición de combate resulta dinámica y poderosa, y muestra la maestría de Swarovski incluso en las tallas más elaboradas
+- En esta figura cristalizada, Swarovski rinde homenaje al legendario superhéroe con un diseño coleccionable que presenta 523 facetas y distintos toques metálicos
+- No apto para menores de 15 años
 - Thor, dios del trueno, es uno de los personajes más reconocibles y poderosos de Marvel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

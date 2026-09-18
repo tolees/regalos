@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ✅【Duración prolongada】Diseñado para durar, este perfume ofrece una fragancia que perdura a lo largo del día, manteniendo su frescura y encanto.
 - ✅【Notas de fondo】la fragancia se asienta en una base cálida y cremosa de vainilla, sándalo y almizcle, que deja una estela suave y elegante.
-- ✅【Perfume original importado de Dubái, E.A.U】Este perfume es 100% original y ha sido importado directamente desde Dubái, Emiratos Árabes Unidos, asegurando que se trata de una fragancia auténtica y de lujo.
+- ✅【Notas de salida】una apertura fresca y chispeante con mandarina, heliotropo y orquídea que aportan dulzura luminosa desde el primer instante.
 - ✅【Fragancia femenina y encantadora】pensada para mujeres que disfrutan de aromas dulces con un toque floral y tropical.
 - ✅【Notas de corazón】un bouquet envolvente de tropicales, frutas jugosas y flores blancas, que crean un carácter femenino y adictivo.
-- ✅【Notas de salida】una apertura fresca y chispeante con mandarina, heliotropo y orquídea que aportan dulzura luminosa desde el primer instante.
-- ✅【Duración prolongada】Diseñado para durar, este perfume ofrece una fragancia que perdura a lo largo del día, manteniendo su frescura y encanto.
 - ✅【Ideal para cualquier ocasión】Diseñado para brillar tanto en eventos especiales como en el día a día, ofreciendo un equilibrio perfecto entre dulzura y elegancia.
+- ✅【Perfume original importado de Dubái, E.A.U】Este perfume es 100% original y ha sido importado directamente desde Dubái, Emiratos Árabes Unidos, asegurando que se trata de una fragancia auténtica y de lujo.
 - ✅【Presentación ideal para regalo】frasco elegante de 50 ml con diseño sofisticado, perfecto para sorprender a alguien especial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lavanda
-- Cilantro, Menta
 - Ámbar
+- Cilantro, Menta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FRF637DS{{</world>}}
