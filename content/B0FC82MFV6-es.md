@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- fruta Maninka
 - Deseable, masculina, memorable
 - Jengibre
-- fruta Maninka
 - Acordes de cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las Notas de Salida son naranja, hojas de violeta, toronja (pomelo) rosada, rosa y tamarindo
 - Las Notas de Corazón son fresia, magnolia, nuez moscada, cardamomo y pimienta negra
+- Las Notas de Salida son naranja, hojas de violeta, toronja (pomelo) rosada, rosa y tamarindo
 - La siguiente información se aplica a cada unidad del paquete
 - Eau de Toilette para mujer 50 ml
 - Fragancia de la familia olfativa Oriental Floral

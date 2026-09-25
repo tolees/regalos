@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para el cuidado de tu piel
 - Sencillo de aplicar
 - Producto de belleza
+- Adecuado para el cuidado de tu piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JBBPSHY{{</world>}}

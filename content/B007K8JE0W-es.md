@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Fruity Rhythm Eau de Toilette para Mujer - 75 ml'
-date: 2026-09-19 18:06:43
+date: 2026-09-25 17:07:51
 image: 'https://m.media-amazon.com/images/I/31LNC-vHxJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B007K8JE0W/?tag=tolees-21'
 descuento: '24.36'
-average: '7.1882857142857'
+average: '7.16567567567566'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

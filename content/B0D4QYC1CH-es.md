@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta pieza es un anillo de banda
 - Esta pieza está diseñada para la colección FW24
+- Esta pieza es un anillo de banda
 - Esta pieza es parte de la Familia Hipérbola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

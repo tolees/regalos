@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la marca Jo Malone
 - De la marca: Jo Malone
-- Oler bien
+- De la marca Jo Malone
 - Producto de alta calidad
+- Oler bien
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074WK9CG8{{</world>}}

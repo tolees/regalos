@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fórmula rica en hidratación
-- NOTAS DE SALIDA: Bergamota, Melón, Durazno, Osmanto
 - NOTAS DE CORAZÓN: Jazmín, Ciclamino
 - NOTAS DE FONDO: Sándalo, Musgo
+- NOTAS DE SALIDA: Bergamota, Melón, Durazno, Osmanto
 - Enriquecido con frutas frescas y brillantes y flores ricas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las notas de fondo son haba tonka, pachulí, opopónaco, vainilla, vetiver y almizcle blanco
 - Las notas de corazón son mimosa, jazmín, rosa turca y ylang-ylang
-- Las notas de salida son naranja, mandarina, flor de azahar del naranjo y bergamota
 - Es una fragancia de la familia olfativa chipre floral para mujeres
+- Las notas de salida son naranja, mandarina, flor de azahar del naranjo y bergamota
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VOMUHG{{</world>}}

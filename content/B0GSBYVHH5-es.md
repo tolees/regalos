@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SINGULARU Collar Mujer Carmesí Acero Baño Oro'
-date: 2026-09-18 11:21:00
+date: 2026-09-24 22:24:20
 image: 'https://m.media-amazon.com/images/I/21AvRxxcKtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

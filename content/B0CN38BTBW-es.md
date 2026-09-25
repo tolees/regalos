@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Objeto decorativo
-- Thor, dios del trueno, es uno de los personajes más reconocibles y poderosos de Marvel
 - Cada detalle ha sido expertamente tallado para revelar los elementos característicos de Thor, desde su llamativa capa roja hasta su martillo inmensamente destructivo, Mjolnir
-- En esta figura cristalizada, Swarovski rinde homenaje al legendario superhéroe con un diseño coleccionable que presenta 523 facetas y distintos toques metálicos
 - No es un juguete
+- Thor, dios del trueno, es uno de los personajes más reconocibles y poderosos de Marvel
+- Objeto decorativo
 - No apto para menores de 15 años
+- En esta figura cristalizada, Swarovski rinde homenaje al legendario superhéroe con un diseño coleccionable que presenta 523 facetas y distintos toques metálicos
 - Su posición de combate resulta dinámica y poderosa, y muestra la maestría de Swarovski incluso en las tallas más elaboradas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

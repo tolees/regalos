@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para aquellas mujeres en un oasis de tranquilidad y libres de preocupaciones
-- Las notas de salida son mandarina verde y peonía; las de corazón son rosa y jazmín; las de fondo son sándalo y almizcle
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Colonia Tous con fragancia floral para mujeres
 - Vaporizador de 90ml
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Las notas de salida son mandarina verde y peonía; las de corazón son rosa y jazmín; las de fondo son sándalo y almizcle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01H1R1UTO{{</world>}}

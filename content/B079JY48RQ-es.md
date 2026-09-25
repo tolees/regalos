@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- The Nun es una película de terror gótico sobrenatural de Warner Bros sobre una monja demonio y un sacerdote que descubren un secreto impío en 2952 Rumania. Perfecto para fiestas de Halloween o truco o trato, este disfraz de monja está un poco más en el lado oscuro y puede verte dirigiéndote directamente al infierno en lugar de elevarte al cielo.
 - Para adultos a partir de 14 años. Talla única, por la seguridad de los niños todos nuestros disfraces son testeados bajo BS EN-71 estandar de seguridad cumpliendo las normativas europeas exigidas
 - Máscara moldeada The Nun con detalles impresos semejantes a los del personaje de la película con tocado de monja adjunto en negro con ribetes blancos
+- The Nun es una película de terror gótico sobrenatural de Warner Bros sobre una monja demonio y un sacerdote que descubren un secreto impío en 2952 Rumania. Perfecto para fiestas de Halloween o truco o trato, este disfraz de monja está un poco más en el lado oscuro y puede verte dirigiéndote directamente al infierno en lugar de elevarte al cielo.
 - Adecuado para ocasiones como bodas, año nuevo, sesión de fotos, gran fiesta, cumpleaños, propuesta, desfile, Navidad y Halloween
 
 [🛒 Aquí!!!]({{< param buyurl >}})

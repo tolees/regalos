@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 - Fabricada en LATÓN BAÑADA EN ORO 18KT. El latón es un material perfecto para las amantes de las joyas resistentes y fáciles de limpiar. Son perfectas para el día a día. Acabada con un baño de oro de 18kt, eso significa que de cada 24 partes de la aleación 18 son oro y el resto se compone de otros metales que añaden estabilidad, dureza y un brillo inigualable.
-- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 - Un collar de lo más dulce. El Collar Sweet Heart bañado en Oro de 18kt es fino e ideal para las chicas amantes del rosa. Llévalo con tu estilo coquette.
+- ¡Se incluirá únicamente un estuche en el pedido! Nuestro estuche es genial para poder guardar tus joyas tanto en casa, como cuando te vayas de viaje, utilízalo como tu mini joyero personal.
 - Largo de 40cm + 5cm. Altura motivo de cuarzo rosa de 10mm x 12.5mm.Destaca por sus detalles en PIEDRAS NATURALES que pasan por un proceso de tallado y pulido que las hace especiales. Són únicas por su dureza, resistencia, brillo y belleza.
+- CUIDADOS : Para que todas tus joyas estén relucientes como el primer día, es importante que las limpies de manera regular. Para ello, utiliza un paño suave para devolverles su brillo. Frota la pieza suavemente con el paño y posteriormente enjuaga tu pieza con agua tibia. Además, te recomendamos que las mantengas alejadas del calor del sol, del agua, o que entren en contacto con productos químicos como cosméticos para el cabello, perfumes o colonias.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWRXBP2F{{</world>}}

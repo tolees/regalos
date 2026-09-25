@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- fruta de la pasión
 - leche de coco
+- fruta de la pasión
 - flor de ylang ylang
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desde su creación en 1989, DKNY se inspira en Nueva York capturando toda la energía y actitud de la ciudad. Cada perfume de la marca refleja un espíritu tan divertido como ecléctico.
 - Las notas de fondo de cedro y almizcle envuelven la piel con una elegancia duradera, símbolo de la fuerza y sofisticación de la ciudad que nunca duerme.
+- La loción corporal complementa la fragancia, aportando hidratación y prolongando la duración del perfume sobre la piel, para una experiencia sensorial envolvente.
 - Déjate llevar por el pulso vibrante de Times Square con una explosión eléctrica de pimienta rosa, seguida de un corazón de rosa en flor que refleja la diversidad urbana.
 - El set DKNY 24/7 incluye Eau de Parfum de 100 ml, formato viaje de 15 ml y loción corporal de 100 ml. Una experiencia floral amaderada que captura el ritmo vibrante de Nueva York.
-- La loción corporal complementa la fragancia, aportando hidratación y prolongando la duración del perfume sobre la piel, para una experiencia sensorial envolvente.
+- Desde su creación en 1989, DKNY se inspira en Nueva York capturando toda la energía y actitud de la ciudad. Cada perfume de la marca refleja un espíritu tan divertido como ecléctico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSXQMHGZ{{</world>}}

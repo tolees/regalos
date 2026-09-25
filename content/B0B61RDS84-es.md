@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- altura:156-170; pecho: 97-88, cintura:75-75
 - L (8-10 años)
+- altura:156-170; pecho: 97-88, cintura:75-75
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B61RDS84{{</world>}}
