@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - AROMA DE MUJER: Amichi presenta un aroma dulce, con llamativos tonos florales, te ayudará a evocar la esencia de los paseos a media tarde por el campo. Colonias con vaporizador.
+- ESENCIA DURADERA: Esta colonia de larga duración, de fragancia fresca e intensa, y cuya esencia persiste durante horas en la piel, te acompañará a lo largo del día sin perder su aroma.
 - PIRÁMIDE OLFATIVA: Notas de salida: coco y especias verdes; Notas de corazón: floral, transparente, jazmín de sambac y rosa tuberosa; Notas de fondo: azahar, lábdanum, madera y vainilla.
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral. Es ideal para aquellas personas que buscan un olor juvenil, limpio y alegre.
-- ESENCIA DURADERA: Esta colonia de larga duración, de fragancia fresca e intensa, y cuya esencia persiste durante horas en la piel, te acompañará a lo largo del día sin perder su aroma.
 - FEMENINO Y EXÓTICO: un perfume para mujeres modernas que, gracias a su aroma especiado, te transporta a un jardín primaveral en pleno florecimiento. ¡Disfruta de las sensaciones más agradables que te da la naturaleza!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

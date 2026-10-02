@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: multicolor
-- ¡Si buscas calidad al mejor precio no sigas buscando!
-- Medidas: 3,5 x 6,6 x 15,5 centímetros
 - Producto de belleza de la marca Dolce & Gabbana
+- Medidas: 3,5 x 6,6 x 15,5 centímetros
+- Color: multicolor
 - Referencia: S05110953
+- ¡Si buscas calidad al mejor precio no sigas buscando!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4154YNK{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dolce & Gabbana Light Blue Eau De Toilette 100ml Vaporizador
 - Eau de Toilette
+- Dolce & Gabbana Light Blue Eau De Toilette 100ml Vaporizador
 - Botella de 100 ml
 - Un perfume irresistible
 

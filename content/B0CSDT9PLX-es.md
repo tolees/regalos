@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: Plata de ley
-- Acabado: Pulido
 - Color: Oro
+- Acabado: Pulido
 - Tipo de cierre: Poste
+- Material: Plata de ley
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSDT9PLX{{</world>}}

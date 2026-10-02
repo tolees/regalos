@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Davidoff Cool Water Eau de Toilette para Mujer'
-date: 2026-09-13 16:51:46
+date: 2026-09-30 03:52:26
 image: 'https://m.media-amazon.com/images/I/31QNsgk6AaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GVK76YW2-es Davidoff Cool Water Eau de Toilette para Mujer'
 sku: 'B0GVK76YW2-es'
 tags: [ 'de','eau','toilette','🇪🇸', ]
-actualPrice: 40.0 EUR
+actualPrice: 22.9 EUR
 currency: EUR
-price: 40.0
-comparePrice: 87.0 EUR
+price: 22.9
+comparePrice: 37.0 EUR
 prodname: 'Davidoff Cool Water Eau de Toilette para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GVK76YW2/?tag=tolees-21'
-descuento: '54.02'
-average: '40.0'
+descuento: '38.11'
+average: '34.3'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

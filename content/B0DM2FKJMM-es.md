@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Las notas medias son rosa y musgo del bosque
-- La siguiente información se aplica a cada unidad del paquete
 - Las notas de salida son flores, geranio rosa y jazmín
-- Adecuado para uso personal y también para regalar
 - Las notas de fondo son sándalo, musgo de roble y almizcle
+- La siguiente información se aplica a cada unidad del paquete
+- Adecuado para uso personal y también para regalar
 - Perfume para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

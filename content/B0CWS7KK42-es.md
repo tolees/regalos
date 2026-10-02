@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ESENCIA DURADERA: Esta colonia de larga duración, de fragancia fresca e intensa, y cuya esencia persiste durante horas en la piel, te acompañará a lo largo del día sin perder su aroma.
-- FRAGANCIA ÚNICA: Amichi presenta un aroma exótico y edénico, con exquisitos tonos cítricos, te ayudará a evocar la esencia de los jardines repletos de flores de naranjo en pleno florecimiento. Colonias con vaporizador.
+- PIRÁMIDE OLFATIVA: Notas de salida: cítricos; Notas de corazón: flor de naranjo, jazmín y lirio; Notas de fondo: ámbar, madera y almizcle.
 - FEMENINO Y EXÓTICO: un perfume para mujeres modernas que, gracias a su aroma cítrico, te transporta a un colorido y dinámico destino exótico. ¡Disfruta de las sensaciones más agradables que te da la naturaleza!
 - TENDENCIA OLFATIVA: cítrico. Es ideal para aquellas personas que buscan un olor juvenil, limpio y alegre.
-- PIRÁMIDE OLFATIVA: Notas de salida: cítricos; Notas de corazón: flor de naranjo, jazmín y lirio; Notas de fondo: ámbar, madera y almizcle.
+- FRAGANCIA ÚNICA: Amichi presenta un aroma exótico y edénico, con exquisitos tonos cítricos, te ayudará a evocar la esencia de los jardines repletos de flores de naranjo en pleno florecimiento. Colonias con vaporizador.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWS7KK42{{</world>}}

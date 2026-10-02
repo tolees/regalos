@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula rica en hidratación
+- Enriquecido con frutas frescas y brillantes y flores ricas
 - NOTAS DE SALIDA: Bergamota, Melón, Durazno, Osmanto
 - NOTAS DE CORAZÓN: Jazmín, Ciclamino
-- Enriquecido con frutas frescas y brillantes y flores ricas
 - NOTAS DE FONDO: Sándalo, Musgo
+- Fórmula rica en hidratación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVZBXYV1{{</world>}}
