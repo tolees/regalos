@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Merch para fans y divertido
 - ¡Funko Pop! con las siguientes características:
-- Animación, Disney, Fan merch, Navidades, Película, Princesas, Regalos, Series TV
 - ¡Un auténtico destacado para tu casa!
+- Animación, Disney, Fan merch, Navidades, Película, Princesas, Regalos, Series TV
 - Tu artículo favorito de EMP!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

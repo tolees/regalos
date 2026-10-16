@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de producto - Agua de perfume
-- Marca - Tom Ford
 - Producto pensado para mujeres
+- Marca - Tom Ford
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001KOTRJA{{</world>}}

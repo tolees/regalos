@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jengibre
-- Deseable, masculina, memorable
-- fruta Maninka
 - Acordes de cuero
+- fruta Maninka
+- Deseable, masculina, memorable
+- Jengibre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC82MFV6{{</world>}}

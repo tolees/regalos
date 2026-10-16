@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- transparente
 - Talla 54
-- Plata de ley
 - Circonita cúbica
+- Plata de ley
+- transparente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CND92DF1{{</world>}}

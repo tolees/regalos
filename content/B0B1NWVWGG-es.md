@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Diseñados con cristales talla octogonal en un versátil tono blanco, este par está acabado con un elegante engaste bañado de rodio
 - Estos pendientes forman parte de la familia Millenia, diseñada para la Collection III
-- Estos pendientes elegantes son un complemento atemporal para tus atuendos de diario
 - Lúcelos con otras piezas de la familia Millenia para causar una gran sensación
+- Estos pendientes elegantes son un complemento atemporal para tus atuendos de diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1NWVWGG{{</world>}}

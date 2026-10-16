@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plancha de gofres decorativa para disfrutar de un mini gofre recién hecho (Ø 10 cm), mini panqueques y pequeñas tortitas
 - Producto de calidad
+- Plancha de gofres decorativa para disfrutar de un mini gofre recién hecho (Ø 10 cm), mini panqueques y pequeñas tortitas
 - Óptimo para niños o como un pequeño bocadillo entre comidas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

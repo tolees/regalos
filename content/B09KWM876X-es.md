@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñados con una silueta única transversal, estos pendientes de aro presentan un diseño de lazo que envuelve el lóbulo de la oreja para mostrar un baño de rodio en un lado y cristal pavé transparente en el otro
 - Rebosan una sutil sofisticación y son una elección versátil
+- Diseñados con una silueta única transversal, estos pendientes de aro presentan un diseño de lazo que envuelve el lóbulo de la oreja para mostrar un baño de rodio en un lado y cristal pavé transparente en el otro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KWM876X{{</world>}}

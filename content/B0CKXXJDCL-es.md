@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Otros detalles
+- - Producto: Cadena de cuello
+- Material
 - Piedra
 - - Tipo de piedra: Circón
-- - Producto: Cadena de cuello
-- Otros detalles
-- Material
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXXJDCL{{</world>}}

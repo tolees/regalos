@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- - Embalaje: Embalaje Original con Documentos
-- Piedra
 - - Producto: Cadena de cuello
 - Material
+- - Embalaje: Embalaje Original con Documentos
+- Piedra
 - Otros detalles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Objeto decorativo
-- No apto para menores de 15 años
-- Hazte con este héroe de coleccionista y siente el poder al instante
-- Esta deslumbrante figura ha sido tallada con precisión con un excelente nivel de experiencia técnica para rendir homenaje a este legendario personaje en su versión cristalizada
 - Su diseño dinámico presenta 382 facetas, y cada una de ellas nos revela los rasgos más reconocibles del Capitán América, incluido su indestructible escudo, conocido por estar hecho de escaso vibranio
 - El Capitán América es el superhéroe definitivo, todo un ejemplo de lealtad, fuerza y resistencia
+- Hazte con este héroe de coleccionista y siente el poder al instante
+- No apto para menores de 15 años
+- Esta deslumbrante figura ha sido tallada con precisión con un excelente nivel de experiencia técnica para rendir homenaje a este legendario personaje en su versión cristalizada
+- Objeto decorativo
 - No es un juguete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estos pendientes Matrix son una versión única y contemporánea del estilo de aro clásico
-- Cada pieza está bañada en rodio y adornada con Swarovski Zirconia y Swarovski Crystal Pearls alternadas
 - Son una declaración de sofisticación que transformarán cualquier atuendo ordinario en extraordinario
+- Cada pieza está bañada en rodio y adornada con Swarovski Zirconia y Swarovski Crystal Pearls alternadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLGYBN83{{</world>}}

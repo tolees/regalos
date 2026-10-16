@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luces Navidad Exterior 35M 300 LED Guirnalda Luces Exterior Multicolor'
-date: 2026-10-14 22:53:16
+date: 2026-10-16 06:42:02
 image: 'https://m.media-amazon.com/images/I/512DpsOsNgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cilantro, Menta
 - Ámbar
+- Cilantro, Menta
 - Lavanda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
