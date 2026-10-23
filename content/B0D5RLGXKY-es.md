@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Vibes Spark Up Eau de Parfum 100 ml'
-date: 2026-10-21 07:56:39
+date: 2026-10-22 08:33:28
 image: 'https://m.media-amazon.com/images/I/31RN1R2OAcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D5RLGXKY/?tag=tolees-21'
 descuento: '49.22'
-average: '10.0283333333333'
+average: '10.0457142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

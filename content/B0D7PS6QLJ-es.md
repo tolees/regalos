@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '12 hojas de calcomanías de ventana de Halloween de gran tamaño decoraciones de murciélagos arañas vampiros y brujas calcomanías para ventanas de Halloween'
-date: 2026-10-20 18:55:23
+date: 2026-10-22 07:57:06
 image: 'https://m.media-amazon.com/images/I/51p4FjJ4rpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acorde de ámbar
 - Agua de coco
+- Acorde de ámbar
 - Green Mandarin
 
 [🛒 Aquí!!!]({{< param buyurl >}})

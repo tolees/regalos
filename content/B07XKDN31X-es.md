@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Máscara de terror LED rojo - como de Purge con 3 efectos de luz controlable para Halloween como disfraz para hombres y mujeres'
-date: 2026-10-16 15:02:16
+date: 2026-10-22 08:00:28
 image: 'https://m.media-amazon.com/images/I/41n2c2nxb7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKDN31X/?tag=tolees-21'
 descuento: '22.66'
-average: '11.105'
+average: '11.01'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

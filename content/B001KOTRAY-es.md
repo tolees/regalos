@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este producto está indicado para mujeres.
-- De la marca Paco Rabanne.
 - Contiene 80 ml.
 - Las notas olfativas principales de este producto son amaderado, especiado, floral y afrutado.
+- De la marca Paco Rabanne.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001KOTRAY{{</world>}}

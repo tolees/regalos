@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Swarovski Pulsera Tennis Angelic Talla redonda Pequeña Blanca Baño de rodio'
-date: 2026-10-13 01:22:47
+date: 2026-10-22 04:13:51
 image: 'https://m.media-amazon.com/images/I/21Zq2enWc1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00P9L2NVO-es Swarovski Pulsera Tennis Angelic Talla redonda Pequeña...'
 sku: 'B00P9L2NVO-es'
 tags: [ 'swarovski','🇪🇸', ]
-actualPrice: 117.45 EUR
+actualPrice: 115.92 EUR
 currency: EUR
-price: 117.45
+price: 115.92
 comparePrice: 179.0 EUR
 prodname: 'Swarovski Pulsera Tennis Angelic Talla redonda Pequeña Blanca Baño de rodio'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P9L2NVO/?tag=tolees-21'
-descuento: '34.39'
-average: '106.370312500002'
+descuento: '35.24'
+average: '106.932058823531'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

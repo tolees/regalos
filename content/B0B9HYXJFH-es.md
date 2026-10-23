@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este par cuenta con piedras brillantes rodeadas de pavé y acabadas con un engaste bañado en tono oro rosa
 - El epítome de la elegancia, estos discretos pendientes son Una Angelic pieza auténtica y fundamental
+- Este par cuenta con piedras brillantes rodeadas de pavé y acabadas con un engaste bañado en tono oro rosa
 - Combínalos con otras piezas de la familia Una Angelic para conseguir un estilo soñador
 
 [🛒 Comprar!!!]({{< param buyurl >}})

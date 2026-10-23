@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'SINGULARU Pendientes Mujer Shelly Perla Acero Baño Oro'
-date: 2026-09-26 08:26:13
+title: 'SINGULARU Pendientes Mujer Shelly Perla Acero Baño Oro | Acero resistente al agua con baño de Oro de 18kt y perla cultivada.'
+date: 2026-10-22 12:27:37
 image: 'https://m.media-amazon.com/images/I/21EVlcbPscL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0H2F3G43J-es SINGULARU Pendientes Mujer Shelly Perla Acero Baño Oro'
+slug: 'B0H2F3G43J-es SINGULARU Pendientes Mujer Shelly Perla Acero Baño Oro |...'
 sku: 'B0H2F3G43J-es'
 tags: [ 'singularu','🇪🇸', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
-prodname: 'SINGULARU Pendientes Mujer Shelly Perla Acero Baño Oro'
+prodname: 'SINGULARU Pendientes Mujer Shelly Perla Acero Baño Oro | Acero resistente al agua con baño de Oro de 18kt y perla cultivada.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''

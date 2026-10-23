@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de cierre: Anillo de resorte
-- Color plata
 - Acabado: Pulido
+- Color plata
+- Tipo de cierre: Anillo de resorte
 - Material: Plata de ley
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

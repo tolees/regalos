@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabado: pulido
 - Material: plata de ley
 - Tipo de cierre: cierre de mosquetón
 - Color: tono oro rosa
+- Acabado: pulido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C4G54FH7{{</world>}}

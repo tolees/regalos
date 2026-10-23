@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AGOTD Guirnalda Luces Cadena de Luces 6M 40 LED 2 Modos Bateria Cargada blanca cálida Decorativas Guirnaldas Luminosas para exteriores interiores jardines casas bodas Navidad 2 modos'
-date: 2026-10-21 07:14:41
+date: 2026-10-22 10:54:36
 image: 'https://m.media-amazon.com/images/I/51igbfLytxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

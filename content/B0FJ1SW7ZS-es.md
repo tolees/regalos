@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tanga
 - Xmas Red Collection
+- Tanga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FJ1SW7ZS{{</world>}}

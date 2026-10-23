@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material
+- Otros detalles
 - - Título del Metal / Tipo de Metal: 925-Sterling
 - - Fabricante: Pandora
-- Otros detalles
 - - Producto: Pulsera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

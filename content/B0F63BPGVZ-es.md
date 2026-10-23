@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Swarovski Pulsera Una Angelic con Hilera de Cristales Azules en Talla Redonda y Pavé Transparente Colección Una Angelic Baño en Rodio Azul'
-date: 2026-10-14 19:59:32
-image: 'https://m.media-amazon.com/images/I/319JpU4YqXL._SL500_._SL400_.jpg'
+date: 2026-10-23 10:26:41
+image: 'https://m.media-amazon.com/images/I/21hdoeCVx1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
