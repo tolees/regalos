@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hugo Deep Red Eau de Parfum para Mujer | Perfume floral y especiado con clementina naranja sanguina flor de jengibre y vainilla fragancia sensual y atrevida.'
-date: 2026-10-26 19:26:51
+date: 2026-10-29 12:14:24
 image: 'https://m.media-amazon.com/images/I/31IiDofz9QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FQCNKYW4/?tag=tolees-21'
 descuento: '27.04'
-average: '29.5388888888889'
+average: '28.8045454545455'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

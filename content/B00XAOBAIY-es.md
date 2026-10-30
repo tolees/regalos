@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nestlé Caja Roja bombones de chocolate con leche lata 250g | bombones de chocolate con leche en lata ideal para compartir o regalar'
-date: 2026-10-28 15:55:45
+date: 2026-10-30 09:13:27
 image: 'https://m.media-amazon.com/images/I/41jAzMoUvwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAOBAIY/?tag=tolees-21'
 descuento: '49.75'
-average: '9.163125'
+average: '9.14533057851239'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

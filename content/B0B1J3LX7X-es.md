@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfumes y fragancias Vetiver - Eau de Toilette 100 ml de Guerlain
 - Los productos de la marca Guerlain están fabricados con ingredientes de la mejor calidad.
+- Perfumes y fragancias Vetiver - Eau de Toilette 100 ml de Guerlain
 - Productos de Perfumes y fragancias para Hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

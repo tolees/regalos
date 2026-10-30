@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✔ Edición especial de aniversario con dos Eau de Parfum de 100 ml cada uno.
 - ✔ Diseño elegante, perfecto para regalar o coleccionar.
+- ✔ Edición especial de aniversario con dos Eau de Parfum de 100 ml cada uno.
 - ✔ Aromas duraderos y sofisticados, ideales para el día y la noche.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prêt à Porter, The Fashion Collection, PARIS Eau de Parfum para mujer, 100ml
-- Una fragancia seductora que evoca el romanticismo de la ciudad de la luz
 - Emprende un viaje global por la moda con la Fashion Collection de Prêt à Porter: ¿qué ciudad visitarás primero?
+- Una fragancia seductora que evoca el romanticismo de la ciudad de la luz
+- Prêt à Porter, The Fashion Collection, PARIS Eau de Parfum para mujer, 100ml
 - Un exquisito acorde de macaroon Isphahan rosado y afrutado desvela una sofisticada firma amaderada almizclada con toques ambarinos
 - El elegante frasco rectangular se inspira en el estilo contemporáneo
 

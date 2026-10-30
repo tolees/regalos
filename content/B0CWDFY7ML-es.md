@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FASCHINFEVER Capa roja y negra con capucha – para Halloween carnaval y disfraz de vampiro para niños y adultos ambos lados'
-date: 2026-10-28 10:51:30
+date: 2026-10-29 16:10:28
 image: 'https://m.media-amazon.com/images/I/41xLeM1O1OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CWDFY7ML/?tag=tolees-21'
 descuento: '42.89'
-average: '8.94'
+average: '8.7025'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

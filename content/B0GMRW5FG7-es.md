@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acuerdo de manzana
-- Trío de madera de cedro
 - Acorde de azafrán
+- Trío de madera de cedro
+- Acuerdo de manzana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GMRW5FG7{{</world>}}

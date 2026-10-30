@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de piel: normal
 - Para el cabello: normal
+- Tipo de piel: normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BVO9L8G{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neqraxis 2 Piezas Hoja de Arce Luz Cadenas 3M 20LED Luces Decorativas de Halloween Luz de Cuerda de Luces para Fiestas de Otoño Guirnalda de otoño para acción de Gracias Navidad'
-date: 2026-10-28 22:42:17
+date: 2026-10-30 17:25:01
 image: 'https://m.media-amazon.com/images/I/51DyPH5Ex4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

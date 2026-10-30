@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mino Plus Terrifier Mascarilla 3D Halloween Terrifier Art con sombrero para Halloween Fiesta Cosplay de Carnaval Unisexo Mask'
-date: 2026-10-28 08:04:03
+date: 2026-10-29 15:18:34
 image: 'https://m.media-amazon.com/images/I/41ouzgSy6kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

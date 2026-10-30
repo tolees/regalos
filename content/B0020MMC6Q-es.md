@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para ocasiones especiales, aporta beneficio inmediata.
-- nan perfume premium con calidad garantizada.
 - Presentación compacta de alta calidad, fácil de usar y llevar contigo.
+- nan perfume premium con calidad garantizada.
+- Ideal para ocasiones especiales, aporta beneficio inmediata.
 - nan Armani Diamonds Homme Et 75 Vp – Other Beauty auténtico y reconocido.
 - Disfruta de una experiencia de frescura con cada aplicación.
 

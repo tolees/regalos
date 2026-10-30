@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HappyKidsClub Personalizados Regalo Niña 5-12 Años Regalo Navidad Niña Kit de Creación de Bolígrafoscon 66+ PCS Manualidades Niños 5-12 Años Juguetes 5 6 7 8 9 10 Años'
-date: 2026-10-28 07:18:36
+date: 2026-10-29 12:43:15
 image: 'https://m.media-amazon.com/images/I/51Aa+G2FpXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FB8HNJY6/?tag=tolees-21'
 descuento: '24.85'
-average: '13.6'
+average: '13.58'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
