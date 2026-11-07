@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels Calendario de Adviento 2026 | Con 10 vehículos a escala 1:64 14 accesorios invernales y 10 clips para adornos JLG41'
-date: 2026-11-05 08:04:30
+date: 2026-11-06 13:28:55
 image: 'https://m.media-amazon.com/images/I/51x5FP4SViL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

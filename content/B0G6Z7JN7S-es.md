@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tacobey Guirnalda Luces Exterior Solar 10m 100LED Cadena de Luce | Temporizador 8 Modos IP65 Impermeable LED Luces Navidad para Terraza Fiestas Bodas Jardines Arbol Decoracion Blanco Cálido'
-date: 2026-11-01 20:33:22
+date: 2026-11-07 08:33:15
 image: 'https://m.media-amazon.com/images/I/511TgXI5JEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fragancia para mujer de Dolce & Gabbana
-- El embalaje puede variar
-- Parte de la gama Anthology
 - Notas exóticas de sandía y kiwi
+- El embalaje puede variar
 - Presentado en una sencilla botella de spray
+- Fragancia para mujer de Dolce & Gabbana
+- Parte de la gama Anthology
 - Un aroma vibrante y enérgico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

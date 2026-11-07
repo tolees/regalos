@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piedra
 - Otros detalles
 - - Producto: Cadena de cuello
+- Piedra
 - - Embalaje: Embalaje Original con Documentos
 - Material
 

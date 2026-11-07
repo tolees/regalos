@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Swarovski Pendientes de botón Attract Talla redonda Blancos Baño de rodio'
-date: 2026-10-07 22:23:45
+date: 2026-11-06 12:34:44
 image: 'https://m.media-amazon.com/images/I/31vRWjF44rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

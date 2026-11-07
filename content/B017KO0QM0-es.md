@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Familia olfativa: floral frutal
-- Notas de salida: bergamota, mandarina y ylang-ylang
 - Notas de corazón: peonía, frambuesa y osmanto
+- Notas de salida: bergamota, mandarina y ylang-ylang
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B017KO0QM0{{</world>}}

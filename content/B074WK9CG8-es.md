@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto de alta calidad
 - De la marca: Jo Malone
 - De la marca Jo Malone
-- Producto de alta calidad
 - Oler bien
 
 [🛒 Aquí!!!]({{< param buyurl >}})

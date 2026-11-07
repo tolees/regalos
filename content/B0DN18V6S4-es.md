@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tema: Amor
 - Marca: Pandora
+- Tema: Amor
 - Estilo: Charm
 - Color: Dorado
 
