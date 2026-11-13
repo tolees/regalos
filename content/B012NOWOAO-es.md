@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Hugo Boss-boss
 - Tipo de producto: Agua de colonia
+- Marca: Hugo Boss-boss
 - Productos de belleza y el cuidado personal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

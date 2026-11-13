@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentación compacta de alta calidad, fácil de usar y llevar contigo.
 - LATTAFA Lattafa Perfumes Emaan Eau De Parfum 100Ml Spray – Other Beauty auténtico y reconocido.
+- Presentación compacta de alta calidad, fácil de usar y llevar contigo.
 - Disfruta de una experiencia de frescura con cada aplicación.
 - Ideal para ocasiones especiales, aporta comodidad inmediata.
 - LATTAFA fragancia premium con aroma único.

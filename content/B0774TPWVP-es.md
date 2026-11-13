@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Notas de corazón: violeta, azahar, fresia, peonía
 - Notas de salida: bergamota, pimienta rosa, frambuesa
 - Tipo: sensual y cautivadora
+- Notas de corazón: violeta, azahar, fresia, peonía
 - Familia olfativa: cítrica, especiada y frutal
 - Para: ella
 

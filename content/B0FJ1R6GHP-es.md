@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensualidad y comodidad
 - Tirantes ajustables
+- Sensualidad y comodidad
 - Tacto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

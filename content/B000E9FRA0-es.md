@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos de belleza e higiene personal para hombres y mujeres de todas las edades
 - Nombre de la fragancia: Fleuri
+- Productos de belleza e higiene personal para hombres y mujeres de todas las edades
 - La belleza más deseada a tu alcance con los mejores productos del mercado al mejor
 - Un jardin sur le nil edt vapo 50 ml
 

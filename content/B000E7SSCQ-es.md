@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Familia olfativa: Cítrica.
 - Notas de corazón: rosa de té, espadaña, lirio de los valles, caña de azúcar y canela.
 - Notas de salida: naranja, toronja, grosella roja y limón.
-- Familia olfativa: Cítrica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000E7SSCQ{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La fragancia contiene notas orientales, notas amaderadas, notas especiadas
-- Su aroma es amaderado y especiado
-- Es una fragancia de la familia olfativa aromática
 - El perfume inconfundible, masculino y tradicional
+- Es una fragancia de la familia olfativa aromática
+- Su aroma es amaderado y especiado
 - Eau de Toilette para hombre 1 l
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

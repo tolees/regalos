@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vaporizador de 90ml
 - Para aquellas mujeres en un oasis de tranquilidad y libres de preocupaciones
+- Vaporizador de 90ml
 - Colonia Tous con fragancia floral para mujeres
 - Las notas de salida son mandarina verde y peonía; las de corazón son rosa y jazmín; las de fondo son sándalo y almizcle
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
