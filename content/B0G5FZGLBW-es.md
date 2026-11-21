@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fragancia fougère verde
 - Fragancia Eau de Toilette UEFA GOAL 100 ml
 - Eau de Toilette 100 ml
-- La siguiente información se aplica a cada unidad del paquete
-- Fragancia inspirada para los amantes del fútbol
-- Fragancia fougère verde
 - Para hombre
+- Fragancia inspirada para los amantes del fútbol
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5FZGLBW{{</world>}}

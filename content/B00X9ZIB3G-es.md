@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sugus Caramelos Masticables Frutas Surtidas Chuches Navidad 1kg | Caramelos Blandos Con Zumo De Fruta: caramelos blanditos para Regalos Originales y Calendario de Adviento Navidad'
-date: 2026-11-19 11:30:33
+date: 2026-11-21 15:33:07
 image: 'https://m.media-amazon.com/images/I/51BfFTEVCrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9ZIB3G/?tag=tolees-21'
 descuento: '42.13'
-average: '8.6346153846153833'
+average: '8.6026829268292655'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

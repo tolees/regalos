@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un look clásico perfecto para adornar los atuendos de diario
-- Está cubierto con reluciente pavé que crea un vívido espectáculo de destellos, y lleva una piedra blanca más grande y en forma de gota, además de piedras redondas y cuadradas que rematan cada extremo del brazalete
 - Un look atemporal para ti: este brazalete de Swarovski es un gran ejemplo de diseño atemporal
+- Está cubierto con reluciente pavé que crea un vívido espectáculo de destellos, y lleva una piedra blanca más grande y en forma de gota, además de piedras redondas y cuadradas que rematan cada extremo del brazalete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088MFVKZQ{{</world>}}

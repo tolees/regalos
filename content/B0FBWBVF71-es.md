@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Govee Christmas Sparkle String Lights 30M Control por Aplicación con Alexa | Decoraciones Navideñas para Interiores Luces RGBWIC de con 375 LEDs Más de 140 Modos de Escena'
-date: 2026-11-16 10:37:02
+date: 2026-11-20 21:27:47
 image: 'https://m.media-amazon.com/images/I/51+pF8OntlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca: Estee Lauder
 - Producto de alta calidad
 - Oler bien
+- De la marca: Estee Lauder
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071P6D6RR{{</world>}}

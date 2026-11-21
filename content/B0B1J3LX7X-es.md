@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Productos de Perfumes y fragancias para Hombre
 - Los productos de la marca Guerlain están fabricados con ingredientes de la mejor calidad.
+- Productos de Perfumes y fragancias para Hombre
 - Perfumes y fragancias Vetiver - Eau de Toilette 100 ml de Guerlain
 
 [🛒 Visítala!!!]({{< param buyurl >}})

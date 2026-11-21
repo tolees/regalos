@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tipo: sensual y cautivadora
+- Notas de corazón: violeta, azahar, fresia, peonía
+- Para: ella
 - Familia olfativa: cítrica, especiada y frutal
 - Notas de salida: bergamota, pimienta rosa, frambuesa
-- Notas de corazón: violeta, azahar, fresia, peonía
-- Tipo: sensual y cautivadora
-- Para: ella
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0774TPWVP{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad óptima
 - Adecuado para regalar
+- Producto de calidad óptima
 - Fragancia elegante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

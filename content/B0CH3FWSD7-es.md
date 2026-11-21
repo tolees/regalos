@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecto para el hombre seductor y original
-- La siguiente información se aplica a cada unidad del paquete
-- Crossmen, la colonia de toda la vida
 - En la nota de entrada, el pomelo, la bergamota y la piña proporcionan una agradable frescura
+- Crossmen, la colonia de toda la vida
+- La siguiente información se aplica a cada unidad del paquete
 - Eau de toilette para hombre - 200 ml
+- Perfecto para el hombre seductor y original
 - Un perfume clásico con aroma fresco y perdurable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

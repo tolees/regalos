@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - PRODUCTO SURTIDO: SE ENVIARÁ MODELO ALEATORIAMENTE
 - Adorables peluches súper suaves de 20cm
-- ¡Son 4 modelos diferentes, colecciónalos todos!
 - Con un tacto de nube, perfecto para apapachar.
+- ¡Son 4 modelos diferentes, colecciónalos todos!
 - Tus squishmallows ahora con tus personajes favoritos de la pelicula Night Before Christmas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

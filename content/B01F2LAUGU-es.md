@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUGO BOSS Bottled Eau de Toilette para hombre 200ml'
-date: 2026-11-19 18:54:29
+date: 2026-11-20 22:31:36
 image: 'https://m.media-amazon.com/images/I/31xWjfxUhQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F2LAUGU/?tag=tolees-21'
 descuento: '16.22'
-average: '60.912727272727345'
+average: '60.200000000000067'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Swarovski Pulsera Tennis Angelic Talla redonda Pequeña Blanca Baño de rodio'
-date: 2026-11-19 05:16:19
+date: 2026-11-20 21:26:18
 image: 'https://m.media-amazon.com/images/I/31Z8O4+A0bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P9L2NVO/?tag=tolees-21'
 descuento: '46.72'
-average: '106.48815789473827'
+average: '105.93225000000136'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
