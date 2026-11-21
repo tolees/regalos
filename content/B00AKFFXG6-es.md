@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'JUST CAVALLI Eau de Toilette para Mujer Fragancia Exótica Fresca 90 ml | Aroma floral cremoso con notas de neroli flor de tiare y palisandro ideal para el uso diario.'
+date: 2026-11-20 05:45:31
+image: 'https://m.media-amazon.com/images/I/31svj0uRCNL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00AKFFXG6-es JUST CAVALLI Eau de Toilette para Mujer Fragancia Exótica...'
+sku: 'B00AKFFXG6-es'
+tags: [ 'de','eau','toilette','🇪🇸', ]
+actualPrice: 23.95 EUR
+currency: EUR
+price: 23.95
+comparePrice: 29.9 EUR
+prodname: 'JUST CAVALLI Eau de Toilette para Mujer Fragancia Exótica Fresca 90 ml | Aroma floral cremoso con notas de neroli flor de tiare y palisandro ideal para el uso diario.'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B00AKFFXG6/?tag=tolees-21'
+descuento: '19.90'
+average: '23.94666666666668'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B00AKFFXG6{{</world>}}
