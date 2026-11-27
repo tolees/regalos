@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kedoxi Luces Árbol Navidad con Anillo 16 Cuerdas 400 LEDs Xmas String Lights con Temporizador Fácil Instalar Cortina Navidad Luz de Árbol de Hadas 8 Modo para Decoración Abeto Navidad Blanco Cálido'
-date: 2026-11-21 22:38:57
+date: 2026-11-27 11:02:37
 image: 'https://m.media-amazon.com/images/I/61vVxIJDTPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

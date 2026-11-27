@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revise el símbolo PAO
 - Fragancia personal
+- Revise el símbolo PAO
 - Agradable sensación en la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

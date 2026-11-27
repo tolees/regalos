@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SINGULARU Pendientes Mujer Samba Acero Baño Oro | Pendientes de acero con baño de oro de 18kt ideales para el día a día con cierre click y diseño de aros midi ovalados.'
-date: 2026-11-24 07:51:27
+date: 2026-11-26 17:47:31
 image: 'https://m.media-amazon.com/images/I/21yGNaSpEVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D7J4TJKH/?tag=tolees-21'
 descuento: '35.94'
-average: '7.5559090909091093'
+average: '7.5056521739130604'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

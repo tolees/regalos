@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Talla 54
-- transparente
 - Plata de ley
+- transparente
 - Circonita cúbica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

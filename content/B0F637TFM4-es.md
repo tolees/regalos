@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Swarovski Collar Una Angelic Talla redonda Azul Baño de rodio'
-date: 2026-11-18 23:22:51
+date: 2026-11-26 14:30:56
 image: 'https://m.media-amazon.com/images/I/21+WKKIyBsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F637TFM4/?tag=tolees-21'
 descuento: '56.87'
-average: '150.34714285714216'
+average: '143.95249999999939'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

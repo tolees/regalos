@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SINGULARU - Collar Dots L Black Enamel. Acero con Acabado Baño de Oro de 18Kt. Cadena de Largo Ajustable 40 cm. Joyas para Mujer'
-date: 2026-11-23 23:13:06
+date: 2026-11-26 11:36:58
 image: 'https://m.media-amazon.com/images/I/21jhzAc2CYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CMV4NV3H/?tag=tolees-21'
 descuento: '43.02'
-average: '15.5575'
+average: '15.41111111111111'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

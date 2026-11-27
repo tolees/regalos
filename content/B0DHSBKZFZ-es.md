@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SINGULARU - Pulsera Double Crystal Summer - Pulseras en Acero con Acabado en Baño Oro de 18Kt - Pulsera con Detalles en Cristales de Colores - Largo de 21 cm - Joyas Para Mujer'
-date: 2026-11-23 23:15:39
+date: 2026-11-27 07:50:43
 image: 'https://m.media-amazon.com/images/I/31qGI9LM5-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSBKZFZ/?tag=tolees-21'
 descuento: '46.32'
-average: '13.665000000000001'
+average: '13.223333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

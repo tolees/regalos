@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se presenta en el emblemático frasco de BOSS Bottled, con un radiante acabado en laca azul, un reluciente tapón negro y un logotipo plateado estampado en caliente Una fragancia masculina duradera ideal para cualquier ocasión
 - El Eau de Parfum para hombre BOSS Bottled Striking Lavender es una fragancia herbácea vibrante y amaderada diseñada para comenzar el día Esta fragancia para hombre presenta una fusión dinámica de esencia de lavanda blanca y azul para crear notas de salida radiantes y vigorizantes Anclado en un terroso acorde de musgo, este Eau de Parfum para hombre aporta una sensación fresca y potente
+- Se presenta en el emblemático frasco de BOSS Bottled, con un radiante acabado en laca azul, un reluciente tapón negro y un logotipo plateado estampado en caliente Una fragancia masculina duradera ideal para cualquier ocasión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GGHQYMCG{{</world>}}

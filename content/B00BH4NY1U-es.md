@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOUS Man 100 ml Eau de Toilette oriental afrutada amaderada para hombre | Fragancia con vaporizador.'
-date: 2026-11-24 06:42:41
+date: 2026-11-26 19:33:21
 image: 'https://m.media-amazon.com/images/I/313VM3vuilL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BH4NY1U/?tag=tolees-21'
 descuento: '16.67'
-average: '28.33515151515148'
+average: '28.429714285714255'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

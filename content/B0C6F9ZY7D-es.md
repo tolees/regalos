@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DKNY Be Delicious 100% Pure New York Eau de Parfum Perfume Floral 50 ml'
-date: 2026-11-20 07:11:44
+date: 2026-11-26 23:18:21
 image: 'https://m.media-amazon.com/images/I/41Kbz18EtbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C6F9ZY7D/?tag=tolees-21'
 descuento: '18.63'
-average: '31.157200000000003'
+average: '30.567037037037039'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluso las piedras más delicadas pueden llegar a maximizar tu estilo más personal
 - Su tono verde esmeralda lleno de energía añadirá encanto a cualquier look
+- Incluso las piedras más delicadas pueden llegar a maximizar tu estilo más personal
 - Estos pendientes Chroma iluminarán tu look con un diseño bañado en tono oro, con aros mini de cristales cuadrados transparentes y una única Swarovski Zirconia con forma de pera de color verde rodeada de cristales cuadrados transparentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

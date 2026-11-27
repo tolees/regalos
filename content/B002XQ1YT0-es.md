@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de usar
 - Olor intenso
 - Este producto cumple con las normas de producción
+- Fácil de usar
 - Un producto de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aneto 100% Natural - Caldo de Navidad - caja de 6 unidades de 1L'
-date: 2026-11-22 15:29:59
+date: 2026-11-26 18:09:45
 image: 'https://m.media-amazon.com/images/I/513GwyRjVWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

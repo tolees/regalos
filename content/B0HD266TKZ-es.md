@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SINGULARU Pendientes Mujer Color Stones Acero Baño Oro | Pendientes de aro de acero bañado en oro de 18kt para llenar de brillo tus looks con cuarzo tintado natural.'
-date: 2026-11-22 22:19:34
+date: 2026-11-26 07:49:28
 image: 'https://m.media-amazon.com/images/I/21HUKrv+YUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

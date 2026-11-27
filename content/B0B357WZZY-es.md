@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con aceite esencial natural de cardamomo y mandarina.|Fórmula de larga duración y vegana.
 - Fabricado con un 25% de vidrio reciclado y el tapón con un 50% de plástico reciclado.
+- Con aceite esencial natural de cardamomo y mandarina.|Fórmula de larga duración y vegana.
 - La fragancia está construida con notas de limón, cáscara de fruta verde, amaderadas y notas de almizcle.
 - El Eau de Toilette Adidas Victory League es una fragancia vibrante y especiada.
 
